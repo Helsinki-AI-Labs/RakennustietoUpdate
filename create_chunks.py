@@ -1,9 +1,8 @@
 import os
 import time
 import json
-from unstructured_client import UnstructuredClient
-from unstructured_client.models import shared, operations
-from unstructured_client.models.errors import SDKError
+from google.api_core.client_options import ClientOptions
+from google.cloud import documentai
 
 from helpers import check_args_and_env_vars
 
@@ -12,7 +11,10 @@ def process_pdf_file(
     relative_path: str,
     from_dir: str,
     to_dir: str,
-    client: UnstructuredClient,
+    project_id: str,
+    location: str,
+    processor_id: str,
+    processor_version: str,
 ):
     input_path = os.path.join(from_dir, relative_path)
     output_path = os.path.join(to_dir, os.path.splitext(relative_path)[0] + ".json")
@@ -25,36 +27,27 @@ def process_pdf_file(
         print(f"Skipping {relative_path} as output file already exists.")
         return 0, 1  # files_processed, files_skipped
 
-    with open(input_path, "rb") as file:
-        print(f"Processing {relative_path}...")
-        req = operations.PartitionRequest(
-            partition_parameters=shared.PartitionParameters(
-                files=shared.Files(
-                    content=file.read(),
-                    file_name=relative_path,
-                ),
-                strategy=shared.Strategy.HI_RES,
-                languages=["fin"],
-                content_type="application/pdf",
-                split_pdf_concurrency_level=15,
-            ),
-        )
-
     start_time = time.time()
     try:
-        # Update the partition call to use the keyword argument 'request'
-        res = client.general.partition(request=req)
+        document = process_document(
+            project_id,
+            location,
+            processor_id,
+            processor_version,
+            input_path,
+            "application/pdf",
+        )
         end_time = time.time()
         print(
             f"Processed {relative_path}. Time elapsed: {end_time - start_time:.2f} seconds"
         )
 
         with open(output_path, "w") as json_file:
-            json.dump([element for element in res.elements], json_file, indent=4)
+            json.dump(document.to_dict(), json_file, indent=4)
 
         return 1, 0  # files_processed, files_skipped
 
-    except SDKError as e:
+    except Exception as e:
         print(e)
         return 0, 0
 
@@ -79,6 +72,38 @@ def process_files(from_dir: str, client: UnstructuredClient, to_dir: str):
     print(
         f"All done. Processed {files_processed} files. Skipped {files_skipped} files."
     )
+
+
+def process_document(
+    project_id: str,
+    location: str,
+    processor_id: str,
+    processor_version: str,
+    file_path: str,
+    mime_type: str,
+    process_options: Optional[documentai.ProcessOptions] = None,
+) -> documentai.Document:
+    client = documentai.DocumentProcessorServiceClient(
+        client_options=ClientOptions(
+            api_endpoint=f"{location}-documentai.googleapis.com"
+        )
+    )
+
+    name = client.processor_version_path(
+        project_id, location, processor_id, processor_version
+    )
+
+    with open(file_path, "rb") as image:
+        image_content = image.read()
+
+    request = documentai.ProcessRequest(
+        name=name,
+        raw_document=documentai.RawDocument(content=image_content, mime_type=mime_type),
+        process_options=process_options,
+    )
+
+    result = client.process_document(request=request)
+    return result.document
 
 
 if __name__ == "__main__":

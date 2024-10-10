@@ -1,0 +1,3437 @@
+{
+  "documentLayout": {
+    "blocks": [{
+      "blockId": "1",
+      "textBlock": {
+        "text": "RT",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "2",
+      "textBlock": {
+        "text": "R",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "3",
+      "textBlock": {
+        "text": "POLTETUT TIILET",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "4",
+          "textBlock": {
+            "text": "Tässä ohjekortissa esitetään poltettujen tiilien mittatietoja sekä niiden laatu- ja käyttö- ominaisuuksia.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "5",
+          "textBlock": {
+            "text": "SISÄLLYSLUETTELO",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "6",
+              "textBlock": {
+                "text": "1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "7",
+              "textBlock": {
+                "text": "YLEISTÄ",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "8",
+              "textBlock": {
+                "text": "2 TIILITYYPIT",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "9",
+              "textBlock": {
+                "text": "3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "10",
+              "textBlock": {
+                "text": "4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "11",
+              "textBlock": {
+                "text": "5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "12",
+              "textBlock": {
+                "text": "6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "13",
+              "textBlock": {
+                "text": "7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "14",
+              "textBlock": {
+                "text": "SUOJAAMATON JA SUOJATTU MUURAUS",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "15",
+              "textBlock": {
+                "text": "OMINAISUUDET",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "16",
+              "textBlock": {
+                "text": "4.1 Koostumus",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "17",
+              "textBlock": {
+                "text": "4.2 Mitat",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "18",
+              "textBlock": {
+                "text": "4.3 Ulkonäkö",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "19",
+              "textBlock": {
+                "text": "4.4 Lujuusominaisuudet",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "20",
+              "textBlock": {
+                "text": "4.5 Kestävyysominaisuudet",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "21",
+              "textBlock": {
+                "text": "4.6 Palotekniset ominaisuudet",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "22",
+              "textBlock": {
+                "text": "4.7 Meluntorjunta, äänitekniset ominaisuudet",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "23",
+              "textBlock": {
+                "text": "4.8 Lämpötekniset ominaisuudet",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "24",
+              "textBlock": {
+                "text": "MUITA TEKNISIÄ OMINAISUUKSIA",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "25",
+              "textBlock": {
+                "text": "5.1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "26",
+              "textBlock": {
+                "text": "Kemialliset ominaisuudet",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "27",
+              "textBlock": {
+                "text": "5.2 Biologiset ominaisuudet 5.3 Ekologiset ominaisuudet",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "28",
+              "textBlock": {
+                "text": "CE-MERKINTÄ",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "29",
+              "textBlock": {
+                "text": "HANKΙΝΤΑ",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "30",
+              "textBlock": {
+                "text": "8 KÄYTTÖ JA YLLÄPITO",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "31",
+              "textBlock": {
+                "text": "KIRJALLISUUTTA",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "32",
+              "textBlock": {
+                "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "33",
+          "textBlock": {
+            "text": "1 YLEISTÄ",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "34",
+              "textBlock": {
+                "text": "Poltettu tiili valmistetaan savesta, johon lisätään hiekkaa, sahanpurua ja mahdollises- ti myös muita lisäaineita. Massa poltetaan riittävän korkeassa lämpötilassa keraami- sen sidoksen aikaansaamiseksi. Poltettuja tiiliä käytetään esimerkiksi kantavien ja ei- kantavien rakenteiden muuraukseen, julkisivumateriaalina, tulisijoissa, savupiipuissa ja sisustusmateriaalina.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "35",
+              "textBlock": {
+                "text": "Poltetuista tiilistä on tuotestandardi SFS-EN 771-1:2012 + A1:2015 Muurauskappaleiden spesifikaatiot. Poltetut tiilet. Poltetuista tiilistä muurattuja rakenteita on käsitelty RT-oh- jeiden ryhmässä 82 Pystyrakenteet. Valmistajakohtaisia tuotetietoja löytyy RT tietoväylä -verkkosivulta kohdasta \"RT tuotetieto\".",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "36",
+              "textBlock": {
+                "text": "Tiilirakenteita koskee",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "37",
+              "textBlock": {
+                "text": "Ympäristöministeriön asetus kantavista rakenteista 477/2014",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "38",
+              "textBlock": {
+                "text": "SFS-EN 1996 Eurokoodi 6: Muurattujen rakenteiden suunnittelu, osat 1–1, 1–2 ja osa 2 Eurokoodin 6 kansalliset liitteet.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "39",
+              "textBlock": {
+                "text": "VL/1/syyskuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020",
+                "type": "footer"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "40",
+              "textBlock": {
+                "text": "RT 103281",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "41",
+              "textBlock": {
+                "text": "OHJEKORTTI",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "42",
+              "textBlock": {
+                "text": "syyskuu 2020",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "43",
+              "textBlock": {
+                "text": "1 (8)",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "44",
+              "textBlock": {
+                "text": "korvaa RT 35-11136",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "45",
+              "textBlock": {
+                "text": "RT 103281 Poltetut tiilet",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "46",
+              "textBlock": {
+                "text": "2 TIILITYYPIT",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "47",
+                  "textBlock": {
+                    "text": "Tiilityypit luokitellaan koon ja käyttötarkoituksen mukaan.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "48",
+                  "textBlock": {
+                    "text": "Peruskokoinen täystiili (PT) on tarkoitettu lähinnä tulisijojen ja savupiippujen ala- osan muuraukseen, koska se on massiivisena runsaasti lämpöä varaava ja savilaastil- la muurattuna sallii lämpöliikkeet reikätiiltä paremmin. Siitä käytettiin aikaisemmin nimitystä hormitiili.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "49",
+                  "textBlock": {
+                    "text": "Peruskokoinen reikätiili (PRT) soveltuu sellaisenaan tulisijamuuraukseen ja sitä suo- sitellaan savupiippujen säälle alttiiden osien muuraukseen. Sitä voidaan käyttää myös julkisivuverhouksissa ja kaikissa kantavissa rakenteissa. Siitä käytettiin aikaisemmin nimitystä hormireikätiili.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "50",
+                  "textBlock": {
+                    "text": "Normaalikokoinen reikätiili (NRT) soveltuu piippujen ja tulisijojen muuraukseen. Moduulikokoinen reikätiili (MRT) soveltuu matalien, alle 3-kerroksisten rakennusten julkisivuverhouksiin. Sen lisäksi niitä käytetään ei-kantavien väliseinien muuraukseen. Reikätiilet (RT) soveltuvat korkeiden yli 2-kerroksisten rakennusten julkisivuverhouk- siin. Niitä voidaan käyttää esimerkiksi kantavien väliseinien muuraukseen (285\\times135 \\times75 mm ja 285\\times135\\times60 mm).",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "51",
+                  "textBlock": {
+                    "text": "Kennoharkot ovat joko avokennoisia, jolloin eristeenä toimii pelkästään ilma, tai per- liittitäytteisiä, jolloin eristeenä toimii vulkaanikivirouhe. Avokennoiset harkot sovel- tuvat alle 3-kerroksisten rakennusten kantavaksi seinärakenteeksi. Perliittitäytteisistä harkoista voidaan tehdä myös yli 3-kerroksisia rakennuksia. Rakenteisiin soveltuvat harkkotyypit selvitetään valmistajalta.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "52",
+                  "textBlock": {
+                    "text": "Tiililaattoja (TL) käytetään betonielementtien pinnoitukseen, mutta ne soveltuvat myös lattian- ja pihakansien päällysteiksi. Ns. sisustustiiliä käytetään seinäpintojen ver- houksiin sisätiloissa. Tiililaattoja voidaan valmistaa myös perinteistä 20 mm paksumpi- na, etenkin silloin, kun kyseessä on eläväpintainen ja hieman strukturoidumpi tiililaatta. Tulitiili on tavanomaista korkeampia lämpötiloja ja lämpötilan vaihteluita kestävä, erityissavesta ja lisäaineista polttamalla valmistettu keraaminen muurauskivi tai tu- lenkestävästä valumassasta valmistettu keraaminen muurauskivi, jota käytetään kiin- teällä polttoaineella toistuvasti lämmitettäviin tulisijoihin. Tulisijan tulipesä ja tulta vastaan olevat pinnat tehdään tulitiilistä tai tulenkestävästä valumassasta. Tulitiiliä käytetään lähinnä teollisuuslaitosten prosessiuuneissa, mutta ne soveltuvat myös tavallisten tulisijojen kuumimpiin, tulelle alttiisiin osiin. Asuinrakennusten puuläm- mitteisten tulisijojen tulipesät muurataan yleensä taloustulitiilillä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "53",
+                  "textBlock": {
+                    "text": "Runkotiili. Ohutsaumamuuraustekniikalla muurattavaa runkotiiltä käytetään kanta- vien ja ei-kantavien seinien muuraukseen. Runkotiilet ovat yleensä pontattuja. Muototiilet ovat esimerkiksi kulmastaan viistettyjä tai pyöristettyjä. Niitä käytetään mm. aukkojen pielissä, nurkissa ja julkisivuissa.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "54",
+                  "textBlock": {
+                    "text": "Tiilipalkit ovat aukon ylityksiin tarkoitettuja betonivahvisteisia raudoitettuja palkke- ja. Valmistajan on ilmoitettava, täyttävätkö muurauskappaleet P-tiilien vai U-tiilien vaatimukset.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "55",
+                  "textBlock": {
+                    "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "56",
+                  "textBlock": {
+                    "text": "3",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "57",
+              "textBlock": {
+                "text": "SUOJAAMATON JA SUOJATTU MUURAUS",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "58",
+                  "textBlock": {
+                    "text": "Suojaamaton muuraus",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "59",
+                      "textBlock": {
+                        "text": "Suojaamaton muuraus voi altistua sateelle, jäätymiselle tai sulamiselle. Se voi olla myös kosketuksissa maaperään tai pohjaveteen. Ulkoseinämuuraus voi olla täysin suojaamaton tai aiotussa käyttötarkoituksessa osittain suojattu (esimerkiksi ohuella rappauskerroksella). Se on joko kantava tai ei-kantava rakenne.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "60",
+                      "textBlock": {
+                        "text": "Suojaamattomassa muurauksessa käytetään poltettua U-tiiltä (unprotected).",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "61",
+                  "textBlock": {
+                    "text": "Suojattu muuraus",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "62",
+                      "textBlock": {
+                        "text": "Suojattu muuraus ei altistu vedelle eikä ole kosketuksissa maaperään tai pohjaveteen. Se voi olla joko kantava tai ei-kantava rakenne, kuten",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "63",
+                      "textBlock": {
+                        "text": "ulkoseinämuuraus, joka on suojattu esimerkiksi sopivalla rappauskerroksella tai verhouksella",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "64",
+                      "textBlock": {
+                        "text": "rakoseinän sisämuuri tai",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "65",
+                      "textBlock": {
+                        "text": "sisäseinä.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "66",
+                      "textBlock": {
+                        "text": "Suojatussa muurauksessa käytetään poltettua P-tiiltä (protected).",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "67",
+                      "textBlock": {
+                        "text": "VL/1/syyskuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020",
+                        "type": "footer"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "68",
+                      "textBlock": {
+                        "text": "ohjekortti - 2",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "69",
+                      "textBlock": {
+                        "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "70",
+                      "textBlock": {
+                        "text": "RT 103281 Poltetut tiilet",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "71",
+                  "textBlock": {
+                    "text": "4 OMINAISUUDET",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "72",
+                      "textBlock": {
+                        "text": "ohjekortti - 3",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "73",
+                      "textBlock": {
+                        "text": "Lape",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "74",
+                      "textBlock": {
+                        "text": "Pituus",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "75",
+                      "textBlock": {
+                        "text": "Leveys",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "76",
+                      "textBlock": {
+                        "text": "Muuratuissa rakenteissa käytettävien poltettujen tiilien ominaisuudet ilmoitetaan tuotestandardin SFS-EN 771-1 mukaisella CE-merkinnällä lukuun ottamatta tulitiiliä. Näiden ominaisuuksien on täytettävä soveltamisstandardissa SFS 7001 Muuratuille tuotteille eri käyttökohteissa vaadittavat ominaisuudet ja niille asetetut vaatimustasot sekä poltetuille tiilille esitetyt kansalliset vaatimustasot.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "77",
+              "textBlock": {
+                "text": "4.1 Koostumus",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "78",
+                  "textBlock": {
+                    "text": "Poltettujen tiilien pääraaka-aine on savi. Tiilissä voidaan käyttää savimassan ja tiilen ominaisuuksia parantavia aineita. Tavallisimmat lisäaineet ovat hiekka tai tiilimurska laihdutusaineena. Tiilen pakkasenkestävyyttä voidaan parantaa ja halkeilua vähen- tää lisäämällä savimassaan sahanpurua. Sahanpuru palaa tiiltä poltettaessa ja jättää tiileen huokosia, joihin jäätyvä vesi pääsee laajenemaan. Reikätiilen puristuslujuus on täystiiltä suurempi.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "79",
+                  "textBlock": {
+                    "text": "4.2 Mitat",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "80",
+                      "textBlock": {
+                        "text": "Tiilien mitat ilmoitetaan seuraavasti: pituus (mm) × leveys (mm) x korkeus (mm). Tiilien ja tiililaattojen nimitykset ja perusmitat esitetään kuvassa 1. Perusmitoista poikkeavis- ta reikätiilistä käytetään yleistä tyyppimerkintää RT ja tiililaatoista tyyppimerkintää TL. Tiilen mitat ilmoitetaan tyyppimerkinnän yhteydessä. Poltettujen tiilien tiilikoot muutettiin vuoden 2017 alussa. Kuvassa 2 esitetään poltettujen tiilien vanhat tiilikoot (ennen vuotta 2017) ja nykyiset tiilikoot. Vanhojen tiilikokojen mukaisia tiiliä voi tar- vittaessa tilata, esimerkiksi korjausrakentamiskohteisiin.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "81",
+                      "textBlock": {
+                        "text": "Korkeus",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "82",
+                      "textBlock": {
+                        "text": "Pää",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "83",
+                      "textBlock": {
+                        "text": "Syrjä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "84",
+                      "textBlock": {
+                        "text": "Kuva 1. Tiilen pintojen ja mittojen nimitykset.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "85",
+                      "textBlock": {
+                        "text": "Poltetut tiilet",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "86",
+                      "textBlock": {
+                        "text": "Vanhat tiilikoot",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "87",
+                      "textBlock": {
+                        "text": "Uudet tiilikoot",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "88",
+                      "textBlock": {
+                        "text": "RT85 (285 x 135 x 85 mm) NRT (270 x 130 x 75 mm)",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "89",
+                      "textBlock": {
+                        "text": "RT75 (285 x 135 x 75 mm)",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "90",
+                      "textBlock": {
+                        "text": "MRT85 (285 x 85 x 85 mm)",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "91",
+                      "textBlock": {
+                        "text": "MRT75 (285 x 85 x 75 mm)",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "92",
+                      "textBlock": {
+                        "text": "Muuttumattomat tiilikoot",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "93",
+                      "textBlock": {
+                        "text": "RT60 (285 x 135 x 60 mm)",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "94",
+                      "textBlock": {
+                        "text": "MRT60 (285 x 85 x 60 mm)",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "95",
+                      "textBlock": {
+                        "text": "Tulisijat ja hormit",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "96",
+                      "textBlock": {
+                        "text": "PT/PRT (257 x 123 x 57 mm)",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "97",
+                      "textBlock": {
+                        "text": "NRT (270 x 130 x 75 mm), punatiiliä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "98",
+                      "textBlock": {
+                        "text": "Kuva 2. Poltettujen tiilien vanhat tiilikoot",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "99",
+                      "textBlock": {
+                        "text": "(ennen vuotta 2017) ja nykyiset tiilikoot.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "100",
+                      "textBlock": {
+                        "text": "PT",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "101",
+                      "textBlock": {
+                        "text": "257123",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "102",
+                      "textBlock": {
+                        "text": "57",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "103",
+                      "textBlock": {
+                        "text": "Perus-",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "104",
+                      "textBlock": {
+                        "text": "kokoinen",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "105",
+                      "textBlock": {
+                        "text": "täystiili",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "106",
+                      "textBlock": {
+                        "text": "257\\times123\\times57",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "107",
+                      "textBlock": {
+                        "text": "Käytetään tulisijojen ja savupiippujen alaosan muuraukseen.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "108",
+                      "textBlock": {
+                        "text": "PRT",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "109",
+                      "textBlock": {
+                        "text": "Perus-",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "110",
+                      "textBlock": {
+                        "text": "257",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "111",
+                      "textBlock": {
+                        "text": "kokoinen",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "112",
+                      "textBlock": {
+                        "text": "123",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "113",
+                      "textBlock": {
+                        "text": "57",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "114",
+                      "textBlock": {
+                        "text": "reikätiili",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "115",
+                      "textBlock": {
+                        "text": "257\\times123\\times57",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "116",
+                      "textBlock": {
+                        "text": "Käytetään tulisijojen ja savupiippujen säälle alttiiden osien muuraukseen",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "117",
+                      "textBlock": {
+                        "text": "NRT",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "118",
+                      "textBlock": {
+                        "text": "Normaali-",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "119",
+                      "textBlock": {
+                        "text": "270",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "120",
+                      "textBlock": {
+                        "text": "kokoinen",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "121",
+                      "textBlock": {
+                        "text": "130",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "122",
+                      "textBlock": {
+                        "text": "reikätiili",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "123",
+                      "textBlock": {
+                        "text": "75",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "124",
+                      "textBlock": {
+                        "text": "270\\times120\\times75",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "125",
+                      "textBlock": {
+                        "text": "Käytetään pääsääntöisesti tulisijojen ja",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "126",
+                      "textBlock": {
+                        "text": "savupiippujen muuraukseen sekä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "127",
+                      "textBlock": {
+                        "text": "korjausrakennuskohteisiin.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "128",
+                      "textBlock": {
+                        "text": "RT",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "129",
+                      "textBlock": {
+                        "text": "Reikätiili",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "130",
+                      "textBlock": {
+                        "text": "285",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "131",
+                      "textBlock": {
+                        "text": "135",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "132",
+                      "textBlock": {
+                        "text": "75 ja 60",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "133",
+                      "textBlock": {
+                        "text": "Kennoharkko",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "134",
+                      "textBlock": {
+                        "text": "Muototiili",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "135",
+                      "textBlock": {
+                        "text": "285\\times135\\times75 ja 285\\times135\\times60",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "136",
+                      "textBlock": {
+                        "text": "Käytetään korkeiden (yli 2 krs) rakennusten julkisivuverhouksiin ja kantavien väliseinien muuraukseen.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "137",
+                      "textBlock": {
+                        "text": "Useita erilaisia kokoja ja tyyppejä eri tarkoituksiin:",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "138",
+                      "textBlock": {
+                        "text": "ulkoseinä-, väliseinä- ja palkkiharkkoja. Tarkemmat tiedot valmistajalta.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "139",
+                      "textBlock": {
+                        "text": "Käytetään kantavina seinärakenteina.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "140",
+                      "textBlock": {
+                        "text": "MRT",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "141",
+                      "textBlock": {
+                        "text": "Moduuli-",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "142",
+                      "textBlock": {
+                        "text": "-285-",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "143",
+                      "textBlock": {
+                        "text": "-85",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "144",
+                      "textBlock": {
+                        "text": "kokoinen",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "145",
+                      "textBlock": {
+                        "text": "285\\times85\\times75 ja 285\\times85\\times60",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "146",
+                      "textBlock": {
+                        "text": "75 ja 60 reikätiili",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "147",
+                      "textBlock": {
+                        "text": "Käytetään matalien (alle 3 krs) rakennusten",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "148",
+                      "textBlock": {
+                        "text": "MTL",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "149",
+                      "textBlock": {
+                        "text": "Moduuli-",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "150",
+                      "textBlock": {
+                        "text": "julkisivuverhouksiin ja kuormittamattomien väliseinien muuraukseen.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "151",
+                      "textBlock": {
+                        "text": "Kuva 3. Poltettujen tiilien nimityksiä, tyyppimerkintöjä ja mittoja.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "152",
+                  "textBlock": {
+                    "text": "Keskiarvojen sallitut mittapoikkeamat",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "153",
+                      "textBlock": {
+                        "text": "Poltettujen tiilien mittapoikkeamat testataan testausstandardin SFS-EN 772-16 mu- kaan. Kun toimituserästä otetaan näytteeksi spesifioitu lukumäärä poltettuja tiiliä ja ne testataan, tulee testausnäytteen mitoille ilmoitetun arvon ja mittauksissa saadun keskiarvon erotuksen olla korkeintaan seuraavien luokkien asettamien vaatimusten suuruisia, kun vaatimusarvo pyöristetään kokonaiseksi millimetriksi. Luokkien mer- kinnöissä + -merkillä (T1+, T2+, R1+, R2+) tarkoitetaan P-tiiliä ja pelkällä kirjain-nu- merokoodilla (T1, T2, R1, R2) tarkoitetaan U-tiiliä.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "154",
+                  "textBlock": {
+                    "text": "Yksittäisen poltetun tiilen mittojen sallittu vaihteluväli",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "155",
+                      "textBlock": {
+                        "text": "Kun toimituserää testataan, tiilien suurimman ja pienimmän mitan erotuksen tulee täyttää jonkin alla esitetyn luokan asettamat vaatimukset. Vaatimusarvo pyöristetään kokonaiseksi millimetriksi. Näkyviin jätettäviksi suunnitelluissa muuratuissa rakenteis- sa, joissa tasaisen ulkonäön aikaansaamiseksi on käytetty sekaisin eri tuotantoerien tiiliä, luokka Rm saattaa olla riittävä.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "156",
+                      "textBlock": {
+                        "text": "VL/1/syyskuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "157",
+                      "textBlock": {
+                        "text": "Muototiiliä valmistetaan tilauksesta",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "158",
+                      "textBlock": {
+                        "text": "tarpeen mukaan.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "159",
+                      "textBlock": {
+                        "text": "Käytetään aukkojen pielissä, nurkissa ja julkisivuissa.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "160",
+                      "textBlock": {
+                        "text": "kokoinen",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "161",
+                      "textBlock": {
+                        "text": "tiililaatta",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "162",
+                      "textBlock": {
+                        "text": "285\\times85/75/60\\times20...45",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "163",
+                      "textBlock": {
+                        "text": "Käytetään betonielementtien pinnoitukseen",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "164",
+                      "textBlock": {
+                        "text": "sekä lattian- ja pihakansien päällysteissä.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "165",
+                      "textBlock": {
+                        "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "166",
+                      "textBlock": {
+                        "text": "RT 103281 Poltetut tiilet",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "167",
+                      "textBlock": {
+                        "text": "Taulukko 1. Poltettujen tiilien keskimääräiset sallitut mittapoikkeamat.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "168",
+                      "tableBlock": {
+                        "bodyRows": [{
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "169",
+                              "textBlock": {
+                                "text": "Luokka",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "170",
+                              "textBlock": {
+                                "text": "Keskiarvojen sallitut mittapoikkeamat",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "171",
+                              "textBlock": {
+                                "text": "T1:",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "172",
+                              "textBlock": {
+                                "text": "3 mm tai ±0,40 √nimellismitta mm, kumpi näistä on suurempi",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "173",
+                              "textBlock": {
+                                "text": "T1+:",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "174",
+                              "textBlock": {
+                                "text": "3 mm tai \\pm0,40 √nimellismitta mm pituudelle ja leveydelle, kumpi näistä on suurempi ja 1 mm tai \\pm0.05 √nimellismitta korkeudelle, kumpi näistä suurempi",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "175",
+                              "textBlock": {
+                                "text": "T2:  T2+:",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "176",
+                              "textBlock": {
+                                "text": "2 mm tai \\pm0,25 √nimellismitta_mm, kumpi näistä on suurempi 2 mm tai \\pm0,2^{5} √nimellismitta mm pituudelle ja leveydelle, kumpi näistä on suurempi ja 1 mm tai \\pm0,05 √nimellismitta korkeudelle, kumpi näistä suurempi",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "177",
+                              "textBlock": {
+                                "text": "tai",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "178",
+                              "textBlock": {
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "179",
+                              "textBlock": {
+                                "text": "Tm:",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "180",
+                              "textBlock": {
+                                "text": "valmistajan ilmoittama mittapoikkeama millimetreinä (se voi olla suurempi tai pienempi kuin muissa luokissa).",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }]
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "181",
+                      "textBlock": {
+                        "text": "Taulukko 2. Yksittäisen poltetun tiilen sallitut mittapoikkeamat.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "182",
+                      "tableBlock": {
+                        "bodyRows": [{
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "183",
+                              "textBlock": {
+                                "text": "Luokka",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "184",
+                              "textBlock": {
+                                "text": "Keskiarvojen sallitut mittapoikkeamat",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "185",
+                              "textBlock": {
+                                "text": "R1:",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "186",
+                              "textBlock": {
+                                "text": "\\pm0,6 √nimellismitta mm",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "187",
+                              "textBlock": {
+                                "text": "R1+:",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "188",
+                              "textBlock": {
+                                "text": "+0.f √nimellismitta mm pituudelle ja leveydelle sekä 1,0 mm korkeudelle",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "189",
+                              "textBlock": {
+                                "text": "R2:",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "190",
+                              "textBlock": {
+                                "text": "\\pm0,3 nimellismitta mm",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "191",
+                              "textBlock": {
+                                "text": "R2+:",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "192",
+                              "textBlock": {
+                                "text": "\\pm0,3 √nimellismitta mm pituudelle ja leveydelle sekä 1,0 mm korkeudelle",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "193",
+                              "textBlock": {
+                                "text": "tai",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "194",
+                              "textBlock": {
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }, {
+                          "cells": [{
+                            "blocks": [{
+                              "blockId": "195",
+                              "textBlock": {
+                                "text": "Rm:",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }, {
+                            "blocks": [{
+                              "blockId": "196",
+                              "textBlock": {
+                                "text": "valmistajan ilmoittama yksittäisen tiilen mittojen sallittu vaihteluväli millimetreinä (se voi olla suurempi tai pienempi kuin muissa luokissa).",
+                                "type": "paragraph"
+                              },
+                              "pageSpan": {
+                                "pageStart": 4,
+                                "pageEnd": 4
+                              }
+                            }],
+                            "rowSpan": 1,
+                            "colSpan": 1
+                          }]
+                        }]
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 4
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 4
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 4
+          }
+        }, {
+          "blockId": "197",
+          "textBlock": {
+            "text": "4.3 Ulkonäkö",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "198",
+              "textBlock": {
+                "text": "Suomalainen savi palaa poltettaessa punaiseksi, mikä johtuu saven suuresta rautapi- toisuudesta ja pienestä kalkkimäärästä. Tiilen väriin vaikuttavat saven mineraalipitoi- suus, lisäaineet ja polttotekniikka. Väri voi vaihdella valkoisesta punaiseen, ruskeaan ja liki mustaan. Vaaleiden tiilien valmistuksessa käytetään lisäaineita tai ne valmis- tetaan ulkomaisista kaoliinipitoisista savista. Tiili saa lopullisen värinsä poltettaessa. Valmistuserien välillä voi esiintyä pieniä sävyeroja.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "199",
+              "textBlock": {
+                "text": "Tiilien julkisivupinnat voivat olla sileitä, harjattuja, karheita tai eri tavoin kuvioituja. Rappauksien alustiiliksi soveltuvat parhaiten tiilet, jotka ovat pakkasenkestäviä, kar- heapintaisia ja joiden vedenimukyky on 8...12%. Pintakäsittely saadaan aikaan käsit- telemällä tiiliaihiota ennen polttoa. Pintarakennetta voidaan muuttaa myös polton jälkeen esimerkiksi halkaisemalla tai lohkomalla tiiltä. Julkisivutiilien ulkonäkövaati- mukset eivät koske tiilien taustapintaa.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "200",
+              "textBlock": {
+                "text": "4.4 Lujuusominaisuudet",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "201",
+                  "textBlock": {
+                    "text": "Tiilen lujuus määräytyy massan koostumuksesta, polttolämpötilasta ja -ajasta. Lujuus on yleensä sitä suurempi, mitä korkeammassa lämpötilassa tiili on poltettu. Puristuslu- juus on suomalaisilla tiilillä suuri johtuen korkeasta polttoasteesta.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "202",
+                  "textBlock": {
+                    "text": "Poltetut tiilet sijoittuvat yleensä korkeimpiin lujuusluokkiin. Kun tiili on tarkoitet- tu käytettäväksi rakenteissa, joilla on rakenteellisia vaatimuksia, valmistaja ilmoittaa puristuslujuuden arvon. Puristuslujuus on tiilityypistä riippuen 15...50~N/mm^{2}. Polte- tun tiilen puristuslujuusvaatimukset ilmoitetaan tuotestandardissa SFS-EN 771-1 ja puristuslujuus määritetään testausstandardin SFS-EN 772-1 mukaan.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "203",
+              "textBlock": {
+                "text": "Tulisijan tiilet",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "204",
+                  "textBlock": {
+                    "text": "Tulisijan rungon muuraukseen käytettävien tiilien riittävänä puristuslujuutena voidaan pitää keskimäärin 15~N/mm^{2} testausstandardin SFS-EN 772-1 mukaan määritettynä. Rei- kätiilien riittävänä tiheytenä voidaan pitää vähintään 1200~kg/m^{3} ja täystiilien 1500~kg/m^{3}.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "205",
+              "textBlock": {
+                "text": "Savupiippujen tiilet",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "206",
+                  "textBlock": {
+                    "text": "Savupiippuihin käytettävien poltettujen tiilien tulee olla CE-merkittyjä tuotestandar- din SFS-EN 771-1 mukaisesti. Kiinteää polttoainetta käyttävien tulisijojen savupiippu- jen muuraukseen käytetään tähän käyttötarkoitukseen soveltuvia poltettuja täys- ja reikätiiliä. Hormien muuraukseen voidaan käyttää tulitiiliä. Tällöin ne hyväksytetään rakennuspaikkakohtaisella varmennuksella ja niiden bruttokuivatiheyden on oltava vähintään 1700~kg/m^{3}. Poltettujen tiilien lujuus on keskimäärin vähintään 15~N/mm^{2}. Reikätiilien tiheys on vähintään 1300~kg/m^{3}, täystiilien vähintään 1500~kg/m^{3} ja tuli- tiilien vähintään 1700~kq/m^{3}.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "207",
+                  "textBlock": {
+                    "text": "VL/1/syyskuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "208",
+                  "textBlock": {
+                    "text": "ohjekortti - 4",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "209",
+                  "textBlock": {
+                    "text": "RT 103281 Poltetut tiilet",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "210",
+              "textBlock": {
+                "text": "4.5 Kestävyysominaisuudet",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "211",
+                  "textBlock": {
+                    "text": "Poltetut tiilet kuuluvat keraamisiin tuotteisiin, jotka ovat sekä kemiallisilta että fysi- kaalisilta ominaisuuksiltaan erittäin lujia ja kestävät hyvin esimerkiksi mekaanista ra- situsta. Sen sijaan pakkanen yhdessä kosteuden kanssa on keskeinen tiilien vaurioitu- miseen vaikuttava tekijä. Säänkestäviksi luokitellut tiilet ovat myös pakkasenkestäviä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "212",
+              "textBlock": {
+                "text": "4.6 Palotekniset ominaisuudet",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "213",
+                  "textBlock": {
+                    "text": "Rakennustarvikkeina tiilet ja tiililaatat ovat palamattomia ja kuuluvat palotekniseen luokkaan A1. Ne eivät syty eivätkä kehitä savua tai palavaa kaasua. Palotilanteessa tiili säilyttää lujuutensa sulamispisteeseensä asti, suomalaisilla tiilillä tämä on noin 1100^{\\circ}C. Koska sauman osuus koko rakenteesta on melko suuri, sauman tiiviydellä on merkit- tävä vaikutus muuratun rakennusosan paloteknisiin ominaisuuksiin.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "214",
+              "textBlock": {
+                "text": "4.7 Meluntorjunta, äänitekniset ominaisuudet",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "215",
+                  "textBlock": {
+                    "text": "Suuren tiheytensä vuoksi tiiliseinällä on hyvä ilmaääneneristyskyky. Tiilimuurin ääni- teknisesti heikoin osa ovat saumat. Rappaukset ja tasoitteet parantavat rakenteen ää- neneristävyyttä. Tiheytensä vuoksi poltettuja tiiliä käytetään julkisivumuurauksissa esimerkiksi ehkäisemään sisälle kantautuvaa liikennemelua. Akustisista syistä julki- sissa tiloissa, kuten auditorioissa ja musiikkisaleissa, matalia ääniä voidaan vaimentaa syrjälleen muuratuilla reikätiilillä, joiden taakse asennetaan ääntä absorvoiva rakenne, esimerkiksi mineraalivilla. Tiilirakenteisten väliseinien ilmaääneneristyslukuja on oh- jeessa RT 82-10466 Väliseinärakenteita.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "216",
+              "textBlock": {
+                "text": "4.8 Lämpötekniset ominaisuudet",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "217",
+                  "textBlock": {
+                    "text": "Tiiliseinän lämmöneristävyys on riittämätön ilman lämmöneristystä, lukuun ottamat- ta paksuja U-arvovaatimukset täyttäviä kennoharkkoja. Tiiliseinä varastoi lämpöä ja luovuttaa sitä hitaasti. Tiilien lämpöliikkeet ovat pieniä, mutta varsinkin pitkiin tiili- julkisivuihin voi kohdistua lämpö- ja kosteusrasituksia, jotka aiheuttavat tiilimuuriin jännityksiä. Halkeamien välttämiseksi tiilimuuriin suunnitellaan liikuntasaumoja.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "218",
+                  "textBlock": {
+                    "text": "Poltetuista tiilistä muuratun rakenteen pituuden lämpötilakertoimelle käytetään arvoa 6\\times10^{-6}1/K Kun poltettuja tiiliä käytetään kohteissa, joille on asetettu lämmön- eristysvaatimuksia, selvitetään tiilen lämpötekniset ominaisuudet valmistajalta. Vaikka julkisivumuurausta eikä sen takana olevaa ilmaväliä huomioida U-arvolaskelmissa muu- toin kuin pintavastuskertoimella, tutkimuksissa on voitu todeta julkisivumuurauksen vaikuttavan positiivisesti rakennuksen lämmöneristävyyteen ja energiatehokkuuteen.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 4,
+            "pageEnd": 5
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 5
+      }
+    }, {
+      "blockId": "219",
+      "textBlock": {
+        "text": "5 MUITA TEKNISIÄ OMINAISUUKSIA",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "220",
+          "textBlock": {
+            "text": "Tiheydellä (bruttokuivatiheys, kg/m^{3} tarkoitetaan tiilen ja tiililaatan kuivapainoa jaet- tuna ulkomittojen mukaan määritetyllä tilavuudella reikien ja/tai syvennysten osuutta vähentämättä. Standardin SFS-EN 771-1 mukaan valmistajan on ilmoitettava brutto- kuivatiheys. Valmistaja voi ilmoittaa bruttokuivatiheyden pienimmän ja suurimman arvon.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "221",
+          "textBlock": {
+            "text": "Vedenimunopeudella (kg/(m^{2}\\times min) tarkoitetaan tiilen tai tiililaatan minuutissa lape- pinnan neliömetriä kohti imemää vesimäärää kilogrammoina. Vedenimunopeudella on merkitystä laastin ja tiilen väliseen tartuntaan, rakenteen lujuuteen ja saumojen tiiviyteen. Poltettujen tiilien vedenalkuimunopeuteen vaikuttavat tiilimassan koos- tumus ja käytetty huippulämpötila. Vedenalkuimunopeus vaihtelee yleensä 1...4 kg/ m^{2}/min. Suuri tiilen vedenimunopeus (yli 3~kg/m^{2} min) vaatii muurauslaastilta hyvää vedenpidätyskykyä.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "222",
+          "textBlock": {
+            "text": "Vedenimukyky ilmoittaa tiilen tai tiililaatan imemän vesimäärän painoprosentteina kuivapainosta. Polttolämpötilan nosto pienentää vedenimukykyä. Vedenimukyky on eri tiilillä keskimäärin 6...20 painoprosenttia.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "223",
+          "textBlock": {
+            "text": "Kosteuspitoisuus vaihtelee ilman suhteellisen kosteuden mukaan. Tiilimuurin koste- usmuodonmuutokselle käytetään arvoa -0,1~mm/m.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "224",
+          "textBlock": {
+            "text": "Säänkestävyydellä tarkoitetaan märän tiilen pakkasenkestävyyttä. Tiilien ja tiililaat- tojen valmistaja ilmoittaa toimitetun tiilierän säänkestävyyden.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "225",
+          "textBlock": {
+            "text": "Pirstoluku kuvaa tiilen kykyä kestää nopeita lämpötilan vaihteluita. Se osoittaa, kuin- ka monta kertaa tiili voidaan kuumentaa 950^{\\circ}C:n lämpötilaan ja sen jälkeen veteen upottamalla äkkiä jäähdyttää, ennen kuin se vaurioituu.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "226",
+          "textBlock": {
+            "text": "Muurauskappaleiden standardin vaatimat voimassa olevat olennaiset ominaisuudet esitetään suoritustasoilmoituksessa (DoP).",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "227",
+          "textBlock": {
+            "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "228",
+          "textBlock": {
+            "text": "VL/1/syyskuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020",
+            "type": "footer"
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "229",
+          "textBlock": {
+            "text": "ohjekortti - 5",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "230",
+          "textBlock": {
+            "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "231",
+          "textBlock": {
+            "text": "RT 103281 Poltetut tiilet",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 5,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "232",
+      "textBlock": {
+        "text": "5.1 Kemialliset ominaisuudet",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "233",
+          "textBlock": {
+            "text": "Poltettujen tiilien kemiallinen kestävyys on hyvä ja ne kestävät esimerkiksi happo- sateita ja savukaasuista savupiippuun kondensoituvan rikkihapon syövyttävää vai- kutusta.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "234",
+          "textBlock": {
+            "text": "Poltetuista tiilistä ei haihdu vaarallisia kaasuja tai höyryjä eivätkä ne aiheuta aller- gioita. Sisäilmastoluokitus 2018 -julkaisun mukaan sisätilojen suunnittelussa pinnoit- tamaton poltettu tiili voidaan rinnastaa luokan M1-tuotteisiin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "235",
+      "textBlock": {
+        "text": "5.2 Biologiset ominaisuudet",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "236",
+          "textBlock": {
+            "text": "Vaakasuorilla tai vinoilla tiilipinnoilla voi esiintyä kasvustoa, jolloin vesi ja saasteet pääsevät imeytymään tiilen pintaan edistäen rapautumista ja pakkasvaurioita. Vau- rioita voidaan välttää rakenteellisella suojauksella, käsittelemällä muuripinnat tiili- valmistajan hyväksymällä impregnointiaineella tai puhdistamalla pinnat aika ajoin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "237",
+      "textBlock": {
+        "text": "5.3 Ekologiset ominaisuudet",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "238",
+          "textBlock": {
+            "text": "Poltettu tiili voidaan kierrättää sataprosenttisesti. Puretuista rakenteista jääneet tii- let voidaan puhdistaa ja käyttää uudelleen. Tiilet voidaan myös murskata ja käyttää esimerkiksi tennis- ja urheilukenttien päällysteaineena, tiilen runkoaineena, tai täy- temaana lainsäädännön määrittelemissä puitteissa esimerkiksi meluvalleissa. Polte- tun tiilen käyttöikä on oikein huollettuna vähintään 50 vuotta, mutta käytännössä huomattavasti pitempi.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "239",
+          "textBlock": {
+            "text": "Tiilijulkisivun takana olevan ilmavälin lämpötila on lämmityskaudella noin 1..2^{\\circ}C ulkolämpötilaa korkeampi. Tästä johtuen syntyy rakennuksen käytönaikaista ener- giansäästöä.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "240",
+          "textBlock": {
+            "text": "Taulukko 3. Poltettujen tiilien ominaisuuksia.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "241",
+          "tableBlock": {
+            "bodyRows": [{
+              "cells": [{
+                "blocks": [{
+                  "blockId": "242",
+                  "textBlock": {
+                    "text": "Ominaisuus",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "243",
+                  "textBlock": {
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "244",
+                  "textBlock": {
+                    "text": "vedenimunopeus",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "245",
+                  "textBlock": {
+                    "text": "vedenimunopeusluokka tavallisesti 1...4~kg/m^{2}/min",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "246",
+                  "textBlock": {
+                    "text": "vedenimukyky",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "247",
+                  "textBlock": {
+                    "text": "noin 6...20 painoprosenttia",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "248",
+                  "textBlock": {
+                    "text": "vesihöyryn diffuusiokerroin, μ-arvo",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "249",
+                  "textBlock": {
+                    "text": "esim. 5/10",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "250",
+                  "textBlock": {
+                    "text": "tasapainokosteus",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "251",
+                  "textBlock": {
+                    "text": "0,2...1,5 painoprosenttia",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "252",
+                  "textBlock": {
+                    "text": "pirstoluku",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "253",
+                  "textBlock": {
+                    "text": "taloustulitiilillä \u003e8",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "254",
+                  "textBlock": {
+                    "text": "Lämpöteknisiä ominaisuuksia",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "255",
+                  "textBlock": {
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "256",
+                  "textBlock": {
+                    "text": "pituuden lämpöpitenemiskerroin",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "257",
+                  "textBlock": {
+                    "text": "tiili 5\\times10^{-6}1/K 6\\times10^{-6}1/k muurattu rakenne",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "258",
+                  "textBlock": {
+                    "text": "ominaislämpökapasiteetti",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "259",
+                  "textBlock": {
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "260",
+                  "textBlock": {
+                    "text": "tiheysalue 900-1200kg/m^{3}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "261",
+                  "textBlock": {
+                    "text": "Ca\u003d600~J/kgK",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "262",
+                  "textBlock": {
+                    "text": "tiheysalue 1200-2000kg/m^{3}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "263",
+                  "textBlock": {
+                    "text": "Ca\u003d900~J/kgK",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "264",
+                  "textBlock": {
+                    "text": "lämmönjohtavuus λα",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "265",
+                  "textBlock": {
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "266",
+                  "textBlock": {
+                    "text": "tiilen tiheys 1200-1400~kq/m^{3}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "267",
+                  "textBlock": {
+                    "text": "noin 0.35~W/mk",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }, {
+              "cells": [{
+                "blocks": [{
+                  "blockId": "268",
+                  "textBlock": {
+                    "text": "Lujuusominaisuuksia",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }, {
+                "blocks": [{
+                  "blockId": "269",
+                  "textBlock": {
+                    "text": "taivutusvetolujuus keskimäärin noin 6 MN/m^{2} virumaluku 0,75 kimmomoduuli noin 16~000~MN/m^{2} puristuslujuus 15-80~N/mm^{2} Puristuslujuutena käytetään normalisoitua puristuslujuuden keskiarvoa f_{k}. Valmistaja ilmoittaa CE-merkinnässä muurauskappaleiden normalisoidun puristuslujuuden keskiarvon.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }],
+                "rowSpan": 1,
+                "colSpan": 1
+              }]
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "270",
+      "textBlock": {
+        "text": "6 CE-MERKINTÄ",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "271",
+          "textBlock": {
+            "text": "Valmistaja ilmoittaa poltettujen tiilien ominaisuudet tuotestandardin SFS-EN 771-1 mukaisella CE-merkinnällä. Näiden ominaisuuksien on täytettävä kansalliset vaati- mustasot, jotka on ilmoitettu soveltamisstandardissa SFS 7001.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "272",
+          "textBlock": {
+            "text": "CE-merkintään kuuluva suoritustasoilmoitus kertoo rakennustuotteen ominaisuu- det. Tiilien ja tiililaattojen suoritustasoilmoituksesta ilmenevät niiden tärkeimmät eri käyttötarkoituksiin vaadittavat ominaisuudet. Ilmoitetun suoritustason on oltava aiotun käyttötarkoituksen vaatimusten mukainen. Esimerkiksi ulkona käytettävien tiilien tulee olla säänkestäviä.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "273",
+          "textBlock": {
+            "text": "VL/1/syyskuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020",
+            "type": "footer"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "274",
+          "textBlock": {
+            "text": "ohjekortti - 6",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "275",
+          "textBlock": {
+            "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "276",
+          "textBlock": {
+            "text": "RT 103281 Poltetut tiilet",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "277",
+          "textBlock": {
+            "text": "7 HANKINTA",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "278",
+              "textBlock": {
+                "text": "Muuraustuotteet pakataan hyvin kuljetuksen ajaksi, jotta ne säilyvät vahingoittu- mattomina. Tuotteet varastoidaan työmaalla kuivina, puhtaina ja siten, että ne pysyvät moitteettomina. Tiilet suojataan työmaalla maakosketukselta, sateelta, lumelta ja lialta. Vanhoja mallistosta poisjääneitä tiilikokoja voidaan valmistaa korjauskohteisiin eri- koistilauksesta, mikäli muiden tiilikokojen käyttö ei tule kysymykseen, kuva 2.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "279",
+          "textBlock": {
+            "text": "8 KÄYTTÖ JA YLLÄPITO",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "280",
+              "textBlock": {
+                "text": "Muuraustyö pyritään tekemään aina niin hyvin, ettei jälkipuhdistusta tarvita. Käytön aikana ulkopinnat voivat likaantua ympäristön saasteista tai muurauslaastista voi liueta rakenteeseen suoloja (härmettä), jotka kulkeutuvat kosteuden mukana muu- rauksen pintaan. Sade yleensä huuhtoo härmeen ulkoseinistä. Härme voidaan myös harjata tai pestä pois vedellä.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "281",
+              "textBlock": {
+                "text": "Muurattujen pintojen huoltotoimenpiteisiin kuuluvat myös liikunta- ja muiden saumojen sekä muuraukseen liittyvien yksityiskohtien tarkistukset sekä tarvittava kunnossapito (pellitykset, sadevesijärjestelmät ja valaisimien liitoskohdat jne.).",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "282",
+              "textBlock": {
+                "text": "Muurattujen julkisivujen huoltoa käsitellään mm. ohjeessa RT 82-10608 Muuratut julkisivut. Korjausrakentaminen. Puhdistusohjeita on KH-ohjeessa KH 95-00093 Tiili- pintojen puhdistus.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "283",
+              "textBlock": {
+                "text": "KIRJALLISUUTTA",
+                "type": "heading-3"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "284",
+              "textBlock": {
+                "text": "Lait ja asetukset",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "285",
+                  "textBlock": {
+                    "text": "Ympäristöministeriön asetus kantavista rakenteista. Suomen säädöskokoelma 477/2014. (RT YM1-21613, Infra YM-720209). 2014.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "286",
+                  "textBlock": {
+                    "text": "Ympäristöministeriön asetus savupiippujen rakenteista ja paloturvallisuudesta. Suomen sää- döskokoelma 745/2017. (RT RakMK-21756, KH RakMK-10793, LVI RakMK-00625, SIT RakMK- 620137, Infra RakMK-720296). 2018.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "287",
+              "textBlock": {
+                "text": "Standardit",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "288",
+                  "textBlock": {
+                    "text": "SFS-EN 1996 Eurokoodi 6. Muurattujen rakenteiden suunnittelu. Osa 1-1: Raudoitettuja ja raudoittamattomia muurattuja rakenteita koskevat yleiset säännöt. 2013.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "289",
+                  "textBlock": {
+                    "text": "SFS-EN 1996 Eurokoodi 6. Muurattujen rakenteiden suunnittelu. Osa 1-2: Yleiset säännöt. Rakenteiden palomitoitus. 2016.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "290",
+                  "textBlock": {
+                    "text": "SFS-EN 1996 Eurokoodi 6. Muurattujen rakenteiden suunnittelu. Osa 2: Muuratun rakenteen materiaalien valinta ja työnsuoritus. 2006.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "291",
+                  "textBlock": {
+                    "text": "SFS-EN 771-1:2012 + A1:2015. Muurauskappaleiden spesifikaatiot. Osa 1: Poltetut tiilet. 2015. SFS 7001 Muuratuille tuotteille eri käyttökohteissa vaadittavat ominaisuudet ja niille asetetut vaatimustasot. 2013.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "292",
+              "textBlock": {
+                "text": "RT- ja Ratu-ohjekortit sekä RYL",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "293",
+                  "textBlock": {
+                    "text": "RT 07-11299 Sisäilmastoluokitus 2018. Sisäympäristön tavoitearvot, suunnitteluohjeet ja tuote- vaatimukset. 2018. 24 s. (RT 07-11299, KH 27-00662, LVI 05-10629, Ratu T-444, SIT 05-610148).",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "294",
+                  "textBlock": {
+                    "text": "RT 103282 Tiilirakenteet. 2020.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "295",
+                  "textBlock": {
+                    "text": "RT 82-10608 Muuratut julkisivut. Korjausrakentaminen. 1996.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "296",
+                  "textBlock": {
+                    "text": "Ratu 0485 Tiilimuuraus. 2019.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "297",
+                  "textBlock": {
+                    "text": "Ratu F52-0335 Muuratun väliseinän purku ja uusiminen. Menekit ja menetelmät. 2009. RunkoRYL 2010. Rakennustöiden yleiset laatuvaatimukset. Talonrakennuksen runkotyöt. RT 14-11016. 2011..",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "298",
+                  "textBlock": {
+                    "text": "SisäRYL 2013 Rakennustöiden yleiset laatuvaatimukset. Talonrakennuksen sisätyöt. RT 14-11103, SIT RT 14-11103.2012.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "299",
+              "textBlock": {
+                "text": "Muita julkaisuja",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "300",
+                  "textBlock": {
+                    "text": "RT RakMK-21751 Muuratut rakenteet, ohjeet 2016. Ympäristöministeriö, Suomen rakentamis- määräyskokoelma, rakenteiden lujuus ja vakaus. 2018. 22 s.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "301",
+                  "textBlock": {
+                    "text": "Muuraustyöt. Reino Kavaja. Rakennustieto Oy. 2013.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "302",
+                  "textBlock": {
+                    "text": "VL/1/syyskuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020",
+                    "type": "footer"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "303",
+                  "textBlock": {
+                    "text": "ohjekortti - 7",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "304",
+                  "textBlock": {
+                    "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "305",
+                  "textBlock": {
+                    "text": "Ohjeen päivityksen on laatinut Wienerberger Oy Ab:n rakennustekninen johtaja Juha Karilainen ja sen on hyväksynyt julkaistavaksi PT 11 RT-päätoimikunta:",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "306",
+                  "textBlock": {
+                    "text": "Erkki Savolainen, WSP Finland, puheenjohtaja",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "307",
+                  "textBlock": {
+                    "text": "Pekka Heikkinen, Aalto-yliopisto",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "308",
+                  "textBlock": {
+                    "text": "Mikko Kaira, UKI Arkkitehdit",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "309",
+                  "textBlock": {
+                    "text": "Jussi Mattila, Betoniteollisuus ry",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "310",
+                  "textBlock": {
+                    "text": "Ville Rantanen, Katajanokan Arkkitehtitoimisto Oy Pekka Seppälä, Oulun kaupungin rakennusvalvonta Jaakko Yli-Säntti, Sweco Asiantuntijapalvelut Oy Seppo Niiranen, Rakennustieto Oy, sihteeri",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "311",
+                  "textBlock": {
+                    "text": "Heta Timonen, Rakennustieto Oy, sihteeri",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "312",
+                  "textBlock": {
+                    "text": "VL/1/syyskuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020",
+                    "type": "footer"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "313",
+                  "textBlock": {
+                    "text": "RT 103281 Poltetut tiilet",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "314",
+                  "textBlock": {
+                    "text": "ohjekortti 8",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 8
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 7
+      }
+    }]
+  }
+}

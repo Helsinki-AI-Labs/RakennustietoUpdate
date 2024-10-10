@@ -1,0 +1,3536 @@
+{
+  "documentLayout": {
+    "blocks": [{
+      "blockId": "1",
+      "textBlock": {
+        "text": "RT",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "2",
+      "textBlock": {
+        "text": "R",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "3",
+      "textBlock": {
+        "text": "RT 93-10925",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "4",
+      "textBlock": {
+        "text": "ohjetiedosto kesäkuu 2008 korvaa RT 93-10532 1 (8)",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "5",
+      "textBlock": {
+        "text": "ASUNTOSUUNNITTELU Lepo ja työskentely",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "6",
+          "textBlock": {
+            "text": "asunnot, asuinhuoneet, makuuhuoneet bostäder, sovrum",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "7",
+          "textBlock": {
+            "text": "dwellings, bedrooms",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "8",
+          "textBlock": {
+            "text": "Tässä ohjekortissa esitetään asunnon makuuhuoneita sekä lepoon ja työsken- telyyn liittyvien toimintojen tilantarpeita. Ohjeet on tarkoitettu ensisijaisesti uudis- rakentamiseen. Korjausrakentamiseen niitä voidaan käyttää soveltuvin osin. Asuntosuunnittelun ohjekorttien jul- kaisuajankohtana voimassa olevat mää- räykset, ohjeet ja muu kirjallisuus on koottuna RT-ohjekortissa Asuntosuun- nittelu, Yleistä.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "9",
+          "textBlock": {
+            "text": "SISÄLLYSLUETTELO",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "10",
+              "textBlock": {
+                "text": "1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "11",
+              "textBlock": {
+                "text": "2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "12",
+              "textBlock": {
+                "text": "3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "13",
+              "textBlock": {
+                "text": "SUUNNITTELUN",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "14",
+              "textBlock": {
+                "text": "LÄHTÖKOHDAT",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "15",
+              "textBlock": {
+                "text": "TOIMINNAT JA NIIDEN",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "16",
+              "textBlock": {
+                "text": "TILANTARVE",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "17",
+              "textBlock": {
+                "text": "TILASUUNNITTELU JA",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "18",
+              "textBlock": {
+                "text": "MITOITUS",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "19",
+              "textBlock": {
+                "text": "Lataaja: Rakennustieto Oy, Tommi IH/1/kesäkuu 2008/1700/Vla/Rakennustieto Oy",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "20",
+              "textBlock": {
+                "text": "Rakennustietosäätiö RTS 2008",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "21",
+              "textBlock": {
+                "text": "Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "22",
+              "textBlock": {
+                "text": "1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "23",
+          "textBlock": {
+            "text": "SUUNNITTELUN LÄHTÖKOHDAT",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "24",
+              "textBlock": {
+                "text": "Asuinhuone, joka on ensisijaisesti tarkoi- tettu nukkumiseen ja lepoon, on makuu- huone. Makuuhuone on usein tarkoitettu ruokakunnan jäsenen työskentelyyn, yk- sityiseen oleskeluun, harrastuksiin jne. Makuuhuoneita käytetään myös päi- välepoon ja rentoutumiseen. Tämä on tärkeää erityisesti vanhuksille ja lapsille sekä muille paljon kotona oleskeleville. Suunnittelussa otetaan huomioon tar- peellinen väljyys, joustavuus ja moni- käyttöisyys.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "25",
+              "textBlock": {
+                "text": "Makuuhuoneista on yleensä suora yh- teys eteis- tai kulkutiloihin. Makuuhuo- neista voi olla välitön pääsy hygieniatiloi- hin, ulkotiloihin yms. Huoneiden moni- puoliset toiminnat asettavat omat vaati- muksensa huoneiden sijoittamiselle ja ääneneristykselle.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "26",
+              "textBlock": {
+                "text": "Suurten asuntojen yhden makuuhuo- neen varustaminen peseytymistilalla ja omalla sisäänkäynnillä, josta on yhteys varsinaiseen eteiseen, lisää huoneen käyttömahdollisuuksia ja koko asunnon toiminnallista joustavuutta.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "27",
+              "textBlock": {
+                "text": "Liikkumisesteisten huomioon ottami-",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "28",
+              "textBlock": {
+                "text": "nen edellyttää riittävää tilavarausta toi- sen henkilön avustamiselle ja pyörä- tuolin käytölle. On suositeltavaa, että asunnon yksi makuuhuone täyttää nämä vaatimukset.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "29",
+              "textBlock": {
+                "text": "Ohjeet koskevat asuntojen makuuhuo- neita. Erityisasumiseen, kuten hoito- ja majoituslaitoksiin ja palveluasuntoihin liittyviin makuuhuoneisiin ohjeita voi- daan käyttää vain soveltuvin osin.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "30",
+              "textBlock": {
+                "text": "ladata tekoälysovelluksiin",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "31",
+              "textBlock": {
+                "text": ".",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "32",
+              "textBlock": {
+                "text": "RT 93-10925",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "33",
+              "textBlock": {
+                "text": "2 TOIMINNAT JA NIIDEN TILANTARVE",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "34",
+                  "textBlock": {
+                    "text": "Tilantarpeen määrityksessä on otettu huomioon toiminnan tarvitsema tila, tar- vittava liikkumistila sekä mahdollisen ka- lusteen, sen käytön ja siivouksen tarvit- sema tila.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "35",
+                  "textBlock": {
+                    "text": "Makuuhuoneiden tavallisimpien huo- nekalujen ja kiinteiden varusteiden tilan- tarve on esitetty RT-ohjekortissa • Asuntosuunnittelu. Irtokalusteiden ti- lantarve.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "36",
+                  "textBlock": {
+                    "text": "Sänkyjen ja vapaan tilan tarve",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "37",
+                      "textBlock": {
+                        "text": "Kuvassa 1 annetaan sänkyjen tilanva- raukset niiden käytön vaatimine vapaine tiloineen. Vanhemmille tarkoitetussa ma- kuuhuoneessa varataan tilaa myös pik- kulapsen sängylle.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "38",
+                      "textBlock": {
+                        "text": "Vuoteen sijaamisen ja siivoamisen sekä yöpöydän ja tuolin sijoitusvaihtoeh- tojen kannalta on eduksi, että sängyn vie- rellä on vapaata tilaa vähintään 700 mm.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "39",
+                  "textBlock": {
+                    "text": "Säilytys",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "40",
+                      "textBlock": {
+                        "text": "Jokaiseen makuuhuoneeseen varataan henkeä kohti yleensä tilaa vähintään kahdelle säilytyskomerolle, joista toinen on tankokomero. Komeroita voidaan kor- vata vaatehuoneella. Kiinteiden kalustei- den sijoituksessa otetaan erityisesti huo- mioon huoneen irtokalusteiden kalustet- tavuuden vaatimukset. Siirrettävien säi- lytyskalusteiden käyttö kiinteiden kalus- teiden asemasta monipuolistaa ja paran- taa huoneen kalustettavuutta ja muun- neltavuutta.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "41",
+                      "textBlock": {
+                        "text": "Tekstiilien, vaatteiden, harrastusväli- neiden yms. säilytyskalusteiden ja niiden käytön tilantarve sekä mitoitus on esitet- ty RT-ohjekortissa",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "42",
+                      "textBlock": {
+                        "text": "Asuntosuunnittelu. Säilytys.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "43",
+                      "textBlock": {
+                        "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "44",
+                      "textBlock": {
+                        "text": "saa",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "45",
+                      "textBlock": {
+                        "text": "kopioida, jakaa, välittää, muunnella",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "46",
+                      "textBlock": {
+                        "text": "eikä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "47",
+                  "textBlock": {
+                    "text": "Kuva 1.",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "48",
+                      "textBlock": {
+                        "text": "900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "49",
+                      "textBlock": {
+                        "text": "400...600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "50",
+                      "textBlock": {
+                        "text": "2100",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "51",
+                      "textBlock": {
+                        "text": "Sänkyjen ja niiden käytön tilantarpeet, 1:50.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "52",
+                      "textBlock": {
+                        "text": "2100",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "53",
+                      "textBlock": {
+                        "text": "700...900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "54",
+                      "textBlock": {
+                        "text": "2100",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "55",
+                      "textBlock": {
+                        "text": "700...900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "56",
+                      "textBlock": {
+                        "text": "Rakennustietosäätiö RTS 2008",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "57",
+                      "textBlock": {
+                        "text": "1200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "58",
+                      "textBlock": {
+                        "text": "700...900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "59",
+                      "textBlock": {
+                        "text": "2100",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "60",
+                      "textBlock": {
+                        "text": "700...900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "61",
+                      "textBlock": {
+                        "text": "1600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "62",
+                      "textBlock": {
+                        "text": "3000...3400",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "63",
+                      "textBlock": {
+                        "text": "700...900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "64",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "65",
+                      "textBlock": {
+                        "text": "700...900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "66",
+                      "textBlock": {
+                        "text": "006",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "67",
+                      "textBlock": {
+                        "text": "ohjetiedosto",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "68",
+                      "textBlock": {
+                        "text": "700...900 700",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "69",
+                      "textBlock": {
+                        "text": "1600...1800",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "70",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "71",
+                      "textBlock": {
+                        "text": "1400...1600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "72",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "73",
+                      "textBlock": {
+                        "text": "2",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "74",
+                      "textBlock": {
+                        "text": "3",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "75",
+                      "textBlock": {
+                        "text": "ohjetiedosto",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "76",
+                      "textBlock": {
+                        "text": "006",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "77",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "78",
+                      "textBlock": {
+                        "text": "900...1200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "79",
+                  "textBlock": {
+                    "text": "Pienen lapsen hoito",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "80",
+                      "textBlock": {
+                        "text": "Pienen lapsen hoitopöydän mitat ja tilan- tarve esitetään kuvassa 2. Hoitopöydän yhteydessä tarvitaan säilytystilaa hoitotar- vikkeille ja vaipoille, esimerkiksi alakaap- peja, seinäkaappeja tai hyllyjä. Seinäkaap- peja tai hyllyjä ei tule sijoittaa hoitopöydän yläpuolelle. Hoitopöytä sijoitetaan lähelle vauvan vuodetta ja pesutiloja, esimerkiksi vanhempien makuuhuoneeseen.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "81",
+                  "textBlock": {
+                    "text": "Työnteko kotona",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "82",
+                      "textBlock": {
+                        "text": "Jokaisessa makuuhuoneessa varataan tavallisesti tilaa huoneen koosta ja käyt- tötarkoituksesta riippuen yhdelle tai kahdelle työpöydälle ja niiden käytölle, kuva 3.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "83",
+                      "textBlock": {
+                        "text": "Kotona tehtävä työ, opiskelu, tietoko- neen käyttö yms. edellyttävät yleensä suurempaa tilavarausta. Käyttöä varten tarvitaan kalusteen pidemmän sivun edessä vapaata tilaa, johon voidaan si- joittaa apupöytä tai kirjahylly. Kotityöhön soveltuvan työpöydän koko ja käytön ti- lantarve esitetään kuvassa 4. Vapaata ti- laa suositellaan järjestettäväksi myös kalusteen toiseen päätyyn.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "84",
+                  "textBlock": {
+                    "text": "Alkovin ja parven käyttö",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "85",
+                      "textBlock": {
+                        "text": "Oleskelutilaan tai esimerkiksi aulaan liit- tyvä alkovi lisää yleensä asunnon jousta- vuutta ja käyttömahdollisuuksia. Alkovia voidaan käyttää esimerkiksi ylimääräise- nä makuupaikkana, työ- tai leikkitilana. Esimerkkejä alkoveista ja niiden kalus- tamisesta lepoa ja työskentelyä varten esitetään kuvassa 4.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "86",
+                      "textBlock": {
+                        "text": "Parven käyttö edellyttää riittävää, yleensä vähintään noin 3000 mm:n huo- nekorkeutta. Parvi tarjoaa monia käyttö- kelpoisia asunnon käyttöä parantavia keinoja erityisesti pienissä asunnoissa ja vanhojen asuntojen peruskorjauksessa.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "87",
+                  "textBlock": {
+                    "text": "Kuva 2.",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "88",
+                      "textBlock": {
+                        "text": "900...1200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "89",
+                      "textBlock": {
+                        "text": "700",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "90",
+                      "textBlock": {
+                        "text": "1600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "91",
+                      "textBlock": {
+                        "text": "006",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "92",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "93",
+                      "textBlock": {
+                        "text": "Pienen lapsen hoitopöydän ja sen käytön tilantarve, 1:50.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "94",
+                  "textBlock": {
+                    "text": "Kuva 3.",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "95",
+                      "textBlock": {
+                        "text": "\\ge1200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "96",
+                      "textBlock": {
+                        "text": "800",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "97",
+                      "textBlock": {
+                        "text": "600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "98",
+                      "textBlock": {
+                        "text": "1400",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "99",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "100",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "101",
+                      "textBlock": {
+                        "text": "Pienen työpöydän ja sen käytön tilantarve, 1:50.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "102",
+                      "textBlock": {
+                        "text": "Alkovi 3,3~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "103",
+                      "textBlock": {
+                        "text": "2200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "104",
+                      "textBlock": {
+                        "text": "Alkovi 4,84~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "105",
+                      "textBlock": {
+                        "text": "1500",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "106",
+                      "textBlock": {
+                        "text": "Työtila 3,3 m²",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "107",
+                      "textBlock": {
+                        "text": "2200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "108",
+                      "textBlock": {
+                        "text": "Työtila 4,84 m²",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "109",
+                      "textBlock": {
+                        "text": "Rakennustietosäätiö RTS 2008",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "110",
+                      "textBlock": {
+                        "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "111",
+                      "textBlock": {
+                        "text": "/",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "112",
+                      "textBlock": {
+                        "text": "/",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "113",
+                      "textBlock": {
+                        "text": "2200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "114",
+                      "textBlock": {
+                        "text": "Alkovi .94...6.38~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "115",
+                      "textBlock": {
+                        "text": "2700...2900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "116",
+                      "textBlock": {
+                        "text": "2200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "117",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "118",
+                      "textBlock": {
+                        "text": "2200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "119",
+                      "textBlock": {
+                        "text": "2200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "120",
+                      "textBlock": {
+                        "text": "Työtila 5,94...6,38 m²",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "121",
+                      "textBlock": {
+                        "text": "2200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "122",
+                  "textBlock": {
+                    "text": "Kuva 4.",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "123",
+                      "textBlock": {
+                        "text": "Esimerkkejä erikokoisten tilojen kalustamisesta lepoa ja työskentelyä varten, 1:100.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "124",
+                      "textBlock": {
+                        "text": "2700...2900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "125",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "126",
+                      "textBlock": {
+                        "text": "2200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "127",
+                      "textBlock": {
+                        "text": "1500",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "128",
+                      "textBlock": {
+                        "text": "\\ge800",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "129",
+                      "textBlock": {
+                        "text": "650...750",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "130",
+                      "textBlock": {
+                        "text": "RT 93-10925",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "131",
+                      "textBlock": {
+                        "text": "RT 93-10925",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 4
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "132",
+              "textBlock": {
+                "text": "3 TILASUUNNITTELU JA MITOITUS",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "133",
+                  "textBlock": {
+                    "text": "Makuuhuoneiden tilasuunnittelussa kes- keinen tavoite on huoneiden monikäyt- töisyys. Mitoituksen kannalta määräävä- nä tekijänä on niiden käyttö makuu- huoneina.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "134",
+                  "textBlock": {
+                    "text": "Kuvissa 5, 6 ja 7 esitetyissä esimer- keissä on ensisijaisesti tarkasteltu tilan- tarvetta eri kalustusvaihtoehdoilla. Ovet ja ikkunat on sijoitettu kalusteiden mu- kaan.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "135",
+                  "textBlock": {
+                    "text": "Makuuhuoneet voidaan jaotella niiden koon ja tavoitteena olevan käytön perus- teella kahden ja yhden hengen makuu- huoneisiin:",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "136",
+                  "textBlock": {
+                    "text": "• kahden hengen makuuhuone, johon yleensä tulisi voida sijoittaa:",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "137",
+                  "textBlock": {
+                    "text": "parisänky yöpöytineen",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "138",
+                  "textBlock": {
+                    "text": "pikkulapsen sänky ja hoitopöytä tai",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "139",
+                  "textBlock": {
+                    "text": "työpöytä ja kirjahylly",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "140",
+                  "textBlock": {
+                    "text": "vähintään neljä komeroa",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "141",
+                  "textBlock": {
+                    "text": "tilavaraus em. kalusteiden käytölle ja tarvittaville kulkuväylille",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "142",
+                  "textBlock": {
+                    "text": "harrastusvälineet (vapaa-alue).",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "143",
+                  "textBlock": {
+                    "text": "Makuuhuone mitoitetaan niin, että pa- risänky voidaan aina korvata kahdella erilleen sijoitetulla sängyllä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "144",
+                  "textBlock": {
+                    "text": "Kahden hengen huoneen pinta-ala edellä mainituilla kalusteilla on huoneen muodosta ja aukotuksesta riippuen noin 16~m^{2}, kuva 5.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "145",
+                  "textBlock": {
+                    "text": "Makuuhuoneeseen voi liittyä myös vaatehuone ja pukeutumistila. Suurissa asunnoissa makuuhuoneen yhteyteen -voidaan suunnitella oma peseytymistila.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "146",
+                  "textBlock": {
+                    "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "147",
+                  "textBlock": {
+                    "text": "tekoälysovelluksiin.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "148",
+                  "textBlock": {
+                    "text": "16~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "149",
+                  "textBlock": {
+                    "text": "+",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "150",
+                  "textBlock": {
+                    "text": "E",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "151",
+                  "textBlock": {
+                    "text": "16~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "152",
+                  "textBlock": {
+                    "text": "C",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "153",
+                  "textBlock": {
+                    "text": "3600",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "154",
+                  "textBlock": {
+                    "text": "3600",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "155",
+                  "textBlock": {
+                    "text": "D",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "156",
+                  "textBlock": {
+                    "text": "ohjetiedosto",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "157",
+                  "textBlock": {
+                    "text": "16~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "158",
+                  "textBlock": {
+                    "text": "A",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "159",
+                  "textBlock": {
+                    "text": "3600",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "160",
+                  "textBlock": {
+                    "text": "4500",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "161",
+                  "textBlock": {
+                    "text": "16~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "162",
+                  "textBlock": {
+                    "text": "F",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "163",
+                  "textBlock": {
+                    "text": "3600",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "164",
+                  "textBlock": {
+                    "text": "A 2 hengen makuuhuone ja pienen lapsen hoito",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "165",
+                  "textBlock": {
+                    "text": "B 2 hengen makuuhuone ja työpöytä",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "166",
+                  "textBlock": {
+                    "text": "C 2 hengen makuuhuone,",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "167",
+                  "textBlock": {
+                    "text": "erillissängyt",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "168",
+                  "textBlock": {
+                    "text": "makuuhuone",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "169",
+                  "textBlock": {
+                    "text": "vapaa -alue",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "170",
+                  "textBlock": {
+                    "text": "E 2 hengen makuuhuone",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "171",
+                  "textBlock": {
+                    "text": "vaatehuone ja kylpyhuone",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "172",
+                  "textBlock": {
+                    "text": "F asuinhuone",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "173",
+                  "textBlock": {
+                    "text": "työhuonekäytössä",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "174",
+                  "textBlock": {
+                    "text": "Kuva 5.",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "175",
+                      "textBlock": {
+                        "text": "Esimerkkejä kahden hengen makuuhuoneen kalustettavuudesta eri tavoin. Oven ja ikkunan sijainti vaikuttaa huoneen kalustettavuuteen. 1:100.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "176",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "177",
+                      "textBlock": {
+                        "text": "4500",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "178",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "179",
+                      "textBlock": {
+                        "text": "18~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "180",
+                      "textBlock": {
+                        "text": "B",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "181",
+                      "textBlock": {
+                        "text": "4000",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "182",
+                      "textBlock": {
+                        "text": "16~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "183",
+                      "textBlock": {
+                        "text": "D",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "184",
+                      "textBlock": {
+                        "text": "vapaa-alue",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "185",
+                      "textBlock": {
+                        "text": "3600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "186",
+                      "textBlock": {
+                        "text": "4500",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "187",
+                      "textBlock": {
+                        "text": "Rakennustietosäätiö RTS 2008",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "188",
+                      "textBlock": {
+                        "text": "4500",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "189",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "190",
+                      "textBlock": {
+                        "text": "4500",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "191",
+                      "textBlock": {
+                        "text": "4",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "192",
+                      "textBlock": {
+                        "text": "5",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "193",
+                      "textBlock": {
+                        "text": "• väljä yhden hengen tai pieni kahden hengen makuuhuone, johon yleensä tulisi voida sijoittaa:",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "194",
+                      "textBlock": {
+                        "text": "kaksi seinän vierelle sijoitettavaa",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "195",
+                      "textBlock": {
+                        "text": "erillistä sänkyä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "196",
+                      "textBlock": {
+                        "text": "työpöytä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "197",
+                      "textBlock": {
+                        "text": "vähintään kaksi komeroa/hlö",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "198",
+                      "textBlock": {
+                        "text": "tilavaraus em. kalusteiden käytölle ja",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "199",
+                      "textBlock": {
+                        "text": "tarvittaville kulkuväylille.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "200",
+                      "textBlock": {
+                        "text": "Vaihtoehtoisesti",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "201",
+                      "textBlock": {
+                        "text": "tällaiseen huonee-",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "202",
+                      "textBlock": {
+                        "text": "seen voidaan sijoittaa:",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "203",
+                      "textBlock": {
+                        "text": "parisänky",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "204",
+                      "textBlock": {
+                        "text": "pikkulapsen sänky tai työpöytä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "205",
+                      "textBlock": {
+                        "text": "vähintään neljä komeroa",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "206",
+                      "textBlock": {
+                        "text": "tilavaraus em. kalusteiden käytölle ja",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "207",
+                      "textBlock": {
+                        "text": "tarvittaville kulkuväylille.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "208",
+                      "textBlock": {
+                        "text": "Huoneen pinta-ala on huoneen muo- dosta ja aukotuksesta riippuen noin 13...15~m^{2}, kuva 6.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "209",
+                      "textBlock": {
+                        "text": "13~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "210",
+                      "textBlock": {
+                        "text": "Etenkin koululaisille on tärkeää, että makuuhuoneessa voi tehdä koti- ja kirjoi- tustöitä. Makuuhuoneessa tarvitaan rau- haa myös muihin askareisiin, harrastuk- siin ja tilaa ystävien tapaamiseen.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "211",
+                      "textBlock": {
+                        "text": "C",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "212",
+                      "textBlock": {
+                        "text": "Rakennustietosäätiö RTS 2008",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "213",
+                      "textBlock": {
+                        "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "214",
+                      "textBlock": {
+                        "text": "14~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "215",
+                      "textBlock": {
+                        "text": "3600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "216",
+                      "textBlock": {
+                        "text": "3300",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "217",
+                      "textBlock": {
+                        "text": "ohjetiedosto",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "218",
+                      "textBlock": {
+                        "text": "RT 93-10925",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "219",
+                      "textBlock": {
+                        "text": "13...14,5~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "220",
+                      "textBlock": {
+                        "text": "13...14,5~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "221",
+                      "textBlock": {
+                        "text": "A",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "222",
+                      "textBlock": {
+                        "text": "B",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "223",
+                      "textBlock": {
+                        "text": "3000",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "224",
+                      "textBlock": {
+                        "text": "4000",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "225",
+                      "textBlock": {
+                        "text": "14~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "226",
+                      "textBlock": {
+                        "text": "D",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "227",
+                      "textBlock": {
+                        "text": "E",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "228",
+                      "textBlock": {
+                        "text": "3600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "229",
+                      "textBlock": {
+                        "text": "A 2 hengen makuuhuone, erillissängyt ja työpöytä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "230",
+                      "textBlock": {
+                        "text": "B 2 hengen makuuhuone ja pienen lapsen sänky",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "231",
+                      "textBlock": {
+                        "text": "C 2 hengen makuuhuone ja työpöytä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "232",
+                      "textBlock": {
+                        "text": "D 2 hengen makuuhuone erillissängyt ja työpöytä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "233",
+                      "textBlock": {
+                        "text": "E 2 hengen makuuhuone, pienen lapsen sänky ja työpöytä",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "234",
+                      "textBlock": {
+                        "text": "15~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "235",
+                      "textBlock": {
+                        "text": "3300",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "236",
+                  "textBlock": {
+                    "text": "Kuva 6.",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "237",
+                      "textBlock": {
+                        "text": "Esimerkkejä väljistä yhden hengen tai pienistä kahden hengen huoneista. Oven ja ik-",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "238",
+                      "textBlock": {
+                        "text": "kunan sijainti vaikuttaa huoneen kalustettavuuteen. 1:100.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "239",
+                      "textBlock": {
+                        "text": "D",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "240",
+                      "textBlock": {
+                        "text": "3900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "241",
+                      "textBlock": {
+                        "text": "3000",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "242",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "243",
+                      "textBlock": {
+                        "text": "4500",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "244",
+                      "textBlock": {
+                        "text": "4400",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "245",
+                      "textBlock": {
+                        "text": "RT 93-10925",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "246",
+                      "textBlock": {
+                        "text": "• yhden hengen makuuhuone, johon tavallisesti sijoitetaan:",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "247",
+                      "textBlock": {
+                        "text": "yksi seinän vierelle sijoitettava suuri yhden hengen sänky",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "248",
+                      "textBlock": {
+                        "text": "työpöytä yhdelle hengelle",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "249",
+                      "textBlock": {
+                        "text": "vähintään kaksi komeroa",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "250",
+                      "textBlock": {
+                        "text": "kirjahylly",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "251",
+                      "textBlock": {
+                        "text": "tilavaraus em. kalusteiden käytölle ja tarvittaville kulkuväylille.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "252",
+                      "textBlock": {
+                        "text": "Tällaisen huoneen pinta-ala on huo- neen muodosta ja aukotuksesta riippuen 7...10 m^{2}, kuva 7.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "253",
+                      "textBlock": {
+                        "text": "Käyttökelpoinen ja asunnon jousta- vuutta parantava ratkaisu on ison ma- kuuhuoneen suunnittelu siten, että se voidaan jakaa kahdeksi yhden hengen makuuhuoneeksi, kuva 7.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "254",
+                      "textBlock": {
+                        "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "255",
+                      "textBlock": {
+                        "text": "18,5~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "256",
+                      "textBlock": {
+                        "text": "5100",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "257",
+                      "textBlock": {
+                        "text": "2400...2700",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "258",
+                      "textBlock": {
+                        "text": "2400...2700",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "259",
+                      "textBlock": {
+                        "text": "8,5...9,5 m²",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "260",
+                      "textBlock": {
+                        "text": "3600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "261",
+                      "textBlock": {
+                        "text": "8...9~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "262",
+                      "textBlock": {
+                        "text": "3200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "263",
+                      "textBlock": {
+                        "text": "2200",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }, {
+                      "blockId": "264",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 6,
+                        "pageEnd": 6
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 6
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 6
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 6
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "265",
+      "textBlock": {
+        "text": "Kuva 7.",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "266",
+          "textBlock": {
+            "text": "Esimerkkejä yhden hengen makuuhuoneista. Oven ja ikkunan sijainti vaikuttaa huo- neen kalustettavuuteen, 1:100.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "267",
+          "textBlock": {
+            "text": "3300",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "268",
+          "textBlock": {
+            "text": "7~m^{2}",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "269",
+          "textBlock": {
+            "text": "3100",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "270",
+          "textBlock": {
+            "text": "11~m^{2}",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "271",
+          "textBlock": {
+            "text": "3200",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "272",
+          "textBlock": {
+            "text": "ohjetiedosto",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "273",
+          "textBlock": {
+            "text": "Rakennustietosäätiö RTS 2008",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "274",
+          "textBlock": {
+            "text": "3100",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "275",
+          "textBlock": {
+            "text": "*",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "276",
+          "textBlock": {
+            "text": "10~m^{2}",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "277",
+          "textBlock": {
+            "text": "3600",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "278",
+          "textBlock": {
+            "text": "2200",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "279",
+          "textBlock": {
+            "text": "7~m^{2}",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "280",
+          "textBlock": {
+            "text": "3300",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "281",
+          "textBlock": {
+            "text": "3200",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "282",
+          "textBlock": {
+            "text": "6",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "283",
+          "textBlock": {
+            "text": "7",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "284",
+          "textBlock": {
+            "text": "ohjetiedosto",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "285",
+          "textBlock": {
+            "text": "RT 93-10925",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "286",
+      "textBlock": {
+        "text": "Mitoitus liikkumisesteisille",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "287",
+          "textBlock": {
+            "text": "Liikkumisesteisille sopiva makuuhuone mitoitetaan ja suunnitellaan niin, että sen kalustamiseen on useita vaihtoehtoja. Sänky sijoitetaan pääty seinää vasten si- ten, että vuoteesta voi nähdä ovelle, vierei- seen huoneeseen ja ulos. Pyörätuolin kääntymistä varten ulkokäyttöön soveltu- van pyörätuolin vapaan tilan tarve on ø 1500 mm, sisäkäyttöön soveltuvan pyörä- tuolin Ø 1300 mm. Kuvat 8 ja 9.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "288",
+          "textBlock": {
+            "text": "Yhden hengen makuuhuoneessa sän- gyn toisella sivulla riittää 800...900 mm tila, jos päädyssä on tilaa 1300 mm. Kah- den hengen makuuhuoneessa voi vapaa tila sängyn päädyssä olla 800...900 mm, mikäli parisängyn molemmilla sivuilla on 1300 mm...1500 mm leveä vapaa tila.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "289",
+          "textBlock": {
+            "text": "Tällaisen huoneen pinta-ala vaihtelee 12,5...16,5 m². Tällainen huoneeseen on mahdollista sijoittaa vaihtoehtoisesti ta- vallista suurempi parisänky. Kuva 9.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "290",
+          "textBlock": {
+            "text": "Erityisesti pyörätuolin käyttäjän ma- kuuhuoneessa kaappien suositeltava le- veys on 800 mm. Kun komero sijaitsee 400 mm päässä nurkasta, pyörätuolista on helpompi ulottua komeroon. Kaappi- en käyttökelpoisuutta lisäävät kiinteiden tankojen ja hyllyjen asemesta käytettä- vät ulosvedettävät tankotelineet ja hyllyt. Kaappien tulisi olla ilman sokkelia. Jos kaapeissa on sokkeli, sen korkeuden tuli- si olla vähintään 200 mm ja syvyyden 150 mm.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "291",
+          "textBlock": {
+            "text": "Liikkumisesteisten",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "292",
+          "textBlock": {
+            "text": "makuuhuoneesta",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "293",
+          "textBlock": {
+            "text": "tulisi olla mahdollisimman suora yhteys wc- ja peseytymistiloihin ja ulkotiloihin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }, {
+      "blockId": "294",
+      "textBlock": {
+        "text": "Ääneneristys",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "295",
+          "textBlock": {
+            "text": "Asuinrakennukset pyritään suunnittele- maan siten, etteivät makuuhuoneet rajoi- tu toisen huoneiston hormeihin ja erityi- sesti melua aiheuttaviin vesikalusteisiin, hissikuiluun tai melua aiheuttaviin yhteis- tiloihin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "296",
+          "textBlock": {
+            "text": "Makuuhuoneiden tulee olla eristettä- vissä asunnon muista tiloista ovilla. Asu- misen toimintojen toisilleen aiheuttamaa häiriötä voidaan vähentää tehokkaasti ti- lojen sijoittelulla ja ryhmittelyllä.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "297",
+          "textBlock": {
+            "text": "Kuva 8.",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "298",
+              "textBlock": {
+                "text": "Ø1300... 1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "299",
+              "textBlock": {
+                "text": "400",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "300",
+              "textBlock": {
+                "text": "$1300. 1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "301",
+              "textBlock": {
+                "text": "1300...1500 1600 (900) 1300...1500 4200...4600",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "302",
+              "textBlock": {
+                "text": "700...900",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "303",
+              "textBlock": {
+                "text": "2200 4200...4600",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "304",
+              "textBlock": {
+                "text": "1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "305",
+              "textBlock": {
+                "text": "10091 006",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "306",
+              "textBlock": {
+                "text": "2100",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "307",
+              "textBlock": {
+                "text": "10091 006",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "308",
+              "textBlock": {
+                "text": "3600",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "309",
+              "textBlock": {
+                "text": "2100",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "310",
+              "textBlock": {
+                "text": "3600",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "311",
+              "textBlock": {
+                "text": "Pyörätuolin käyttöön soveltuva kahden hengen makuuhuoneen mitoitus. Tähän noin 15~m^{2} makuuhuoneeseen mahtuu vaihtoehtoisesti tavallista isompi parivuode. 1:100.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "312",
+              "textBlock": {
+                "text": "Rakennustietosäätiö RTS 2008",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "313",
+              "textBlock": {
+                "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 7,
+                "pageEnd": 7
+              }
+            }, {
+              "blockId": "314",
+              "textBlock": {
+                "text": "F",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "315",
+              "textBlock": {
+                "text": "A",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "316",
+              "textBlock": {
+                "text": "RT 93-10925",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "317",
+              "textBlock": {
+                "text": "900 950 1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "318",
+              "textBlock": {
+                "text": "900",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "319",
+              "textBlock": {
+                "text": "1900",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "320",
+              "textBlock": {
+                "text": "1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "321",
+              "textBlock": {
+                "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "322",
+              "textBlock": {
+                "text": "1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "323",
+              "textBlock": {
+                "text": "1900",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "324",
+              "textBlock": {
+                "text": "1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "325",
+              "textBlock": {
+                "text": "900",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "326",
+              "textBlock": {
+                "text": "2100",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "327",
+              "textBlock": {
+                "text": "1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "328",
+              "textBlock": {
+                "text": "2100",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "329",
+              "textBlock": {
+                "text": "1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "330",
+              "textBlock": {
+                "text": "2100",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "331",
+              "textBlock": {
+                "text": "B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "332",
+              "textBlock": {
+                "text": "700",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "333",
+              "textBlock": {
+                "text": "1200 1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "334",
+              "textBlock": {
+                "text": "E",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "335",
+              "textBlock": {
+                "text": "16001",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "336",
+              "textBlock": {
+                "text": "1900",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "337",
+              "textBlock": {
+                "text": "1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "338",
+              "textBlock": {
+                "text": "500...550",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "339",
+          "textBlock": {
+            "text": "Kuva 9.",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "340",
+              "textBlock": {
+                "text": "Esimerkkejä pyörätuolilla ja rollaattorilla toimimisen ja liikkumisen tilantarpeista makuuhuoneessa, 1:100.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "341",
+              "textBlock": {
+                "text": "Rakennustietosäätiö RTS 2008",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "342",
+              "textBlock": {
+                "text": "ohjetiedosto",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "343",
+              "textBlock": {
+                "text": "1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "344",
+              "textBlock": {
+                "text": "2100",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "345",
+              "textBlock": {
+                "text": "1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "346",
+              "textBlock": {
+                "text": "2100",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "347",
+              "textBlock": {
+                "text": "C",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "348",
+              "textBlock": {
+                "text": "600 950 1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "349",
+              "textBlock": {
+                "text": "1300...1500",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "350",
+              "textBlock": {
+                "text": "2100",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }, {
+              "blockId": "351",
+              "textBlock": {
+                "text": "8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 8,
+                "pageEnd": 8
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 7,
+        "pageEnd": 7
+      }
+    }]
+  }
+}

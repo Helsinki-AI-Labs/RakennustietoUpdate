@@ -1,0 +1,3721 @@
+{
+  "documentLayout": {
+    "blocks": [{
+      "blockId": "1",
+      "textBlock": {
+        "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "2",
+      "textBlock": {
+        "text": "eikä",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "3",
+      "textBlock": {
+        "text": "ladata tekoälysovelluksiin.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "4",
+      "textBlock": {
+        "text": "RT",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "5",
+      "textBlock": {
+        "text": "R",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "6",
+      "textBlock": {
+        "text": "AJONEUVOJEN MITTOJA",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "7",
+          "textBlock": {
+            "text": "Tässä ohjeessa esitetään ajoneuvojen ja yleisimpien autotyyppien mittoja, massoja sekä liikenteeseen hyväksymistä koskevia rajoituksia.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "8",
+          "textBlock": {
+            "text": "RT 98-11213",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "9",
+          "textBlock": {
+            "text": "ΚΗ 91-00586",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "10",
+          "textBlock": {
+            "text": "Infra 64-710157",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "11",
+          "textBlock": {
+            "text": "OHJEET",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "12",
+          "textBlock": {
+            "text": "toukokuu 2016",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "13",
+          "textBlock": {
+            "text": "1 (8)",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "14",
+          "textBlock": {
+            "text": "korvaa RT 98-10914",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "15",
+          "textBlock": {
+            "text": "Infra 64-710067",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "16",
+          "textBlock": {
+            "text": "SISÄLLYSLUETTELO",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "17",
+              "textBlock": {
+                "text": "1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "18",
+              "textBlock": {
+                "text": "MÄÄRITELMIÄ",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "19",
+              "textBlock": {
+                "text": "1.1 Käsitteitä",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "20",
+              "textBlock": {
+                "text": "1.2 Ajoneuvotyyppejä",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "21",
+              "textBlock": {
+                "text": "1.3 Ajoneuvojen massat 1.4 Rajoituksia",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "22",
+              "textBlock": {
+                "text": "2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "23",
+              "textBlock": {
+                "text": "AJONEUVOJEN MITAT 2.1 Ajoneuvojen päämitat 2.2 Kääntyminen",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "24",
+              "textBlock": {
+                "text": "KIRJALLISUUTTA",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "25",
+          "textBlock": {
+            "text": "1 MÄÄRITELMIÄ",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "26",
+              "textBlock": {
+                "text": "1.1 Käsitteitä",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "27",
+                  "textBlock": {
+                    "text": "Useimmat seuraavassa esitetyt käsitteet perustuvat Ajoneuvo- lakiin. Käsitteitä esitetään kuvassa 1.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }, {
+                  "blockId": "28",
+                  "textBlock": {
+                    "text": "1.2 Ajoneuvotyyppejä",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "29",
+                      "textBlock": {
+                        "text": "Moottorikäyttöisiä ajoneuvoja ovat auto, moottoripyörä ja mopo sekä traktori, moottorityökone ja maastoajoneuvo. Lisäk- si on moottorikäyttöisiä kaksi-, kolmi- tai nelipyöräisiä ajoneu- voja. Moottorittomia ajoneuvoja, joiden mittoja tässä ohjeessa on esitetty, ovat polkupyörä ja matkailuvaunu.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }, {
+                  "blockId": "30",
+                  "textBlock": {
+                    "text": "1.3 Ajoneuvojen massat",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "31",
+                      "textBlock": {
+                        "text": "Ajoneuvojen massasta säädetään Valtioneuvoston asetuksessa ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta. Tässä ohjeessa käytetään termejä akselimassa ja telimassa.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }, {
+                      "blockId": "32",
+                      "textBlock": {
+                        "text": "Akselimassalla tarkoitetaan autoa tai perävaunua tiellä kulje- tettaessa sen akselille kohdistuvaa massaa.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }, {
+                      "blockId": "33",
+                      "textBlock": {
+                        "text": "Telimassalla tarkoitetaan sen telille kohdistuvaa massaa. Korkeus on ylimpänä olevan koriosan (antenneja, kattotelinei- tä tai vastaavia ei oteta huomioon) tai kuorman korkeimman kohdan etäisyys maanpinnasta.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }, {
+                      "blockId": "34",
+                      "textBlock": {
+                        "text": "Akseliväli on kahden peräkkäisen akselin välinen etäisyys. Teli on ajoneuvon kahden tai useamman peräkkäin olevan ak- selin muodostama kokonaisuus, jossa akselimassat on jaettu määräsuhteessa.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }, {
+                      "blockId": "35",
+                      "textBlock": {
+                        "text": "Raideväli on kahden akseliin kiinnitetyn pyörän tai pyöräparin keskipisteiden välinen etäisyys.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }, {
+                      "blockId": "36",
+                      "textBlock": {
+                        "text": "Takaylitys on korin tai ajoneuvon takimmaisen osan ja taka- akselin tai telin keskipisteen välinen etäisyys.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }, {
+                      "blockId": "37",
+                      "textBlock": {
+                        "text": "Etuylitys on ajoneuvon etummaisen osan ja etummaisen ak- selin välinen etäisyys.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }, {
+                  "blockId": "38",
+                  "textBlock": {
+                    "text": "1.4 Rajoituksia",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "39",
+                      "textBlock": {
+                        "text": "Ajoneuvon mittoja koskevat rajoitukset on esitetty Valtioneu- voston asetuksessa ajoneuvojen käytöstä tiellä annetun asetuk- sen muuttamisesta. Enimmäismitat esitetään piirroksissa.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }, {
+                      "blockId": "40",
+                      "textBlock": {
+                        "text": "Korkeus",
+                        "type": "heading-5",
+                        "blocks": [{
+                          "blockId": "41",
+                          "textBlock": {
+                            "text": "Suurin sallittu korkeus on 4,40 m.",
+                            "type": "paragraph"
+                          },
+                          "pageSpan": {
+                            "pageStart": 1,
+                            "pageEnd": 1
+                          }
+                        }, {
+                          "blockId": "42",
+                          "textBlock": {
+                            "text": "Piirroksissa esitetty enimmäiskorkeus on 4,20 m. Jos ajoneu- von korkeus on yli 4,20 metriä, kuljetuksen suorittajan ja kul- jettajan on varmistettava, että kuljetuksen suorittaminen käy- tettävällä kuljetusreitillä on mahdollista ilman riskiä osumisesta tien yläpuolisiin rakenteisiin.",
+                            "type": "paragraph"
+                          },
+                          "pageSpan": {
+                            "pageStart": 1,
+                            "pageEnd": 1
+                          }
+                        }, {
+                          "blockId": "43",
+                          "textBlock": {
+                            "text": "Mitoituksessa on otettava huomioon mahdollinen jousituk- sen ja teliakselin noston vaikutus 0,1...0,2 m sekä ulkoalueilla lisäksi uusittavan asfalttipäällysteen ja lumen aiheuttama ko- rotus 0,2...0,3 m.",
+                            "type": "paragraph"
+                          },
+                          "pageSpan": {
+                            "pageStart": 1,
+                            "pageEnd": 1
+                          }
+                        }]
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }, {
+                      "blockId": "44",
+                      "textBlock": {
+                        "text": "Kokonaispituus",
+                        "type": "heading-5",
+                        "blocks": [{
+                          "blockId": "45",
+                          "textBlock": {
+                            "text": "Ajoneuvon suurimmat sallitut kokonaispituudet esitetään piir- roksissa..",
+                            "type": "paragraph"
+                          },
+                          "pageSpan": {
+                            "pageStart": 1,
+                            "pageEnd": 1
+                          }
+                        }]
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 1
+                  }
+                }, {
+                  "blockId": "46",
+                  "textBlock": {
+                    "text": "Leveys",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "47",
+                      "textBlock": {
+                        "text": "Ajoneuvon suurin sallittu leveys on 2,60 metriä. Kiinteältä ra- kenteeltaan yli 22,00 metrin pituisessa yhdistelmässä käytet- tävän muun kuin lämpöeristetyn ajoneuvon sekä linja-auton suurin sallittu leveys on kuitenkin 2,55 metriä.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }, {
+                      "blockId": "48",
+                      "textBlock": {
+                        "text": "VL/1/toukokuu 2016/Rakennustieto Oy Rakennustietosäätiö RTS 2016",
+                        "type": "footer"
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }, {
+                      "blockId": "49",
+                      "textBlock": {
+                        "text": "1,3",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "50",
+                      "textBlock": {
+                        "text": "Kuva 1. Ajoneuvojen ulottuvuuksia ja käsitteitä.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "51",
+                      "textBlock": {
+                        "text": "RT 98-11213 ΚΗ 91-00586 Infra 64-710157",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "52",
+                      "textBlock": {
+                        "text": "Kääntökulmalla tarkoitetaan yleensä akseli etupyörien kääntökulmaa",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "53",
+                      "textBlock": {
+                        "text": "* leveys",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "54",
+                      "textBlock": {
+                        "text": "teli",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "55",
+                      "textBlock": {
+                        "text": "kuormaus- korkeus",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "56",
+                      "textBlock": {
+                        "text": "** raideväli",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "57",
+                      "textBlock": {
+                        "text": "korkeus",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "58",
+                      "textBlock": {
+                        "text": "etuylitys",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "59",
+                      "textBlock": {
+                        "text": "akseliväli",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "60",
+                      "textBlock": {
+                        "text": "takaylitys",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "61",
+                      "textBlock": {
+                        "text": "takaylitys",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "62",
+                      "textBlock": {
+                        "text": "***",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "63",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "64",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "65",
+                      "textBlock": {
+                        "text": "äärimmäisten akselien väli",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "66",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "67",
+                      "textBlock": {
+                        "text": "kokonaispituus",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }, {
+                      "blockId": "68",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 1,
+                    "pageEnd": 2
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "69",
+              "textBlock": {
+                "text": "2 AJONEUVOJEN MITAT",
+                "type": "heading-3"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 2
+          }
+        }, {
+          "blockId": "70",
+          "textBlock": {
+            "text": "2.1 Ajoneuvojen päämitat",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "71",
+              "textBlock": {
+                "text": "Kuvissa 2... 6 esitetään esimerkkejä ajoneuvotyyppien mitoista ja massoista sekä kuormauskorkeuksista.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "72",
+              "textBlock": {
+                "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "73",
+              "textBlock": {
+                "text": "1,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "74",
+              "textBlock": {
+                "text": "1,9",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "75",
+              "textBlock": {
+                "text": "0,6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "76",
+              "textBlock": {
+                "text": "2,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "77",
+              "textBlock": {
+                "text": "0,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "78",
+              "textBlock": {
+                "text": "2,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "79",
+              "textBlock": {
+                "text": "0,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "80",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "81",
+              "textBlock": {
+                "text": "1,2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "82",
+              "textBlock": {
+                "text": "1,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "83",
+              "textBlock": {
+                "text": "polkupyörän ja lasten kuljetusvaunun pituus on 3,0 m ja leveys 0,8 m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "84",
+              "textBlock": {
+                "text": "Ns. mopoauto (kevyt nelipyörä)",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "85",
+              "textBlock": {
+                "text": "pituus 3,05...3,1 m, leveys 1,5 m, akseliväli 2,0 m, raideleveys edessä 1,4 m, takana 1,4 m, kääntösäde 4,0 m.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "86",
+              "textBlock": {
+                "text": "Moottoripyörä",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "87",
+              "textBlock": {
+                "text": "pituus 2,65...2,7 m, leveys 1,05...1,1 m, korkeus 1,2 m, akseliväli 1,75...1,8 m, istuinkorkeus 0,66 m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "88",
+              "textBlock": {
+                "text": "Moottoripyörän, mopon, kolmipyörän, nelipyörän ja kevyen nelipyörän suurimmat sallitut päämitat esitetään Valtioneuvoston asetuksessa ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta:",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "89",
+              "textBlock": {
+                "text": "a) pituus",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "90",
+              "textBlock": {
+                "text": "L6e-B luokan ajoneuvon pituus kuitenkin 3,00 m ja L7e-C luokan ajoneuvon pituus 3,70 m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "91",
+              "textBlock": {
+                "text": "b) leveys",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "92",
+              "textBlock": {
+                "text": "kaksipyöräisen mopon leveys",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "93",
+              "textBlock": {
+                "text": "c) korkeus",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "94",
+              "textBlock": {
+                "text": "4,00 m,",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "95",
+              "textBlock": {
+                "text": "2,00 m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "96",
+              "textBlock": {
+                "text": "1,00 m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "97",
+              "textBlock": {
+                "text": "2,50 m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "98",
+              "textBlock": {
+                "text": "Kaksipyöräisen polkupyörän suurin sallittu leveys on 0,80 metriä. Useampipyöräisen polkupyörän suurin sallittu leveys on 1,25 metriä.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "99",
+              "textBlock": {
+                "text": "Kuva 2. Polkupyörän, mopon ja moottoripyörän mittoja. Mittakaava 1:100.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "100",
+              "textBlock": {
+                "text": "VL/1/toukokuu 2016/Rakennustieto Oy Rakennustietosäätiö RTS 2016",
+                "type": "footer"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "101",
+              "textBlock": {
+                "text": "1,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "102",
+              "textBlock": {
+                "text": "ohjeet - 2",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "103",
+              "textBlock": {
+                "text": "RT 98-11213 ΚΗ 91-00586 Infra 64-710157",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "104",
+              "textBlock": {
+                "text": "Henkilöauto on henkilöiden kuljetukseen valmistettu ajoneuvo, jossa on kuljettajan lisäksi tilaa enintään kah- deksalle henkilölle, Ajoneuvolaki.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "105",
+              "textBlock": {
+                "text": "4,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "106",
+              "textBlock": {
+                "text": "0,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "107",
+              "textBlock": {
+                "text": "2,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "108",
+              "textBlock": {
+                "text": "1,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "109",
+              "textBlock": {
+                "text": "Henkilöauto, yleinen koko",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "110",
+              "textBlock": {
+                "text": "5,1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "111",
+              "textBlock": {
+                "text": "0,95",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "112",
+              "textBlock": {
+                "text": "3,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "113",
+              "textBlock": {
+                "text": "1,15",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "114",
+              "textBlock": {
+                "text": "Maastoauto",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "115",
+              "textBlock": {
+                "text": "5,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "116",
+              "textBlock": {
+                "text": "1,5...1,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "117",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "118",
+              "textBlock": {
+                "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "119",
+              "textBlock": {
+                "text": "0,9",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "120",
+              "textBlock": {
+                "text": "0,4...0,6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "121",
+              "textBlock": {
+                "text": "1,8...2,1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "122",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "123",
+              "textBlock": {
+                "text": "1,7...2,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "124",
+              "textBlock": {
+                "text": "DO",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "125",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "126",
+              "textBlock": {
+                "text": "1,5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "127",
+              "textBlock": {
+                "text": "1,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "128",
+              "textBlock": {
+                "text": "1,8...2,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "129",
+              "textBlock": {
+                "text": "0,9",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "130",
+              "textBlock": {
+                "text": "Pakettiauto, yleinen koko",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "131",
+              "textBlock": {
+                "text": "3,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "132",
+              "textBlock": {
+                "text": "1,1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "133",
+              "textBlock": {
+                "text": "1,6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "134",
+              "textBlock": {
+                "text": "Pakettiauto on tavaran kuljetukseen valmistettu ajoneuvo, jonka kokonaismassa on enintään 3,5 tonnia, Ajoneuvolaki.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "135",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "136",
+              "textBlock": {
+                "text": "3,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "137",
+              "textBlock": {
+                "text": "6,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "138",
+              "textBlock": {
+                "text": "0,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "139",
+              "textBlock": {
+                "text": "1,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "140",
+              "textBlock": {
+                "text": "0,4...0.7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "141",
+              "textBlock": {
+                "text": "Pakettiauto, suuri",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "142",
+              "textBlock": {
+                "text": "Hälytysajoneuvo. Hälytyslaitteet lisäävät korkeutta, yleinen korkeus on 2,9 m.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "143",
+              "textBlock": {
+                "text": "Kuva 3. Henkilöauton ja pakettiauton mittoja. Mittakaava 1:100.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "144",
+              "textBlock": {
+                "text": "VL/1/toukokuu 2016/Rakennustieto Oy Rakennustietosäätiö RTS 2016",
+                "type": "footer"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "145",
+              "textBlock": {
+                "text": "2,5...2,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "146",
+              "textBlock": {
+                "text": "1,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "147",
+              "textBlock": {
+                "text": "2,0...2,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "148",
+              "textBlock": {
+                "text": "回",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "149",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "150",
+              "textBlock": {
+                "text": "DO",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "151",
+              "textBlock": {
+                "text": "1,5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "152",
+              "textBlock": {
+                "text": "1,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "153",
+              "textBlock": {
+                "text": "0,95",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "154",
+              "textBlock": {
+                "text": "700",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "155",
+              "textBlock": {
+                "text": "2,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "156",
+              "textBlock": {
+                "text": "1,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "157",
+              "textBlock": {
+                "text": "ohjeet 3",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "158",
+              "textBlock": {
+                "text": "RT 98-11213 ΚΗ 91-00586 Infra 64-710157",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "159",
+              "textBlock": {
+                "text": "7,5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "160",
+              "textBlock": {
+                "text": "Matkailuvaunu, yleinen koko",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "161",
+              "textBlock": {
+                "text": "5,9",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "162",
+              "textBlock": {
+                "text": "2,1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "163",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "164",
+              "textBlock": {
+                "text": "0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "165",
+              "textBlock": {
+                "text": "2,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "166",
+              "textBlock": {
+                "text": "2,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "167",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "168",
+              "textBlock": {
+                "text": "4,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "169",
+              "textBlock": {
+                "text": "5,0...8,5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "170",
+              "textBlock": {
+                "text": "2,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "171",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "172",
+              "textBlock": {
+                "text": "Matkailuauto, yleinen koko",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "173",
+              "textBlock": {
+                "text": "4,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "174",
+              "textBlock": {
+                "text": "1,0 **",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "175",
+              "textBlock": {
+                "text": "2,1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "176",
+              "textBlock": {
+                "text": "1,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "177",
+              "textBlock": {
+                "text": "1,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "178",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "179",
+              "textBlock": {
+                "text": "1,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "180",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "181",
+              "textBlock": {
+                "text": "Invataksi, 16-paikkainen bussi",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "182",
+              "textBlock": {
+                "text": "Liikenteessä saa olla linja-autoja, joiden mittarajoituksina on (Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta):",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "183",
+              "textBlock": {
+                "text": "2-akselisen linja-auton pituus enintään 13,5 m vähintään 3-akselisen linja-auton pituus enintään 15,00 m nivelrakenteisen linja-auton pituus enintään 18,75 m linja-auton suurin sallittu leveys 2,55 m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "184",
+              "textBlock": {
+                "text": "Kiinteistönhuollossa käytettävä traktori. Tapauskohtaisesti tilojen suunnittelua varten selvitetään suunnittelukohteessa käytettävä kalusto.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "185",
+              "textBlock": {
+                "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "186",
+              "textBlock": {
+                "text": "\\le13,5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "187",
+              "textBlock": {
+                "text": "(0)",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "188",
+              "textBlock": {
+                "text": "3,5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "189",
+              "textBlock": {
+                "text": "7,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "190",
+              "textBlock": {
+                "text": "2,... 2,9",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "191",
+              "textBlock": {
+                "text": "\\le15,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "192",
+              "textBlock": {
+                "text": "3,5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "193",
+              "textBlock": {
+                "text": "1,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "194",
+              "textBlock": {
+                "text": "7,5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "195",
+              "textBlock": {
+                "text": "2,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "196",
+              "textBlock": {
+                "text": "\\le18,75",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "197",
+              "textBlock": {
+                "text": "3,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "198",
+              "textBlock": {
+                "text": "2,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "199",
+              "textBlock": {
+                "text": "5,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "200",
+              "textBlock": {
+                "text": "2,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "201",
+              "textBlock": {
+                "text": "5,0 Kuva 4. Matkailuajoneuvojen, traktorien ja linja-autojen mittoja. Mittakaava 1:200.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "202",
+              "textBlock": {
+                "text": "VL/1/toukokuu 2016/Rakennustieto Oy Rakennustietosäätiö RTS 2016",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "203",
+              "textBlock": {
+                "text": "2,9...3,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "204",
+              "textBlock": {
+                "text": "2,9...3,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "205",
+              "textBlock": {
+                "text": "korkeus \\le4.20~r m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "206",
+              "textBlock": {
+                "text": "yksikerroksisten linja-autojen",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "207",
+              "textBlock": {
+                "text": "korkeus on 3,8 m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "208",
+              "textBlock": {
+                "text": "コロ",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "209",
+              "textBlock": {
+                "text": "0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "210",
+              "textBlock": {
+                "text": "2,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "211",
+              "textBlock": {
+                "text": "2,55",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "212",
+              "textBlock": {
+                "text": "0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "213",
+              "textBlock": {
+                "text": "BO 10",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "214",
+              "textBlock": {
+                "text": "2,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "215",
+              "textBlock": {
+                "text": "2,55",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "216",
+              "textBlock": {
+                "text": "Π",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "217",
+              "textBlock": {
+                "text": "D",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "218",
+              "textBlock": {
+                "text": "BO 10",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "219",
+              "textBlock": {
+                "text": "2,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "220",
+              "textBlock": {
+                "text": "2,55",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "221",
+              "textBlock": {
+                "text": "ohjeet",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "222",
+              "textBlock": {
+                "text": "4",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "223",
+              "textBlock": {
+                "text": "0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "224",
+              "textBlock": {
+                "text": "RT 98-11213 ΚΗ 91-00586 Infra 64-710157",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "225",
+              "textBlock": {
+                "text": "8,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "226",
+              "textBlock": {
+                "text": "Kuorma-auto on tavaran kuljetukseen valmistettu ajoneuvo. Ajoneuvon akseli-, teli- ja kokonaismassat on esitetty Valtioneuvoston asetuksessa ajoneuvojen käytöstä tiellä annetun asetuksen muuttamisesta.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "227",
+              "textBlock": {
+                "text": "13",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "228",
+              "textBlock": {
+                "text": "4,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "229",
+              "textBlock": {
+                "text": "2,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "230",
+              "textBlock": {
+                "text": "Π",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "231",
+              "textBlock": {
+                "text": "≤ 4,2 0,8...1,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "232",
+              "textBlock": {
+                "text": "Kuorma-auto. Paloauton mitat ovat samaa luokkaa kuin kuorma-auton.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "233",
+              "textBlock": {
+                "text": "7,8",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "234",
+              "textBlock": {
+                "text": "\\le25,25",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "235",
+              "textBlock": {
+                "text": "1,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "236",
+              "textBlock": {
+                "text": "4,6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "237",
+              "textBlock": {
+                "text": "1,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "238",
+              "textBlock": {
+                "text": "5,2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "239",
+              "textBlock": {
+                "text": "1,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "240",
+              "textBlock": {
+                "text": "5,9",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "241",
+              "textBlock": {
+                "text": "\\le13,6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "242",
+              "textBlock": {
+                "text": "\\le12,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "243",
+              "textBlock": {
+                "text": "1,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "244",
+              "textBlock": {
+                "text": "5,6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "245",
+              "textBlock": {
+                "text": "1,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "246",
+              "textBlock": {
+                "text": "3,6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "247",
+              "textBlock": {
+                "text": "\\le8,15",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "248",
+              "textBlock": {
+                "text": "(0)",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "249",
+              "textBlock": {
+                "text": "1,41,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "250",
+              "textBlock": {
+                "text": "2,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "251",
+              "textBlock": {
+                "text": "1,0...1,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "252",
+              "textBlock": {
+                "text": "≤ 4,2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "253",
+              "textBlock": {
+                "text": "Kuorma-auton ja varsinaisen perävaunun yhdistelmä. Moduuliyhdistelmä on kuorma-auton ja perävaunun tai kuorma-auton ja kahden perävau- nun yhdistelmä, jonka enimmäispituus on 25,25 m.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "254",
+              "textBlock": {
+                "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "255",
+              "textBlock": {
+                "text": "jäteauto",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "256",
+              "textBlock": {
+                "text": "लण",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "257",
+              "textBlock": {
+                "text": "1,3 3,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "258",
+              "textBlock": {
+                "text": "1,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "259",
+              "textBlock": {
+                "text": "6,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "260",
+              "textBlock": {
+                "text": "\\le16,5 \\le13,6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "261",
+              "textBlock": {
+                "text": "kuorma-auton ja puoliperävaunun yhdistelmä",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "262",
+              "textBlock": {
+                "text": "8,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "263",
+              "textBlock": {
+                "text": "4,2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "264",
+              "textBlock": {
+                "text": "VI",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "265",
+              "textBlock": {
+                "text": "1,41,4 2,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "266",
+              "textBlock": {
+                "text": "9,2...10,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "267",
+              "textBlock": {
+                "text": "1,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "268",
+              "textBlock": {
+                "text": "4,6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "269",
+              "textBlock": {
+                "text": "2,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "270",
+              "textBlock": {
+                "text": "1,5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "271",
+              "textBlock": {
+                "text": "4,1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "272",
+              "textBlock": {
+                "text": "1,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "273",
+              "textBlock": {
+                "text": "3,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "274",
+              "textBlock": {
+                "text": "VL/1/toukokuu 2016/Rakennustieto Oy Rakennustietosäätiö RTS 2016",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "275",
+              "textBlock": {
+                "text": "1,0...1,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "276",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "277",
+              "textBlock": {
+                "text": "≤ 4,2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "278",
+              "textBlock": {
+                "text": "≤ 4,2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "279",
+              "textBlock": {
+                "text": "Kuva 5. Kuorma-auton, ajoneuvoyhdistelmien ja jäteautojen mittoja. Leveys esitetään kohdassa 1.4. Mittakaava 1:200. Tapauskohtaisesti tilojen suunnittelua varten selvitetään suunnittelukohteessa käytettävä kalusto. Jäteauton kuormauslaitteen liikkumiseen tarvittava tila on piirroksessa esitettyä 4,2 metriä korkeampi, mikä tilojen suunnittelussa otetaan huomioon. Jätehuollon tyhjennyskaluston tilantarpeita esitetään ohjeessa RT 69-11190 Asuinkiinteistön jätehuolto.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "280",
+              "textBlock": {
+                "text": "1,0...1,2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "281",
+              "textBlock": {
+                "text": "≤ 4,2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "282",
+              "textBlock": {
+                "text": "ohjeet 5",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "283",
+              "textBlock": {
+                "text": "3,75",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "284",
+              "textBlock": {
+                "text": "RT 98-11213 ΚΗ 91-00586 Infra 64-710157",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "285",
+              "textBlock": {
+                "text": "12,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "286",
+              "textBlock": {
+                "text": "3,7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "287",
+              "textBlock": {
+                "text": "面",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "288",
+              "textBlock": {
+                "text": "6,75",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "289",
+              "textBlock": {
+                "text": "6,0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "290",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "291",
+              "textBlock": {
+                "text": "1,41,3 2,4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "292",
+              "textBlock": {
+                "text": "3,3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "293",
+              "textBlock": {
+                "text": "4,95",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "294",
+              "textBlock": {
+                "text": "pituus 12 m korkeus 3,7 m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "295",
+              "textBlock": {
+                "text": "Leveys tukijaloista 6 m ulottuma 19 m",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "296",
+              "textBlock": {
+                "text": "kääntyessä ulkosäde 12,5 m, sisäsäde 5,5 m kokonaismassa 32 t",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "297",
+              "textBlock": {
+                "text": "etuakselimassa 8 t",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "298",
+              "textBlock": {
+                "text": "Kuva 6. Pelastusauton mittoja. Pelastustien suunnitteluohjeita on mm. näissä julkaisuissa: Pelastustien suunnittelu ja toteutus. Helsingin kau- pungin pelastuslaitos. Ohje 36/16/RIHOS ja Helsingin kaupungin Kaupunkisuunnitteluviraston julkaisu 2007:5 Helsinkiläinen kerrostalopiha.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 2,
+            "pageEnd": 6
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "299",
+      "textBlock": {
+        "text": "2.2 Kääntyminen",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "300",
+          "textBlock": {
+            "text": "Kuvissa 7...12 esitetään ajoneuvon ja ajoneuvoyhdistelmän kääntyvyyksiä kääntösäteinä. Ajoneuvojen koot ja kääntyvyy- det vaihtelevat yleisesti paljon mitoitusajoneuvon arvoista sekä suurempiin että pienempiin arvoihin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "301",
+          "textBlock": {
+            "text": "Kääntösäde on kääntöpyörien ääriasennossa ollessa korin uloimmaisen pisteen kiertämän ympyrän säde. Kuvissa on esitetty kääntösäteet ja tarvittava esteetön ajovara (a). Ajova- ralla näissä kuvissa tarkoitetaan etäisyyttä korkeaan kiinteään esteeseen, joten se ei koske alle 120 mm korkeaa reunakiveä. Ajoväylän mitoitusohjeita esitetään ohjeessa RT 98-11214, KH 91-00587, Infra 63-710156 Ajoväylät, hitaasti liikennöitävät.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "302",
+          "textBlock": {
+            "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "303",
+          "textBlock": {
+            "text": "6,0",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "304",
+          "textBlock": {
+            "text": "n. 3,0",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "305",
+          "textBlock": {
+            "text": "Kuva 7. Henkilö- ja pakettiauton kääntyvyys. Mittakaava 1:200.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "306",
+          "textBlock": {
+            "text": "Kuva 8. Linja-auton kääntyvyys. Mittakaava 1:200.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "307",
+          "textBlock": {
+            "text": "VL/1/toukokuu 2016/Rakennustieto Oy Rakennustietosäätiö RTS 2016",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "308",
+          "textBlock": {
+            "text": "12,50",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "309",
+          "textBlock": {
+            "text": "3,60",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "310",
+          "textBlock": {
+            "text": "a",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "311",
+          "textBlock": {
+            "text": "a",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "312",
+          "textBlock": {
+            "text": "8,0",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "313",
+          "textBlock": {
+            "text": "n. 4,2",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "314",
+          "textBlock": {
+            "text": "la",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "315",
+          "textBlock": {
+            "text": "ohjeet - 6",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "316",
+          "textBlock": {
+            "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "317",
+          "textBlock": {
+            "text": "RT 98-11213 ΚΗ 91-00586 Infra 64-710157",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "318",
+          "textBlock": {
+            "text": "a",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "319",
+          "textBlock": {
+            "text": "≤ 12,50",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "320",
+          "textBlock": {
+            "text": "\\ge5.30",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "321",
+          "textBlock": {
+            "text": "a",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "322",
+          "textBlock": {
+            "text": "Kuva 9. Nivellinja-auton kääntyvyys. Mittakaava 1:200. Kaksinivelisen linja-auton kääntyvyys tulee tutkia erikseen.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "323",
+          "textBlock": {
+            "text": "Kuva 10. Kuorma-auton kääntyvyys. Mittakaava 1:200.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "324",
+          "textBlock": {
+            "text": "11,70",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "325",
+          "textBlock": {
+            "text": "3,50",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "326",
+          "textBlock": {
+            "text": "a",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "327",
+          "textBlock": {
+            "text": "a",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "328",
+          "textBlock": {
+            "text": "≤ 12,50",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "329",
+          "textBlock": {
+            "text": "≥ 5,30",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "330",
+          "textBlock": {
+            "text": "Kuva 11. Kuorma-auton ja puoliperävaunun yhdistelmän kääntyvyys. Mittakaava 1:200.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "331",
+          "textBlock": {
+            "text": "VL/1/toukokuu 2016/Rakennustieto Oy Rakennustietosäätiö RTS 2016",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "332",
+          "textBlock": {
+            "text": "a",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "333",
+          "textBlock": {
+            "text": "a",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "334",
+          "textBlock": {
+            "text": "ohjeet - 7",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 7,
+            "pageEnd": 7
+          }
+        }, {
+          "blockId": "335",
+          "textBlock": {
+            "text": "RT 98-11213 ΚΗ 91-00586 Infra 64-710157",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "336",
+          "textBlock": {
+            "text": "2,0",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "337",
+          "textBlock": {
+            "text": "a",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "338",
+          "textBlock": {
+            "text": "12,50",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "339",
+          "textBlock": {
+            "text": "Kuva 12. Kuorma-auton ja varsinaisen perävaunun yhdistelmän kääntyvyys. Mittakaava 1:200.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "340",
+          "textBlock": {
+            "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "341",
+          "textBlock": {
+            "text": "Kuva 13. Traktorin kääntyvyys. Mittakaava 1:200.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "342",
+      "textBlock": {
+        "text": "KIRJALLISUUTTA",
+        "type": "heading-1"
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "343",
+      "textBlock": {
+        "text": "Lait",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "344",
+          "textBlock": {
+            "text": "Ajoneuvolaki 1090/2002.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "345",
+      "textBlock": {
+        "text": "Asetukset",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "346",
+          "textBlock": {
+            "text": "Valtioneuvoston asetus ajoneuvojen käytöstä tiellä annetun asetuk- sen muuttamisesta 407/2013 ja 1612/2015.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "347",
+      "textBlock": {
+        "text": "RT-ohjeet",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "348",
+          "textBlock": {
+            "text": "RT 69-11190 Asuinkiinteistön jätehuolto. 2015. 8 s.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "349",
+          "textBlock": {
+            "text": "RT 98-11180, Infra 63-710140 Jalankulku- ja pyöräilyväylät. 2015. 24 s. RT 98-11207, KH 91-00584, Infra 64-710150 Polkupyörien pysäköinti ja säilytys. 2016. 15 s.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "350",
+          "textBlock": {
+            "text": "RT 98-98-11214, ΚΗ 91-00587, Infra 63-710156 Ajoväylät, hitaasti liikennöitävät. 2016. 11 s.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }, {
+      "blockId": "351",
+      "textBlock": {
+        "text": "Ohjejulkaisuja",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "352",
+          "textBlock": {
+            "text": "Pelastustien suunnittelu ja toteutus. Helsingin kaupungin pelastuslai- tos. Ohje 36/16/RIHOS. Ohje on laadittu yhteistyössä Itä-Uudenmaan pelastuslaitoksen, Keski-Uudenmaan pelastuslaitoksen ja Länsi- Uudenmaan pelastuslaitoksen kanssa. 7 s.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "353",
+          "textBlock": {
+            "text": "Helsingin",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "354",
+          "textBlock": {
+            "text": "Helsinkiläinen kerrostalopiha. Kaupunkisuunnitteluvirasto. Julkaisu 2007:5. 77 s.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "355",
+          "textBlock": {
+            "text": "VL/1/toukokuu 2016/Rakennustieto Oy Rakennustietosäätiö RTS 2016",
+            "type": "footer"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "356",
+          "textBlock": {
+            "text": "kaupunki.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "357",
+          "textBlock": {
+            "text": "Tämän ohjeen on laatinut Rakennustietosäätiö RTS:n toimikunta TK 362 Pysäköintitilat",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "358",
+          "textBlock": {
+            "text": "Harri Haantio, projektipäällikkö, Trafix Oy",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "359",
+          "textBlock": {
+            "text": "Christer Hede, toimitusjohtaja, EuroPark Finland Oy",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "360",
+          "textBlock": {
+            "text": "Ville Keskisaari, suunnittelija, Ramboll Finland Oy",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "361",
+          "textBlock": {
+            "text": "Juho Kero, liikennesuunnittelija, Trafix Oy",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "362",
+          "textBlock": {
+            "text": "Niina Kilpelä, arkkitehti, Invalidiliitto ry",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "363",
+          "textBlock": {
+            "text": "Mikko Lahikainen, toimitusjohtaja, arkkit., Parviainen Arkkitehdit Oy Ltd",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "364",
+          "textBlock": {
+            "text": "Heikki Leppänen, dipl.ins., rak.arkkit., puheenjohtaja",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "365",
+          "textBlock": {
+            "text": "Thomas Meyer, lupa-arkkitehti, Espoon kaupunki, rakennusvalvonta",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "366",
+          "textBlock": {
+            "text": "Veikko Mäkipaja, arkkitehti, Arkkitehdit Hannunkari \u0026 Mäkipaja Architects Juha Seppälä, hankekehityspäällikkö, NCC Rakennus Oy",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "367",
+          "textBlock": {
+            "text": "Ilkka Rekonen, lupapäällikkö, arkkit., Vantaan kaupunki, Rakennusvalvonta Timo Meuronen, toimitusjohtaja, Aihio Arkkitehdit Oy",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "368",
+          "textBlock": {
+            "text": "Asko Takala, arkkitehti, Kirsti Sivén @ Asko Takala Arkkitehdit Oy",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "369",
+          "textBlock": {
+            "text": "Mikko Vuorinen, johtava konsultti, Kaupunkiliikenne, Sito Oy Viljo Lukkarinen, projektipäällikkö, Rakennustieto Oy, sihteeri.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }, {
+          "blockId": "370",
+          "textBlock": {
+            "text": "ohjeet 8",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 8,
+            "pageEnd": 8
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 8,
+        "pageEnd": 8
+      }
+    }]
+  }
+}
