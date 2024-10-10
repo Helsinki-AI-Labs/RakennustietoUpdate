@@ -65,7 +65,7 @@ def main() -> None:
 
     folder_path = "sections_json"
 
-    for filename in os.listdir(folder_path):
+    for filename in os.listdir(folder_path)[:1]:
         if not filename.endswith(".json"):
             continue
 
@@ -89,10 +89,6 @@ def main() -> None:
             identifier = f"{filename} - Section {index}"
             print(f"\n\nProcessing {identifier} with new-construction-law.txt:")
             run_prompt(new_construction_law, combined_content, output_file, identifier)
-
-    print(
-        "\nAnalysis complete. Output files have been saved in the 'output' directory."
-    )
 
 
 if __name__ == "__main__":
