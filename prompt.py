@@ -57,40 +57,10 @@ vuutta.
 maan myös liikuntarajoitteisten ja ikäihmisten toimimi-
 nen asunnossa.
 
-Päivitystarve:
+c. Päivitystarve:
 Uuteen lakiin kirjattu, että makuuhuoneessa tulee olla ikkuna luonnon valon saamiseksi.
 
-d. Ehdotus uudeksi sisällöksi:
-3.1 Makuuhuoneet
-Mitoitus
-Suomalaisessa asuntorakentamisessa pinta-alat ovat
-melko pieniä ja makuuhuoneet ovat yleensä suhteellisen
-tiukasti mitoitettuja.
-Makuuhuoneet on totuttu jaottelemaan kahteen ryhmään:
-• Suurempiin eli kahden hengen makuuhuoneisiin, koko
-noin 10...16 m2
-• Pienempiin eli yhdenhengen makuuhuoneisiin, koko
-noin 7...12 m2
-Sijoittuminen, kulkuyhteydet ja mitoitus
-• Makuuhuoneet pyritään sijoittamaan asunnon pohjoisen-
-puoleiseen osaan, jotta auringonvalo ja lämpö häiritse-
-vät mahdollisimman vähän nukkumista.
-• Suora yhteys makuuhuoneista eteis- tai kulkutiloihin pa-
-rantaa asunnon käytettävyyttä.
-• Makuuhuoneiden välittömään läheisyyteen pyritään si-
-joittamaan myös peseytymis- ja wc-tilat.
-• Makuuhuoneen viihtyvyyttä lisää kulku makuuhuonees-
-ta ulkotiloihin.
-• Kahden lapsen iso yhteinen makuuhuone voidaan jakaa
-kahdeksi erilliseksi tilaksi.
-• Kalustuksen muunneltavuus ja väljä mitoitus tuo jousta-
-vuutta.
-• Mitoituksella ja esteettömyydellä pystytään ratkaise-
-maan myös liikuntarajoitteisten ja ikäihmisten toimimi-
-nen asunnossa.
-• Makuuhuoneessa tulee olla ikkuna luonnonvalon saamiseksi.
-
-e.Viittaus uuteen lakiin:
+d.Viittaus uuteen lakiin:
 40 § Asuin-, majoitus- ja työtilat
 
 ####
@@ -108,10 +78,7 @@ Rakennushankkeeseen ryhtyvä on velvollinen rakentamista tai purkamista koskevas
 c. Päivitystarve:
 Uuden lain 16 §:n mukaan rakennusjätteen selvityksessä tulee ilmoittaa myös arviot syntyvistä purkumateriaaleista, ja tämä selvitys on päivitettävä hankkeen valmistuttua. Lisäksi selvitys on tallennettava Suomen ympäristökeskuksen ylläpitämään tietokantaan. Tämän kohdan tiedot tulee päivittää vastaamaan uusia velvoitteita.
 
-d. Ehdotus uudeksi sisällöksi:
-Rakennushankkeeseen ryhtyvä on velvollinen rakentamista tai purkamista koskevassa lupahakemuksessa tai ilmoituksessa esittämään selvityksen rakennusjätteen määrästä, laadusta, sen lajittelusta sekä arviot syntyvistä purkumateriaaleista. Tämä selvitys tulee päivittää hankkeen valmistuttua. Lisäksi selvitys on tallennettava Suomen ympäristökeskuksen ylläpitämään tietokantaan.
-
-e.Viittaus uuteen lakiin:
+d.Viittaus uuteen lakiin:
 16 § Purkumateriaali- ja rakennusjäteselvitys
 ####
 
@@ -130,10 +97,7 @@ Asunnossa tulee ottaa huomioon myös runko- ja askelääneneristysvaatimusten t�
 c. Päivitystarve:
 Uuteen lakiin on kirjattu vaatimus, että melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa.
 
-d. Ehdotus uudeksi sisällöksi:
-Rakennushankkeeseen ryhtyvä on velvollinen rakentamista tai purkamista koskevassa lupahakemuksessa tai ilmoituksessa esittämään selvityksen rakennusjätteen määrästä, laadusta, sen lajittelusta sekä arviot syntyvistä purkumateriaaleista. Tämä selvitys tulee päivittää hankkeen valmistuttua. Lisäksi selvitys on tallennettava Suomen ympäristökeskuksen ylläpitämään tietokantaan.
-
-e.Viittaus uuteen lakiin:
+d.Viittaus uuteen lakiin:
 36 § § Meluntorjunta ja ääniolosuhteet
 
 Begin your analysis now, and present your findings as instructed above.
