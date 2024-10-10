@@ -1,17 +1,18 @@
 def create_prompt(new_law_part: str, old_manual_content: str) -> str:
     return f"""
-You are tasked with comparing a new construction law text against an existing construction instruction manual to identify sections of the manual that need to be updated. Both documents are in Finnish.
+You are given an update Finnish construction law and a section of an existing construction manual. 
+You task is to compare the new construction law text against an existing construction instruction manual to identify sections of the manual that need to be updated. Both documents are in Finnish.
 
 New construction law:
     {new_law_part}
 
-Old construction manual:
+Old construction manual section:
   {old_manual_content}
 
 Please follow these steps to complete the task:
 1. Carefully read and analyze the new construction law text.
-2. Review the old construction instruction manual thoroughly. Pay attention to sections that no longer comply with the new construction law text.
-3. Compare the content of the old manual with the new law requirements. Look for discrepancies, outdated information, or sections that no longer comply with the new regulations.
+2. Review the old construction instruction manual section thoroughly. Pay attention to anything that no longer comply with the new construction law text.
+3. Compare the content of the old manual with the new law requirements. Look for discrepancies, outdated information, or parts that no longer comply with the new regulations.
 4. For each section of the manual that needs updating, provide the following information:
    a. The section number or title in the old manual
    b. Extract all the text from the section in the old manual that needs to be updated. Return only the extracted section text and nothing else

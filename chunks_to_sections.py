@@ -188,9 +188,6 @@ def convert_json_to_json_array(
     page_count = get_max_page_end(blocks)
 
     active_heading_levels = determine_active_heading_levels(blocks, page_count)
-    print(f"Input file: {input_file}")
-    print(f"Page count: {page_count}")
-    print(f"Active heading levels: {active_heading_levels}")
 
     sections: List[Dict[str, Any]] = []
     previous_type: List[str] = []

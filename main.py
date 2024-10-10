@@ -30,23 +30,20 @@ def run_prompt(
 ) -> None:
     prompt = create_prompt(new_law_part, combined_content)
 
-    stream = client.chat.completions.create(
+    completion = client.chat.completions.create(
         model="gpt-4o-2024-08-06",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.0,
-        stream=True,
     )
 
     with open(output_file, "a", encoding="utf-8") as f:
-        f.write(f"\n\nAnalysis for {identifier}:\n")
-        f.write(f"**Input Content:**\n{combined_content}\n\n")
-        f.write(f"**Model Output:**\n")
-        for chunk in stream:
-            if chunk.choices[0].delta.content is not None:
-                content = chunk.choices[0].delta.content
-                print(content, end="")
-                f.write(content)
-        f.write("\n\n####\n\n")
+        f.write("\n\n====================================\n\n")
+        f.write(f"\nTEXT SECTION:\n{combined_content}\n\nSUGGESTED CHANGES:\n")
+        content = completion.choices[0].message.content
+        print(content)
+        f.write(content)
+
+    print(f"Analysis complete for {identifier}. Output saved to {output_file}")
 
 
 def combine_title_content(section: dict) -> str:
@@ -60,12 +57,12 @@ def main() -> None:
     with open("new-construction-law.txt", "r", encoding="utf-8") as file:
         new_construction_law: str = file.read()
 
-    output_dir = "../output"
+    output_dir = "./results"
     os.makedirs(output_dir, exist_ok=True)
 
     folder_path = "sections_json"
 
-    for filename in os.listdir(folder_path)[:1]:
+    for filename in os.listdir(folder_path):
         if not filename.endswith(".json"):
             continue
 
@@ -81,8 +78,7 @@ def main() -> None:
             output_dir, f"analysis_{os.path.splitext(filename)[0]}.txt"
         )
         with open(output_file, "w", encoding="utf-8") as f:
-            f.write(f"Analysis for {filename}\n")
-            f.write("====================================\n")
+            f.write(f"Source File: {filename}\n")
 
         for index, section in enumerate(sections, start=1):
             combined_content = combine_title_content(section)
