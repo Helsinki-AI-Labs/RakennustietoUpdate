@@ -1,0 +1,45 @@
+2 RAKENTAMISEN YLEISIÄ EDELLYTYKSIÄ 2.1 Huolehtimisvelvollisuus
+• MRL 119 §
+• MRA 74 §, 76 §
+Rakennushankkeeseen ryhtyvän käytettävissä tulee olla riittävän ajoissa suunnittelutehtävän vaativuutta vastaavasti pätevyysvaatimukset täyttävät suunnittelijat. Rakentamista koskevan suunnitelman lähtökohdista ja suunnittelijoiden nimeämisestä on suotavaa neuvotella rakennusvalvontaviranomaisen kanssa suunnittelua aloitettaessa. Rakennushankkeeseen ryhtyvän on huolehdittava siitä, että suunnittelu ja rakentaminen toteutuu säännösten ja määräysten sekä myönnetyn luvan mukaisesti.
+2.2 Viranomaisvalvonta
+• MRL 124 §
+• MRA 4 § , 76 §
+Kunnan rakennusvalvontaviranomaisen tehtävänä on yleisen edun kannalta valvoa rakennustoimintaa sekä osaltaan huolehtia, että rakentamisessa noudatetaan, mitä maankäyttöja rakennuslaissa tai sen nojalla säädetään tai määrätään.
+Valvontatehtävän laajuutta ja laatua harkittaessa otetaan huomioon rakennushankkeen vaativuus, luvan hakijan ja hankkeen suunnittelusta ja toteuttamisesta vastaavien henkilöiden asiantuntemus ja ammattitaito sekä muut valvonnan tarpeeseen vaikuttavat seikat.
+2.3 Suunnittelijoiden kelpoisuus
+• MRL 123 § • MRA 48 §
+Suunnittelijan koulutus ja kokemus yhdessä muodostavat suunnittelijan pätevyyden. Vaadittava kelpoisuus määräytyy suunnittelijan riittävästä pätevyydestä suhteessa kulloisenkin suunnittelutehtävän vaativuuteen. Suunnittelijoiden kelpoisuuden arvioimiseksi RakMK osassa A2 esitetään suunnittelutehtävien luokitus vaativuuden mukaan ja kuhunkin luokkaan tarvittava suunnittelijan pätevyys.
+Kunnan rakennusvalvontaviranomaisen asia on arvioida suunnittelijoiden kelpoisuus rakennuslupakohtaisesti rakennushankkeen laadun ja vaativuuden sekä ympäristön asettamat vaatimukset huomioon ottaen
+• rakennussuunnittelijan kelpoisuus eli koulutus ja kokemus,
+• erityissuunnittelijoiden kelpoisuus eli koulutus ja kokemus.
+Korjausja muutostyössä otetaan arvioinnissa lisäksi huomioon olemassa olevan rakennuksen asettamat lähtökohdat.
+Pääsuunnittelijan kelpoisuuden tulee hankkeessa olla vähintään samaa tasoa kuin hankkeen vaativimpaan suunnittelutehtävään tarvittava kelpoisuus.
+
+2.4 Rakennuksen suunnittelu
+• MRL 116 §, 117 §, 118 §, 120 § • MRA 49 §
+Rakennuksen suunnittelija vastaa suunnitelmansa sisällöstä ja siitä, että se täyttää lain, määräysten ja hyvän rakennustavan vaatimukset. Pääsuunnittelija vastaa ja huolehtii siitä, että rakennussuunnitelma ja erityissuunnitelmat muodostavat kokonaisuuden, joka täyttää sille asetetut vaatimukset sekä yhdessä rakennushankkeeseen ryhtyvän kanssa hankkeen laadun ja vaativuuden mukaan huolehtii, että
+•	käytössä olevat lähtötiedot ovat ristiriidattomat ja ajantasalla ja saatettu muiden suunnittelijoiden tietoon,
+•	eri alojen suunnittelijoilla on tieto suunnitelmien vastuunjaosta,
+•	eri alojen suunnittelijoiden yhteistyö on järjestetty,
+•	suunnittelulle on varattu riittävästi aikaa,
+•	tarvittavat suunnitelmat tehdään ja ovat yhteensopivia ja ristiriidattomia. RakMK A2.
+Suunnittelijan on mitoitettava resurssinsa esimerkiksi muut meneillä olevat hankkeet, ko. rakennushanketta varten. Pääsuunnittelija huolehtii osaltaan, että laaditussa aikataulussa on suunnittelulle varattu riittävästi aikaa.
+Erityissuunnitelmia ei lupakäsittelyssä varsinaisesti tarkasteta, vaan suunnittelija vastaa siitä, että suunnitelmat täyttävät niille asetetut vaatimukset.
+2.5 Ennakkoneuvottelut
+Ennen rakennushankkeeseen ryhtymistä on tarpeen neuvotella rakennusvalvontaviranomaisen kanssa. Tällöin selvitetään luvanvaraisuus, mitä lupia tarvitaan ja minkä viranomaisen toimivaltaan rakennushanke kuuluu. Ennakkoon neuvotellaan myös lähtökohdista sekä suunnittelijoiden valinnasta jo ennen suunnittelun aloittamista ja rakennuslupahakemuksen sisällejättämistä.
+Suuren ja merkittävän hankkeen yhteydessä pidetään useampia ennakkoneuvotteluja, joissa ovat mukana kaikki suunnittelijat ja tarvittavat viranomaistahot, esimerkiksi ympäristökeskus, pelastuslaitos, kaupunginmuseo, geotekninen osasto. Ennakkoneuvotteluissa voidaan myös harkita, onko hanke sellainen, että sitä voidaan käsitellä muiden kuin pääpiirustusten perusteella.
+Ennakkoneuvotteluissa voidaan käsitellä seuraavia hankkeeseen liittyvät asioita
+• rakennushankkeen vaativuus
+• suunnitelman lähtökohdat ja suunnittelijoiden kelpoisuus
+• kaavoitustilanne, rakennuskiellot ja -rajoitukset
+• ympäristöön soveltuvuus
+• ympäristöja suojelukysymykset
+• mahdolliset muut luvat, mm. ympäristöluvan tarpeellisuus
+• kiinteistön muodostusja kiinteistörekisteriasiat
+• erityiskysymyksinä
+– poikkeamiset ja päätösten hakeminen, rasitteet
+– geotekniset seikat, pohjavesi, pilaantuneet maat
+– palotekniset, rakenteelliset ja äänitekniset ratkaisut
+– Ivv-jakvv-kysymykset,vss-tarve,liikkumisesteettömyysjne.
+• tarvittavatennakkolausunnot,esimerkiksirakennushistoriallisista, kaupunkikuvallisista tai teknillisistä seikoista, turvallisuusja terveellisyysvaatimuksista jne.

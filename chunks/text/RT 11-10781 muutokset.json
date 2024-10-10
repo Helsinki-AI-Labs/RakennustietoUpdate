@@ -1,0 +1,3942 @@
+[
+    {
+        "text": "RT RT 11-10781 ohjetiedosto lokakuu 2002 1 (12) LUVAN HAKEMINEN RAKENTAMISEEN"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "97413930ca64174b14c0c0fbc75dd3a5",
+        "text": "rakennuslupa, toimenpidelupa, ilmoitusmenettely, purkamislupa, maisematyölupa, poikkeaminen bygglov, åtgärdstillstånd, anmälningsförfarande, rivningslov, tillstånd för miljöåtgärder, undantag building licenses",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 1,
+            "parent_id": "33b37630e91142d1684230edcdb41f10",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8cf8ff6120ab3b06c6ff2f7755796b42",
+        "text": "Tässä ohjekortissa esitetään lyhyesti maankäyttö-jarakennuslainmukaistalu- pakäytäntöärakentamisessa,jokakuuluu rakennusvalvontaviranomaisten toimival- taan.Lisäksiannetaan ohjeita rakennus- luvanhakemiseen,erilaistensuunnitelmi- en,selvitystenjaohjeidentarpeisiinsekä asiakirjamenettelyyn.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 1,
+            "parent_id": "6db18742e42fb5f54e981357dd2371c6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "SISÄLLYSLUETTELO JOHDANTO 2 RAKENTAMISEN YLEISIÄ EDELLYTYKSIÄ 2.1 Huolehtimisvelvollisuus 2.2 Viranomaisvalvonta 2.3 Suunnittelijoiden kelpoisuus 3.3 Rakennuslupahakemuksen käsittely 3.4 Lupa- ja valvontamaksu 3.5 Aloittamisoikeus 4 RAKENNUSLUPA TOIMENPIDELUPA ILMOITUSMENETTELY 6 ILMOITUSMENETTELY 2.4 Rakennuksen suunnittelu PURKAMISLUPA JA -ILMOITUS 2.5 Ennakkoneuvottelut 8 MAISEMATYÖLUPA 3 LUPAMENETTELY 3.1 Naapurien kuuleminen SUUNNITTELUTARVERATKAISU JA POIKKEAMINEN 3.2 Rakennuslupahakemus KIRJALLISUUTTA hankeidea ennakkoneuvottelut wim |rakennustupa aloituskokous tarkastukset, lopputarkastus ENNAKKONEUVOTTELU NAAPURIEN KUULEMINEN ALOITUSKOKOUS KORJAUS- JA MUU- kaavatilanne LAUSUNNOT rakennushankkeeseen ryhtyvä TOSRAKENTAMINEN mahdollinen rakennuskielto ennen rakennuslupa- rakennusvalvontaviranomainen vuosi- ja huolto- rakennussuojelutavoitteet asiakirjojen jättämistä pääsuunnittelija korjaukset muiden lupien tarve naapurien rakennushankkeet kaupunkikuvalliset tavoitteet pohjaolosuhteet jne. ENNAKKONEUVOTTELU suunnittelijan / suunnittelijoiden kelpoisuus ratkaisun lähtökohdat ja erityisvaatimukset suunnitelman toimivuus ja tarkoituksenmukaisuus RAKENNUSLUPAHAKE- MUKSEN KÄSITTELY lupa- ja valvonta- maksu aloittamisoikeus vastaava työnjohtaja kirjataan velvoitteet vastuuhenkilöt tarkastuksia suorittavat henkilöt selvitykset ja toimenpiteet raken- tamisen laadun huolehtimiseksi laadunvarmistusselvitys luvanvaraiset korjauk- set ja muutokset rakennuslupa toimenpidelupa kaupunkikuvalliset ja rakennushistorialliset seikat ympäristöön soveltuvuus erityisselvitysten tarve jne. TARVE- SELVITYS HANKE- SUUNNITTELU LUONNOS- SUUNNITTELU TOTEUTUS SUUNNITTELU RAKENTAMINEN HANKINNAT KÄYTTÖÖN- OTTO KÄYTTÖ TOIMINTA käyttäjä / rakennuttaja pääsuunnittelija rakennussuunnittelija pohjarakennussuunnittelija rakennesuunnittelija n kun nn Z LVI- ja sähkösuunnittelija sisustussuunnittelija palourvallisuussuunnittelija / muut suunnittelijat"
+    },
+    {
+        "type": "Title",
+        "element_id": "49fa5c5a5490f9a33168a54e4cc4e0e0",
+        "text": "rakennusvalvontaviranomainen / ympäristökeskus / pelastuslaitos / museoviranomainen / museovirasto / geotekninen osasto",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 1,
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "rakentaja Kuva 1."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "aca2a7a45f1e373aa37dbdf6ec19792c",
+        "text": "Kaavio rakennusluvan liittymisestä hankkeen vaiheisiin ja osapuoliin.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 1,
+            "parent_id": "c7f168d2a259d0edb7e196f7bff8b6d5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "RT 11-10781 ohjetiedosto 1 JOHDANTO"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ce38e7ec94e8a2b881d9e02a637057e8",
+        "text": "Rakentamisen luvanvaraisuuden sekä lupajärjestelmän perus- tana on Maankäyttö-jarakennuslain132/1999luvut17,18ja 19sekä Maankäyttö-jarakennusasetuksen895/1999luku11. Tässä RT-ohjekortissa käsitellään tavanomaisia rakentamisen vaatimia lupia, joita ovat rakennus-, toimenpide-, purkamis- ja maisematyölupa sekä ilmoitus- ja poikkeamismenettelyt. Kun- kin otsikon alla viitataan niihin lain ja asetuksen pykäliin, joissa ko. lupa-asia on esitetty kokonaisuudessaan.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "30e1fede6e563c95d701ad394d081a91",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c49e89c0e4a881ced1be425ce682c908",
+        "text": "Suomen rakentamismääräyskokoelman osan RakMK A2 Rakennuksensuunnittelijatjasuunnitelmat määräykset ja oh- jeet täydentävät maankäyttö- ja rakennuslakia ja -asetusta suunnittelun, suunnitelmien sisällön ja esitystavan sekä raken- nushankkeeseen ryhtyvän huolehtimisvelvollisuuden osalta. Lisäksi rakennushankkeessa noudatettavia muita säännöksiä ja määräyksiä ovat mm.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "30e1fede6e563c95d701ad394d081a91",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• yleis- ja asemakaava,"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2bd688e40b0576c3b30aac4f45422fe5",
+        "text": "• Suomen rakentamismääräyskokoelman muut osat ja",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "30e1fede6e563c95d701ad394d081a91",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• kuntien rakennusjärjestykset šsekä sekä mm. • pelastustoimeen, • sähköturvallisuuteen, • terveydensuojeluun, • työturvallisuuteen, • väestönsuojien rakentamiseen ja • ympäristönsuojeluun liittyvät säännökset."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "14d0ac42692e5105606fa4622143b07f",
+        "text": "Kunnan rakennusvalvontaviranomaiselle toimitettavista ra- kennuksen suunnitelmista tulee selvitä riittävällä tarkkuudella, että suunnitelma täyttää rakentamiselle asetetut vaatimukset samoin kuin, että suunnitellussa rakentamisessa noudatetaan sitä koskevia säännöksiä ja hyvää rakennustapaa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "e155c856de16511ec1dae4b6608ffda0",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "RAKENTAMISEN YLEISIÄ EDELLYTYKSIÄ 2.1 Huolehtimisvelvollisuus • MRL119 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0bdff4396fabd243e87c41185c69dc32",
+        "text": "• MRA 74 §, 76 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "cc61f9aa6c1ac431cbfaffb772c47dd4",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1ba825f36f69a089e5240de28ab83823",
+        "text": "Rakennushankkeeseen ryhtyvän käytettävissä tulee olla riittä- vän ajoissa suunnittelutehtävän vaativuutta vastaavasti päte- vyysvaatimukset täyttävät suunnittelijat. Rakentamista koske- van suunnitelman lähtökohdista ja suunnittelijoiden nimeämi- sestä on suotavaa neuvotella rakennusvalvontaviranomaisen kanssa suunnittelua aloitettaessa. Rakennushankkeeseen ryhtyvän on huolehdittava siitä, että suunnittelu ja rakentami- nen toteutuu säännösten ja määräysten sekä myönnetyn luvan mukaisesti.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "cc61f9aa6c1ac431cbfaffb772c47dd4",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "2.2 Viranomaisvalvonta • MRL124 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9a9ba552fc92849f33a9fdab0c6c612f",
+        "text": "• MRA 4 § , 76 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "35206354cad1dbfeb62a89c96e414996",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6bbd109912c88fe9c1ffdd13d970b622",
+        "text": "Kunnan rakennusvalvontaviranomaisen tehtävänä on yleisen edun kannalta valvoa rakennustoimintaa sekä osaltaan huo- lehtia, että rakentamisessa noudatetaan, mitä maankäyttö- ja rakennuslaissa tai sen nojalla säädetään tai määrätään.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "35206354cad1dbfeb62a89c96e414996",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "41c91e656610cd75f9ebe46256c6b8c8",
+        "text": "Valvontatehtävän laajuutta ja laatua harkittaessa otetaan huomioon rakennushankkeen vaativuus, luvan hakijan ja hank- keen suunnittelusta ja toteuttamisesta vastaavien henkilöiden asiantuntemus ja ammattitaito sekä muut valvonnan tarpee- seen vaikuttavat seikat.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "35206354cad1dbfeb62a89c96e414996",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "2.3 Suunnittelijoiden kelpoisuus • MRL123 § • MRA 48 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "163d6f2aefc68834ae0b2dfc9150c707",
+        "text": "Suunnittelijan koulutus ja kokemus yhdessä muodostavat suunnittelijan pätevyyden. Vaadittava kelpoisuus määräytyy suunnittelijan riittävästä pätevyydestä suhteessa kulloisenkin suunnittelutehtävän vaativuuteen. Suunnittelijoiden kelpoisuu- den arvioimiseksi RakMKosassa A2esitetään suunnitteluteh- tävien luokitus vaativuuden mukaan ja kuhunkin luokkaan tar- vittava suunnittelijan pätevyys.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "8c112ff05c3589e781954b7aca53ad95",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "be41a0622f2aa746e481bf021bd2e96d",
+        "text": "Kunnan rakennusvalvontaviranomaisen asia on arvioida suunnittelijoiden kelpoisuus rakennuslupakohtaisesti raken- nushankkeen laadun ja vaativuuden sekä ympäristön asetta- mat vaatimukset huomioon ottaen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "8c112ff05c3589e781954b7aca53ad95",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b3108ccd906e0232bf586189b6298069",
+        "text": "• rakennussuunnittelijan kelpoisuus eli koulutus ja kokemus,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "8c112ff05c3589e781954b7aca53ad95",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "501b18ff822d064955c496338f5c2dd2",
+        "text": "• erityissuunnittelijoiden kelpoisuus eli koulutus ja kokemus.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "8c112ff05c3589e781954b7aca53ad95",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e5cdf094b2b3eaccd61175cebfc81c97",
+        "text": "Korjaus- ja muutostyössä otetaan arvioinnissa lisäksi huomi- oon olemassa olevan rakennuksen asettamat lähtökohdat.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "8c112ff05c3589e781954b7aca53ad95",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b6c9afa3c9a6f7a88bca24b3cc1fe01f",
+        "text": "Pääsuunnittelijan kelpoisuuden tulee hankkeessa olla vähin- tään samaa tasoa kuin hankkeen vaativimpaan suunnitteluteh- tävään tarvittava kelpoisuus.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "8c112ff05c3589e781954b7aca53ad95",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "ohjetiedosto RT 11-10781 2.4 Rakennuksen suunnittelu"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "de2b2717253851b9a6e859ed9124bf34",
+        "text": "• MRL116 §, 117 §, 118 §, 120 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "095805b508a299c3808007e39d05b0b1",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• MRA 49 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1380009683194eb0ff3c4bcbb000e590",
+        "text": "Rakennuksen suunnittelija vastaa suunnitelmansa sisällöstä ja siitä, että se täyttää lain, määräysten ja hyvän rakennustavan vaatimukset. Pääsuunnittelija vastaa ja huolehtii siitä, että ra- kennussuunnitelma ja erityissuunnitelmat muodostavat koko- naisuuden, joka täyttää sille asetetut vaatimukset sekä yhdes- sä rakennushankkeeseen ryhtyvän kanssa hankkeen laadun ja vaativuuden mukaan huolehtii, että",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "095805b508a299c3808007e39d05b0b1",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1f2a5b255e2e65cdd34a7e712ac62472",
+        "text": "• käytössä olevat lähtötiedot ovat ristiriidattomat ja ajan tasalla ja saatettu muiden suunnittelijoiden tietoon,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "095805b508a299c3808007e39d05b0b1",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "27b5f03ef2ccda51bcc1fae596775c7c",
+        "text": "• eri alojen suunnittelijoilla on tieto suunnitelmien vastuunjaosta,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "095805b508a299c3808007e39d05b0b1",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "71e476a482a0d5fb2d845db72ec5b5a0",
+        "text": "• eri alojen suunnittelijoiden yhteistyö on järjestetty,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "095805b508a299c3808007e39d05b0b1",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "29ba09c2a595da05463843cf4dedf3f9",
+        "text": "• suunnittelulle on varattu riittävästi aikaa,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "095805b508a299c3808007e39d05b0b1",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "73a8676e9ba5e4f32fa2e7be598f9ca5",
+        "text": "• tarvittavat suunnitelmat tehdään ja ovat yhteensopivia ja risti- riidattomia. RakMK A2.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "095805b508a299c3808007e39d05b0b1",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8b6dec1eb7501e3c78741d9d904bd77a",
+        "text": "Suunnittelijan on mitoitettava resurssinsa esimerkiksi muut meneillä olevat hankkeet, ko. rakennushanketta varten. Pää- suunnittelija huolehtii osaltaan, että laaditussa aikataulussa on suunnittelulle varattu riittävästi aikaa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "095805b508a299c3808007e39d05b0b1",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "27132559dfb8b45f14a9bedf2058bfdd",
+        "text": "Erityissuunnitelmia ei lupakäsittelyssä varsinaisesti tarkasteta, vaan suunnittelija vastaa siitä, että suunnitelmat täyttävät niille asetetut vaatimukset.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "095805b508a299c3808007e39d05b0b1",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "2.5 Ennakkoneuvottelut"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cfa772c9ec5f6b17f90aaef8970a6504",
+        "text": "Ennen rakennushankkeeseen ryhtymistä on tarpeen neuvotel- la rakennusvalvontaviranomaisen kanssa. Tällöin selvitetään luvanvaraisuus, mitä lupia tarvitaan ja minkä viranomaisen toimi- valtaan rakennushanke kuuluu. Ennakkoon neuvotellaan myös lähtökohdista sekä suunnittelijoiden valinnasta jo ennen suunnit- telun aloittamista ja rakennuslupahakemuksen sisällejättämistä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "41fadb53daddda2fa94ba3185d5463cd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9104ba5007404548c8f467495f9be318",
+        "text": "Suuren ja merkittävän hankkeen yhteydessä pidetään useam- pia ennakkoneuvotteluja, joissa ovat mukana kaikki suunnitteli- jat ja tarvittavat viranomaistahot, esimerkiksi ympäristökeskus, pelastuslaitos, kaupunginmuseo, geotekninen osasto. Ennakko- neuvotteluissa voidaan myös harkita, onko hanke sellainen, että sitä voidaan käsitellä muiden kuin pääpiirustusten perusteella.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "41fadb53daddda2fa94ba3185d5463cd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2c666af450d423bf3d08a7c2e4758a78",
+        "text": "Ennakkoneuvotteluissa voidaan käsitellä seuraavia hankkee- seen liittyvät asioita",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "41fadb53daddda2fa94ba3185d5463cd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• rakennushankkeen vaativuus"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a8908bf6201bf7b82fec0d26bdba88ee",
+        "text": "• suunnitelman lähtökohdat ja suunnittelijoiden kelpoisuus",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "41fadb53daddda2fa94ba3185d5463cd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5538acffd551e7462c16a8217a8e03ec",
+        "text": "• kaavoitustilanne, rakennuskiellot ja -rajoitukset",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "41fadb53daddda2fa94ba3185d5463cd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• ympäristöön soveltuvuus • ympäristö- ja suojelukysymykset"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "62ea9d0d17e63d1558768516dd1163c6",
+        "text": "• mahdolliset muut luvat, mm. ympäristöluvan tarpeellisuus",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "41fadb53daddda2fa94ba3185d5463cd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "27357fe8634c96bf4a24b2a4ddf251ed",
+        "text": "• kiinteistön muodostus- ja kiinteistörekisteriasiat",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "41fadb53daddda2fa94ba3185d5463cd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• erityiskysymyksinä"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "75d1c116439e900574fae078fbe4e139",
+        "text": "– poikkeamiset ja päätösten hakeminen, rasitteet",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "41fadb53daddda2fa94ba3185d5463cd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "374c78236bbe8b7a20a149e565efcf4d",
+        "text": "– geotekniset seikat, pohjavesi, pilaantuneet maat – palotekniset, rakenteelliset ja äänitekniset ratkaisut – Ivv- ja kvv-kysymykset, vss-tarve, liikkumisesteettömyys jne.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "41fadb53daddda2fa94ba3185d5463cd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ec6ab296688a0f5927a302d4d111cebc",
+        "text": "• tarvittavat ennakkolausunnot, esimerkiksi rakennushistorial- lisista, kaupunkikuvallisista tai teknillisistä seikoista, turvalli- suus- ja terveellisyysvaatimuksista jne.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "41fadb53daddda2fa94ba3185d5463cd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakennuspaikan vaatimukset MRL 116 § MRA 57 § Rakennuspaikalle asetettuja vaatimuksia ovat asemakaava-alueella"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "420c3eb00e13fce8bd1b07e87cec1f32",
+        "text": "- elinympäristön terveellisyys, turvallisuus ja viihtyisyys",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "1f4a0e2f9f5095c4fc86aff655661278",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "- palvelujen saatavuus - liikenteen järjestäminen asemakaava-alueen ulkopuolella - tarkoitukseen soveltuvuus - rakentamiseen kelpoisuus"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "66c7847c6ec991bfde311bdbd6d753c1",
+        "text": "- riittävä suuruus, vähintään 2000 m",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "1f4a0e2f9f5095c4fc86aff655661278",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "143afd35406cf0faf90b4c5cbe307768",
+        "text": "rakennuspaikalla ei ole tulvan, sortuman tai vyörymän vaaraa. Rakennuksen etäisyys",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "1f4a0e2f9f5095c4fc86aff655661278",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "31bdf0a0544118858617b03699494f36",
+        "text": "palovaarallinen rakennus vähintään 15 m rajasta ja 20 m naapurirakennuksesta",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "1f4a0e2f9f5095c4fc86aff655661278",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6de940634912fa79272a8db1d046335c",
+        "text": "asemakaava-alueen ulkopuolella vähintään 5 m rajasta ja 10 m naapurirakennuksesta ilman suostumusta.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "1f4a0e2f9f5095c4fc86aff655661278",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakentamisen vaatimukset MRL 117 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a0cd45a4e33c604af44a5e912e95b293",
+        "text": "MRA 50 §, 53 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a5f302ad0006e712073c455e5efd74ba",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakennuksen on"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "167835a4503fad3efc44b2b5dbadeb5b",
+        "text": "- sovelluttava ympäristöön ja maisemaan",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a5f302ad0006e712073c455e5efd74ba",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "89ab5d44895f41137a60a7e706870b12",
+        "text": "- täytettävä kauneuden ja sopusuhtaisuuden vaatimukset",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a5f302ad0006e712073c455e5efd74ba",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6cf08dce66e027677bd62ec49b0528bf",
+        "text": "- täytettävä olennaiset tekniset vaatimukset",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a5f302ad0006e712073c455e5efd74ba",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ebd641415328696b3051cf698c6fe327",
+        "text": "- oltava tarkoitustaan vastaava, korjattavissa, huollettavissa ja muunneltavissa",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a5f302ad0006e712073c455e5efd74ba",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7347f876256ab038e2cdc1da78427539",
+        "text": "- sovelluttava käytön mukaan liikkumis- ja toimimisesteisille.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a5f302ad0006e712073c455e5efd74ba",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f4f0dc26a06e355287c33fa14290c1f9",
+        "text": "Korjaus- ja muutostöissä on otettava huomioon rakennuksen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a5f302ad0006e712073c455e5efd74ba",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "- ominaisuudet ja erikoispiirteet - soveltuvuus aiottuun käyttöön."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3f730c74fd439be6838e6371b8e67b99",
+        "text": "Rakentamisen on noudatettava hyvää rakennustapaa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a5f302ad0006e712073c455e5efd74ba",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "219a2816c42362d3b5bd388f74e68f7b",
+        "text": "Rakennus on ekologisilta ominaisuuksiltaan kestävä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a5f302ad0006e712073c455e5efd74ba",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "32a6cc42fecbc86f553a1b2afbc3abc7",
+        "text": "Rakennustaiteen ja kaupunkikuvan vaatimukset sekä rakennuksen kunnossapito",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "8a021a43a8bcefbef1cc4d0678ec6ac9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f5b39c20821fcfafdfdb4682d3948e84",
+        "text": "MRL 118 §, 166 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "32a6cc42fecbc86f553a1b2afbc3abc7",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "MRA 66 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3eea487cd2b61178f048097d27c67b3e",
+        "text": "Rakentaminen, purkaminen, muutos- ja korjaustyöt eivät saa turmella",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "32a6cc42fecbc86f553a1b2afbc3abc7",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "kaupunkikuvaa eikä"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8b82fa194afe40788b09ee98d341eaaa",
+        "text": "historiallisesti tai rakennustaiteellisesti arvokkaita rakennuksia. Rakennus ympäristöineen on pidettävä sellaisessa kunnossa, että se",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "32a6cc42fecbc86f553a1b2afbc3abc7",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "73b62e99f83a7837cfd02487a7febcfa",
+        "text": "täyttää terveellisyyden, turvallisuuden ja käyttökelpoisuuden vaatimukset ei aiheuta ympäristöhaittaa tai rumenna ympäristöä",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "32a6cc42fecbc86f553a1b2afbc3abc7",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Huolehtimisvelvollisuus rakentamisessa MRL 119 §"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "6e935d0c155dc88c70c02006254f720f",
+        "text": "MRA 74 §, 76 § Kohta 2.1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "2b60a816cadb74452c06439048bd1c1f",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Viranomaisvalvonta MRL 124 §"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "272c0618ec79a7acd73d28cdc333256f",
+        "text": "MRA 4 §, 76 § Kohta 2.2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "2b60a816cadb74452c06439048bd1c1f",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakennushankkeessa toimivien kelpoisuus MRL 123 §"
+    },
+    {
+        "type": "Title",
+        "element_id": "c97a7afd4874dbfd9a1dcfd7ce3cd14f",
+        "text": "MRA 48 § Kohta 2.3",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "8a021a43a8bcefbef1cc4d0678ec6ac9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakennuksen suunnittelu MRL 120 §"
+    },
+    {
+        "type": "Title",
+        "element_id": "ad95b7d0aad0dfd54f4a251e4e526acf",
+        "text": "MRA 49 § Kohta 2.4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "8a021a43a8bcefbef1cc4d0678ec6ac9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Aloituskokous MRL 121 § MRA 74 § Ennen rakentamista pidettävässä aloituskokouksessa täsmennetään rakennushankkeeseen ryhtyvän huolehtimisvelvollisuus"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7320e8c6e571c2ece8f37e95bbd1494a",
+        "text": "tutkitaan selvityksen tarve toimenpiteistä rakentamisen laadun varmistamiseksi.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "0298dbe0ecb2cde042c27eaf5dffb61e",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakennustyönjohdon vaatimus MRL 122 § MRA 73 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1ad78bb82cf9c30faddc88ab2a6028c5",
+        "text": "Lupaa tai muuta viranomaishyväksyntää vaativaan työhön tarvitaan rakennusvalvontaviranomaisen hyväksymät",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "350a0be52a31b30698a7574c7f30015e",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "vastaava työnjohtaja"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e6769b3b7ff0da22e4fcd4452502ef2a",
+        "text": "erityisalan ( LVI- ja kvv-työnjohtaja) työnjohtaja vaativuuden mukaan",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "1c379f6d36bcd3f7f2d00b8786a1aa72",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6bc06a60960fe5702daf305cb2815bfb",
+        "text": "rakennusluvassa tai työn aikana määrätyt muiden eritysalojen vastaavat työnjohtajat.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "1c379f6d36bcd3f7f2d00b8786a1aa72",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Kuva 2."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "df7c5f670b80cf16775c325ca4952205",
+        "text": "Rakentamisen yleisiä edellytyksiä sisältäviä MRL:n ja MRA:n kohtia.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "43433febbe9d4f546428d2a958deb8f3",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "RT 11-10781 ohjetiedosto 3 LUPAMENETTELY 3.1 Naapurien kuuleminen • MRL133 § • MRA 65 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5af18cb55a9fabe9c4b2ecaef27260ee",
+        "text": "Rakennushankkeen koko ja sijainti vaikuttavat naapurien kuu- lemistapaan. Kuulemismenettelyjä ovat",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "ed0c9929ea82c56f5f6a8ab500dfc03b",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a971c59cac4cf5149e3eb1970695bf0d",
+        "text": "• rakennuslupahakemuksen vireilletulosta ilmoittaminen naa- pureille",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "ed0c9929ea82c56f5f6a8ab500dfc03b",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "15a5bc7825bb84a84059c473ae68b68b",
+        "text": "• asian vireilläolosta tiedottaminen rakennuspaikalla",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "ed0c9929ea82c56f5f6a8ab500dfc03b",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cc7501edeb91f76c2fc28218828f0dda",
+        "text": "• katselmuksen toimittaminen rakennuspaikalla tarvittaessa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "ed0c9929ea82c56f5f6a8ab500dfc03b",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fab82b08c639c2eb6bf999bc52a686bc",
+        "text": "Luvanhakija voi itse etukäteen tiedottaa rakennuslupahake- muksesta naapureilleen. Tällöin viranomaisille annetaan selvi- tys kirjallisesti siitä, että naapureilla on tieto asiasta ja mahdolli- suus tutustua asiakirjoihin ja piirustuksiin.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "ed0c9929ea82c56f5f6a8ab500dfc03b",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b8f611a7aff521038b25241572a5ac07",
+        "text": "Vaihtoehtoisesti rakennusvalvontaviranomainen voi hakijan kustannuksella lähettää rakennus- tai muun lupahakemuksen vireille tulosta kirjeen rakennuspaikan naapuritonttien haltijoille ja omistajille, joille varataan vähintään kaksi viikkoa postileiman päivämäärästä huomautuksen tekemiseen. Asia voidaan myös hoitaa viran puolesta hakijan kustannuksella kuulutuksella leh- dessä, esimerkiksi kun naapureita on paljon, naapuritontin omistaa suuri perikunta tai naapuri asuu ulkomailla.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "ed0c9929ea82c56f5f6a8ab500dfc03b",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "3.2 Rakennuslupahakemus • MRL131 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6c6392bce7c1c9247fd7f6123d5806b2",
+        "text": "Rakennuslupa haetaan kirjallisesti ja sen hakee rakennuspai- kan haltija, joko omistaja tai hänen valtuuttamansa henkilö tai sitä vuokra- tai muun sopimuksen perusteella hallitseva. Asun- to-osakeyhtiössä luvanhakijana toimii joko yhtiön hallitus tai hallituksen valtuuttama osakkeenomistaja. Rakennuslupaha- kemusasiakirjat koostuvat lupahakemuksesta, pääpiirustuksis- ta ja tarvittavista selvityksistä. Kuva4. Kunta- ja hankekohtai- sesti lisäselvitysten tarve vaihtelee. Kuvat 5 ja 6.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "246dfee571c213a179b86ef966a2a04e",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d2e58549e6f6362e4e19d40837d7a83e",
+        "text": "Rakennussuunnitelmat esitetään RakMK:n osassa A2 an- nettujen määräyksien ja ohjeiden mukaan.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "246dfee571c213a179b86ef966a2a04e",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "%3.3 3.3 Rakennuslupahakemuksen käsittely"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "092544c480c244aa4be800d70a76908c",
+        "text": "• MRL 60 §, 134 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "6917958f245e70fd5902946b80f52cf9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3f565d82f257e236a4484c35ff2b5942",
+        "text": "• MRA6 §, 68 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "6917958f245e70fd5902946b80f52cf9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a3ce1090fbf6dc2719157fac6c50dcfa",
+        "text": "Rakennuslupahakemuksen käsittelyssä tarkastetaan, että ra- kennusluvan edellytykset ovat olemassa. Rakennuspaikalla on tarvittaessa toimitettava katselmus rakennuksen ympäristöön soveltuvuuden selvittämiseksi, rakentamisen vaikutusten arvi- oimiseksi ja naapurien kuulemiseksi. Rakennuslupahakemuk- sista voidaan pyytää muilta kunnan tai valtion viranomaisilta lausuntoja. Kun rakennuslupa myönnetään, lupapäätöksessä",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "6917958f245e70fd5902946b80f52cf9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "db816fc3fd0aff03a8c2db4260a6caab",
+        "text": "• hyväksytään samalla pääpiirustukset rakentamisessa nou- datettaviksi",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "6917958f245e70fd5902946b80f52cf9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "94128b32ca80aa3624d41553408f5334",
+        "text": "• voidaan vaatia käsittelyn aikana erityissuunnitelmia ja li- säselvityksiä laadun varmistamiseksi",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "6917958f245e70fd5902946b80f52cf9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c80dc818b207f42f56133e07d1723542",
+        "text": "• määrätään pysyvään asumiseen tai työskentelyyn tarkoite- tun rakennuksen käyttö- ja huolto-ohje laadittavaksi.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "6917958f245e70fd5902946b80f52cf9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d5a5a0706dd06b92a212e0b5a74152a9",
+        "text": "Jos lupa käsitellään muiden asiakirjojen kuin pääpiirustusten perusteella, asianomaista rakennusvaihetta koskevat piirus- tukset saatetaan hyväksyttäviksi ennen tätä koskevan työ- vaiheen aloittamista.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "6917958f245e70fd5902946b80f52cf9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Lupamenettelyn perusteita MRL 130 § MRA 74 § Lupamenettelyssä otetaan kantaa mm. aloituskokouksen tarpeeseen erityissuunnitelmien ja selvitysten tarpeeseen mahdollisten erityistyönjohtajien tarpeeseen käyttö- ja huolto-ohjeen laatimistarpeeseen katselmustarpeeseen ympäristöön soveltuvuudesta rakentamisen vaikutuksen arvioimiseen naapurien kuulemiseen"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b4812905100b1430c4c8f3e741ff31c1",
+        "text": "liikkumisesteettömän rakentamisen edistämiseen myös työpaikoilla",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "e892b9659b23cdeb7fc740c0b95ec048",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "ekologisten näkökohtien huomioonottamiseen rakennusjätteen käsittelyyn materiaalikierron edellytyksiin. Rakennuslupahakemus MRL 131 § Kohta 3.2 Ympäristövaikutusten arviointi MRL 132 § MRA 60 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "09acfbdd90b98ec2cf82b49974d9f6f7",
+        "text": "Ympäristövaikutusten arviointiselostus, jos se on laadittava, liitetään rakennuslupahakemukseen tai ilmoitukseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "3411557cef7f6fbb202a0ff0e5d53c4d",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "75cb61cbd249d54b3413032c1eb04f4d",
+        "text": "Alueellisen ympäristökeskuksen lausunto tarvitaan, jos lupaa haetaan MRA 60 § luetelluille alueille.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "3411557cef7f6fbb202a0ff0e5d53c4d",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Naapurien kuuleminen MRL 133 § MRA 65 § Kohta 3.1 Rakennuslupahakemuksen käsittely"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0570d029258ca9841a45bfac4d9772e6",
+        "text": "MRL 60 §, 134 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "b13f225f1c3390614f7213a93f8c1a6f",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "98d9f83677fdd54f771a4fefb3f2a6cc",
+        "text": "MRA 66 §, 68 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "b13f225f1c3390614f7213a93f8c1a6f",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Kohta 3.3 Lupamääräykset MRL 141 § MRA 83 § Lupapäätökseen voidaan liittää määräyksiä"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b5d4acc72f5f6869268a2383c5bd4b6b",
+        "text": "aloituskokousta koskevia MRL 121 § MRA 74 § ja",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "b8082c990c69b13c6ac43cd698d41cbb",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ff7caeba7b18bc4970a0fee6b6d739e7",
+        "text": "käyttö- ja huolto-ohjeiden laatimista koskevia MRL 153 § MRA 66 § ja",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "b8082c990c69b13c6ac43cd698d41cbb",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cad6ee89015de7416d467aeeabc1584b",
+        "text": "kokoontumistiloja koskevia MRA 54 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "b8082c990c69b13c6ac43cd698d41cbb",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "32ca4187cf14090cd03ddd78f59b9f19",
+        "text": "rakennustyön tarkastusasiakirjaa koskevia MRA 77 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "b8082c990c69b13c6ac43cd698d41cbb",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7ee019707f6bcb6680762ac81d905fea",
+        "text": "erityissuunnitelmien toimittamisesta MRL 120 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "b8082c990c69b13c6ac43cd698d41cbb",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "158b4fa3b4cc2a8631230570bc5dcac5",
+        "text": "katselmusten pyytämisestä MRA 76 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "b8082c990c69b13c6ac43cd698d41cbb",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "efc338c587cb396352d6b29597c874ab",
+        "text": "vastuulliset työnjohtajista MRA 70 §, MRA 71 §.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "b8082c990c69b13c6ac43cd698d41cbb",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Lupapäätöksestä ilmoittaminen MRL 142 §,198 § MRA 97 § Lupapäätös"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f5633ae6df392e4031f521056df952e6",
+        "text": "annetaan julkipanon jälkeen, jolloin valitusaika alkaa täsmällisesti",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "942443bfe6ef1337d9d118a85aa94073",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2bb33e22b9775748eaf1c8361fcc35a2",
+        "text": "toimitetaan hakijalle, viranomaisille ja niille, jotka ovat sitä huomautuksessa tai erikseen pyytäneet.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "942443bfe6ef1337d9d118a85aa94073",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f3b1254b88d24071862d4d606b587334",
+        "text": "purkamis- ja maisematyöluvista ja poikkeamispäätöksistä tiedotetaan alueellista ympäristökeskusta.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "942443bfe6ef1337d9d118a85aa94073",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Luvan voimassaolo ja jatkaminen MRL 143 § Lupa raukeaa jos"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0f108bed5c07683cdcf53128770e6524",
+        "text": "rakennustöitä ei ole aloitettu kolmessa vuodessa",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "691cb7c200e8d6b24f72584a519160dd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6458725b9af7b286c537b16bb8a50c92",
+        "text": "rakennustyöt eivät ole valmistuneet viidessa vuodessa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "691cb7c200e8d6b24f72584a519160dd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Pidennystä voi saada enintään kaksi vuotta aloittamiseen"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c6ea471f7dfe9e11538345c5ef9ea6c2",
+        "text": "kolme vuotta kerrallaan v almistumista varten.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "691cb7c200e8d6b24f72584a519160dd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Aloittamisoikeus MRL 144 § Kohta 3.5 Lupa- ja valvontamaksu MRL 145 § Kohta 3.4 Rakentamiseen liittyvä tilastointi MRL 147 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "36356acd563f588486cba5b88f57e1eb",
+        "text": "Rakennustunnus muodostuu sijaintikiinteistön kiinteistötunnuksesta ja rakennusnumerosta.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "635dc409537a9b4a62e3054416eb2e2c",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e8d89101e99877e9a2e7042cc6e745d4",
+        "text": "Huoneistotunnus annetaan asuinhuoneistolle, joka sijaitsee useamman asunnon sisältävässä rakennuksessa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "635dc409537a9b4a62e3054416eb2e2c",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Lupahakemukseen liitetään tilastotietolomake. Kuva 3. RakennuslupamenettelyynjalupaharkintaanliittyviäMRL:nja MRA:n kohtia. ohjetiedosto RT 11-10781 3.4 Lupa- ja valvontamaksu • MRL145 § Viranomaisohjauksen tarve"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "29db0c7f078cc6eade68776ce49cfddf",
+        "text": "Luvan hakija tai toimenpiteen suorittaja maksaa kunnalle tar- kastus- ja valvontatehtävistä sekä muista viranomaistehtävistä maksun, joka määräytyy kunnan hyväksymän taksan mukaan. Lisäksi peritään esimerkiksi rakennuskohtainen perusmaksu, maksut vastaavien työnjohtajien hyväksymisestä ja purkamisil- moituksesta. Lupapäätöksen maksu peritään yhdellä kertaa ja se kattaa myös rakennustyönaikaisen viranomaisvalvonnan.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "496f2f9dbdb388812c7b40c7d9b36af1",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakennus Kyllä s- Mftsto v o, Rakennus- a 4 Ei Rakennelma Säiliö järjestyksen 3.5 Aloittamisoikeus Laitos Piippu mukaan • MRL144 § MRL 113 § MRL 126 §"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "37789efd1601ec293780082ef0f5a2a6",
+        "text": "MRA 62 § 63 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "df4223f63f791ac5e72e7aa25774204f",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2730abd0facd2af338f8994499f7b47f",
+        "text": "Lupaviranomainen voi antaa luvan rakennustyön tai muun toi- menpiteen suorittamiseen osittain tai kokonaan ennen kuin lu- papäätös on saanut lainvoiman. Luvat ja toimenpiteet, joihin aloittamisoikeus voidaan ulottaa, ovat",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "df4223f63f791ac5e72e7aa25774204f",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Eivät kaikilta osin edellytä rakentamisessa • rakennuslupa • toimenpidelupa muutoin tarvittavaa ohjausta • maisematyölupa"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "097affe2c4a909228a119afe86b5778b",
+        "text": "• yhdyskuntateknisten laitteiden sijoittamispäätös ja sen muut- taminen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "68ea547786e7b81ed0b283cea6f3d74e",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• vähäisten laitteiden sijoittamispäätös."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c8c7b4dfcd0091d4a801392af9620bf3",
+        "text": "Aloittamisoikeutta varten tulee hakijan asettaa hyväksyttävä vakuus niiden haittojen, vahinkojen ja kustannusten korvaami- sesta, jotka päätöksen kumoaminen tai luvan muuttaminen voi aiheuttaa. Vakuuden määrä ja laatu ovat viranomaisen harkin- nassa. Valitusviranomainen voi kuitenkin kieltää kunnan viran- omaisen myöntämän aloitusoikeuden täytäntöönpanon.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "1227e12afc74256fda441840f25ad0d4",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakennus- Toimenpide- lupa lupa"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a9577f62ac19dfe9215d83891de838d8",
+        "text": "Kuva 4. Rakentamiseen liittyvien lupien tarve.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e24fac4427a053075c0f39178930a95e",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Ilmoitus Vapautus ympäristökartta asemapiirros pohjapiirros leikkauspiirros valaistussuunnitelma detaljipiirros selvitykset paloturvallisuusselvitys suunnitelma paloilmoitinjärjestelmistä radontekninen suunnitelma ja koneellisesta savunpoistosta kalliorakentamistekninen suunnitelma merkki- ja turvavalaistussuunnitelma suunnitelma rakennuksen lämpö-, sammutusautomatiikkasuunnitelma kosteus- ja ääniteknisestä toimivuudesta [o- rakennusautomaatiosuunnitelma Kuva 5."
+    },
+    {
+        "type": "Footer",
+        "element_id": "fe313a59d77994cfc67ae053ba219cac",
+        "text": "Mahdollisia erityissuunnitelmia ja selvityksiä hankkeen laadusta ja erityispiirteistä riippuen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "RT 11-10781 ohjetiedosto 4 RAKENNUSLUPA"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "84511254d698005be896e29be3c05231",
+        "text": "Rakennuslupaa ja toimenpidelupaa vaativan toimenpiteen väli- sen rajan vetäminen on jätetty ensivaiheessa rakennusvalvon- taviranomaisen ratkaistavaksi. Rakentamisen ohjauksen ja val- vonnan tarve ja ympäristövaikutukset ratkaisevat sen, milloin ra- kennuskohteita on pidettävä rakennuksina tai milloin niihin so- velletaan toimenpidelupasäännöksiä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "91a44a73c43897cd373445a3464a285d",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "20b222fcfb0981f884076d4dc94247f0",
+        "text": "Rakennusjärjestyksessä voidaan antaa helpotuksia luvan- varaisuuteen koskien toimenpidettä, jota kunnan tai sen osan olosuhteet huomioon ottaen pidetään vähäisenä, MRA62§ja 63§. Rakennuslupa voidaan myöntää myös määräaikaisena tai tilapäiseen rakentamiseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "91a44a73c43897cd373445a3464a285d",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakennusluvan tarve • MRL125 § Rakennuslupa tarvitaan mm. • rakennuksen rakentamiseen"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fc2eba600a1d74e072ad12849e13e385",
+        "text": "• sellaiseen korjaus- ja muutostyöhön, joka on verrattavissa ra- kennuksen rakentamiseen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• rakennuksen laajentamiseen"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "90c9d0ec30c3d96bf82c7063190a6767",
+        "text": "• sellaiseen korjaus- ja muutostyöhön, jolla voi olla vaikutusta rakennuksen käyttäjien turvallisuuteen tai terveydellisiin oloihin. Tällaisia luvan vaativia korjaus- ja muutostöitä voivat olla esimerkiksi",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "– märkätilojen rakentaminen"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "168b1ab4ece1229037ea0e023f0d0a0a",
+        "text": "– lämmitys-, ilmanvaihto- sekä vesi- ja viemärijärjestelmän muutokset",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d4f7097dcddcb9f188e8e2df8d289016",
+        "text": "– rakenteelliset tai rakennustekniikkaan liittyvät muutokset.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9f2d711d5b4aa971c719ba2a98c73857",
+        "text": "• käyttötarkoituksen olennaiseen muuttamiseen. Luvanvarai- suutta harkittaessa otetaan huomioon muutoksen vaikutus kaavan toteuttamiseen, muuhun maankäyttöön tai raken- nukselta vaadittaviin ominaisuuksiin. Tällaisia käyttötarkoi- tuksen olennaisia muutoksia ovat esimerkiksi",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a3ee8a50b73a399af79f3724f9c59ba8",
+        "text": "– myymälän muutos myyntitilasta ravintolaksi",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6f731f35ce330889a56c77c426782c4a",
+        "text": "– teollisuus- ja varastorakennuksen muutos palovaaralli- suusluokaltaan vaativammaksi",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "97a95fbaf95f2e450b411b008c80d763",
+        "text": "– loma-asunnon muuttaminen pysyvään asumiseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakennuspaikkaa Rakennuspaikkaa koskevat selvitykset KIN « — koskevat selvitykset"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e5f8983b582ca3b04ae113476d0bb34d",
+        "text": "ote alueen peruskartasta tai asemakaavaote asemakaava-alueella",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "rakennuslupakartta - asemakaavamääräykset - kiinteistökartta - rakennuskielto - tontin pinta-alat - kiinteistörekisteriote"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d755b7437be52ef98552b56524444df3",
+        "text": "selvitys rakennuspaikan pohjaolosuhteista ja perustamistavasta, pintavaai'ituskartta",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "soveltuminen ympäristöön mahdollisia muita selvityksiä, esimerkiksi"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7870e7ade76954f5c14997f6be1f7c48",
+        "text": "- terveellisyydestä ja korkeusasemasta ja näiden edellyttämästa perustamistavasta ja tarvittavista muista toimenpiteistä (radon, maaperän saastuminen, pohjavesien pilaantuminen), MRA 49 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "2c2c2e1f59d3a9e339fd51ebe9e2fb76",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "alueelllisen ympäristökeskuksen lausunto, MRA 60 § museoviranomaisen lausunto Pääpiirustukset julkisivupiirrokset U j M « Muut lupahakemusasiakirjat lupahakemus tilastolomakkeet [— e todistus tontin hallintaoikeudesta ja karttaote kiinteistörekisteristä — » tonttijakokartta tarvittaessa ote alueen peruskartasta tai asemakaavaote asemakaava-alueella"
+    },
+    {
+        "type": "Title",
+        "element_id": "cb72a4570c0ad3ab1347a83c785a4bfa",
+        "text": "muita kuntakohtaisesti / hankekohtaisesti / vaadittavia /",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "055bc3660093d496fe1146af5bceae5b",
+        "text": "tarvittavia / asiakirjoja, esimerkiksi poikkeamispäätös,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "cb72a4570c0ad3ab1347a83c785a4bfa",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6e91a657d8ca76fc181924cc85ea1042",
+        "text": "rasitesopimus, liikenneselvitys, vesi- ja viemäröintiselvitys",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Kuva 6. Rakennuslupahakemukseenliitettäviä,rakennushankkeeseen ryhtyvän toimittamia asiakirjoja. ohjetiedosto RT 11-10781 Rakennusluvan edellytykset asemakaava-alueella • MRL135 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6c50ec02d61a4199e696646973a7b97c",
+        "text": "Asemakaava-alueella rakennusvalvontaviranomainen harkit- see, että seuraavat rakennusluvan myöntämisen edellytykset toteutuvat",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9850becc105a1a66d39c5c9effff3acd",
+        "text": "• rakennushanke on voimassaolevan asemakaavan mukainen tai sillä on poikkeamispäätös",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d35caa0cd583d318788d90a599fa6c46",
+        "text": "– asemakaavan ajanmukaisuuden arviointi (MRL60 §)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "88fb4e868225418da810ad7c0b801f74",
+        "text": "– rakennuslupakäsittelyn lykkääminen kaavan ajanmukai- suuden arvioimiseksi (MRA68 §)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• rakennuspaikan yleiset edellytykset – rakennuskieltoja ei ole"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b830cb497ca74017bfc42e172d651631",
+        "text": "– tontti on rekisteröity tai on ehto rakennuksen käyttöönotosta rekisteröintiin jälkeen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "25c6645df3052e5f5455407f94025aa8",
+        "text": "– poikkeamispäätös on, jos tontti ei ole rekisteröity",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2633e0817e3054772f2c23674f30402f",
+        "text": "– rakennushankkeeseen liittyvät historialliset tai rakennus- taiteelliset arvot otetaan huomioon",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d49674e85b2a9aad012a44a3e15e2856",
+        "text": "– rakennuspaikan meluhaitat, kunnallistekniikka otetaan huomioon",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "feb09466f537e1cf67da336483b30155",
+        "text": "– pilaantuneiden maiden poistaminen otetaan huomioon",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "92d5d8e22a77b6e875e1d54019d75cc6",
+        "text": "– rakennuspaikalle on käyttökelpoinen pääsytie tai mahdolli- suus sellaisen järjestämiseen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3b0881cae9d5b59aa474c47efc5aae1f",
+        "text": "– vedensaanti ja jätevedet voidaan hoitaa tyydyttävästi ja il- man haittaa ympäristölle",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "680b79f21180d106e961e212b6e7b227",
+        "text": "• rakentaminen täyttää yleiset rakentamiselle asetetut vaati- mukset (MRL117 §)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• rakennus soveltuu paikalle"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "101898a8908b1a7cec2ff87b2b49b1c3",
+        "text": "• rakennusta ei sijoiteta tai rakenneta niin, että se tarpeetto- masti haittaa naapuria tai vaikeuttaa naapurikiinteistön sopi- vaa rakentamista.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "4d17643c8c28b60da63321bd891e4e23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Rakennusluvan edellytykset asemakaava-alueen ulkopuolella • MRL136 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9a945a4d986a702b1998ea143de8aaf0",
+        "text": "Asemakaava-alueen ulkopuolella rakennusvalvontaviranomai- nen harkitsee, että seuraavat rakennusluvan myöntämisen edel- lytykset toteutuvat",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "5ad66e5944b9979d07bf647d93ae95b6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "339bd5733fa0f94449cc58fcf95760c8",
+        "text": "• rakennuspaikka täyttää rakennuspaikkaa koskevat vaati- mukset (MRL116 §)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "5ad66e5944b9979d07bf647d93ae95b6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "045608bdde432da53fc7fd6cefc94a88",
+        "text": "• rakentaminen täyttää yleiset rakentamiselle asetetut vaati- mukset (MRL117 §)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "5ad66e5944b9979d07bf647d93ae95b6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• rakennus soveltuu paikalle"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5f96fbc8f040e30ae563ce050de7d0f2",
+        "text": "• rakennuspaikalle on pääsytie tai mahdollisuus sellaisen jär- jestämiseen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "5ad66e5944b9979d07bf647d93ae95b6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6f980a95fbc34a4c2c5827cf4fad6d51",
+        "text": "• vedensaanti ja jätevedet voidaan hoitaa tyydyttävästi ja ilman haittaa ympäristölle",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "5ad66e5944b9979d07bf647d93ae95b6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e1e82224ffac565fcd854bb10d979190",
+        "text": "• rakennusta ei sijoiteta tai rakenneta niin, että siitä on kohtuu- tonta haittaa naapurille tai naapurikiinteistön rakentamiselle",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "5ad66e5944b9979d07bf647d93ae95b6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5dfe32013df28ead548c7d706a12ecaa",
+        "text": "• teiden rakentaminen, vedensaanti tai viemäröinti ei aiheuta erityisiä kustannuksia kunnalle",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "5ad66e5944b9979d07bf647d93ae95b6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ad0260fd820936883191c07a217dc019",
+        "text": "• maakuntakaavasta tai yleiskaavasta johtuvat rakentamisra- joitukset (MRL33§) tai rakentamis- ja toimenpiderajoitukset (MRL43 §) otetaan huomioon.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "5ad66e5944b9979d07bf647d93ae95b6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "89c1b7b8515283e283c07fb9f918501a",
+        "text": "Alueesta riippuen selvitetään rakennuskieltotilanne eli tarvit- seeko rakentaminen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "5ad66e5944b9979d07bf647d93ae95b6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "– suunnittelutarveratkaisun (MRL137§) tai – poikkeamispäätöksen (MRL172 §)."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7112587f1df58be97c2e46433084cc4f",
+        "text": "Ranta-alueelle ja rantavyöhykkeelle rakennettaessa tietyis- sä tapauksissa edellytetään ympäristökeskuksen poikkeamis- päätöstä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "5ad66e5944b9979d07bf647d93ae95b6",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "julkisivupiirrokset leikkauspiirrokset pohjapiirrokset asemapiirros LN tontin tai rakennuspaikan pinta- vesien käsittely piha- ja istutussuunnitelma liikkumis- ja toimimisesteettömyys jätevesien imeyttäminen tai muu käsittely sekä jätehuollon järjestä- minen haja-asutusalueella selvitys kiinteistön jätehuollon järjestämisestä väestönsuojasuunnitelma kerrosalaselvitys rakenteet poikkileikkauksina paloturvallisuussuunnitelma liikkumis- ja toimimisesteettömyys rakennusosien poikkileikkaukset selitteineen rakennusrungon perusperiaatteet liittyminen ympäröivään rakennuskantaan myös naapurikiinteistöjen rakennuksiin julkisivujen värityssuunnitelma pintamateriaalit Kuva 7."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "67d40444336e027b0d7cc61581721c94",
+        "text": "Pääpiirustuksia täydentäviä selvityksiä, jotka tarvittaessa laadi- taan erillisinä asiakirjoina.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "a48575a4831c5a4d174965630490ab84",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "erityissuunnitelmia kvv-, LVI- ja rakennesuunnitelmat energiataloudellinen selvitys rakennuksen äänitekninen toimivuus rakennuksen kosteustekninen toimivuus rakenteiden kokonaisvakavuus ja lujuus"
+    },
+    {
+        "type": "Title",
+        "element_id": "61163dd3da73fabb664f79795381fe86",
+        "text": "sisäilmastotavoitteet ja niihin vaikuttavat tekijät",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "3ab15355955c35948dcae0a136b9c3d8",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "poistumisaikalaskelma / turvallisuusselvitys korjausrakentamishankkeessa"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3b17f9fb51b7925b7e4021cd9693b272",
+        "text": "- rakennukseen tai sen osaan kohdistuva kuntotutkimus",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "ef523498da070b947d292f3da33f708b",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ed59adfbcc234079f26564f314750bfd",
+        "text": "- rakennustaiteellisesti tai kulttuurihistoriallisesti arvokkaan rakennuksen rakennushistoriallinen selvitys",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 7,
+            "parent_id": "ef523498da070b947d292f3da33f708b",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Kuva 8. Tarvittaessahakemukseenliitettäviätailupapäätöksessämah- dollisesti vaadittavia selvityksiä. RT 11-10781 ohjetiedosto 5 TOIMENPIDELUPA"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "195060b635ecdbe64e89c97c567785dc",
+        "text": "Rakennuksena ei pidetä kooltaan vähäistä ja kevytrakenteista rakennelmaa tai pienehköä laitosta, ellei sillä ole erityisiä maan- käytöllisiä tai ympäristöllisiä vaikutuksia. Jos jonkin rakennelman tai laitoksen pystyttäminen vaatii viranomaisvalvontaa, tulkitaan se rakennukseksi ja sille haetaan rakennuslupa. Kuva 9.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "f135f07afd459186c886a2bd72cd98de",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "de2cfe2a70bea2c5ab1ed6ed3461bb8b",
+        "text": "Toimenpideluvat voidaan korvata kokonaan tai osittain kun- nan rakennusjärjestyksessä ilmoitusmenettelyllä. Vähäiset toi- menpiteet voidaan rakennusjärjestyksessä vapauttaa ennakol- lisesta viranomaisvalvonnasta kokonaankin.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "f135f07afd459186c886a2bd72cd98de",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Toimenpideluvan tarve"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "918cc95bf7831b9a2e672927bd3c3069",
+        "text": "• MRL126 §, 168 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "70188d1700952b81c9c5c4b64fe49976",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• MRA 62 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "04b719315083fe39c387fbdb8e2c04d7",
+        "text": "Kuntien rakennusvalvontaviranomaiset antavat tietoja ja neu- voja toimenpideluvan tarpeesta perustuen maankäyttö- ja ra- kennuslakiin sekä kunnan rakennusjärjestykseen, jossa mää- rätään toimenpideluvan tarve ja luvan tarpeesta vapauttami- sesta. Toimenpidelupa haetaan rakennusluvan sijasta",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "70188d1700952b81c9c5c4b64fe49976",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2a35855a693314ba191ceccae2ab9b99",
+        "text": "• sellaisten rakennelmien ja laitosten, kuten maston, säiliön ja piipun pystyttämiseen, joiden lupa-asian ratkaiseminen ei edellytä rakennuslupaa",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "70188d1700952b81c9c5c4b64fe49976",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "26d220d996d8963d1a154629a1fef045",
+        "text": "• sellaisen rakennelman ja laitoksen pystyttämiseen ja sijoitta- miseen, jota ei pidetä rakennuksena",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "70188d1700952b81c9c5c4b64fe49976",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bc6b24a9c993ccefdd1ab338c74cab74",
+        "text": "• muuhun kuin rakennuslupaa vaativaan rakennuksen ulko- asua muuttavaan toimenpiteeseen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "70188d1700952b81c9c5c4b64fe49976",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d54c8fbfdc0be08d509cb2b94535099d",
+        "text": "• asuinhuoneiston yhdistämiseen tai jakamiseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "70188d1700952b81c9c5c4b64fe49976",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "09ca09be90adc730a203936adfc7e125",
+        "text": "Toimenpiteiden luvanvaraisuudesta on asetuksessa yksitois- takohtainen luettelo, MRA62 §. Kuva 9.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "70188d1700952b81c9c5c4b64fe49976",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "16bfb6a972a88090f7f9255fc5cb7d5c",
+        "text": "Luettelossa mainitun rakennelman tai laitoksen pystyttämi- seen tai sijoittamiseen voidaan vaatia rakennuslupa turvalli- suuteen, terveellisyyteen, maisemaan, viihtyisyyteen tai muu- hun ympäristönäkökohtaan liittyvästä syystä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "70188d1700952b81c9c5c4b64fe49976",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "be11ee8074fe84af767fad5e688ef934",
+        "text": "Jos toimenpiteellä ei ole vaikutusta luonnonoloihin, ympä- röivän alueen maankäyttöön taikka kaupunki- tai maisemaku- vaan, ei toimenpidelupakaan ole tarpeen. Esimerkiksi pientalo- tontin perällä olevan tavallisen leikkimökin tai kasvihuoneen ra- kentaminen voi olla tällainen toimenpide.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "70188d1700952b81c9c5c4b64fe49976",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "05933e808d5b851708252dfe1530cf9b",
+        "text": "Kevyet rakennelmat tai pienehköt laitokset, esimerkiksi jako- kaapit, kierrätysastiat, postilaatikot, betoniset ajoesteet, lehtien jakelulaatikot, eivät yleensä tarvitse lupaa eikä niistä tarvitse il- moittaa. Niiden tulee kuitenkin sopeutua ympäristöön eivätkä ne saa olla haitaksi liikenteelle. Tarvittaessa kunnan rakennus- valvontaviranomainen voi jälkivalvonnan keinoin puuttua tilan- teeseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "70188d1700952b81c9c5c4b64fe49976",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Toimenpideluvan edellytykset • MRL138 §"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "51b95c1bbabc4d8e3093361521330007",
+        "text": "Toimenpiteen lupaedellytyksiä arvioidaan esteettiseen laatuun, ympäristöön ja paikalle soveltumiseen sekä maankäyttöön että naapurustoon liittyvien vaikutusten pohjalta siten, että",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "5b2523133d4f156fcc22dc2e0ac2e308",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7c441008ed78807c91f25e8f14dfd4df",
+        "text": "• noudatetaan rakennusluvan edellytyksiä vain siltä osin kuin on tarpeen maankäytöllisten ja ympäristöllisten vaikutusten arvioimiseksi, esimerkiksi kun kysymyksessä on",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "5b2523133d4f156fcc22dc2e0ac2e308",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "– vaikutus luonnonoloihin – vaikutus ympäristöalueen maankäyttöön"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8c4cca52884bf9f7fe7b6df65d08e048",
+        "text": "– soveltuminen kaupunki- tai maisemakuvaan",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "5b2523133d4f156fcc22dc2e0ac2e308",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "df097f1f134c37e4fe277d725be32fa0",
+        "text": "• toimenpideluvalla toteutettavat hankkeet eivät aiheettomasti vaikeuta lunastusluvan tarkoituksen toteuttamista, esimer- kiksi liikenneväylä, sähkölinja.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "5b2523133d4f156fcc22dc2e0ac2e308",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "451e4f176d8af21215a04afadcdc812b",
+        "text": "Toimenpidelupa tarvitaan esimerkiksi seuraavien raken- nelmien tai laitosten rakentamiseen, pystyttämiseen tai si- joittamiseen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "5b2523133d4f156fcc22dc2e0ac2e308",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "1 rakennelma"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5dc7364da572d85737df129f80f0cbe8",
+        "text": "katos, vaja, kioski, käymälä, esiintymislava",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "8180db954ce517f0147a93e36faa8183",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7efb61ad8a1f0f34b799d2860ed246d0",
+        "text": "2 yleisörakennelma urheilu- tai kokoontumispaikka, katsomo, yleisöteltta",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "8180db954ce517f0147a93e36faa8183",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "3 liikuteltava laite"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2112fd89f26ebb0186bb46d63774cbbe",
+        "text": "asuntovaunun tai -laivan tms. paikallaan pitäminen sellaista käyttöä varten, mikä ei liity tavanomaiseen retkeilyyn",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "bfab0412e91a0a21135aba4a3bb57408",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "4 erillislaite"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6d002d56eba942df650ce006891ad38a",
+        "text": "masto, piippu, varastointisäiliö, hiihtohissi, muisto- merkki",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "1b947a0bca553630f52e9688db214b08",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "5 vesirajalaite"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c2006a50c65c2d6701147cf26109d1bd",
+        "text": "suurehko laituri tai muu vesirajaa muuttava tai siihen olennaisesti vaikuttava rakennelma, kanava, aallon- murtaja tai vastaava",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "1110744e874718f778bdc27b83922ffe",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "6 säilytys- tai varastointialue"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bfb89da1021e1c6d42a80fc3c85170ca",
+        "text": "muusta alueesta erotettu suurehko varastointi- tai pysäköintialue taikka tällaiseen alueeseen verratta- va alue",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "95b827c3c3d0480347e799a2645838a9",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "7 julkisivutoimenpide"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f4271229d7c38bce383874ac00d60f4a",
+        "text": "rakennuksen julkisivun, kattomuodon, katteen tai sen värityksen, ulkoverhouksen, rakennusaineen tai värityksen taikka ikkunajaon muuttaminen, katuku- vaan vaikuttavan markiisin asettaminen taikka ik- kunajaon muuttaminen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "2ed705a6a6daa9944fec611e9ee616d0",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "8 mainostoimenpide"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b3321142f260c0c0323181807fcf344b",
+        "text": "muun kuin luonnonsuojelulaissa säädetyn rakennel- man, tekstin tai kuvan asettaminen ulkosalle mainos- tai muussa kaupallisessa tarkoituksessa taikka ikku- naa peittävän mainoksen pysyvä tai pitkäaikainen asettaminen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "706351df53b45bb0f22c4bccbcf9237e",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "9 aitaaminen"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "400458749e692ce0ae0ca494830e8be0",
+        "text": "rakennettuun ympäristöön liittyvä erottava kiinteä aita tai kadun reunusmuuri",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "a00ceb7b3093e917a4a98fcee8ec3b49",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8389c3d919f6c10af10365c4fb89c92d",
+        "text": "10 kaupunkikuvajärjestely kaupunki- tai ympäristökuvaan merkittävästi ja pit- käaikaisesti vaikuttava järjestely tai muutos",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "a00ceb7b3093e917a4a98fcee8ec3b49",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bf0f023cf23098d26987a5c2d42298a2",
+        "text": "11 huoneistojärjestely asuinhuoneiston yhdistäminen tai jakaminen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "a00ceb7b3093e917a4a98fcee8ec3b49",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Kuva 9. EsimerkkejätoimenpideluvantarpeestaMRA62§:nmukaan. ohjetiedosto RT 11-10781 ILMOITUSMENETTELY • MRL129 § • MRA 63 § ASUINHUONEISTON MUUTOKSET vastuu hankkeeseen ryhtyvällä - muutoksen suorittaja - taloyhtiö"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a4627a45023c843d8d44415dd87dbaf2",
+        "text": "pätevä suunnittelija, hankkeen laadun ja tehtävän vaativuuden edellyttämä koulutus ja kokemus",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 9,
+            "parent_id": "2d8a6252aaac693d446f3e56a4a08042",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "muutossuunnitelmat rakennussuunnitelmat - rakennesuunnitelmat"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4e62e44b3e49c7aa7ca466cdab6a8239",
+        "text": "- erityissuunnitelmat LVIS noudatetaan määräyksiä",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 9,
+            "parent_id": "2d8a6252aaac693d446f3e56a4a08042",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "MRL MRA RakMK osat RAKENNUSLUPAA EDELLYTTÄVÄT MUUTOKSET käyttötarkoituksen olennainen muuttaminen mm."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6b9a2d0d3559622998df405891308df5",
+        "text": "- loma-asunnon muuttaminen pysyväksi asunnoksi",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 9,
+            "parent_id": "719c0c89de3fef59d637d03ecdb2ffca",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "- toimiston muuttaminen asunnoksi - ullakon muuttaminen asunnoksi"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a5f20b8d60be8787b0d5cc1ab3587c5a",
+        "text": "korjaus- ja muutostyö, jos vaikutusta käyttäjien turvallisuuteen tai terveydellisiin oloihin mm.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 9,
+            "parent_id": "719c0c89de3fef59d637d03ecdb2ffca",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "- kantavien rakenteiden muutokset - paloteknisen osastoinnin muutokset - uloskäytävien muutokset"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cabef1278e735c01e94fbcb9b8200946",
+        "text": "muutos, jossa rakennuksen kerrosala kasvaa",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 9,
+            "parent_id": "719c0c89de3fef59d637d03ecdb2ffca",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "märkätilojen laajennukset - asuntosaunan tai laajan kylpyhuoneen rakentaminen"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "92918e8778243040473f2276d9f1ab9a",
+        "text": "- todetun laajan terveydellisen haitan poistaminen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 9,
+            "parent_id": "719c0c89de3fef59d637d03ecdb2ffca",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "merkittävät julkisivumuutokset TOIMENPIDELUPAA EDELLYTTÄVÄT MUUTOKSET asuinhuoneistojen yhdistäminen asuinhuoneiston jakaminen julkisivumuutokset yleensä Kuva 10. Asuinhuoneiston muutoksiin tarvittavat luvat. Ilmoitusmenettelyn käyttäminen"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5037bc02cdb1602db92b0ba274f4c706",
+        "text": "Kunta voi rakennusjärjestyksessä määrätä, että merkityksel- tään ja vaikutukseltaan vähäiseen rakentamiseen tai muuhun toimenpiteeseen voidaan ryhtyä ilman rakennus- tai toimenpi- delupaa sen jälkeen, kun asianomainen on tehnyt tätä koske- van ilmoituksen kunnan rakennusvalvontaviranomaiselle.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 9,
+            "parent_id": "2a3d2b9f13764e937b47e3a1c9d6a9d5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "966bdec373076c76843c34bb2cdce087",
+        "text": "Kunnan rakennusvalvontaviranomaisen tulee ilmoituksen si- jasta edellyttää rakennus- tai toimenpideluvan hakemista, jos se yleisen edun tai naapurien oikeusturvan kannalta on tar- peen. Rakentamiseen tai muuhun toimenpiteeseen voidaan ryhtyä, jollei rakennusvalvontaviranomainen 14 päivän kulues- sa ilmoituksen vastaanottamisesta ole edellyttänyt luvan hake- mista ilmoitettuun hankkeeseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 9,
+            "parent_id": "2a3d2b9f13764e937b47e3a1c9d6a9d5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "91a6351c3973dcda7236f0eccd9cb0eb",
+        "text": "Rakennusjärjestyksessä voidaan määrätä ilmoitusmenette- lyn soveltamisesta olosuhteet huomioonottaen vähäisenä pi- dettyyn toimenpiteeseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 9,
+            "parent_id": "2a3d2b9f13764e937b47e3a1c9d6a9d5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2fcb046e3ac6afe5212d392c2f3c8a48",
+        "text": "Ilmoituksentekijältä voidaan edellyttää naapurien suostu- muksen liittämistä ilmoitukseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 9,
+            "parent_id": "2a3d2b9f13764e937b47e3a1c9d6a9d5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "RT 11-10781 ohjetiedosto 10 PURKAMISLUPA JA -ILMOITUS"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "161349c4647ebd26ec5d0369e09e006b",
+        "text": "• MRL127 §, 139 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "fc564365fb2d5c5b5edc19b3d33b37bd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "470d457470f294d0ab334545779edd85",
+        "text": "• MRA67 §, 69 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "fc564365fb2d5c5b5edc19b3d33b37bd",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Purkamisluvan tarve Purkamislupa tarvitaan • rakennuskieltoalueella ja asemakaava-alueella"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b1d97b55469995075829487d87a5c11f",
+        "text": "• yleiskaava-alueella, jolla näin on määrätty.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "7758bda3be3a2f6129db75fd340b6dbe",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Purkamislupaa ei tarvita"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7f3f068feb57af1af52ec7caad00e5b1",
+        "text": "• jos voimassa olevan rakennusluvan toteuttaminen edellyttää rakennuksen purkamista",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "7758bda3be3a2f6129db75fd340b6dbe",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cb25d4e0df4d79912dd920dacafb064b",
+        "text": "• jos vahvistettu katu- tai tiesuunnitelma edellyttää rakennuk- sen purkamista",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "7758bda3be3a2f6129db75fd340b6dbe",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f3c398a4fcc36227323fa63af58d93df",
+        "text": "• jos kyseessä on vähäinen talousrakennus tms., jota ei pidetä historiallisesti tai rakennustaiteellisesti arvokkaana tai tällai- sen kokonaisuuden osana.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "7758bda3be3a2f6129db75fd340b6dbe",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Purkamisilmoitus"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d41f471c51d73880c45e90e9c895ac5c",
+        "text": "Vaikka purkamislupaa ei tarvita, purkamisesta tehdään purka- misilmoitus rakennusvalvontaviranomaiselle 30 päivää ennen purkamistyöhön ryhtymistä. Rakennusvalvontaviranomainen voi perustelluista syistä vaatia luvan hakemista tämän ajan kuluessa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "f6366fbc68780d86012fdb69181a074c",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Purkamisluvan edellytykset"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5cb616fe50de73bcf887e680cac9a7ba",
+        "text": "Purkamisluvan myöntämisen edellytyksenä on, että",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "5fe252c869dc37a5d956069e57014119",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1846986270135d6f111d6a8acf02a6b0",
+        "text": "• purkaminen ei merkitse rakennettuun ympäristöön sisältyvi- en perinne-, kauneus- tai muiden arvojen hävittämistä eikä haittaa kaavoituksen toteuttamista",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "5fe252c869dc37a5d956069e57014119",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "09931e4164f13523d7091aed2677df11",
+        "text": "• purkamistyön järjestäminen selvitetään yksityiskohtaisesti, esimerkiksi purkamisen turvallisuusriskit sekä niiden eliminoi- minen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "5fe252c869dc37a5d956069e57014119",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "613ab45d5517883ef1c00bfed9dcdfa3",
+        "text": "• rakennusjätteen käsittely ja käyttökelpoisten rakennusosien hyväksi käyttäminen selvitetään lupahakemuksessa",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "5fe252c869dc37a5d956069e57014119",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "466c5da8054a3107339d38656866d6c6",
+        "text": "• rakennusvalvontaviranomainen tiedottaa kunnanhallituksel- le ja alueelliselle ympäristökeskukselle purkamisaikomuk- sesta, jos historiallisesti tai rakennustaiteellisesti arvokas ra- kennus, kaupunkikuva tai rakennettu ympäristö on vaarassa turmeltua.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "5fe252c869dc37a5d956069e57014119",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "876b6fe9c4bda786c5ea83e20a14215b",
+        "text": "Myönnetyistä purkamisluvista rakennusvalvontaviranomai- nen ilmoittaa alueelliselle ympäristökeskukselle, jolla myös on niistä valitusoikeus.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "5fe252c869dc37a5d956069e57014119",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0f6c85356c0f8ffa64a3e9ae69f263b1",
+        "text": "Kun purkamislupa tarvitaan, purkamistöitä ei saa aloittaa, en- nenkuin purkamislupa on lainvoimainen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "5fe252c869dc37a5d956069e57014119",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "rakennuskielto- alueella asemakaava- alueella yleiskaava- alueella, jos näin on määrätty Kuva 11. Purkamisluvan tarve. 8 MAISEMATYÖLUPA"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1cf188227bc9a9369b6b31217819a723",
+        "text": "• MRL128 §, 140 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "803ee783d78b609583d0bbfcc307a003",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "76546730af1f40c86518a6b54e4f9368",
+        "text": "• MRA69 §, 72 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "803ee783d78b609583d0bbfcc307a003",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c2f8bf678bc01af6ab55bcc0510bc37e",
+        "text": "Maisematyölupa koskee maisemaa muuttavaa maanraken- nustyötä eli kaivamista, louhimista, tasoittamista ja täyttämistä sekä puiden kaatamista tai muuta näihin rinnastettavaa työtä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "803ee783d78b609583d0bbfcc307a003",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "eda5b746f85bb169c2ef26736c0fc908",
+        "text": "Kaivaminen, louhiminen, puiden kaataminen tai muu näihin verrattava rakentamista valmisteleva toimenpide voidaan suo- rittaa ennen rakennustyön aloittamista noudattaen, mitä maise- matyöluvasta säädetään.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "803ee783d78b609583d0bbfcc307a003",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Maisematyöluvan tarve Maisematyölupa tarvitaan • asemakaava-alueella"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e8bd31345168ff2a5df224efa6965bbe",
+        "text": "• yleiskaava-alueella, jolla näin on määrätty",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "3dd2abd9440dd87e5ee990d097d689db",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• rakennuskieltoalueella. Maisematyölupaa"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f107ae09d555e1e24278706230508cdd",
+        "text": "• ei tarvita rakennus- tai toimenpideluvan mukaisten töiden suorittamiseen tai vähäisiin toimenpiteisiin",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "3dd2abd9440dd87e5ee990d097d689db",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4a5302b831fa82cd2015cbee0e4871af",
+        "text": "• ei sovelleta sellaiseen maa-ainesten ottamiseen, johon tarvi- taan maa-aineslain mukainen lupa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "3dd2abd9440dd87e5ee990d097d689db",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Maisematyöluvan edellytykset Maisematyölupaa myönnettäessä edellytetään, että"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "dce0f5a22e0bb3dac943bee0c695abc0",
+        "text": "• toimenpide asemakaava- tai yleiskaava-alueella ei vaikeuta alueen käyttämistä kaavassa varattuun tarkoitukseen eikä turmele kaupunki- tai maisemakuvaa",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "1c5b1e3481e34fe35224c1ec83de6c17",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9861649309d2a42e25f34e4e335c5368",
+        "text": "• toimenpide rakennuskieltoalueella tai alueella, jolla on toi- menpiderajoitus, ei tuota huomattavaa haittaa kaavan laati- miselle eikä turmele kaupunki- tai maisemakuvaa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "1c5b1e3481e34fe35224c1ec83de6c17",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a5eb05cc7c9741fd97d7383a45510684",
+        "text": "Myönnetyistä maisemaluvista rakennusvalvontaviranomai- nen ilmoittaa viipymättä alueelliselle ympäristökeskukselle, jol- la myös on niistä valitusoikeus.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 10,
+            "parent_id": "1c5b1e3481e34fe35224c1ec83de6c17",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Purkamislupa Purkamisilmoitus voimassaolevan vahvistettu katu- vähäinen talous- rakennusluvan tai tiesuunnitelma rakennus tms., toteuttaminen edellyttää purkua jolla ei historial- edellyttää purkua lista tai rakennus- taiteellista arvoa 11 ohjetiedosto RT 11-10781 9 SUUNNITTELUTARVERATKAISU JA POIKKEAMINEN"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e83c0fff811488d8142bb8adb09250d5",
+        "text": "• MRL 16 §, 72 §, 137 §, 172 §, 173 §,175 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "76a05d2a4d5360d71702a5f6a08f40b5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "993ef514a86ff0ff1a602b59b0bfe971",
+        "text": "• MRA85 §, 86 §, 87 §, 88 §, 89 §, 90 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "76a05d2a4d5360d71702a5f6a08f40b5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ede437c913dcaaebc481d1661379e7bf",
+        "text": "Ennen rakennuslupaa saatetaan edellyttää suunnittelutarve- ratkaisua tai poikkeamispäätöstä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "76a05d2a4d5360d71702a5f6a08f40b5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "dadbbfd5260bafb1123adc2db4cf6139",
+        "text": "Kunta voi oikeusvaikutteisessa yleiskaavassa tai rakennusjär- jestyksessä osoittaa suunnittelutarvealueeksi alueen, jolla sen si- jainnin vuoksi on odotettavissa suunnittelua edellyttävää yhdys- kuntakehitystä tai jolla erityisten ympäristöarvojen tai ympäristö- haittojen vuoksi on tarpeen suunnitella maankäyttöä. Yleiskaavan tai rakennusjärjestyksen määräys alueen osoittamisesta suunnit- telutarvealueeksi on voimassa enintään 10 vuotta kerrallaan.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "76a05d2a4d5360d71702a5f6a08f40b5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "28359853217f8c66b3d5fc62ff4bc1c3",
+        "text": "Kaikki kunnan suunnittelutarveratkaisut käsitellään kunnas- sa yleensä erillisinä hakemuksina. Suunnittelutarveratkaisu voidaan tarvittaessa tehdä rakennusluvan kanssa samanaikai- sesti. Rakennustöitä ei voi kuitenkaan aloittaa ennen kuin suunnittelutarveratkaisu tai poikkeamispäätös on saavuttanut lainvoiman.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "76a05d2a4d5360d71702a5f6a08f40b5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Erityiset edellytykset suunnittelutarvealueella"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "df77b36f36058c9d48b7f7386db1541a",
+        "text": "Suunnittelutarvealueella, jolle ei ole hyväksytty asemakaavaa, rakennusluvan edellytyksenä on, että rakentaminen",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "8f6e6b35fdd5693f2c0abe92c436abd7",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c2f66f28d0e34be78d1ec3056f3a382b",
+        "text": "• ei aiheuta haittaa kaavoitukselle tai alueiden käytön muulle järjestämiselle",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "8f6e6b35fdd5693f2c0abe92c436abd7",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "515c37c83d2151b3aa12989e6bd02cdd",
+        "text": "• ei aiheuta haitallista yhdyskuntakehitystä",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "8f6e6b35fdd5693f2c0abe92c436abd7",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "aa598941c157c20c26c9e1788f6b5d66",
+        "text": "• on sopivaa maisemallisesti eikä vaikeuta luonnon- tai kulttuu- riympäristön arvojen säilyttämistä eikä virkistystarpeiden tur- vaamista.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "8f6e6b35fdd5693f2c0abe92c436abd7",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9d44c8fa5771c94ed3af569a8a6afb06",
+        "text": "Edellytysten olemassaolon ratkaisee kunnan päättämä vi- ranomainen, yleensä rakennusvalvontaviranomainen yhdessä kaavoituksesta vastaavan viranomaisen kanssa, rakennuslu- pamenettelyn yhteydessä tai erillisessä menettelyssä. Kunnan tulee toimittaa lupapäätös tiedoksi alueelliselle ympäristökes- kukselle.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "8f6e6b35fdd5693f2c0abe92c436abd7",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "ympäristökartta | | <+ | asemapiirros | | osoittaa alueen sijainnin olemassaolevat rakennukset suunnitellut rakennukset I| || rakennustoimenpiteet rakennuspaikalla =- arvio poikkeamista koskevan hakemuksen keskeisistä vaikutuksista ja hakemuksen perustelut todistus tontin hallintaoikeudesta"
+    },
+    {
+        "type": "Title",
+        "element_id": "6a3c22b2e1538c7a7214b6c918b979de",
+        "text": "selvitys kuulemisesta, MRA 86 §",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "910ac01c1a9761d9b1f589fd53879148",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "poikkeamishakemus Kuva 12. Poikkeamista koskevia hakemusasiakirjoja. |o i— Poikkeamisen edellytykset Poikkeaminen ei saa"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a2281e357108cbb844083d32dd4830ea",
+        "text": "• aiheuttaa haittaa kaavoitukselle, kaavan toteuttamiselle tai alueiden käytön muulle järjestämiselle",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "ee274cc0bb989e175598885eaa783c56",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3b8acb9f8ee656c15274cebb590d3149",
+        "text": "• vaikeuttaa luonnonsuojelun tavoitteiden saavuttamista",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "ee274cc0bb989e175598885eaa783c56",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ef35d7dd33a0956457bae2f938e52831",
+        "text": "• vaikeuttaa rakennetun ympäristön suojelemista koskevien tavoitteiden saavuttamista.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "ee274cc0bb989e175598885eaa783c56",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Poikkeamismenettely"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b1cae27163e3a0767e8b772f0a4c9ea6",
+        "text": "Ennen poikkeamista koskevan asian ratkaisemista on naapu- reille ja muille, joiden oloihin hanke saattaa huomattavasti vai- kuttaa, varattava tilaisuus kirjallisen muistutuksen tekemiseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "7329d35094d651c525a978a706870fb5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "59d6878b31f108226205bdbcd87895de",
+        "text": "Poikkeamispäätöksen tekee pääsääntöisesti kaavoitusvi- ranomainen, poikkeustapauksissa alueellinen ympäristökes- kus. Tarvittaessa on pyydettävä alueellisen ympäristökeskuk- sen lausunto.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "7329d35094d651c525a978a706870fb5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c48abb717cd4d8660729a19548cb87da",
+        "text": "Poikkeamispäätöksen tekee joko kunnan viranomainen (kunnanhallitus, kaavoitusviranomainen, rakennusvalvontavi- ranomainen) tai laissa luetelluissa tilanteissa alueellinen ympä- ristökeskus.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "7329d35094d651c525a978a706870fb5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "169feeeeaa6b30ed14abac2cf0c47b9e",
+        "text": "Alueellisen ympäristökeskuksen lausunto on pyydettävä aina, kun poikkeaminen koskee",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "7329d35094d651c525a978a706870fb5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• rantarakentamista"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7ac14da0d28e15b04373dc8b0af83135",
+        "text": "• aluetta, jolla on valtakunnalliset alueidenkäyttötavoitteet",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "7329d35094d651c525a978a706870fb5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b67603724200498be10ce81500ebe56b",
+        "text": "• luonnonsuojelun kannalta merkittävää aluetta",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "7329d35094d651c525a978a706870fb5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "65d19b70e17274223546fe281274783e",
+        "text": "• rakennussuojelun kannalta merkittävää kohdetta tai aluetta",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "7329d35094d651c525a978a706870fb5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f636351b39bef07c5d426030e477c67b",
+        "text": "• virkistys- ja suojelualueeksi varattua aluetta",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "7329d35094d651c525a978a706870fb5",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• rakennusoikeuden lisäämistä. Vähäinen poikkeaminen"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cd24f8dcefd4353b46c0ed90daf1b7d1",
+        "text": "Päätöksenteossa katsotaan, että poikkeaminen ei ole alueiden käytön suunnitteluun liittyvien edellytysten vastaista tai vaikeuta säännöksessä mainittujen tavoitteiden toteutumista tai saavutta- mista. Poikkeaminen ei saa myöskään merkitä rakentamiselle asetettujen keskeisten vaatimusten syrjäytymistä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "42a35ca256d5df60d5ecabbab3d64090",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f44427536e671dac2ee2f5f64d1119f1",
+        "text": "Vähäistä poikkeamista koskeva päätös tehdään tapauskoh- taisesti rakennuslupapäätöksen yhteydessä. Tässä yhteydes- sä on mahdollista vähäisessä määrin poiketa kaikista säännök- sistä, määräyksistä, kielloista ja muista rajoituksista, ei kuiten- kaan sunnittelutarveratkaisua ja maisematyölupaa koskevista säännöksistä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 11,
+            "parent_id": "42a35ca256d5df60d5ecabbab3d64090",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "je RT 11-10781 ohjetiedosto 12 KIRJALLISUUTTA Viranomaisten määräyksiä ja ohjeita"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e08e2fa464f3851c36ec322244e909bf",
+        "text": "MRL Maankäyttö- ja rakennuslaki. Suomen säädöskokoelma 132/1999. 24 s. (RT YM1-21107)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "b1cc4fc0779c2e24fe77819d59b8b4c2",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "142229e91675e3a830dd30213d83cd54",
+        "text": "MRA Maankäyttö- ja rakennusasetus. Suo- men säädöskokoelma 895/1999. 12 s. (RT YM1-21124)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "b1cc4fc0779c2e24fe77819d59b8b4c2",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b539b7e8fe4486472fbb33b611aeaec9",
+        "text": "YVAL Laki ympäristövaikutusten arviointimenet- telystä. Suomen säädöskokoelma 468/1994. Seurattu säädökseen 267/1999 asti. 3 s. (RT YM1-21110)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "b1cc4fc0779c2e24fe77819d59b8b4c2",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a027bfe0ffce3c5de7cd1dfab062c319",
+        "text": "YVAA Asetus ympäristövaikutusten arviointi- menettelystä. Suomen säädöskokoelma 268/1999. 4 s. (RT YM1-21111)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "b1cc4fc0779c2e24fe77819d59b8b4c2",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d098f93aa1d54ba1fdffa50411f44cb6",
+        "text": "RakMK A1 Rakennustyön valvonta. Määräyk- set ja ohjeet 2000. Ympäristöministeriö, asun- to- ja rakennusosasto. Suomen rakentamis- määräyskokoelma. 21 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "b1cc4fc0779c2e24fe77819d59b8b4c2",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "(RT RakMK-21156)."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "458530820c7558da6cca7ff052389a42",
+        "text": "RakMK A2 Rakennuksen suunnittelijat ja suunnitelmat. Määräykset ja ohjeet 2002. Ympäristöministeriö, asunto- ja rakennusosasto. Suomen rakentamismääräyskokoelma. 16 s. (RT RakMK-21202).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "b1cc4fc0779c2e24fe77819d59b8b4c2",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e2bd8e35f935f6b870a72927fe105e3a",
+        "text": "RakMK A4 Rakennuksen käyttö- ja huolto-ohje. Määräykset ja ohjeet 2000. Ympäristöministe- riö, asuntoja rakennusosasto. Suomen rakenta- mismääräyskokoelma. 4 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "851e1f560e94f8402ceccc8e09de6a78",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "(RTRakMK-21155)."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ff902aa1f9c13be962f2effe0391f226",
+        "text": "RakMK E1 Rakennusten paloturvallisuus. Määräykset ja ohjeet 2002. Ympäristöministe- riö, asunto- ja rakennusosasto. Suomen ra- kentamismääräyskokoelma. 29 s. (RT RakMK-21201).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "851e1f560e94f8402ceccc8e09de6a78",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7b1b07391b6f38a84f35dc9fa46bb404",
+        "text": "RakMK F1 Liikkumisesteetön rakentaminen. Määräykset ja ohjeet 1997. Ympäristöministe- riö, asunto- ja rakennusosasto. Suomen ra- kentamismääräyskokoelma. 4 s. (RT RakMK-21156).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "851e1f560e94f8402ceccc8e09de6a78",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "21ea216eac833107dabfaff06ad19a35",
+        "text": "RakMK F2 Rakennuksen käyttöturvallisuus. Määräykset ja ohjeet 2001. Ympäristöministe- riö, asunto- ja rakennusosasto. Suomen ra- kentamismääräyskokoelma. 20 s. (RT RakMK-21184).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "851e1f560e94f8402ceccc8e09de6a78",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4c36b8ae5590279152502ba69b39e483",
+        "text": "RakMK G1 Asuntosuunnittelu. Määräykset 1994. Ympäristöministeriö, Asuntoja raken- nusosasto. Suomen rakentamismääräysko- koelma 2 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "851e1f560e94f8402ceccc8e09de6a78",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "(RT RakMK-20941). RT-ohjekortteja"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a2eae2a676ad839e83992941fedb0b3b",
+        "text": "RT 15-10784 Asemapiirustuksen laatimisoh- je. 2002. 16 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "891804251eca40217fe3ef57bc1b3327",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ca543578f47d14cbeaf943122ec3c715",
+        "text": "RT 15-10272 Muutos- ja korjausrakentamisen piirustukset, merkinnät ja laadinta. 1985. 6 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "891804251eca40217fe3ef57bc1b3327",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4da67e0996d99cef76194c17c9391904",
+        "text": "RT 15-10634 Piirustuslehti. Rakennuspiirus- tukset. 1997. 4 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "891804251eca40217fe3ef57bc1b3327",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8bc4626a308e7f9e9de0e786cb7cdedd",
+        "text": "RT 15-10635 Esitystapaohjeet. Rakennuspii- rustukset. 1997. 24 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "891804251eca40217fe3ef57bc1b3327",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1dceaddd5c6f0c4f5b939677863b657c",
+        "text": "RT 15-10641 Mitoituksen esittäminen. Raken- nuspiirustukset. 1997. 12 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "891804251eca40217fe3ef57bc1b3327",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9ae4f9012d370cbee4fb6f64bc85e995",
+        "text": "RT 15-10772 Piirustus- ja asiakirjaluettelo. 2002. 11 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "891804251eca40217fe3ef57bc1b3327",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Muita julkaisuja"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9c39ee3dab1f18d471edb3f9d9b0ea50",
+        "text": "Maankäyttö- ja rakennuslaki selityksineen. Käytännön käsikirja. Lauri Jääskeläinen, Ola- vi Syrjänen. Rakennustieto Oy. 2000. 440 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "e79b1904df80631c17b3eee68d0afd23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f1a8cabcdd51ad527200875a1b24ac3f",
+        "text": "Harkintavalta kaavoituksessa ja rakentami- sessa. Olavi Syrjänen. Rakennustieto Oy. 1999. 344 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "e79b1904df80631c17b3eee68d0afd23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6da25b10ab1fb1e571e44e6e154ad138",
+        "text": "Maankäyttö- rakennuslaki perusteluineen. Lakikokoelma. Oy Edita Ab. 2000. 283 s.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "e79b1904df80631c17b3eee68d0afd23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0e55ee84fb88fdb9258bbeed98047e54",
+        "text": "Tämän ohjekortin laadintaan on osallistunut Rakennustietosäätiön toimikunta TK 226 Rakennuslupa",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "e79b1904df80631c17b3eee68d0afd23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "45983dfbda2517b196470dc2923cc63b",
+        "text": "Arkkitehti Kimmo Lehtola Arkkitehti Esko Rautiola Arkkitehti Pentti Saavalainen ArkkitehtiSirkka-LiisaSöyrilä",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 12,
+            "parent_id": "e79b1904df80631c17b3eee68d0afd23",
+            "filename": "RT 11-10781 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Arkkitehti Kimmo Lehtola ArkkitehtiSirkka-LiisaSöyrilä RakennusarkkitehtiIrjaHansio"
+    }
+]

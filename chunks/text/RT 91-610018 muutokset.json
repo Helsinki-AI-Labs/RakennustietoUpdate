@@ -1,0 +1,1643 @@
+[
+    {
+        "text": "SIN SIT 91-610018 ohjetiedosto syyskuu 2005 1(8) ASUINTILAT, MAKUUHUONEET"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6d8a51845450cc4f4f3c574b72f1c51a",
+        "text": "asunnot, asuinhuoneet, makuuhuoneet bostäder, sovrum dwelling, bedrooms",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 1,
+            "parent_id": "d63a8aae7734bbe7810af47f8b55855a",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "SISÄLLYSLUETTELO 1 YLEISTÄ 1 YLEISTÄ 2 HISTORIA 3 TILARATKAISUT 3.1 Makuuhuoneet 4 KALUSTEET 5 MATERIAALIT VÄRIT JA VALAISTUS"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "788b31ab63153e4177937108e46a3ccd",
+        "text": "Tässä ohjekortissa käsitellään asunnon makuuhuoneen kalusteratkaisuja, säilytystilan tarvetta, mitoitusta, värejä, materiaalivalintoja, valaistusta ja sisäilman laatua. Ohjei- den tarkoitus on havainnollistaa niitä ratkaisuja, jotka vai- kuttavat makuuhuoneiden viihtyvyyteen ja toimivuuteen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 1,
+            "parent_id": "7bdff0767ab6b66d665b693629cae62d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "08845bc6f043bbcd87556c71f691323b",
+        "text": "Kortissa on myös lyhyt historiallinen katsaus asuntojen makuutilojen kehittymisestä Suomessa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 1,
+            "parent_id": "7bdff0767ab6b66d665b693629cae62d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "6.1 Värit 6.2 Valaistus 7 ILMANLAATU 8 TILAT JA MITOITUS"
+    },
+    {
+        "type": "Image",
+        "element_id": "57fe1b83c649d7ddea9c1690426ed2ee",
+        "text": "pun \" k— =-+--- 1 | | m !| ] += | H| | h N S |L ITTIT e C/ =W hI| E",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 1,
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "Footer",
+        "element_id": "6e0d5d59d8f2455e552db22bd2a122c7",
+        "text": "IH, MLu/1/syyskuu 2005/1000/RP Oy/Rakennustieto Oy © Rakennustietosäätiö RTS 2005",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 1,
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "n n N T SIT 91-610018 ohjetiedosto 2 HISTORIA Savupirtit"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f76f19919b0f4e6a2e7567f241eebe6a",
+        "text": "Myöhäisrautakaudella 1000...1300-luvuilla jKr idästä le- vinnyt hirsisalvosrakenteinen pirtti syrjäytti Suomessa rau- takauden risupunosseinäiset majat ja hallitalot. Savupirt- tien lattiat olivat maanvaraisia ja asunto koostui yhdestä huoneesta, johon kaikki sisällä tapahtuvat toiminnot kes- kittyivät. Naisväen sängyt olivat usein ns. tolppasänkyjä, jotka sijoittuivat huoneen reunoille. Miesväki nukkui tupaa kiertävien penkkien päällä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "ec229b75730b588c8a53bc1068ef37a8",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Sivu- ja eteiskamaritupa"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b83f998544c9ddeb6a5c200b6ada6ad7",
+        "text": "Vähitellen nelikulmainen yksinäistupa kehittyi kahdenhuo- neen rakennukseksi. Tuvan toiseen päähän saatettiin ra- kentaa lauta- tai hirsirakenteinen kamari, jota käytettiin va- rastona ja kesäaikaan myös nukkumiseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "567fc22795f7fb325c1c98a16053ec4b",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Paritupa"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2d2ff4284e502da3794c15c5400249be",
+        "text": "Suomessa 1600-luvulla yleisin talonpoikaisasumusten pohjakaava oli ns. parituparatkaisu. Kaksi yhtä suurta asuinhuonetta sijaitsevat eteisen molemmin puolin. Alku- aan toinen huoneista oli asuinkäytössä ja toista pidettiin esimerkiksi saunana, riihenä tai aittana. Myöhemmin mo- lemmat tuvat otettiin asumiskäyttöön ja rakennusta saatet- tiin laajentaa vielä kamareilla. Aluksi kamarit, joissa nukut- tiin olivat lämmittämättömiä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "fd8d79ab0ea93de4af2d075bc65695b7",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Karjalantalo"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "34eed8fec085072d7faabacae35fea4c",
+        "text": "Erikoislaatuista pohjakaavaa edustaa itäkarjalassa tun- nettu ns. karjalantalo, jossa asuintilat ja karjasuojat sijaitsi- vat saman katon alla. Rakennus oli yleensä kaksikerroksi- nen, jossa asuminen ja varastotilat tai heinävaja sijoittuivat yläkertaan ja kellari ja karjasuojat alempaan kerrokseen. Asuinpirteissä nukuttiin tavallisesti lattioille levitettyjen pat- jojen päällä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "cb609da614e3078b0031e33aa69c65d4",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "af880f30cd21e422120ddd2af4a870b6",
+        "text": "Karjasuojan yläpuoleiseen varastotilaan oli usein käynti suoraan ulkoa. Yläkerran asuinhuoneen takana saattoi si- jaita yksi tai useampi kamari. Vauraimmissa taloissa pirtin yläpuolella oli vinttikamari talon tyttärille tai arvovieraille. Asuinosan jatkoksi rakennettiin tarpeen mukaan lisää ta- lousrakennuksia. Karjalantaloja asuttivat suuret sukuyh- teisöt, joihin saattoi kuulua kymmeniä henkilöitä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "cb609da614e3078b0031e33aa69c65d4",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Pohjalaistalo"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "302b2044e3c983d54abb12234dec4a5f",
+        "text": "Kaupunkitalot ja herraskartanot inspiroivat Pohjanmaalla 1800-luvulla rakentamaan kaksikerroksisia taloja. Lisään- tyvä vauraus mahdollisti suurikokoisten ja näyttävien hirsi- talojen rakentamisen. Aluksi ylempi kerros jätettiin sisusta- matta, mutta myöhemmin toisen kerroksen päätyihin saa- tettiin tehdä makuukamarit.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "d727e90977c69baa5134c4ae9e807714",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Karoliininen pohjaratkaisu"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e4d8178f3e43b99ce8ef94d79aace644",
+        "text": "Italiasta levisi Ranskan kautta maahamme 1600-luvun puo- livälissä pohjakaava, jolle oli tyypillistä salin sijainti raken- nuksen keskellä heti eteisen takana. Eteisen ja salin kum- mallakin puolen oli kaksi kamaria. Kamarien lukumäärä vaihteli tarpeiden mukaan. Makuukamarit sijoittuivat raken- nuksen toiseen päätyyn ja isännän työtilat toiseen.Tällaista pohjakaavatyyppiä, jota yleisesti käytettiin säätyläiskodeis- sa 1700...1800-luvuilla, kutsutaan karoliiniseksi. Säätyläis- kotien sänkytyyppinä oli usein katoksellinen pylvässänky.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "0947eac0acfbb7daad49f5b83995a88b",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Kaupunkiasuminen"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f0026f1ab89f9fcc8d899ad6c22fabcd",
+        "text": "Kaupunkiasumisen myötä 1800-luvulla erityyppiset poh- jaratkaisut yleistyivät. Suosituimpia kaupunkirakennusten pohjakaavoja oli ns. sydänseinäkaavat. Pitkittäinen sydän- seinä jakoi tavallisesti rakennuksen kadun- ja pihanpuolei- siin osiin. Makuu-, keittiö- ja eteistilat sijoittuivat pihanpuo- lelle. Yleisin sänkytyyppi oli kustavilaistyyppinen sivusta- vedettävä sänky tai päästä vedettävä imperiaalisänky. Varakkaille tarkoitetuissa asunnoissa vanhemmilla ja lap- silla oli erilliset makuuhuoneet, mutta työväen vuok- ra-asunnot olivat vielä yksihuoneisia hellahuoneita. Hella- huoneessa asui koko iso perhe yhdessä tilassa kuten aika- naan yksitupapirteissä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "96a76044762fcbf80077daaae5345d37",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7331bdac3b1920a6e13ed55461e21cdc",
+        "text": "Elintason noustessa 1900-luvulla siirryttiin yleisesti asu- miseen, jossa asunnon eri toiminnot oli sijoitettu eri huo- neisiin.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "parent_id": "96a76044762fcbf80077daaae5345d37",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "SU5 l »'WWW ilU sä oe T ET Juä"
+    },
+    {
+        "type": "Title",
+        "element_id": "524be1cf1a4772de44cc86d96c3274f6",
+        "text": "T55 \" J| L w",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 2,
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "© Rakennustietosäätiö RTS 2005 3 TILARATKAISUT SIT 91-610018 ohjetiedosto"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3c79652cb78b55a81f13fd17161da2c6",
+        "text": "Suurimmassa osassa asuntokantaamme nukkuminen on sijoitettu erillisiin makuuhuoneisiin. Makuuhuone antaa nukkujalle näkö- ja äänisuojan ja mahdollistaa asunnon monipuolisen käytön häiritsemättä nukkujaa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "1c67c12b5995a2129d5becba8cf7a354",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b075f3818ad21412f5b4e88cb352414e",
+        "text": "Viimeaikoina asuntojen tilaratkaisut ja toiminnot ovat osittain vapautuneet perinteisestä huonesidonnaisesta ajattelutavasta. Loft-tyyppisissä asunnoissa nukkuminen on siirtynyt väljempien oleskelutilojen yhteyteen. Seuraavassa on lueteltu nukkumisen ja makuuhuoneen yhteyteen sijoittuvia toimintoja:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "1c67c12b5995a2129d5becba8cf7a354",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• lukeminen oleilu • pukeutuminen • kauneudenhoito, kampaus vauvanhoito • kirjoittaminen • näyttöpäätetyöskentely TV:n katselu 3.1 Makuuhuoneet Mitoitus"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1698a04d3378b12c10d48f25b720082e",
+        "text": "Suomalaisessa asuntorakentamisessa pinta-alat ovat melko pieniä ja makuuhuoneet ovat yleensä suhteellisen tiukasti mitoitettuja.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a7821060dabbdcb2297bf748da7cc4ef",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5924cd6b6e520965b4bd453673990218",
+        "text": "Makuuhuoneet on totuttu jaottelemaan kahteen ryhmään:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a7821060dabbdcb2297bf748da7cc4ef",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5b44d20f426f4355b2b559c9ab669f98",
+        "text": "• Suurempiin eli kahden hengen makuuhuoneisiin, koko noin 10...16 m2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a7821060dabbdcb2297bf748da7cc4ef",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e584ff03f568e3ce5e3564752560d2ad",
+        "text": "• Pienempiin eli yhdenhengen makuuhuoneisiin, koko noin 7...12 m2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "a7821060dabbdcb2297bf748da7cc4ef",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Sijoittuminen, kulkuyhteydet ja mitoitus"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "12c2566510ecb40f0bb5360714f46029",
+        "text": "• Makuuhuoneet pyritään sijoittamaan asunnon pohjoisen- puoleiseen osaan, jotta auringonvalo ja lämpö häiritse- vät mahdollisimman vähän nukkumista.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "2fe921712e073484d762529d73af00a1",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "29c6e64fcfe739f238193196582e2ada",
+        "text": "• Suora yhteys makuuhuoneista eteis- tai kulkutiloihin pa- rantaa asunnon käytettävyyttä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "2fe921712e073484d762529d73af00a1",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f0c9fa90729259b98dd781599ef1e4b2",
+        "text": "• Makuuhuoneiden välittömään läheisyyteen pyritään si- joittamaan myös peseytymis- ja wc-tilat.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "2fe921712e073484d762529d73af00a1",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9ff504b520d2b9694200fd770ebf9418",
+        "text": "• Makuuhuoneen viihtyvyyttä lisää kulku makuuhuonees- ta ulkotiloihin.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "2fe921712e073484d762529d73af00a1",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "67e7df9f08fb7925be4d9a0b7518adc1",
+        "text": "• Kahden lapsen iso yhteinen makuuhuone voidaan jakaa kahdeksi erilliseksi tilaksi.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "2fe921712e073484d762529d73af00a1",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "88736e6b859f403d2f0f6a52d11fcfa6",
+        "text": "• Kalustuksen muunneltavuus ja väljä mitoitus tuo jousta- vuutta.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "2fe921712e073484d762529d73af00a1",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "756a9198ea1c9b192f64646e93039804",
+        "text": "• Mitoituksella ja esteettömyydellä pystytään ratkaise- maan myös liikuntarajoitteisten ja ikäihmisten toimimi- nen asunnossa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "2fe921712e073484d762529d73af00a1",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Ääneneristys"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fb58e973f122e41a47128936f1b67106",
+        "text": "Asuinrakennuksessa tilojen sijoittelu on ääniteknisen suunnittelun perusta. Hiljaisuutta vaativat huoneet, kuten makuu- ja olohuoneet, sijoitetaan mahdollisimman kauas tiloista, joissa on äänekkäämpää toimintaa, kuten por- rashuoneista ja viereisen tai yläpuolisen huoneiston wc- ja kylpyhuonetiloista ja keittiöstä. Kylpyhuoneet, keittiöt, vaa- tehuoneet yms. porrashuoneen ja makuuhuoneen välillä suojaavat makuuhuoneita porrashuonemelulta. Oleskelu- tilojen äänten kuulumista makuutiloihin pystytään vaimen- tamaan seinä- ja oviratkaisuilla.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "e7c306788bf7988e4348f6ee9073d43f",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "30f3760d8fd2bd9ee21e245cd110d97c",
+        "text": "Asunnossa tulee ottaa huomioon myös runko- ja askelää- neneristysvaatimusten täyttyminen, liikenteen äänet ym.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "e7c306788bf7988e4348f6ee9073d43f",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "© Rakennustietosäätiö RTS 2005 N |"
+    },
+    {
+        "type": "Title",
+        "element_id": "cf02cc602fdd7911f016c3fa646e2fd9",
+        "text": "k [J ja ken | - 4R0]]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "M| XQ |\" ,l N 3 | w j/ = 7—*3—'—,% VA] - anä | M pi —i a\" —- lu z S PP | eY JON aan p— — K K x—-. j- Avoimet tilat"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0f3bab62caca25d41648145789910d59",
+        "text": "• Avotilaa voidaan jakaa irtosermin tai kaapiston avulla, joka suojaa nukkujaa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "92a8cedba9b3ee7b655f7c3e7de0f12c",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "13489de8d07b9451e97e32183b5d390c",
+        "text": "• Pölyn hallinnan takia sänkyä ei suositella keittiön tai kir- jahyllyn läheisyyteen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "92a8cedba9b3ee7b655f7c3e7de0f12c",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "594094b540447b4b9b18351b26a3137c",
+        "text": "• Avotilaratkaisut sopivat lähinnä yksin tai parisuhteessa eläville lapsettomille henkilöille.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 3,
+            "parent_id": "92a8cedba9b3ee7b655f7c3e7de0f12c",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "SIT 91-610018 ohjetiedosto 4 KALUSTEET"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b2bcc0feeb6a9d3a9bd560ba87174a89",
+        "text": "Sängyn läheisyyteen sijoittuu yleensä seuraavia kalustei- ta, valaisimia ja laitteita:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "7d219be8451ed09eb4f5725d464a11ce",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• yöpöytä / laatikosto kaapisto • korkea peili työpöytä istuin • lapsen hoitopöytä lapsen sänky kampauspöytä TV lukuvalo yleisvalo Sänky, patja ja vuodevaatteet"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4b59db87f9225dc9e315fba0add818f4",
+        "text": "Patjan ja sängyn valintaan vaikuttaa nukkujan ikä, paino, terveydentila ja henkilökohtaiset mieltymykset. Sängyn ulkomitat määräytyvät nukkujan pituuden (nukkujan pituus + 150...250 mm) ja patjojen vakiokokojen mukaan. Seuraa- vassa on yleisimmät patjakoot:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "af16b88dadb910e974e72ac596b8763b",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "11621609d47cd284cf5cc247964b6d7d",
+        "text": "800 x 1900 mm, 800 x 2000 mm, 900 x 2000 mm, 1000 x 2000 mm, 1200 x 2000 mm, 1400 x 2000 mm, 1600 x 2000 mm.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "af16b88dadb910e974e72ac596b8763b",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4c99b1b238879b7f0259f8113f0e3233",
+        "text": "Patjoja voi teettää myös erikoismittaisina.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "af16b88dadb910e974e72ac596b8763b",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bbdbfdb84a250ae6bb374fca75b0f114",
+        "text": "Varsinaisen patjan päällä käytetään petauspatjaa säätele- mässä patjan pinnan pehmeyttä ja parantamassa nukku- mismukavuutta. Petauspatjojen paksuudet vaihtelevat 30...70 mm välillä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "af16b88dadb910e974e72ac596b8763b",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Laverisänky"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bad4b83ddc3b014f144cea3848662f18",
+        "text": "Perinteisin sänkytyyppi on ns. laverisänky, jonka päälle ir- topatja asetetaan. Sängyn levypohja tulisi olla tehty sälera- kenteisena tai rei´itettynä levynä, jotta patja tuulettuu ja hi- koilu vähenee. Laverisängyn alla olevaa tilaa voidaan käyt- tää säilytykseen. Tyypillinen ratkaisu on sängyn alle asen- netavat pyörälliset tai liukukiskoin liukuvat vetolaatikot. Joissain ratkaisuissa laverisängyn levypohja nousee me- kanismin avulla ylös, jolloin alaosan laatikko on käytettä- vissä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "084b3895aa79e1ca16e7811dd6becb5c",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Moottoroitu sänky"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1aad9c25fd7aa162abbb4ff08daf0d38",
+        "text": "Moottoroidut sängyt ovat yleistyneet viime vuosina. Yleen- sä sängyn käyttäjä voi säätää pään ja jalkojen kor- keusasemaa ja hakea itselleen mieluisimman asennon. Näissä sängyissä on tarjolla monia ominaisuuksia.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "3c648816270ff0bf90faacc97eef1c6a",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Vaahtomuovipatja"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6c969b7cd15ebf8732f73cb4e067aea0",
+        "text": "Vaahtomuovipatja koostuu yhdestä tai useammasta vaah- tomuovikerroksesta. Se muistuttaa fyysisiltä ominaisuuk- siltaan joustinpatjaa. Laadukkaimpien vaahtomuovipatjo- jen pienet huokoset toimivat kuin minikokoiset jouset ja myötäilevät tarkasti vartalon muotoja. Paino jakautuu ta- saisesti, ja kehoon kohdistuva paine vähenee.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "28ccd3d26505a061381d62be0bb14537",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Joustinpatja"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4dd0d4640d88f7167518a4d7e75ad5a9",
+        "text": "Joustinpatja muodostuu jousista ilman varsinaista kiinteää runkoa. Laadukkaimmissa patjoissa erivahvuiset jouset mukautuvat nukkujan painon ja muotojen mukaan. Jous- tinpatja sijoitetaan sängyn runkoon sälepohjalle. Toisin kuin runkopatja monet joustinpatjat on käännettävissä, jol- loin patjan kulutusta voidaan tasata ja lisätä patjan käyttöikää kääntämällä patjaa säännöllisin väliajoin.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "925d972a9cec6c0fecedf11b476727b1",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Runkopatja"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "48e29aa8571c46f39ac30d86c5a63409",
+        "text": "Runkopatjassa jousisto on puurungon päällä. Pohjan kiin- teän rakenteen vuoksi runkopatjaa ei voi taittaa eikä kään- tää kuten esimerkiksi joustinpatjaa. Runkopatjan voi sijoit- taa tavalliseen sänkyyn tai siihen voidaan lisätä jalat ja käyttää sänkynä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "6bc7c2caad4a90e005eda6717fc0e6d1",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Jenkkivuode"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "00fa2c6091fe877093fd5a9da85ebbf2",
+        "text": "Jenkkivuode koostuu kolmesta patjakerroksesta. Alinna on paksu runkopatja, jonka päällä on joustinpatja. Lopulli- nen pehmeys saavutetaan paksulla sijauspatjalla. Jenkki- vuoteet ovat yleensä parisänkyjä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "ce3974f3c1aedc3bad2c768b04f1b4b9",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Futonpatja"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c618f6eec07f96f5f9b5f71596555e97",
+        "text": "Puhtaasta, valkaisemattomasta ja pitkäkuituisesta puuvil- lasta ja kookoskuiduista valmistettu futon on hengittävä ja elää alustansa mukaan. Jämäkän rakenteen vuoksi se so- pii kovaa ja tukevaa nukkuma-alustaa havittelevalle.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "2b0d71c169df10f7ef7f8d2f66638831",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Vesisänky"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8ee34b4dcafc7569f241eb8c4d028468",
+        "text": "Vesisängyn patja on täytetty vedellä. Vesipatja mukautuu kehon muotoihin ja joidenkin näkemysten mukaan edistää verenkiertoa ja parantaa unen laatua. Pitkään sängyssä makaavin potilaiden on sanottu säästyneen makuuhaa- voilta vesisängyssä. Vesisängyn lämmitys tapahtuu säh- köllä. Lattiarakenteiden lujuus on syytä tarkistaa ennen ve- sisängyn sijoittamista.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "4c079e09bc8bd1079f981a42ee9ca625",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Vuodevaatteet"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "de603edb9505d45e8b2bf0f082db0be2",
+        "text": "Luonnonkuituiset kankaat pellava, puuvilla ja silkki, ovat hyviä vuodevaatemateriaaleja. Ne ovat hengittäviä eivätkä hiosta. Luonnonkuituja voidaan pestä kuumissa lämpöti- loissa toisin kuin tekokuituisia. Parhaana peiton ja tyynyn materiaalina pidetään untuvaa, joka tuntuu viileältä kuu- malla ja lämpimältä kylmällä. Peiton tikkauksen tulee olla laadukas, jotta untuvat eivät kasaudu yhteen kohtaan. Tii- viisti kudotut kankaat eivät päästä höyheniä läpi.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "2c864bb766d0312af9060baf956c32ee",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d007060c51cb52b1aec0539cc8d08df3",
+        "text": "Vuodevaatteet on syytä tuulettaa usein, jotta irtoava pöly saadaan poistettua.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 4,
+            "parent_id": "2c864bb766d0312af9060baf956c32ee",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "--—*—,——,—,—F - © Rakennustietosäätiö RTS 2005 SIT 91-610018 ohjetiedosto Vaatesäilytys"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f59026f2d326eb7a371b4ce7d212a4cb",
+        "text": "• Säilytystilaa on suositeltavaa olla vähintään kaksi kor- keata kaappia yhtä henkilöä kohden.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "92b51c88f752bce2e9fb20c598e23c6c",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0d4f3024de2f62385c9fd481ecfb106a",
+        "text": "• Isoissa asunnoissa makuuhuoneen yhteyteen suunni- tellaan vaatehuone.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "92b51c88f752bce2e9fb20c598e23c6c",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "aa0f7c61affd70ea8aa3d435a2b7ec96",
+        "text": "• Pienten makuuhuoneiden kaapistoissa liukuovien käyt- tö on suositeltavaa. Liukumekanismi mahdollistaa ovien suuren leveyden.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "92b51c88f752bce2e9fb20c598e23c6c",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "97d1cc430967b77f7bff9b6183e36772",
+        "text": "• Vaatekaappien sisällä oleva valaisin parantaa kaapin käytettävyyttä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "92b51c88f752bce2e9fb20c598e23c6c",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "P an Yöpöytä / laatikosto"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a314b916ca3b4d13cafffe6d548df6fd",
+        "text": "Yöpöytä toimii laskutasona ja säilytystilana sängyn vieres- sä. Yöpöydässä oleva vetolaatikko tai kaappi mahdollistaa tavaroiden säilyttämisen sängyssäolijan ulottuvilla.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "63ea8b5719c8e3286bd484c76c935bf2",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Työpöytä"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4fcb33343f7085d50df057999c524077",
+        "text": "Työpöydän koko ja muoto harkitaan tapauskohtaisesti. Seuraavassa on asioita, jotka pyritään ottamaan huomi- oon työpistettä suunniteltaessa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "46af44729fdc7e4570bfd7a1e72576dc",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a2a987256e74134435cdf557399172d2",
+        "text": "• Työpisteen yhteyteen suunnitellaan sähkö- ja atk-pisto- rasiat.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "46af44729fdc7e4570bfd7a1e72576dc",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "• Riittävästä ergonomiasta huolehditaan."
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2a06c5321f87b935ff58ef239d1c6074",
+        "text": "• Valaistus suunnitellaan siten, ettei häiritseviä heijastuk- sia näy kuvaruudulla eivätkä kontrastit taustaseinän, pöytäpinnan ja kuvaruudun välillä ole liian suuret.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "46af44729fdc7e4570bfd7a1e72576dc",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b27e1a5f7492fc8a9814302654096aeb",
+        "text": "• Kirjahyllytilaa ja / tai laatikostotilaa järjestetään työpis- teen yhteyteen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "46af44729fdc7e4570bfd7a1e72576dc",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Kampauspöytä"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2259267282969cda1b6ba651c203cfe5",
+        "text": "Kampaus- tai peilipöytä voi kuulua isojen makuuhuoneiden kalustukseen. Peilipöydän ääressä tapahtuva kauneuden- hoito vapauttaa wc-tilat muulle toiminnalle. Peilipöydän yh- teyteen voidaan suunnitella säilytys- ja laskutilaa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "2a566b08c1019b1790f836349140ff2c",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Peili"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f5d1b1325010d60566abe9dac5e3b765",
+        "text": "Pukeutumispeili on tarpeellinen etenkin aikuisten makuu- huonetiloissa. Kokovartalopeiliin katseluetäisyys on yleen- sä ≥1200mm. Peilin yhteyteen pyritään järjestämään va- laistus.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "5aeb52143529b6e3505e6f17c3422476",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Televisio"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5a547800a9a16c0b0ff1137c8e13e0e1",
+        "text": "TV sijoitetaan usein myös makuuhuonetiloihin. TV:n sijoittu- minen pyritään ottamaan huomioon sähkösuunnitelmissa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "d19d503cc735e41a741e88410df92faf",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "5 MATERIAALIT"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "526446cba42de4cd4688e8a9999408b8",
+        "text": "Materiaalivalinnoilla vaikutetaan tilan visuaaliseen luon- teeseen, rakenneratkaisuihin ja sisäilman laatuun.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "01bab7ae4769af6d266a060c612d607e",
+        "text": "Terveellisten rakennusmateriaalien kehitystyöhön kiin- nitetään nykyisin entistä enemmän huomiota. Rakennus- tietosäätiö RTS myöntää M1 merkinnän puolueettomassa laboratoriossa testatuille tuotteille. Kemiallisten testien li- säksi tuotteet käyvät läpi hajupaneelin aistinvaraisen arvi- oinnin. Lähes kaikista materiaaliryhmistä löytyy M1-luoki- teltuja tuotteita: maaleja, tapetteja, lattianpäällysteitä, ra- kennuslevyjä, tasoitteita, eristeitä jne.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "20d0017f8c7c1be7fc986af01485c0d7",
+        "text": "Seuraavassa on huomioita nukkumatilojen materiaaliva- linnoista:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "25a9d9b2fe71709fca7d1d6b9156be81",
+        "text": "• Vuodevaatteet ja tekstiilipinnat saattavat aiheuttaa aller- giaoireita.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "73d7171844a4d0a0d9455296e4360727",
+        "text": "• Lattiaan kosketaan paljaalla jalalla",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9227eaa759dfb0180605019a055119f5",
+        "text": "– Lämmin materiaali on ihokosketuksessa miellyttävä",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2056920e0c8542d220cddce48df70f3c",
+        "text": "– Puulattia on huokoinen, lämmin, pölyämätön ja hel- posti siivottava. SIT 42-610016 Lautalattiat, puiset portaat ja käsijohteet.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4545610e73a037552464fc2627765bec",
+        "text": "– Tekstiilipäällysteet ovat etenkin Etelä-Euroopassa yleisiä. Suomessa niiden käyttö on rajoittunut viime- vuosina lähinnä hotelleihin- ja ravintoloihin, mutta hy- välaatuiset tekstiilipäällysteet soveltuvat myös asun- noissa käytettäviksi. Oikeanlainen puhdistus pitää ne pölyämättöminä. SIT 42-610003 Tekstiilipäällysteet, matot.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "83a797d565550f76885f7e3c22bc4483",
+        "text": "– Linoleum- ja korkkipinnoitteet ovat luonnonmateriaa- leja.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bd159a30242ba3ddbf546cce73332e09",
+        "text": "– Muovimatot ovat helposti siivottavia.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f4836bd61db850faf63451caf9161bb3",
+        "text": "• M1-luokitellut materaalit ovat sisäilman kannalta turvallisia.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "e54528df1c7689349c8f9ab8b0d8432d",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "6 VÄRIT JA VALAISTUS"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ae97c972fcd01e839a9ad47e9151a7db",
+        "text": "Värit ja valaistus ovat kiinteästi yhteydessä toisiinsa. Eri valonlähteet toistavat värejä eri tavalla, siksi värisävyt muuttavat luonnettaan valaistuksen vaihtuessa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "cb9d57526eab2471510a71dc48f7cc59",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "6.1 Värit"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ecfbe8b856b237e8f91dd91a863a671a",
+        "text": "Värimieltymykset ovat yksilöllisiä, rakennusmateriaalit ja tilan luonne vaihtelevat, mutta tiettyjä perusperiaatteita värien käytöstä voidaan antaa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "109f3ceb7ae1d0f077b11444811bee58",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f1759c13f9cefaecbae337dc70645f29",
+        "text": "• Makuuhuoneissa suositaan rauhallisia vaaleita värejä. Ympäristön värit eivät saa aktivoida liikaa nukahtajaa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "109f3ceb7ae1d0f077b11444811bee58",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ecc9d01c6c66f8e350d7761ed0d45809",
+        "text": "• Yleensä pienet pinnat voidaan maalata värikkäämmiksi kuin suuret.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "109f3ceb7ae1d0f077b11444811bee58",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8c13d1807de30375b8748315e5b5658c",
+        "text": "• Rauhallinen ilme säilyy, vaikka huoneen yksi seinistä oli- si voimakkaasti väritetty kunhan muut pinnat antavat ti- lalle miellyttävän yhtenäisen taustavärin.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "109f3ceb7ae1d0f077b11444811bee58",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7d02bf0c9a2f310f2626ec7fb0d6084a",
+        "text": "• Lasten nukkumatilojen värityksessä käytetään usein kirk- kaita värejä. Lasten värimieltymykset muuttuvat ikäkehi- tyksen myötä.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "109f3ceb7ae1d0f077b11444811bee58",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "888fb8c636f3bf41c9c932e5a4c11d25",
+        "text": "• Väripsykologian mukaan nukkumatiloihin soveltuvat rauhoittavat, viileät värisävyt kuten vaalea sininen, vio- letti, vihreä tai turkoosi.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 5,
+            "parent_id": "109f3ceb7ae1d0f077b11444811bee58",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "© Rakennustietosäätiö RTS 2005 SIT 91-610018 ohjetiedosto 6.2 Valaistus"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a3401f0f963e8e98d5b764c5cdfa64a8",
+        "text": "Tavallisin valaistusratkaisu makuuhuoneissa on melko yk- sinkertainen: huoneen keskiosan kattoon sijoitetaan pin- ta-asennettu tai riippuva yleisvalo, jota täydennetään sän- kyjen päädyissä olevilla suunnattavilla lukuvaloilla.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a3293a44aefa462ccb618afaa4e737b0",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8369fdc962aa1c24e6cd0ebc34630947",
+        "text": "Tämä ratkaisu on usein riittävä, kunhan huolehditaan, että kokonaisvalomäärä riittää normaalien päiväaskareiden suo- rittamiseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a3293a44aefa462ccb618afaa4e737b0",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2ff25b7587a315bb5facddd0e729441d",
+        "text": "Seuraavassa on lueteltu valaistukseen liittyviä asioita:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a3293a44aefa462ccb618afaa4e737b0",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "df9da1ddb5b3b49b911575a50cccb12f",
+        "text": "• Valaistustason muunneltavuus ja valojen säätömahdol- lisuus pyritään ottamaan suunnittelussa huomioon.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a3293a44aefa462ccb618afaa4e737b0",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2ad47e06b7782f303e4fc92d7967cb80",
+        "text": "• Yleisvalon suuntaaminen epäsuorasti katon kautta es- tää häikäisyn syntymisen. Yleisvalo voidaan järjestää myös paikallisia valoja käyttäen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a3293a44aefa462ccb618afaa4e737b0",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1568fbe6656b2e748d9198a1f5b122d5",
+        "text": "• Lukuvalon katkaisin sijoitetaan sängyn lähelle, jotta va- lon ohjaaminen onnistuu sängystä nousematta.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a3293a44aefa462ccb618afaa4e737b0",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5a39d23104647bdeb93fcdf99f817d0b",
+        "text": "• Makuuhuoneen kaapistojen käytettävyyttä helpottaa kaapistojen sisään asennettavat valaisimet. Lasiovellisis- sa kaapeissa valaisin toimii osana kokonaisvalaistusrat- kaisua.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a3293a44aefa462ccb618afaa4e737b0",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "163f82932e54468d5517fee64316bf22",
+        "text": "• Oikein suunnattu lämminsävyinen peilivalo antaa tasai- sen varjottoman valon kasvoille.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a3293a44aefa462ccb618afaa4e737b0",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f39d3d1f53637472893e5353500b8a33",
+        "text": "• Makuuhuoneen yhteydessä olevaan työpisteeseen jär- jestetään riittävä valaistus. Tietokoneella työskenneltä- essä näyttöpäätteelle heijastuvat häiritsevät valopisteet pyritään eliminoimaan. Valaistustason muunneltavuus mahdollistaa erityyppiset työtehtävät.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a3293a44aefa462ccb618afaa4e737b0",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a7732a78acdd0812e14333d4268e54f7",
+        "text": "• Luonnonvalon hallinta pyritään ottamaan suunnitelmis- sa huomioon. Pimeässä tai hämärässä unenlaatu on hyvä, SIT 82-610005 Verhot.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a3293a44aefa462ccb618afaa4e737b0",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "7 ILMANLAATU"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3fdfe669a15be3f8f544d7f62488c201",
+        "text": "Uudisrakentamisessa hyvän sisäilman laadun kannalta tärkeimpiä asioita ovat puhdas ja toimiva ilmanvaihtojär- jestelmä, kuivat ja kosteusteknisesti toimivat rakenteet, vähäpäästöiset rakennus- ja sisustusmateriaalit, helppo siivottavuus ja allergeenien välttäminen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "38456ff8a2f67f0e31cd0a7f573328e2",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6e6eb4ab6b8428b4b8e268da072de4e1",
+        "text": "Sisäilmastoluokitus 2000 (RT 07-10741) antaa tavoi- tearvoja hyvälle sisäilman laadulle sekä käytännön työka- luja suunnitteluun ja toteutukseen. Luokituksessa on toi- mintaohjeita mm. kosteuden- ja pölynhallintaan sekä il- manvaihtokanaviston suojaamiseen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "38456ff8a2f67f0e31cd0a7f573328e2",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c0675341d28d5514355dfd84744cd5c7",
+        "text": "Asumisviihtyvyyden ja terveyden kannalta paras huone- lämpötila on 21...22 °C, makuuhuoneessa lämpötila voi olla 1...2 °C alhaisempi. Lattian pintalämpötila ei saisi las- kea alle +18 °C. Alhaiset pintalämpötilat voivat aiheuttaa kosteuden tiivistymistä rakenteisiin, jonka seurauksena saattaa syntyä haitallista mikrobikasvustoa.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "38456ff8a2f67f0e31cd0a7f573328e2",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "25bff6b4cc5f6374f8409323a0c68f53",
+        "text": "Korkea lämpötila (yli 23 °C) saattaa aiheuttaa sisäilmaan liittyvää oireilua sekä kuivuuden ja tunkkaisuuden tunnetta.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "38456ff8a2f67f0e31cd0a7f573328e2",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5ce1e2cd2dcf9d29da5ba4bd75f12704",
+        "text": "Asunnon ilman suhteellisen kosteuden tulisi olla lämmi- tyskaudella noin 20...45 %, joskaan sen saavuttaminen ei ole aina mahdolista mm. ilmastollisista syistä. Huoneilman kostuttamista tulee aina välttää.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "38456ff8a2f67f0e31cd0a7f573328e2",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "© Rakennustietosäätiö RTS 2005 8 TILAT JA MITOITUS Kalusteiden ja varusteiden tilantarve: sänky 800...1000 x 1900...2000 mm"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4a785b35e87d267e7528e032f36232b3",
+        "text": "• parisänky 1600...2000 x 1900...2000 mm",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "5aa324b00639cf5a0033f4e251a6be1f",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "17b92bd14a225223cfec60233c2b33f9",
+        "text": "• lasten sänky 700...800 x 1200...1400 mm",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "5aa324b00639cf5a0033f4e251a6be1f",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b60c02aa2c3e3a9f52fa3ebdba71d5a1",
+        "text": "Tilantarvetta tutkittaessa käytetään piirustuksissa sänky- jen pituutena vähintään 2100 mm.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "5aa324b00639cf5a0033f4e251a6be1f",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fd7367e5874ae97d6bf034a5af6a6b53",
+        "text": "• Lasten hoitopöytä 900...1200 x 700...800 mm",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "5aa324b00639cf5a0033f4e251a6be1f",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "2200 2200 2700...2900 Kiinteiden varusteiden tilantarve:"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "8ad321b50e778d7f8b2a3a77c3dfb524",
+        "text": "pistorasiat ja jalkalistat ulkonevat seinästä 100 mm.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a1b24fb7cc5764c0e8d59662494e6745",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "d3df77e0d32879820ba92cc74dc8f871",
+        "text": "lämpöpatterit ja -putket ulkonevat seinästä 100...200 mm.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a1b24fb7cc5764c0e8d59662494e6745",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "d6324e29f10070d03ee35720c70eb3b8",
+        "text": "oven vieressä olevat katkaisijat ja pistorasiat vaativat",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "parent_id": "a1b24fb7cc5764c0e8d59662494e6745",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "leveyssuunnassa 150 mm 100...200 150 ei 100...200"
+    },
+    {
+        "type": "Title",
+        "element_id": "ff0b262820179a28059c84814f0fb194",
+        "text": "Jn | j— /7, d H",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 6,
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "ui N | 100 2200 7 m2 SIT 91-610018 ohjetiedosto 2200 7 m2 3400 15...16 m2 =- —---- 2600 8...9 m2 2700 9...10 m2 3300 11 m2 2800 1 —sel 3700 16...17 m © Rakennustietosäätiö RTS 2005 2800 T ouel —+ 6300 3400 16...17 m 22 m —N 3300 13 m SIT 91-610018 ohjetiedosto 3600 16 m —d 3400 16...17 m 41300...1500] -- 1300...1500 Kuvat 1 ja 2 Museovirasto Kuvat 3 ja 4 VillaErvi,Rakennustaiteenmuseo 4800 16 m 4500 16 m =n 15...16 m 1300...1500! -- 1600 (900) 4200 1300...1500 3500 12 m 3400 16...17 m KIRJALLISUUTTA"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0de8934ceeb7fa33a5df25cb882ad051",
+        "text": "Asuntoarkkitehtuuri ja -suunnittelu. Esko Kahri, Hannu Pyykönen.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "989aca9178f3b9dc7bfd1ed3fd258811",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "Gummerus Oy. Jyväskylä. 1984."
+    },
+    {
+        "type": "Title",
+        "element_id": "8dffe64599e635d8a973a10ce39cd1e6",
+        "text": "Miten ennen asuttiin. Timo Niiranen. Otava. Keuruu. 1981.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6943788d1254077823b22b754c784d33",
+        "text": "Talonpoikaiskulttuurin kasvu. Matti Linkola. Toivo Hakamäki, Heik-",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "89e7fb857e7c0dec87a257e83340044e",
+        "text": "ki Kirkinen, Tamprint Oy. Tampere. 1985.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "3469c8b728ac4e1da9fa77a6ea9c0801",
+        "text": "Suomalaisen asuntoarkkitehtuurin tarina. Olli Lehtovuori. Ympä-",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c2fca7357f1065dc80d019f6008cd00f",
+        "text": "ristöministeriö, Rakennustieto Oy. Print Karisto Oy. Hämeenlinna.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "fin"
+            ],
+            "page_number": 8,
+            "parent_id": "3469c8b728ac4e1da9fa77a6ea9c0801",
+            "filename": "RT 91-610018 muutokset.pdf"
+        }
+    },
+    {
+        "text": "1999. TämänSIT-ohjekortinkäsikirjoituksenonlaatinutMarttiLukanderjajulkais- tavaksihyväksynytRakennustietosäätiönRTStoimikuntaTK246Sisustus- tekstiilitja-materiaalit MattiKulovesi sisustusarkkitehti LauriOlin sisustusarkkitehti MarttiLukander sisustusarkkitehti IrjaHansio rakennusarkkitehti © Rakennustietosäätiö RTS 2005"
+    }
+]

@@ -1,0 +1,3094 @@
+{
+  "documentLayout": {
+    "blocks": [{
+      "blockId": "1",
+      "textBlock": {
+        "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 30.8.2024. Julkaisun tai sen osien kopiointi, jakaminen, välittäminen tai muuntelu on kielletty.",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "2",
+      "textBlock": {
+        "text": "sit",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "3",
+      "textBlock": {
+        "text": "SIT 91-610018 ohjetiedosto",
+        "type": "header"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "4",
+      "textBlock": {
+        "text": "ASUINTILAT, MAKUUHUONEET",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "5",
+          "textBlock": {
+            "text": "asunnot, asuinhuoneet, makuuhuoneet",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "6",
+          "textBlock": {
+            "text": "bostäder, sovrum",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "7",
+          "textBlock": {
+            "text": "dwelling, bedrooms",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "8",
+          "textBlock": {
+            "text": "SISÄLLYSLUETTELO",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "9",
+              "textBlock": {
+                "text": "1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "10",
+              "textBlock": {
+                "text": "YLEISTÄ",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "11",
+              "textBlock": {
+                "text": "2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "12",
+              "textBlock": {
+                "text": "HISTORIA",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "13",
+              "textBlock": {
+                "text": "3",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "14",
+              "textBlock": {
+                "text": "TILARATKAISUT",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "15",
+              "textBlock": {
+                "text": "3.1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "16",
+              "textBlock": {
+                "text": "Makuuhuoneet",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "17",
+              "textBlock": {
+                "text": "4",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "18",
+              "textBlock": {
+                "text": "KALUSTEET",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "19",
+              "textBlock": {
+                "text": "5",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "20",
+              "textBlock": {
+                "text": "MATERIAALIT",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "21",
+              "textBlock": {
+                "text": "6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "22",
+              "textBlock": {
+                "text": "VÄRIT JA VALAISTUS",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "23",
+              "textBlock": {
+                "text": "6.1 Värit",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "24",
+              "textBlock": {
+                "text": "6.2 Valaistus",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "25",
+              "textBlock": {
+                "text": "7",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "26",
+              "textBlock": {
+                "text": "ILMANLAATU",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "27",
+              "textBlock": {
+                "text": "8 TILAT JA MITOITUS",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "28",
+              "textBlock": {
+                "text": "IH, MLu/1/syyskuu 2005/1000/RP Oy/Rakennustieto Oy Rakennustietosäätiö RTS 2005",
+                "type": "footer"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "29",
+              "textBlock": {
+                "text": "syyskuu 2005 1(8)",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "30",
+          "textBlock": {
+            "text": "1 YLEISTÄ",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "31",
+              "textBlock": {
+                "text": "Tässä ohjekortissa käsitellään asunnon makuuhuoneen kalusteratkaisuja, säilytystilan tarvetta, mitoitusta, värejä, materiaalivalintoja, valaistusta ja sisäilman laatua. Ohjei- den tarkoitus on havainnollistaa niitä ratkaisuja, jotka vai- kuttavat makuuhuoneiden viihtyvyyteen ja toimivuuteen.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "32",
+              "textBlock": {
+                "text": "Kortissa on myös lyhyt historiallinen katsaus asuntojen makuutilojen kehittymisestä Suomessa.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }, {
+              "blockId": "33",
+              "textBlock": {
+                "text": "SIT 91-610018 ohjetiedosto",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "34",
+              "textBlock": {
+                "text": "2 HISTORIA",
+                "type": "heading-3"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "35",
+              "textBlock": {
+                "text": "Savupirtit",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "36",
+                  "textBlock": {
+                    "text": "Myöhäisrautakaudella 1000...1300-luvuilla jKr idästä le- vinnyt hirsisalvosrakenteinen pirtti syrjäytti Suomessa rau- takauden risupunosseinäiset majat ja hallitalot. Savupirt- tien lattiat olivat maanvaraisia ja asunto koostui yhdestä huoneesta, johon kaikki sisällä tapahtuvat toiminnot kes- kittyivät. Naisväen sängyt olivat usein ns. tolppasänkyjä, jotka sijoittuivat huoneen reunoille. Miesväki nukkui tupaa kiertävien penkkien päällä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "37",
+              "textBlock": {
+                "text": "Sivu- ja eteiskamaritupa",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "38",
+                  "textBlock": {
+                    "text": "Vähitellen nelikulmainen yksinäistupa kehittyi kahdenhuo- neen rakennukseksi. Tuvan toiseen päähän saatettiin ra- kentaa lauta- tai hirsirakenteinen kamari, jota käytettiin va- rastona ja kesäaikaan myös nukkumiseen.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "39",
+              "textBlock": {
+                "text": "Paritupa",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "40",
+                  "textBlock": {
+                    "text": "Suomessa 1600-luvulla yleisin talonpoikaisasumusten pohjakaava oli ns. parituparatkaisu. Kaksi yhtä suurta asuinhuonetta sijaitsevat eteisen molemmin puolin. Alku- aan toinen huoneista oli asuinkäytössä ja toista pidettiin esimerkiksi saunana, riihenä tai aittana. Myöhemmin mo- lemmat tuvat otettiin asumiskäyttöön ja rakennusta saatet- tiin laajentaa vielä kamareilla. Aluksi kamarit, joissa nukut- tiin olivat lämmittämättömiä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "41",
+              "textBlock": {
+                "text": "Karjalantalo",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "42",
+                  "textBlock": {
+                    "text": "Erikoislaatuista pohjakaavaa edustaa itäkarjalassa tun- nettu ns. karjalantalo, jossa asuintilat ja karjasuojat sijaitsi- vat saman katon alla. Rakennus oli yleensä kaksikerroksi- nen, jossa asuminen ja varastotilat tai heinävaja sijoittuivat yläkertaan ja kellari ja karjasuojat alempaan kerrokseen. Asuinpirteissä nukuttiin tavallisesti lattioille levitettyjen pat- jojen päällä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "43",
+                  "textBlock": {
+                    "text": "Karjasuojan yläpuoleiseen varastotilaan oli usein käynti suoraan ulkoa. Yläkerran asuinhuoneen takana saattoi si- jaita yksi tai useampi kamari. Vauraimmissa taloissa pirtin yläpuolella oli vinttikamari talon tyttärille tai arvovieraille. Asuinosan jatkoksi rakennettiin tarpeen mukaan lisää ta- lousrakennuksia. Karjalantaloja asuttivat suuret sukuyh- teisöt, joihin saattoi kuulua kymmeniä henkilöitä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "44",
+              "textBlock": {
+                "text": "Pohjalaistalo",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "45",
+                  "textBlock": {
+                    "text": "Kaupunkitalot ja herraskartanot inspiroivat Pohjanmaalla 1800-luvulla rakentamaan kaksikerroksisia taloja. Lisään- tyvä vauraus mahdollisti suurikokoisten ja näyttävien hirsi- talojen rakentamisen. Aluksi ylempi kerros jätettiin sisusta- matta, mutta myöhemmin toisen kerroksen päätyihin saa- tettiin tehdä makuukamarit.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "46",
+              "textBlock": {
+                "text": "Karoliininen pohjaratkaisu",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "47",
+                  "textBlock": {
+                    "text": "Italiasta levisi Ranskan kautta maahamme 1600-luvun puo- livälissä pohjakaava, jolle oli tyypillistä salin sijainti raken- nuksen keskellä heti eteisen takana. Eteisen ja salin kum- mallakin puolen oli kaksi kamaria. Kamarien lukumäärä vaihteli tarpeiden mukaan. Makuukamarit sijoittuivat raken- nuksen toiseen päätyyn ja isännän työtilat toiseen. Tällaista pohjakaavatyyppiä, jota yleisesti käytettiin säätyläiskodeis- sa 1700...1800-luvuilla, kutsutaan karoliiniseksi. Säätyläis- kotien sänkytyyppinä oli usein katoksellinen pylvässänky.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "48",
+              "textBlock": {
+                "text": "Kaupunkiasuminen",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "49",
+                  "textBlock": {
+                    "text": "Kaupunkiasumisen myötä 1800-luvulla erityyppiset poh- jaratkaisut yleistyivät. Suosituimpia kaupunkirakennusten pohjakaavoja oli ns. sydänseinäkaavat. Pitkittäinen sydän- seinä jakoi tavallisesti rakennuksen kadun- ja pihanpuolei- siin osiin. Makuu-, keittiö- ja eteistilat sijoittuivat pihanpuo- lelle. Yleisin sänkytyyppi oli kustavilaistyyppinen sivusta- vedettävä sänky tai päästä vedettävä imperiaalisänky. Varakkaille tarkoitetuissa asunnoissa vanhemmilla ja lap- silla oli erilliset makuuhuoneet, mutta työväen vuok- ra-asunnot olivat vielä yksihuoneisia hellahuoneita. Hella- huoneessa asui koko iso perhe yhdessä tilassa kuten aika- naan yksitupapirteissä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "50",
+                  "textBlock": {
+                    "text": "Elintason noustessa 1900-luvulla siirryttiin yleisesti asu- miseen, jossa asunnon eri toiminnot oli sijoitettu eri huo- neisiin.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "51",
+                  "textBlock": {
+                    "text": "1",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "52",
+                  "textBlock": {
+                    "text": "க",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "53",
+                  "textBlock": {
+                    "text": "2",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "54",
+                  "textBlock": {
+                    "text": "க",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "55",
+                  "textBlock": {
+                    "text": "க",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "56",
+                  "textBlock": {
+                    "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 30.8.2024. Julkaisun tai sen osien kopiointi, jakaminen, välittäminen tai muuntelu on kielletty.",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "57",
+                  "textBlock": {
+                    "text": "2",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "58",
+                  "textBlock": {
+                    "text": "Rakennustietosäätiö RTS 2005",
+                    "type": "footer"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "59",
+              "textBlock": {
+                "text": "3 TILARATKAISUT",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "60",
+                  "textBlock": {
+                    "text": "SIT 91-610018 ohjetiedosto",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "61",
+                  "textBlock": {
+                    "text": "3",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "62",
+                  "textBlock": {
+                    "text": "Suurimmassa osassa asuntokantaamme nukkuminen on sijoitettu erillisiin makuuhuoneisiin. Makuuhuone antaa nukkujalle näkö- ja äänisuojan ja mahdollistaa asunnon monipuolisen käytön häiritsemättä nukkujaa.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "63",
+                  "textBlock": {
+                    "text": "Viimeaikoina asuntojen tilaratkaisut ja toiminnot ovat osittain vapautuneet perinteisestä huonesidonnaisesta ajattelutavasta. Loft-tyyppisissä asunnoissa nukkuminen on siirtynyt väljempien oleskelutilojen yhteyteen. Seuraavassa on lueteltu nukkumisen ja makuuhuoneen yhteyteen sijoittuvia toimintoja:",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "64",
+                  "textBlock": {
+                    "text": "• lukeminen",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "65",
+                  "textBlock": {
+                    "text": "• oleilu",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "66",
+                  "textBlock": {
+                    "text": "• pukeutuminen",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "67",
+                  "textBlock": {
+                    "text": "• kauneudenhoito, kampaus",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "68",
+                  "textBlock": {
+                    "text": "• vauvanhoito",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "69",
+                  "textBlock": {
+                    "text": "• kirjoittaminen",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "70",
+                  "textBlock": {
+                    "text": "• näyttöpäätetyöskentely",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "71",
+                  "textBlock": {
+                    "text": "• TV:n katselu",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "72",
+              "textBlock": {
+                "text": "3.1 Makuuhuoneet",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "73",
+                  "textBlock": {
+                    "text": "Mitoitus",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "74",
+                      "textBlock": {
+                        "text": "Suomalaisessa asuntorakentamisessa pinta-alat ovat melko pieniä ja makuuhuoneet ovat yleensä suhteellisen tiukasti mitoitettuja.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "75",
+                      "textBlock": {
+                        "text": "Makuuhuoneet on totuttu jaottelemaan kahteen ryhmään:",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "76",
+                      "textBlock": {
+                        "text": "• Suurempiin eli kahden hengen makuuhuoneisiin, koko noin 10...16 m²",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "77",
+                      "textBlock": {
+                        "text": "• Pienempiin eli yhdenhengen makuuhuoneisiin, koko noin 7...12 m²",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "78",
+              "textBlock": {
+                "text": "Sijoittuminen, kulkuyhteydet ja mitoitus",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "79",
+                  "textBlock": {
+                    "text": "• Makuuhuoneet pyritään sijoittamaan asunnon pohjoisen- puoleiseen osaan, jotta auringonvalo ja lämpö häiritse-",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "80",
+                  "textBlock": {
+                    "text": "vät mahdollisimman vähän nukkumista.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "81",
+                  "textBlock": {
+                    "text": "• Suora yhteys makuuhuoneista eteis- tai kulkutiloihin pa- rantaa asunnon käytettävyyttä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "82",
+                  "textBlock": {
+                    "text": "• Makuuhuoneiden välittömään läheisyyteen pyritään si- joittamaan myös peseytymis- ja wc-tilat.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "83",
+                  "textBlock": {
+                    "text": "• Makuuhuoneen viihtyvyyttä lisää kulku makuuhuonees- ta ulkotiloihin.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "84",
+                  "textBlock": {
+                    "text": "• Kahden lapsen iso yhteinen makuuhuone voidaan jakaa kahdeksi erilliseksi tilaksi.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "85",
+                  "textBlock": {
+                    "text": "• Kalustuksen muunneltavuus ja väljä mitoitus tuo jousta- vuutta.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "86",
+                  "textBlock": {
+                    "text": "• Mitoituksella ja esteettömyydellä pystytään ratkaise- maan myös liikuntarajoitteisten ja ikäihmisten toimimi- nen asunnossa.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "87",
+                  "textBlock": {
+                    "text": "4",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "88",
+                  "textBlock": {
+                    "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 30.8.2024. Julkaisun tai sen osien kopiointi, jakaminen, välittäminen tai muuntelu on kielletty.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "89",
+              "textBlock": {
+                "text": "Ääneneristys",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "90",
+                  "textBlock": {
+                    "text": "Asuinrakennuksessa tilojen sijoittelu on ääniteknisen suunnittelun perusta. Hiljaisuutta vaativat huoneet, kuten makuu- ja olohuoneet, sijoitetaan mahdollisimman kauas tiloista, joissa on äänekkäämpää toimintaa, kuten por- rashuoneista ja viereisen tai yläpuolisen huoneiston wc- ja kylpyhuonetiloista ja keittiöstä. Kylpyhuoneet, keittiöt, vaa- tehuoneet yms. porrashuoneen ja makuuhuoneen välillä suojaavat makuuhuoneita porrashuonemelulta. Oleskelu- tilojen äänten kuulumista makuutiloihin pystytään vaimen- tamaan seinä- ja oviratkaisuilla.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "91",
+                  "textBlock": {
+                    "text": "Asunnossa tulee ottaa huomioon myös runko- ja askelää- neneristysvaatimusten täyttyminen, liikenteen äänet ym.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }, {
+                  "blockId": "92",
+                  "textBlock": {
+                    "text": "Avoimet tilat",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "93",
+                      "textBlock": {
+                        "text": "• Avotilaa voidaan jakaa irtosermin tai kaapiston avulla, joka suojaa nukkujaa.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "94",
+                      "textBlock": {
+                        "text": "• Pölyn hallinnan takia sänkyä ei suositella keittiön tai kir- jahyllyn läheisyyteen.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "95",
+                      "textBlock": {
+                        "text": "• Avotilaratkaisut sopivat lähinnä yksin tai parisuhteessa eläville lapsettomille henkilöille.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "96",
+                      "textBlock": {
+                        "text": "Rakennustietosäätiö RTS 2005",
+                        "type": "footer"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }, {
+                      "blockId": "97",
+                      "textBlock": {
+                        "text": "3",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 4
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "98",
+              "textBlock": {
+                "text": "4 KALUSTEET",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "99",
+                  "textBlock": {
+                    "text": "SIT 91-610018 ohjetiedosto",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "100",
+                  "textBlock": {
+                    "text": "Sängyn läheisyyteen sijoittuu yleensä seuraavia kalustei- ta, valaisimia ja laitteita:",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "101",
+                  "textBlock": {
+                    "text": "• yöpöytä / laatikosto",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "102",
+                  "textBlock": {
+                    "text": "• kaapisto",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "103",
+                  "textBlock": {
+                    "text": "• korkea peili",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "104",
+                  "textBlock": {
+                    "text": "• työpöytä",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "105",
+                  "textBlock": {
+                    "text": "• istuin",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "106",
+                  "textBlock": {
+                    "text": "• lapsen hoitopöytä",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "107",
+                  "textBlock": {
+                    "text": "• lapsen sänky",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "108",
+                  "textBlock": {
+                    "text": "• kampauspöytä",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "109",
+                  "textBlock": {
+                    "text": "• TV",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "110",
+                  "textBlock": {
+                    "text": "• lukuvalo",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "111",
+                  "textBlock": {
+                    "text": "• yleisvalo",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "112",
+              "textBlock": {
+                "text": "Sänky, patja ja vuodevaatteet",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "113",
+                  "textBlock": {
+                    "text": "Patjan ja sängyn valintaan vaikuttaa nukkujan ikä, paino, terveydentila ja henkilökohtaiset mieltymykset. Sängyn ulkomitat määräytyvät nukkujan pituuden (nukkujan pituus + 150...250 mm) ja patjojen vakiokokojen mukaan. Seuraa- vassa on yleisimmät patjakoot:",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "114",
+                  "textBlock": {
+                    "text": "800\\times1900 mm, 800\\times2000 mm, 900\\times2000~mn, 1000\\times2000 mm, 1200\\times2000 mm, 1400\\times2000 mm, 1600\\times2000 mm.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "115",
+                  "textBlock": {
+                    "text": "Patjoja voi teettää myös erikoismittaisina.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "116",
+                  "textBlock": {
+                    "text": "Varsinaisen patjan päällä käytetään petauspatjaa säätele- mässä patjan pinnan pehmeyttä ja parantamassa nukku- mismukavuutta. Petauspatjojen paksuudet vaihtelevat 30...70 mm välillä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "117",
+                  "textBlock": {
+                    "text": "Laverisänky",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "118",
+                      "textBlock": {
+                        "text": "Perinteisin sänkytyyppi on ns. laverisänky, jonka päälle ir- topatja asetetaan. Sängyn levypohja tulisi olla tehty sälera- kenteisena tai rei´itettynä levynä, jotta patja tuulettuu ja hi- koilu vähenee. Laverisängyn alla olevaa tilaa voidaan käyt- tää säilytykseen. Tyypillinen ratkaisu on sängyn alle asen- netavat pyörälliset tai liukukiskoin liukuvat vetolaatikot. Joissain ratkaisuissa laverisängyn levypohja nousee me- kanismin avulla ylös, jolloin alaosan laatikko on käytettä- vissä.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "119",
+                  "textBlock": {
+                    "text": "Moottoroitu sänky",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "120",
+                      "textBlock": {
+                        "text": "Moottoroidut sängyt ovat yleistyneet viime vuosina. Yleen- sä sängyn käyttäjä voi säätää pään ja jalkojen kor- keusasemaa ja hakea itselleen mieluisimman asennon. Näissä sängyissä on tarjolla monia ominaisuuksia.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "121",
+                  "textBlock": {
+                    "text": "Vaahtomuovipatja",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "122",
+                      "textBlock": {
+                        "text": "Vaahtomuovipatja koostuu yhdestä tai useammasta vaah- tomuovikerroksesta. Se muistuttaa fyysisiltä ominaisuuk- siltaan joustinpatjaa. Laadukkaimpien vaahtomuovipatjo- jen pienet huokoset toimivat kuin minikokoiset jouset ja myötäilevät tarkasti vartalon muotoja. Paino jakautuu ta- saisesti, ja kehoon kohdistuva paine vähenee.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "123",
+                  "textBlock": {
+                    "text": "Joustinpatja",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "124",
+                      "textBlock": {
+                        "text": "Joustinpatja muodostuu jousista ilman varsinaista kiinteää runkoa. Laadukkaimmissa patjoissa erivahvuiset jouset mukautuvat nukkujan painon ja muotojen mukaan. Jous- tinpatja sijoitetaan sängyn runkoon sälepohjalle. Toisin kuin runkopatja monet joustinpatjat on käännettävissä, jol- loin patjan kulutusta voidaan tasata ja lisätä patjan käyttöikää kääntämällä patjaa säännöllisin väliajoin.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "125",
+                      "textBlock": {
+                        "text": "Runkopatja",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "126",
+                      "textBlock": {
+                        "text": "Runkopatjassa jousisto on puurungon päällä. Pohjan kiin- teän rakenteen vuoksi runkopatjaa ei voi taittaa eikä kään- tää kuten esimerkiksi joustinpatjaa. Runkopatjan voi sijoit- taa tavalliseen sänkyyn tai siihen voidaan lisätä jalat ja käyttää sänkynä.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "127",
+                      "textBlock": {
+                        "text": "Jenkkivuode",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "128",
+                      "textBlock": {
+                        "text": "Jenkkivuode koostuu kolmesta patjakerroksesta. Alinna on paksu runkopatja, jonka päällä on joustinpatja. Lopulli- nen pehmeys saavutetaan paksulla sijauspatjalla. Jenkki- vuoteet ovat yleensä parisänkyjä.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "129",
+                  "textBlock": {
+                    "text": "Futonpatja",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "130",
+                      "textBlock": {
+                        "text": "Puhtaasta, valkaisemattomasta ja pitkäkuituisesta puuvil- lasta ja kookoskuiduista valmistettu futon on hengittävä ja elää alustansa mukaan. Jämäkän rakenteen vuoksi se so- pii kovaa ja tukevaa nukkuma-alustaa havittelevalle.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "131",
+                      "textBlock": {
+                        "text": "Vesisänky",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "132",
+                      "textBlock": {
+                        "text": "Vesisängyn patja on täytetty vedellä. Vesipatja mukautuu kehon muotoihin ja joidenkin näkemysten mukaan edistää verenkiertoa ja parantaa unen laatua. Pitkään sängyssä makaavin potilaiden on sanottu säästyneen makuuhaa- voilta vesisängyssä. Vesisängyn lämmitys tapahtuu säh- köllä. Lattiarakenteiden lujuus on syytä tarkistaa ennen ve- sisängyn sijoittamista.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "133",
+                  "textBlock": {
+                    "text": "Vuodevaatteet",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "134",
+                      "textBlock": {
+                        "text": "Luonnonkuituiset kankaat pellava, puuvilla ja silkki, ovat hyviä vuodevaatemateriaaleja. Ne ovat hengittäviä eivätkä hiosta. Luonnonkuituja voidaan pestä kuumissa lämpöti- loissa toisin kuin tekokuituisia. Parhaana peiton ja tyynyn materiaalina pidetään untuvaa, joka tuntuu viileältä kuu- malla ja lämpimältä kylmällä. Peiton tikkauksen tulee olla laadukas, jotta untuvat eivät kasaudu yhteen kohtaan. Tii- viisti kudotut kankaat eivät päästä höyheniä läpi.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "135",
+                      "textBlock": {
+                        "text": "Vuodevaatteet on syytä tuulettaa usein, jotta irtoava pöly saadaan poistettua.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "136",
+                      "textBlock": {
+                        "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 30.8.2024. Julkaisun tai sen osien kopiointi, jakaminen, välittäminen tai muuntelu on kielletty.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "137",
+                      "textBlock": {
+                        "text": "4",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "138",
+                      "textBlock": {
+                        "text": "Rakennustietosäätiö RTS 2005",
+                        "type": "footer"
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }, {
+                      "blockId": "139",
+                      "textBlock": {
+                        "text": "SIT 91-610018 ohjetiedosto",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "140",
+                  "textBlock": {
+                    "text": "5 MATERIAALIT",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "141",
+                      "textBlock": {
+                        "text": "Vaatesäilytys",
+                        "type": "heading-5",
+                        "blocks": [{
+                          "blockId": "142",
+                          "textBlock": {
+                            "text": "• Säilytystilaa on suositeltavaa olla vähintään kaksi kor- keata kaappia yhtä henkilöä kohden.",
+                            "type": "paragraph"
+                          },
+                          "pageSpan": {
+                            "pageStart": 5,
+                            "pageEnd": 5
+                          }
+                        }, {
+                          "blockId": "143",
+                          "textBlock": {
+                            "text": "• Isoissa asunnoissa makuuhuoneen yhteyteen suunni- tellaan vaatehuone.",
+                            "type": "paragraph"
+                          },
+                          "pageSpan": {
+                            "pageStart": 5,
+                            "pageEnd": 5
+                          }
+                        }, {
+                          "blockId": "144",
+                          "textBlock": {
+                            "text": "• Pienten makuuhuoneiden kaapistoissa liukuovien käyt- tö on suositeltavaa. Liukumekanismi mahdollistaa ovien suuren leveyden.",
+                            "type": "paragraph"
+                          },
+                          "pageSpan": {
+                            "pageStart": 5,
+                            "pageEnd": 5
+                          }
+                        }, {
+                          "blockId": "145",
+                          "textBlock": {
+                            "text": "• Vaatekaappien sisällä oleva valaisin parantaa kaapin käytettävyyttä.",
+                            "type": "paragraph"
+                          },
+                          "pageSpan": {
+                            "pageStart": 5,
+                            "pageEnd": 5
+                          }
+                        }]
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "146",
+              "textBlock": {
+                "text": "Yöpöytä / laatikosto",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "147",
+                  "textBlock": {
+                    "text": "Yöpöytä toimii laskutasona ja säilytystilana sängyn vieres- sä. Yöpöydässä oleva vetolaatikko tai kaappi mahdollistaa tavaroiden säilyttämisen sängyssäolijan ulottuvilla.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "148",
+              "textBlock": {
+                "text": "Työpöytä",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "149",
+                  "textBlock": {
+                    "text": "Työpöydän koko ja muoto harkitaan tapauskohtaisesti. Seuraavassa on asioita, jotka pyritään ottamaan huomi- oon työpistettä suunniteltaessa.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "150",
+                  "textBlock": {
+                    "text": "• Työpisteen yhteyteen suunnitellaan sähkö- ja atk-pisto- rasiat.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "151",
+                  "textBlock": {
+                    "text": "• Riittävästä ergonomiasta huolehditaan.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "152",
+                  "textBlock": {
+                    "text": "• Valaistus suunnitellaan siten, ettei häiritseviä heijastuk- sia näy kuvaruudulla eivätkä kontrastit taustaseinän, pöytäpinnan ja kuvaruudun välillä ole liian suuret.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "153",
+                  "textBlock": {
+                    "text": "• Kirjahyllytilaa ja / tai laatikostotilaa järjestetään työpis- teen yhteyteen.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "154",
+              "textBlock": {
+                "text": "Kampauspöytä",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "155",
+                  "textBlock": {
+                    "text": "Kampaus- tai peilipöytä voi kuulua isojen makuuhuoneiden kalustukseen. Peilipöydän ääressä tapahtuva kauneuden- hoito vapauttaa wc-tilat muulle toiminnalle. Peilipöydän yh- teyteen voidaan suunnitella säilytys- ja laskutilaa.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "156",
+                  "textBlock": {
+                    "text": "Peili",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "157",
+                      "textBlock": {
+                        "text": "Pukeutumispeili on tarpeellinen etenkin aikuisten makuu- huonetiloissa. Kokovartalopeiliin katseluetäisyys on yleen- sä \\ge1200mm. Peilin yhteyteen pyritään järjestämään va- laistus.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "158",
+                  "textBlock": {
+                    "text": "Televisio",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "159",
+                      "textBlock": {
+                        "text": "TV sijoitetaan usein myös makuuhuonetiloihin. TV:n sijoittu- minen pyritään ottamaan huomioon sähkösuunnitelmissa.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "160",
+                      "textBlock": {
+                        "text": "Materiaalivalinnoilla vaikutetaan tilan visuaaliseen luon- teeseen, rakenneratkaisuihin ja sisäilman laatuun.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "161",
+                      "textBlock": {
+                        "text": "Terveellisten rakennusmateriaalien kehitystyöhön kiin- nitetään nykyisin entistä enemmän huomiota. Rakennus- tietosäätiö RTS myöntää M1 merkinnän puolueettomassa laboratoriossa testatuille tuotteille. Kemiallisten testien li- säksi tuotteet käyvät läpi hajupaneelin aistinvaraisen arvi- oinnin. Lähes kaikista materiaaliryhmistä löytyy M1-luoki- teltuja tuotteita: maaleja, tapetteja, lattianpäällysteitä, ra- kennuslevyjä, tasoitteita, eristeitä jne.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "162",
+                      "textBlock": {
+                        "text": "Seuraavassa on huomioita nukkumatilojen materiaaliva- linnoista:",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "163",
+                      "textBlock": {
+                        "text": "• Vuodevaatteet ja tekstiilipinnat saattavat aiheuttaa aller- giaoireita.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "164",
+                      "textBlock": {
+                        "text": "• Lattiaan kosketaan paljaalla jalalla",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "165",
+                      "textBlock": {
+                        "text": "Lämmin materiaali on ihokosketuksessa miellyttävä Puulattia on huokoinen, lämmin, pölyämätön ja hel- posti siivottava. SIT 42-610016 Lautalattiat, puiset portaat ja käsijohteet.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "166",
+                      "textBlock": {
+                        "text": "Tekstiilipäällysteet ovat etenkin Etelä-Euroopassa yleisiä. Suomessa niiden käyttö on rajoittunut viime- vuosina lähinnä hotelleihin- ja ravintoloihin, mutta hy- välaatuiset tekstiilipäällysteet soveltuvat myös asun- noissa käytettäviksi. Oikeanlainen puhdistus pitää ne pölyämättöminä. SIT 42-610003 Tekstiilipäällysteet, matot.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "167",
+                      "textBlock": {
+                        "text": "Linoleum- ja korkkipinnoitteet ovat luonnonmateriaa- leja.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "168",
+                      "textBlock": {
+                        "text": "Muovimatot ovat helposti siivottavia.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }, {
+                      "blockId": "169",
+                      "textBlock": {
+                        "text": "• M1-luokitellut materaalit ovat sisäilman kannalta turvallisia.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 5,
+                        "pageEnd": 5
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 5
+          }
+        }, {
+          "blockId": "170",
+          "textBlock": {
+            "text": "6 VÄRIT JA VALAISTUS",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "171",
+              "textBlock": {
+                "text": "Värit ja valaistus ovat kiinteästi yhteydessä toisiinsa. Eri valonlähteet toistavat värejä eri tavalla, siksi värisävyt muuttavat luonnettaan valaistuksen vaihtuessa.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 5
+              }
+            }, {
+              "blockId": "172",
+              "textBlock": {
+                "text": "6.1 Värit",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "173",
+                  "textBlock": {
+                    "text": "Värimieltymykset ovat yksilöllisiä, rakennusmateriaalit ja tilan luonne vaihtelevat, mutta tiettyjä perusperiaatteita värien käytöstä voidaan antaa.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "174",
+                  "textBlock": {
+                    "text": "• Makuuhuoneissa suositaan rauhallisia vaaleita värejä. Ympäristön värit eivät saa aktivoida liikaa nukahtajaa. • Yleensä pienet pinnat voidaan maalata värikkäämmiksi kuin suuret.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "175",
+                  "textBlock": {
+                    "text": "• Rauhallinen ilme säilyy, vaikka huoneen yksi seinistä oli- si voimakkaasti väritetty kunhan muut pinnat antavat ti- lalle miellyttävän yhtenäisen taustavärin.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "176",
+                  "textBlock": {
+                    "text": "• Lasten nukkumatilojen värityksessä käytetään usein kirk- kaita värejä. Lasten värimieltymykset muuttuvat ikäkehi- tyksen myötä.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "177",
+                  "textBlock": {
+                    "text": "• Väripsykologian mukaan nukkumatiloihin soveltuvat rauhoittavat, viileät värisävyt kuten vaalea sininen, vio- letti, vihreä tai turkoosi.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "178",
+                  "textBlock": {
+                    "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 30.8.2024. Julkaisun tai sen osien kopiointi, jakaminen, välittäminen tai muuntelu on kielletty.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "179",
+                  "textBlock": {
+                    "text": "5",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "180",
+                  "textBlock": {
+                    "text": "Rakennustietosäätiö RTS 2005",
+                    "type": "footer"
+                  },
+                  "pageSpan": {
+                    "pageStart": 5,
+                    "pageEnd": 5
+                  }
+                }, {
+                  "blockId": "181",
+                  "textBlock": {
+                    "text": "SIT 91-610018 ohjetiedosto",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 5,
+                "pageEnd": 6
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 5,
+            "pageEnd": 6
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "182",
+      "textBlock": {
+        "text": "6.2 Valaistus",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "183",
+          "textBlock": {
+            "text": "Tavallisin valaistusratkaisu makuuhuoneissa on melko yk- sinkertainen: huoneen keskiosan kattoon sijoitetaan pin- ta-asennettu tai riippuva yleisvalo, jota täydennetään sän- kyjen päädyissä olevilla suunnattavilla lukuvaloilla.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "184",
+          "textBlock": {
+            "text": "Tämä ratkaisu on usein riittävä, kunhan huolehditaan, että kokonaisvalomäärä riittää normaalien päiväaskareiden suo- rittamiseen.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "185",
+          "textBlock": {
+            "text": "Seuraavassa on lueteltu valaistukseen liittyviä asioita: • Valaistustason muunneltavuus ja valojen säätömahdol- lisuus pyritään ottamaan suunnittelussa huomioon.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "186",
+          "textBlock": {
+            "text": "• Yleisvalon suuntaaminen epäsuorasti katon kautta es- tää häikäisyn syntymisen. Yleisvalo voidaan järjestää myös paikallisia valoja käyttäen.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "187",
+          "textBlock": {
+            "text": "• Lukuvalon katkaisin sijoitetaan sängyn lähelle, jotta va- lon ohjaaminen onnistuu sängystä nousematta.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "188",
+          "textBlock": {
+            "text": "• Makuuhuoneen kaapistojen käytettävyyttä helpottaa kaapistojen sisään asennettavat valaisimet. Lasiovellisis- sa kaapeissa valaisin toimii osana kokonaisvalaistusrat- kaisua.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "189",
+          "textBlock": {
+            "text": "• Oikein suunnattu lämminsävyinen peilivalo antaa tasai- sen varjottoman valon kasvoille.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "190",
+          "textBlock": {
+            "text": "•",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "191",
+          "textBlock": {
+            "text": "Makuuhuoneen yhteydessä olevaan työpisteeseen jär- jestetään riittävä valaistus. Tietokoneella työskenneltä- essä näyttöpäätteelle heijastuvat häiritsevät valopisteet pyritään eliminoimaan. Valaistustason muunneltavuus mahdollistaa erityyppiset työtehtävät.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "192",
+          "textBlock": {
+            "text": "• Luonnonvalon hallinta pyritään ottamaan suunnitelmis- sa huomioon. Pimeässä tai hämärässä unenlaatu on hyvä, SIT 82-610005 Verhot.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }, {
+      "blockId": "193",
+      "textBlock": {
+        "text": "8 TILAT JA MITOITUS",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "194",
+          "textBlock": {
+            "text": "Kalusteiden ja varusteiden tilantarve:",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "195",
+              "textBlock": {
+                "text": "• sänky",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "196",
+              "textBlock": {
+                "text": "• parisänky",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "197",
+              "textBlock": {
+                "text": "800...1000\\times1900...2000~mn 1600...2000\\times1900...2000~mm",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "198",
+              "textBlock": {
+                "text": "• lasten sänky 700...800 x 1200...1400 mm",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "199",
+              "textBlock": {
+                "text": "Tilantarvetta tutkittaessa käytetään piirustuksissa sänky- jen pituutena vähintään 2100 mm.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "200",
+              "textBlock": {
+                "text": "• Lasten hoitopöytä 900...1200 x 700...800 mm",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "201",
+              "textBlock": {
+                "text": "/",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "202",
+              "textBlock": {
+                "text": "/",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "203",
+              "textBlock": {
+                "text": "2200",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "204",
+              "textBlock": {
+                "text": "*",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "205",
+              "textBlock": {
+                "text": "2200",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "206",
+              "textBlock": {
+                "text": "2700...2900",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "207",
+              "textBlock": {
+                "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 30.8.2024. Julkaisun tai sen osien kopiointi, jakaminen, välittäminen tai muuntelu on kielletty.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }, {
+          "blockId": "208",
+          "textBlock": {
+            "text": "7 ILMANLAATU",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "209",
+              "textBlock": {
+                "text": "Uudisrakentamisessa hyvän sisäilman laadun kannalta tärkeimpiä asioita ovat puhdas ja toimiva ilmanvaihtojär- jestelmä, kuivat ja kosteusteknisesti toimivat rakenteet, vähäpäästöiset rakennus- ja sisustusmateriaalit, helppo siivottavuus ja allergeenien välttäminen.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "210",
+              "textBlock": {
+                "text": "Sisäilmastoluokitus 2000 (RT 07-10741) antaa tavoi- tearvoja hyvälle sisäilman laadulle sekä käytännön työka- luja suunnitteluun ja toteutukseen. Luokituksessa on toi- mintaohjeita mm. kosteuden- ja pölynhallintaan sekä il- manvaihtokanaviston suojaamiseen.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "211",
+              "textBlock": {
+                "text": "Asumisviihtyvyyden ja terveyden kannalta paras huone- lämpötila on 21...22^{\\circ}C, makuuhuoneessa lämpötila voi olla 1-2^{\\circ}C alhaisempi. Lattian pintalämpötila ei saisi las- kea alle +18^{\\circ}C. Alhaiset pintalämpötilat voivat aiheuttaa kosteuden tiivistymistä rakenteisiin, jonka seurauksena saattaa syntyä haitallista mikrobikasvustoa.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "212",
+              "textBlock": {
+                "text": "Korkea lämpötila (yli~23^{\\circ}C) saattaa aiheuttaa sisäilmaan liittyvää oireilua sekä kuivuuden ja tunkkaisuuden tunnetta. Asunnon ilman suhteellisen kosteuden tulisi olla lämmi- tyskaudella noin 20...45 %, joskaan sen saavuttaminen ei ole aina mahdolista mm. ilmastollisista syistä. Huoneilman kostuttamista tulee aina välttää.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 6
+              }
+            }, {
+              "blockId": "213",
+              "textBlock": {
+                "text": "Kiinteiden varusteiden tilantarve:",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "214",
+                  "textBlock": {
+                    "text": "• pistorasiat ja jalkalistat ulkonevat seinästä 100 mm. • lämpöpatterit ja -putket ulkonevat seinästä 100...200 mm. • oven vieressä olevat katkaisijat ja pistorasiat vaativat leveyssuunnassa 150 mm",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }, {
+                  "blockId": "215",
+                  "textBlock": {
+                    "text": "100...200",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }, {
+                  "blockId": "216",
+                  "textBlock": {
+                    "text": "150",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }, {
+                  "blockId": "217",
+                  "textBlock": {
+                    "text": "100...200",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }, {
+                  "blockId": "218",
+                  "textBlock": {
+                    "text": "100",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }, {
+                  "blockId": "219",
+                  "textBlock": {
+                    "text": "Rakennustietosäätiö RTS 2005",
+                    "type": "footer"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }, {
+                  "blockId": "220",
+                  "textBlock": {
+                    "text": "6",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 6,
+                    "pageEnd": 6
+                  }
+                }, {
+                  "blockId": "221",
+                  "textBlock": {
+                    "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 30.8.2024. Julkaisun tai sen osien kopiointi, jakaminen, välittäminen tai muuntelu on kielletty.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "222",
+                  "textBlock": {
+                    "text": "3700",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "223",
+                  "textBlock": {
+                    "text": "16..17~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "224",
+                  "textBlock": {
+                    "text": "4500",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "225",
+                  "textBlock": {
+                    "text": "Rakennustietosäätiö RTS 2005",
+                    "type": "footer"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "226",
+                  "textBlock": {
+                    "text": "7",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "227",
+                  "textBlock": {
+                    "text": "2800",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "228",
+                  "textBlock": {
+                    "text": "2200",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "229",
+                  "textBlock": {
+                    "text": "7 m²",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "230",
+                  "textBlock": {
+                    "text": "2200",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "231",
+                  "textBlock": {
+                    "text": "7 m²",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "232",
+                  "textBlock": {
+                    "text": "SIT 91-610018 ohjetiedosto",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "233",
+                  "textBlock": {
+                    "text": "2600",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "234",
+                  "textBlock": {
+                    "text": "2700",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "235",
+                  "textBlock": {
+                    "text": "3300",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "236",
+                  "textBlock": {
+                    "text": "8...9~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "237",
+                  "textBlock": {
+                    "text": "9...10~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "238",
+                  "textBlock": {
+                    "text": "11~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "239",
+                  "textBlock": {
+                    "text": "2800",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "240",
+                  "textBlock": {
+                    "text": "13~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "241",
+                  "textBlock": {
+                    "text": "12..13~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "242",
+                  "textBlock": {
+                    "text": "4500",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "243",
+                  "textBlock": {
+                    "text": "6300",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "244",
+                  "textBlock": {
+                    "text": "22~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "245",
+                  "textBlock": {
+                    "text": "3500",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "246",
+                  "textBlock": {
+                    "text": "3400",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "247",
+                  "textBlock": {
+                    "text": "16...17~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "248",
+                  "textBlock": {
+                    "text": "4900",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "249",
+                  "textBlock": {
+                    "text": "3400",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "250",
+                  "textBlock": {
+                    "text": "15...16~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "251",
+                  "textBlock": {
+                    "text": "4600",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 7,
+                    "pageEnd": 7
+                  }
+                }, {
+                  "blockId": "252",
+                  "textBlock": {
+                    "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajamäki, 30.8.2024. Julkaisun tai sen osien kopiointi, jakaminen, välittäminen tai muuntelu on kielletty.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "253",
+                  "textBlock": {
+                    "text": "4500",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "254",
+                  "textBlock": {
+                    "text": "16~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "255",
+                  "textBlock": {
+                    "text": "15...16~m^{2}",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "256",
+                  "textBlock": {
+                    "text": "$1300...1500",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "257",
+                  "textBlock": {
+                    "text": "$1300...1500",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "258",
+                  "textBlock": {
+                    "text": "1300...1500",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "259",
+                  "textBlock": {
+                    "text": "1600 (900) 1300...1500 4200",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }, {
+                  "blockId": "260",
+                  "textBlock": {
+                    "text": "Kuvat 1 ja 2",
+                    "type": "heading-4",
+                    "blocks": [{
+                      "blockId": "261",
+                      "textBlock": {
+                        "text": "Museovirasto",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "262",
+                      "textBlock": {
+                        "text": "Kuvat 3 ja 4",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "263",
+                      "textBlock": {
+                        "text": "Villa Ervi, Rakennustaiteen museo",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "264",
+                      "textBlock": {
+                        "text": "8",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "265",
+                      "textBlock": {
+                        "text": "2100",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "266",
+                      "textBlock": {
+                        "text": "1000",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "267",
+                      "textBlock": {
+                        "text": "600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "268",
+                      "textBlock": {
+                        "text": "3700",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "269",
+                      "textBlock": {
+                        "text": "3300",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "270",
+                      "textBlock": {
+                        "text": "13~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "271",
+                      "textBlock": {
+                        "text": "4000",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "272",
+                      "textBlock": {
+                        "text": "SIT 91-610018 ohjetiedosto",
+                        "type": "header"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "273",
+                      "textBlock": {
+                        "text": "3600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "274",
+                      "textBlock": {
+                        "text": "16~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "275",
+                      "textBlock": {
+                        "text": "4500",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "276",
+                      "textBlock": {
+                        "text": "4800",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "277",
+                      "textBlock": {
+                        "text": "3500",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "278",
+                      "textBlock": {
+                        "text": "16~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "279",
+                      "textBlock": {
+                        "text": "12~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "280",
+                      "textBlock": {
+                        "text": "3300",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "281",
+                      "textBlock": {
+                        "text": "3600",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "282",
+                      "textBlock": {
+                        "text": "3400",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "283",
+                      "textBlock": {
+                        "text": "16...17~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "284",
+                      "textBlock": {
+                        "text": "KIRJALLISUUTTA",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "285",
+                      "textBlock": {
+                        "text": "Asuntoarkkitehtuuri ja -suunnittelu. Esko Kahri, Hannu Pyykönen. Gummerus Oy. Jyväskylä. 1984.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "286",
+                      "textBlock": {
+                        "text": "Miten ennen asuttiin. Timo Niiranen. Otava. Keuruu. 1981.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "287",
+                      "textBlock": {
+                        "text": "Talonpoikaiskulttuurin kasvu. Matti Linkola. Toivo Hakamäki, Heik- ki Kirkinen, Tamprint Oy. Tampere. 1985.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "288",
+                      "textBlock": {
+                        "text": "Suomalaisen asuntoarkkitehtuurin tarina. Olli Lehtovuori. Ympä- ristöministeriö, Rakennustieto Oy. Print Karisto Oy. Hämeenlinna. 1999.",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "289",
+                      "textBlock": {
+                        "text": "Tämän SIT-ohjekortin käsikirjoituksen on laatinut Martti Lukander ja julkais- tavaksi hyväksynyt Rakennustietosäätiön RTS toimikunta TK 246 Sisustus-",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "290",
+                      "textBlock": {
+                        "text": "tekstiilit ja -materiaalit",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "291",
+                      "textBlock": {
+                        "text": "Matti Kulovesi",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "292",
+                      "textBlock": {
+                        "text": "Lauri Olin",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "293",
+                      "textBlock": {
+                        "text": "Martti Lukander",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "294",
+                      "textBlock": {
+                        "text": "Irja Hansio",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "295",
+                      "textBlock": {
+                        "text": "sisustusarkkitehti",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "296",
+                      "textBlock": {
+                        "text": "sisustusarkkitehti",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "297",
+                      "textBlock": {
+                        "text": "sisustusarkkitehti",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "298",
+                      "textBlock": {
+                        "text": "rakennusarkkitehti",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "299",
+                      "textBlock": {
+                        "text": "Rakennustietosäätiö RTS 2005",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "300",
+                      "textBlock": {
+                        "text": "4800",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "301",
+                      "textBlock": {
+                        "text": "*",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "302",
+                      "textBlock": {
+                        "text": "3400",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "303",
+                      "textBlock": {
+                        "text": "3400",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "304",
+                      "textBlock": {
+                        "text": "16...17~m^{2}",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }, {
+                      "blockId": "305",
+                      "textBlock": {
+                        "text": "4900",
+                        "type": "paragraph"
+                      },
+                      "pageSpan": {
+                        "pageStart": 8,
+                        "pageEnd": 8
+                      }
+                    }]
+                  },
+                  "pageSpan": {
+                    "pageStart": 8,
+                    "pageEnd": 8
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 6,
+                "pageEnd": 8
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 6,
+            "pageEnd": 6
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 6,
+        "pageEnd": 6
+      }
+    }]
+  }
+}
