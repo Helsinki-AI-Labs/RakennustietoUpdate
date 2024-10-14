@@ -5,7 +5,7 @@ import os
 import json
 from typing import Dict, Any
 
-STATE_FILE: str = "upload_state.json"
+STATE_FILE: str = "state.json"
 
 
 def parse_args(

@@ -3,8 +3,9 @@ import os
 import tempfile
 from pathlib import Path
 from typing import Any, Dict, List, Callable
+from datetime import datetime, timezone
 
-from helpers import check_args_and_env_vars
+from helpers import check_args_and_env_vars, update_state  # Import update_state
 from storage import upload_file_to_bucket, download_file
 from google.cloud import storage
 
@@ -241,6 +242,11 @@ def convert_json_to_json_array(
         tmp_txt_output.flush()
         upload_file_to_bucket(bucket_name, tmp_txt_output.name, output_file_txt_gcs)
         os.unlink(tmp_txt_output.name)
+
+    # Update state with sectionsCreatedAt timestamp
+    current_time = datetime.now(timezone.utc).isoformat()
+    file_name = Path(input_file_gcs).stem
+    update_state(file_name, {"sectionsCreatedAt": current_time})
 
 
 def list_json_files(bucket_name: str, prefix: str) -> List[str]:

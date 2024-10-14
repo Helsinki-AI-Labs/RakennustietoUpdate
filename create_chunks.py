@@ -5,7 +5,7 @@ from typing import List, Optional
 from google.api_core.client_options import ClientOptions
 from google.api_core.exceptions import InternalServerError, RetryError
 from google.cloud import storage, documentai_v1beta3 as documentai
-from helpers import check_args_and_env_vars
+from helpers import check_args_and_env_vars, update_state
 from google.cloud.documentai_toolbox import gcs_utilities
 from dataclasses import dataclass
 
@@ -141,6 +141,12 @@ def main() -> None:
 
         chunks_uri = f"gs://{bucket_name}/{output_dir.rstrip('/')}"
         copy_batch_to_dir(batch_output_uri, chunks_uri)
+
+        # Update state for each file in the batch
+        current_time = datetime.now(timezone.utc).isoformat()
+        for uri in document_uris:
+            file_name = uri.split("/")[-1]
+            update_state(file_name, {"chunksCreatedAt": current_time})
 
 
 if __name__ == "__main__":
