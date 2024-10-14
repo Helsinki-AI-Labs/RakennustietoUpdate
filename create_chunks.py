@@ -1,5 +1,4 @@
 from datetime import datetime, timezone
-import os
 import re
 from typing import List, Optional
 
@@ -11,7 +10,6 @@ from google.cloud.documentai_toolbox import gcs_utilities
 from dataclasses import dataclass
 
 BATCH_SIZE: int = 3
-TEMP_DIR: str = "/tmp"
 
 
 @dataclass
@@ -62,7 +60,7 @@ def batch_process_documents(
         gcs_uri=gcs_output_uri
     )
     output_config = documentai.DocumentOutputConfig(
-        document_output_config=gcs_output_config
+        gcs_output_config=gcs_output_config  # Updated field name
     )
 
     request = documentai.BatchProcessRequest(
@@ -84,34 +82,7 @@ def batch_process_documents(
     if metadata.state != documentai.BatchProcessMetadata.State.SUCCEEDED:
         raise ValueError(f"Batch Process Failed: {metadata.state_message}")
 
-    storage_client = storage.Client()
-
-    print("Output files:")
-    for process in list(metadata.individual_process_statuses):
-        matches = re.match(r"gs://(.*?)/(.*)", process.output_gcs_destination)
-        if not matches:
-            print(
-                "Could not parse output GCS destination:",
-                process.output_gcs_destination,
-            )
-            continue
-
-        output_bucket, output_prefix = matches.groups()
-        output_blobs = storage_client.list_blobs(output_bucket, prefix=output_prefix)
-
-        for blob in output_blobs:
-            if blob.content_type != "application/json":
-                print(
-                    f"Skipping non-supported file: {blob.name} - Mimetype: {blob.content_type}"
-                )
-                continue
-
-            print(f"Fetching {blob.name}")
-            document = documentai.Document.from_json(
-                blob.download_as_bytes(), ignore_unknown_fields=True
-            )
-            print("The document contains the following text:")
-            print(document.text)
+    print(f"Batch Process Succeeded: {metadata.state_message}")
 
 
 def main() -> None:
@@ -132,6 +103,8 @@ def main() -> None:
     output_dir = config["CHUNKS_DIR"]
     source_dir = config["PDF_DIR"]
 
+    gcs_input_prefix = f"gs://{bucket_name}/{source_dir.rstrip('/')}/"
+
     pdf_files = get_pdf_files_from_bucket(bucket_name, source_dir)
 
     if not pdf_files:
@@ -139,27 +112,25 @@ def main() -> None:
         return
 
     batches = gcs_utilities.create_batches(
-        gcs_bucket_name=bucket_name, gcs_prefix=source_dir, batch_size=BATCH_SIZE
+        gcs_bucket_name=bucket_name, gcs_prefix=gcs_input_prefix, batch_size=BATCH_SIZE
     )
+
+    print(f"Total batches: {len(batches)}")
 
     for batch in batches:
         print(f"{len(batch.gcs_documents.documents)} files in batch.")
         print(batch.gcs_documents.documents)
 
         # Define the output URI for this batch
-        batch_output_uri = os.path.join(
-            "gs://",
-            bucket_name,
-            output_dir,
-            f"batch_{datetime.now(timezone.utc).isoformat()}",
-        )
+        batch_output_uri = f"gs://{bucket_name}/{output_dir.rstrip('/')}/batch_{datetime.now(timezone.utc).isoformat()}"
+        print(f"Batch Output URI: {batch_output_uri}")
 
         # Process the batch
         batch_process_documents(
             processor_full_name=processor_full_name,
             location=location,
             gcs_output_uri=batch_output_uri,
-            gcs_input_prefix=source_dir,
+            gcs_input_prefix=gcs_input_prefix,
             timeout=400,
             input_mime_type="application/pdf",
         )
