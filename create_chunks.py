@@ -9,6 +9,8 @@ from helpers import check_args_and_env_vars
 from google.cloud.documentai_toolbox import gcs_utilities
 from dataclasses import dataclass
 
+from storage import copy_batch_to_dir
+
 BATCH_SIZE: int = 3
 
 
@@ -37,6 +39,7 @@ def batch_process_documents(
     gcs_input_uris: Optional[List[str]] = None,
     timeout: int = 400,
     input_mime_type: str = "application/pdf",
+    output_dir: str = "chunks",
 ) -> None:
     """Process specific documents using Document AI and save the results to GCS."""
     opts = ClientOptions(api_endpoint=f"{location}-documentai.googleapis.com")
@@ -89,6 +92,7 @@ def main() -> None:
             "BUCKET_NAME",
             "LOCATION",
             "PROCESSOR_FULL_NAME",
+            "BATCHES_DIR",
             "CHUNKS_DIR",
             "PDF_DIR",
         ]
@@ -99,7 +103,7 @@ def main() -> None:
     processor_full_name = config["PROCESSOR_FULL_NAME"]
     output_dir = config["CHUNKS_DIR"]
     source_dir = config["PDF_DIR"]
-
+    batches_dir = config["BATCHES_DIR"]
     pdf_files = get_pdf_files_from_bucket(bucket_name, source_dir)
 
     print(f"Total PDF files: {len(pdf_files)}")
@@ -120,7 +124,7 @@ def main() -> None:
         print(document_uris)
 
         # Define the output URI for this batch
-        batch_output_uri = f"gs://{bucket_name}/{output_dir.rstrip('/')}/batch_{datetime.now(timezone.utc).isoformat()}"
+        batch_output_uri = f"gs://{bucket_name}/{batches_dir.rstrip('/')}/batch_{datetime.now(timezone.utc).isoformat()}"
 
         print(f"Batch Output URI: {batch_output_uri}")
 
@@ -132,7 +136,11 @@ def main() -> None:
             gcs_input_uris=document_uris,
             timeout=400,
             input_mime_type="application/pdf",
+            output_dir=output_dir,
         )
+
+        chunks_uri = f"gs://{bucket_name}/{output_dir.rstrip('/')}"
+        copy_batch_to_dir(batch_output_uri, chunks_uri)
 
 
 if __name__ == "__main__":
