@@ -30,38 +30,36 @@ def get_pdf_files_from_bucket(bucket_name: str, source_dir: str) -> List[str]:
     return pdf_files
 
 
+# Updated batch_process_documents function to accept multiple URIs
 def batch_process_documents(
     processor_full_name: str,
     location: str,
     gcs_output_uri: str,
-    gcs_input_prefix: Optional[str] = None,
+    gcs_input_uris: Optional[List[str]] = None,
     timeout: int = 400,
     input_mime_type: str = "application/pdf",
-    gcs_input_uri: Optional[str] = None,
 ) -> None:
-    """Process documents in batches using Document AI and save the results to GCS."""
+    """Process specific documents using Document AI and save the results to GCS."""
     opts = ClientOptions(api_endpoint=f"{location}-documentai.googleapis.com")
     client = documentai.DocumentProcessorServiceClient(client_options=opts)
 
-    if gcs_input_uri:
+    if gcs_input_uris:
         # Specify specific GCS URIs to process individual documents
-        gcs_document = documentai.GcsDocument(
-            gcs_uri=gcs_input_uri, mime_type=input_mime_type
+        gcs_documents = [
+            documentai.GcsDocument(gcs_uri=uri, mime_type=input_mime_type)
+            for uri in gcs_input_uris
+        ]
+        gcs_document_list = documentai.GcsDocuments(documents=gcs_documents)
+        input_config = documentai.BatchDocumentsInputConfig(
+            gcs_documents=gcs_document_list
         )
-        # Load GCS Input URI into a List of document files
-        gcs_documents = documentai.GcsDocuments(documents=[gcs_document])
-        input_config = documentai.BatchDocumentsInputConfig(gcs_documents=gcs_documents)
     else:
-        # Specify a GCS URI Prefix to process an entire directory
-        gcs_prefix = documentai.GcsPrefix(gcs_uri_prefix=gcs_input_prefix)
-        input_config = documentai.BatchDocumentsInputConfig(gcs_prefix=gcs_prefix)
+        raise ValueError("No input URIs provided for batch processing.")
 
     gcs_output_config = documentai.DocumentOutputConfig.GcsOutputConfig(
         gcs_uri=gcs_output_uri
     )
-    output_config = documentai.DocumentOutputConfig(
-        gcs_output_config=gcs_output_config  # Updated field name
-    )
+    output_config = documentai.DocumentOutputConfig(gcs_output_config=gcs_output_config)
 
     request = documentai.BatchProcessRequest(
         name=processor_full_name,
@@ -103,16 +101,16 @@ def main() -> None:
     output_dir = config["CHUNKS_DIR"]
     source_dir = config["PDF_DIR"]
 
-    gcs_input_prefix = f"gs://{bucket_name}/{source_dir.rstrip('/')}/"
-
     pdf_files = get_pdf_files_from_bucket(bucket_name, source_dir)
+
+    print(f"Total PDF files: {len(pdf_files)}")
 
     if not pdf_files:
         print("No PDF files found in the bucket to process.")
         return
 
     batches = gcs_utilities.create_batches(
-        gcs_bucket_name=bucket_name, gcs_prefix=gcs_input_prefix, batch_size=BATCH_SIZE
+        gcs_bucket_name=bucket_name, gcs_prefix=source_dir, batch_size=BATCH_SIZE
     )
 
     print(f"Total batches: {len(batches)}")
@@ -123,14 +121,18 @@ def main() -> None:
 
         # Define the output URI for this batch
         batch_output_uri = f"gs://{bucket_name}/{output_dir.rstrip('/')}/batch_{datetime.now(timezone.utc).isoformat()}"
+
         print(f"Batch Output URI: {batch_output_uri}")
+
+        # Corrected GCS Input Prefix
+        full_gcs_input_prefix = f"gs://{bucket_name}/{source_dir.rstrip('/')}/"
 
         # Process the batch
         batch_process_documents(
             processor_full_name=processor_full_name,
             location=location,
             gcs_output_uri=batch_output_uri,
-            gcs_input_prefix=gcs_input_prefix,
+            gcs_input_prefix=full_gcs_input_prefix,
             timeout=400,
             input_mime_type="application/pdf",
         )
