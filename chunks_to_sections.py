@@ -1,6 +1,12 @@
 import json
+import os
+import tempfile
 from pathlib import Path
 from typing import Any, Dict, List, Callable
+
+from helpers import check_args_and_env_vars
+from storage import upload_file_to_bucket, download_file
+from google.cloud import storage
 
 
 def ignore_lataaja(text: str) -> bool:
@@ -177,10 +183,16 @@ def get_max_page_end(blocks: List[Dict[str, Any]]) -> int:
 
 
 def convert_json_to_json_array(
-    input_file: Path, output_file_json: Path, output_file_txt: Path
+    input_file_gcs: str,
+    output_file_json_gcs: str,
+    output_file_txt_gcs: str,
+    bucket_name: str,
 ) -> None:
-    with input_file.open("r", encoding="utf-8") as f:
-        data = json.load(f)
+    with tempfile.NamedTemporaryFile(mode="w+", delete=False) as tmp_input:
+        download_file(bucket_name, input_file_gcs, tmp_input.name)
+        tmp_input.flush()
+        with open(tmp_input.name, "r", encoding="utf-8") as f:
+            data = json.load(f)
 
     document_layout = data.get("documentLayout", {})
     blocks = document_layout.get("blocks", [])
@@ -205,9 +217,12 @@ def convert_json_to_json_array(
         if len(section["title"] + "".join(section["content"])) >= 30
     ]
 
-    # Write JSON array
-    with output_file_json.open("w", encoding="utf-8") as f_json:
-        json.dump(filtered_sections, f_json, indent=4)
+    # Write JSON array to a temporary file
+    with tempfile.NamedTemporaryFile(mode="w+", delete=False) as tmp_json_output:
+        json.dump(filtered_sections, tmp_json_output, indent=4)
+        tmp_json_output.flush()
+        upload_file_to_bucket(bucket_name, tmp_json_output.name, output_file_json_gcs)
+        os.unlink(tmp_json_output.name)
 
     # Prepare text content
     lines: List[str] = []
@@ -220,28 +235,62 @@ def convert_json_to_json_array(
 
     final_text = "".join(lines).strip()
 
-    # Write TXT file
-    with output_file_txt.open("w", encoding="utf-8") as f_txt:
-        f_txt.write(final_text)
+    # Write TXT content to a temporary file
+    with tempfile.NamedTemporaryFile(mode="w+", delete=False) as tmp_txt_output:
+        tmp_txt_output.write(final_text)
+        tmp_txt_output.flush()
+        upload_file_to_bucket(bucket_name, tmp_txt_output.name, output_file_txt_gcs)
+        os.unlink(tmp_txt_output.name)
+
+
+def list_json_files(bucket_name: str, prefix: str) -> List[str]:
+    """List all JSON files in the specified GCS bucket and prefix."""
+    storage_client = storage.Client()
+    blobs = storage_client.list_blobs(bucket_name, prefix=prefix)
+    json_files = [blob.name for blob in blobs if blob.name.lower().endswith(".json")]
+    return json_files
 
 
 def process_all_files(
-    input_dir: Path, output_dir_json: Path, output_dir_txt: Path
+    bucket_name: str, input_dir: str, output_dir_json: str, output_dir_txt: str
 ) -> None:
-    if not output_dir_json.exists():
-        output_dir_json.mkdir(parents=True)
-    if not output_dir_txt.exists():
-        output_dir_txt.mkdir(parents=True)
+    json_files = list_json_files(bucket_name, input_dir)
+    if not json_files:
+        print(f"No JSON files found in gs://{bucket_name}/{input_dir}")
+        return
 
-    for input_file in input_dir.glob("*.json"):
-        output_file_json = output_dir_json / f"{input_file.stem}.json"
-        output_file_txt = output_dir_txt / f"{input_file.stem}.txt"
-        convert_json_to_json_array(input_file, output_file_json, output_file_txt)
-        print(f"Converted {input_file} to {output_file_json} and {output_file_txt}")
+    for input_file_gcs in json_files:
+        file_stem = Path(input_file_gcs).stem
+        output_file_json_gcs = f"{output_dir_json}/{file_stem}.json"
+        output_file_txt_gcs = f"{output_dir_txt}/{file_stem}.txt"
+
+        convert_json_to_json_array(
+            input_file_gcs, output_file_json_gcs, output_file_txt_gcs, bucket_name
+        )
+        print(
+            f"Converted gs://{bucket_name}/{input_file_gcs} to gs://{bucket_name}/{output_file_json_gcs} and gs://{bucket_name}/{output_file_txt_gcs}"
+        )
+
+
+def main() -> None:
+    """Main function to process JSON files from GCS bucket and convert them to sections."""
+
+    config = check_args_and_env_vars(
+        required_env_vars=[
+            "BUCKET_NAME",
+            "CHUNKS_DIR",
+            "SECTIONS_JSON_DIR",
+            "SECTIONS_TXT_DIR",
+        ]
+    )
+
+    BUCKET_NAME = config["BUCKET_NAME"]
+    INPUT_DIR = config["CHUNKS_DIR"]
+    OUTPUT_DIR_JSON = config["SECTIONS_JSON_DIR"]
+    OUTPUT_DIR_TXT = config["SECTIONS_TXT_DIR"]
+
+    process_all_files(BUCKET_NAME, INPUT_DIR, OUTPUT_DIR_JSON, OUTPUT_DIR_TXT)
 
 
 if __name__ == "__main__":
-    INPUT_DIR = Path("chunks")
-    OUTPUT_DIR_JSON = Path("sections_json")
-    OUTPUT_DIR_TXT = Path("sections_txt")
-    process_all_files(INPUT_DIR, OUTPUT_DIR_JSON, OUTPUT_DIR_TXT)
+    main()
