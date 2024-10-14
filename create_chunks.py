@@ -30,7 +30,6 @@ def get_pdf_files_from_bucket(bucket_name: str, source_dir: str) -> List[str]:
     return pdf_files
 
 
-# Updated batch_process_documents function to accept multiple URIs
 def batch_process_documents(
     processor_full_name: str,
     location: str,
@@ -117,22 +116,20 @@ def main() -> None:
 
     for batch in batches:
         print(f"{len(batch.gcs_documents.documents)} files in batch.")
-        print(batch.gcs_documents.documents)
+        document_uris = [doc.gcs_uri for doc in batch.gcs_documents.documents]
+        print(document_uris)
 
         # Define the output URI for this batch
         batch_output_uri = f"gs://{bucket_name}/{output_dir.rstrip('/')}/batch_{datetime.now(timezone.utc).isoformat()}"
 
         print(f"Batch Output URI: {batch_output_uri}")
 
-        # Corrected GCS Input Prefix
-        full_gcs_input_prefix = f"gs://{bucket_name}/{source_dir.rstrip('/')}/"
-
-        # Process the batch
+        # Process the batch with specific document URIs
         batch_process_documents(
             processor_full_name=processor_full_name,
             location=location,
             gcs_output_uri=batch_output_uri,
-            gcs_input_prefix=full_gcs_input_prefix,
+            gcs_input_uris=document_uris,
             timeout=400,
             input_mime_type="application/pdf",
         )
