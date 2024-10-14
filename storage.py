@@ -63,6 +63,9 @@ def copy_batch_to_dir(batch_output_uri: str, chunks_dir: str) -> None:
     for blob in blobs:
         if blob.name.endswith(".json"):
             filename = os.path.basename(blob.name)  # Extract the filename
+            # Remove the '-0' before the .json extension
+            if filename.endswith("-0.json"):
+                filename = filename.replace("-0.json", ".json")
             destination_blob_name = f"{dest_prefix}/{filename}"  # Set destination path
 
             # Copy the blob to the destination

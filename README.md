@@ -1,6 +1,22 @@
-Developed with Python 3.10
+This repo contains multiple scripts the complete the entire task of identifying needs to to change existing construction cards due to a new law.
+
+The steps are as follows:
+
+1. Upload pdfs to storage
+   upload_to_bucket.py
+
+2. Create Chunks
+   create_chunks.py
+
+3. Create sections from chunks
+   chunks_to_sections.py
+
+4. Run LLM on sections and create a text output per pdf
+   main.py
 
 # Initializing scripts
+
+Developed with Python 3.10
 
 1. Copy .env from the project you you want to run the scripts against to this directory. Naming follows the Microsoft example repo so a .env
    copied from thre should work out of the box.
