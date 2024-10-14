@@ -1,0 +1,2883 @@
+{
+  "document_layout": {
+    "blocks": [
+      {
+        "block_id": "1",
+        "text_block": {
+          "text": "RT",
+          "type_": "paragraph",
+          "blocks": []
+        },
+        "page_span": {
+          "page_start": 1,
+          "page_end": 1
+        }
+      },
+      {
+        "block_id": "2",
+        "text_block": {
+          "text": "R",
+          "type_": "paragraph",
+          "blocks": []
+        },
+        "page_span": {
+          "page_start": 1,
+          "page_end": 1
+        }
+      },
+      {
+        "block_id": "3",
+        "text_block": {
+          "text": "TALONRAKENNUSHANKKEEN KULKU Yleist\u00e4",
+          "type_": "heading-1",
+          "blocks": [
+            {
+              "block_id": "4",
+              "text_block": {
+                "text": "T\u00e4m\u00e4 ohjekortti toimii johdantona Talonrakennushankkeen kulku -ohjesarjaan. Ohjeessa esitell\u00e4\u00e4n sarjan osat ja niiden laadinnassa k\u00e4ytetty l\u00e4hdekirjallisuus. Ohjeen lopussa on koko ohjesarjan laajempi kirjallisuusluettelo. Suppeampi kirjallisuusluettelo esitet\u00e4\u00e4n jokaisessa sarjan osassa erikseen.",
+                "type_": "paragraph",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "5",
+              "text_block": {
+                "text": "RT 10-11256",
+                "type_": "paragraph",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "6",
+              "text_block": {
+                "text": "LVI 03-10603",
+                "type_": "paragraph",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "7",
+              "text_block": {
+                "text": "\u039a\u0397 90-00629",
+                "type_": "paragraph",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "8",
+              "text_block": {
+                "text": "OHJEET",
+                "type_": "paragraph",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "9",
+              "text_block": {
+                "text": "toukokuu 2017",
+                "type_": "paragraph",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "10",
+              "text_block": {
+                "text": "1 (4)",
+                "type_": "paragraph",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "11",
+              "text_block": {
+                "text": "korvaa RT 10-11221",
+                "type_": "paragraph",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "12",
+              "text_block": {
+                "text": "LVI 03-10578",
+                "type_": "paragraph",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "13",
+              "text_block": {
+                "text": "\u039a\u0397 90-00594",
+                "type_": "paragraph",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "14",
+              "text_block": {
+                "text": "SIS\u00c4LLYSLUETTELO",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "15",
+                    "text_block": {
+                      "text": "1 JOHDANTO",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "16",
+                    "text_block": {
+                      "text": "1.1 Rakennushankkeen osapuolet",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "17",
+                    "text_block": {
+                      "text": "1.2 Toteutusmuodot",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "18",
+                    "text_block": {
+                      "text": "1.3 Rakennushankkeen vaiheet ja osittelu",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "19",
+                    "text_block": {
+                      "text": "1.4 Rakennushankkeen kesto ja aikataulut",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "20",
+                    "text_block": {
+                      "text": "1.5 Kustannusten muodostuminen ja ohjaus",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "21",
+                    "text_block": {
+                      "text": "1.6 Riskien- ja laadunhallinta",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "22",
+                    "text_block": {
+                      "text": "KIRJALLISUUTTA",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 1
+              }
+            },
+            {
+              "block_id": "23",
+              "text_block": {
+                "text": "1 JOHDANTO",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "24",
+                    "text_block": {
+                      "text": "Ohjekorttisarja Talonrakennushankkeen kulku kuvaa talonra- kennushankkeen kokonaisuutta ja kulkua rakennuttamisen, suunnittelun ja rakentamisen kannalta. Ohjekorttisarja toimii ohjeena rakennushankkeen l\u00e4pivienniss\u00e4 kiinteist\u00f6jen omista- jille, kiinteist\u00f6kehitt\u00e4jille, rakennuttajille, konsulteille, suunnit- telijoille ja urakoitsijoille.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "25",
+                    "text_block": {
+                      "text": "Talonrakennushankkeen voi k\u00e4ynnist\u00e4\u00e4 k\u00e4ytt\u00e4j\u00e4, kehitt\u00e4j\u00e4 tai sijoittaja. Sen lopputuloksena syntyy tietty\u00e4 toimintaa pal- veleva rakennus tai tila. Talonrakennushankkeella tarkoitetaan t\u00e4ss\u00e4 kaikkia niit\u00e4 toimenpiteit\u00e4, jotka ovat tarpeen tarvittavan lopputuloksen aikaansaamiseksi.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "26",
+                    "text_block": {
+                      "text": "Ohjekorttisarjassa kuvataan talonrakennushankkeen",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "27",
+                    "text_block": {
+                      "text": "\u2022 osapuolet, RT 10-11222 Talonrakennushankkeen kulku. Raken- nushankkeen osapuolet (KH 90-00595, LVI 03-10579) toteutusmuodot, RT 10-11223 Talonrakennushankkeen kulku. Toteutusmuodot (KH 90-00596, LVI 03-10580)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "28",
+                    "text_block": {
+                      "text": "vaiheet ja osittelu, RT 10-11224 Talonrakennushankkeen kul- ku. Rakennushankkeen vaiheet ja osittelu (KH 90-00597, LVI 03- 10581)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "29",
+                    "text_block": {
+                      "text": "kestot ja aikataulut, RT 10-11225 Talonrakennushankkeen kul- ku. Rakennushankkeen kesto ja aikataulut (KH 90-00598, LVI 03-10582)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "30",
+                    "text_block": {
+                      "text": "kustannusten muodostuminen ja ohjaus, RT 10-11226 Talon- rakennushankkeen kulku. Kustannusten muodostuminen ja ohjaus (KH 90-00599, LVI 03-10583)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "31",
+                    "text_block": {
+                      "text": "riskien- ja laadunhallinta, RT 10-11255 Talonrakennushank- keen kulku. Riskien- ja laadunhallinta (KH 90-00630, LVI 03- 10602).",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "32",
+                    "text_block": {
+                      "text": "Ohjeita voidaan soveltaa erilaisiin talonrakennushankkeisiin toteutusmuodosta riippumatta. Ohjeissa on otettu huomioon my\u00f6s korjausrakennushankkeiden erityispiirteit\u00e4.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "33",
+                    "text_block": {
+                      "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajam\u00e4ki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, v\u00e4litt\u00e4\u00e4, muunnella eik\u00e4 ladata teko\u00e4lysovelluksiin.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "34",
+                    "text_block": {
+                      "text": "TARVESELVITYS",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "35",
+                    "text_block": {
+                      "text": "HANKESUUNNITTELU",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "36",
+                    "text_block": {
+                      "text": "EHDOTUS- SUUNNITTELU",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "37",
+                    "text_block": {
+                      "text": "YLEISSUUNNITTELU",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "38",
+                    "text_block": {
+                      "text": "TOTEUTUS- SUUNNITTELU",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "39",
+                    "text_block": {
+                      "text": "SUUNNITTELUN VALMISTELU",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "40",
+                    "text_block": {
+                      "text": "RAKENNUSLUPATEHT\u00c4V\u00c4T",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "41",
+                    "text_block": {
+                      "text": "RAKENTAMINEN",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "42",
+                    "text_block": {
+                      "text": "TAKUUAIKA",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "43",
+                    "text_block": {
+                      "text": "RAKENTAMISEN VALMISTELU",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "44",
+                    "text_block": {
+                      "text": "K\u00c4YTT\u00d6\u00d6NOTTO",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "45",
+                    "text_block": {
+                      "text": "Hankep\u00e4\u00e4t\u00f6s",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "46",
+                    "text_block": {
+                      "text": "Investointip\u00e4\u00e4t\u00f6s",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "47",
+                    "text_block": {
+                      "text": "Valittu",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "48",
+                    "text_block": {
+                      "text": "ehdotussuunnitelma",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "49",
+                    "text_block": {
+                      "text": "Hyv\u00e4ksytty yleissuunnitelma ja p\u00e4\u00e4piirustukset",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "50",
+                    "text_block": {
+                      "text": "Hyv\u00e4ksytyt toteutussuunnitelmat",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "51",
+                    "text_block": {
+                      "text": "Vastaanottop\u00e4\u00e4t\u00f6s",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "52",
+                    "text_block": {
+                      "text": "Kuva 1. Rakennushankkeen vaiheet.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "53",
+                    "text_block": {
+                      "text": "HT/1/toukokuu 2017/Rakennustieto Oy Rakennustietos\u00e4\u00e4ti\u00f6 RTS sr 2017",
+                      "type_": "footer",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 1,
+                      "page_end": 1
+                    }
+                  },
+                  {
+                    "block_id": "54",
+                    "text_block": {
+                      "text": "RT 10-11256 LVI 03-10603 KH 90-00629",
+                      "type_": "header",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 1,
+                "page_end": 2
+              }
+            },
+            {
+              "block_id": "55",
+              "text_block": {
+                "text": "1.1 Rakennushankkeen osapuolet",
+                "type_": "heading-2",
+                "blocks": []
+              },
+              "page_span": {
+                "page_start": 2,
+                "page_end": 2
+              }
+            },
+            {
+              "block_id": "56",
+              "text_block": {
+                "text": "RT 10-11222 Talonrakennushankkeen kulku. Rakennushankkeen osapuolet (KH 90-00595, LVI 03-10579)",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "57",
+                    "text_block": {
+                      "text": "Ohjekortissa k\u00e4yd\u00e4\u00e4n l\u00e4pi rakennushankkeeseen liittyvi\u00e4 kes- keisi\u00e4 teht\u00e4v\u00e4nimikkeit\u00e4. Hankkeen eri osapuolet on jaettu otsi- koiden rakennuttaminen, suunnittelu, toteutus ja viranomaiset alle. T\u00e4ss\u00e4 ohjekortissa rakennushankkeeseen ryhtyv\u00e4st\u00e4, tilaa- jasta ja rakennuttajasta k\u00e4ytet\u00e4\u00e4n termi\u00e4 rakennuttaja.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "58",
+                    "text_block": {
+                      "text": "Ohjeen laadinnassa k\u00e4ytetyt keskeiset l\u00e4hteet ovat",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "59",
+                    "text_block": {
+                      "text": "\u2022 Maank\u00e4ytt\u00f6- ja rakennuslaki 132/1999 (RT YM1-21667, K\u039a\u0397 YM-10734, LVI YM-00577)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "60",
+                    "text_block": {
+                      "text": "\u2022 Maank\u00e4ytt\u00f6- ja rakennusasetus 895/1999 (RTYM1-21727, \u039a\u0397 YM-10772, LVI YM-00605)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "61",
+                    "text_block": {
+                      "text": "Valtioneuvoston asetus rakennusty\u00f6n turvallisuudesta 205/2009 (RT STM-21419, KH STM-10548, LVI STM-00414) RT 10-11105 Teht\u00e4v\u00e4luettelot. K\u00e4ytt\u00f6ohje KO12. (KH X4- 00512, LVI 03-10516)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "62",
+                    "text_block": {
+                      "text": "RT 10-11108 P\u00e4\u00e4suunnittelun teht\u00e4v\u00e4luettelo PS12. (\u039a\u0397 \u03a74- 00515, LVI 03-10519)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "63",
+                    "text_block": {
+                      "text": "RT 10-11109 Arkkitehtisuunnittelun teht\u00e4v\u00e4luettelo ARK12. (\u039a\u0397 X4-00516, LVI 03-10520).",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "64",
+                    "text_block": {
+                      "text": "1.2 Toteutusmuodot",
+                      "type_": "heading-3",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 2,
+                "page_end": 2
+              }
+            },
+            {
+              "block_id": "65",
+              "text_block": {
+                "text": "RT 10-11223 Talonrakennushankkeen kulku. Toteutusmuodot (KH 90-00596, LVI 03-10580)",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "66",
+                    "text_block": {
+                      "text": "Ohjekortissa annetaan ohjeita rakennushankkeen toteutus- muodon valintaan. Toteutusmuodot on jaettu eri suunnittelu- ja urakkamuotoihin, joista tyypillisimm\u00e4t esitell\u00e4\u00e4n ohjeessa. L\u00e4pik\u00e4yt\u00e4vi\u00e4 urakkamuotoja ovat suunnittele ja rakenna-, p\u00e4\u00e4urakka-, projektinjohto-, yhteisvastuu- sek\u00e4 elinkaarivas- tuumuodot. Lopussa annetaan esimerkki eri urakkamuotojen sovelluksista.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "67",
+                    "text_block": {
+                      "text": "Ohjeen",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "68",
+                    "text_block": {
+                      "text": "laadinnassa k\u00e4ytetyt keskeiset l\u00e4hteet ovat Allianssin edut, haasteet ja mahdollisuudet suhteessa perin- teisiin toteutusmuotoihin. Rami Tuokko. Diplomity\u00f6. Aalto- yliopisto. 2014.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "69",
+                    "text_block": {
+                      "text": "Projektiallianssi asuinrakennuksen peruskorjaushankkeen toteutusmuotona. Mikko Juvonen. Diplomity\u00f6. Aalto-yli- opisto. 2013.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "70",
+                    "text_block": {
+                      "text": "\u2022 Relaatioprojektimallit. Anssi Siitonen. Diplomity\u00f6. Tampe- reen teknillinen yliopisto. 2013.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "71",
+                    "text_block": {
+                      "text": "Talonrakennuksen hankemuotojen kuvaus. Pirjo Pernu. Tek- nillinen korkeakoulu. 1998.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "72",
+                    "text_block": {
+                      "text": "Toteutusmuodon valinta, \"Teht\u00e4v\u00e4tarjotin ja toteutusmuoto- korit\". Juhani Kiiras. Rakentajain kalenteri 2001. Rakennustie-",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "73",
+                    "text_block": {
+                      "text": "to Oy. 2000. s. 763-769.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "74",
+                    "text_block": {
+                      "text": "\u2022 Toteutusmuodot taloyhti\u00f6n korjaushankkeissa. Juha Salmi- nen. Kiinteist\u00f6alan Kustannus Oy. 2015.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 2,
+                "page_end": 2
+              }
+            },
+            {
+              "block_id": "75",
+              "text_block": {
+                "text": "1.3 Rakennushankkeen vaiheet ja osittelu",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "76",
+                    "text_block": {
+                      "text": "RT 10-11224 Talonrakennushankkeen kulku. Rakennushankkeen vaiheet ja osittelu (KH 90-00597, LVI 03-10581)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "77",
+                    "text_block": {
+                      "text": "Ohjekortissa l\u00e4pik\u00e4yt\u00e4v\u00e4t rakennushankkeen vaiheet ovat tarveselvitys, hankesuunnittelu, ehdotussuunnittelu, yleis- suunnittelu, toteutussuunnittelu, rakentaminen, k\u00e4ytt\u00f6\u00f6notto ja takuuaika. Ohjeessa esitell\u00e4\u00e4n my\u00f6s osittelu, joka on keskei- nen projektinhallinnan ty\u00f6kalu.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "78",
+                    "text_block": {
+                      "text": "Ohjeen laadinnassa k\u00e4ytetyt keskeiset l\u00e4hteet ovat",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "79",
+                    "text_block": {
+                      "text": "ohjeet - 2",
+                      "type_": "header",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "80",
+                    "text_block": {
+                      "text": "\u2022 Asunnon muunneltavuus avoimen rakentamisen viitekehyk- sess\u00e4, l\u00e4ht\u00f6kohtia avoimelle tilarakenteelle kerrostalossa. Ulpu Tiuri. Lisensiaattity\u00f6. Teknillinen korkeakoulu, arkkiteh- tiosasto. 1997.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "81",
+                    "text_block": {
+                      "text": "Avoin asuntorakentaminen - mahdollisuuksien tie. Esko Kah- ri. Rakennustieto Oy. 1993.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "82",
+                    "text_block": {
+                      "text": "Developments Towards Open Building in Finland. Ulpu Tiuri, Markku Hedman. Helsinki University of Technology, Depart- ment of Architecture. Report No. 50. 1998.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "83",
+                    "text_block": {
+                      "text": "Osittelun k\u00e4ytt\u00f6 rakennushankkeessa. Nora Wind. Diplomi- ty\u00f6. Aalto-yliopisto. 2015.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "84",
+                    "text_block": {
+                      "text": "RT 10-11107 Hankkeen johtamisen ja rakennuttamisen teh- t\u00e4v\u00e4luettelo HJR12.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "85",
+                    "text_block": {
+                      "text": "SUKE Malli suunnittelun ohjaukseen projektinjohtohank- keissa. Matti Kruus, Juhani Kiiras, Jarmo Raveala, Arto Saari, Teppo Salmikivi. Rakennustieto Oy. 2006.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 2,
+                "page_end": 2
+              }
+            },
+            {
+              "block_id": "86",
+              "text_block": {
+                "text": "1.4 Rakennushankkeen kesto ja aikataulut",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "87",
+                    "text_block": {
+                      "text": "RT 10-11225 Talonrakennushankkeen kulku. Rakennushankkeen kesto ja aikataulut (KH 90-00598, LVI 03-10582)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "88",
+                    "text_block": {
+                      "text": "Ohjekortti k\u00e4sittelee aikataulun merkityst\u00e4 hankkeelle, hank- keen kokonaiskestoa, ajoitusta, eri vaiheiden kestoja sek\u00e4 ra- kentamisen eri aikatauluja.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "89",
+                    "text_block": {
+                      "text": "Ohjeen laadinnassa k\u00e4ytetyt keskeiset l\u00e4hteet ovat",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "90",
+                    "text_block": {
+                      "text": "\u2022 Aikataulukirja 2016 (Ratu KI-6028). Anssi Koskenvesa et al. Rakennustieto Oy. 2015.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "91",
+                    "text_block": {
+                      "text": "\u2022 Korjausrakentamisen ajoitusmalli. Elisa Varis. Diplomity\u00f6. Tampereen teknillinen yliopisto. 2016.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "92",
+                    "text_block": {
+                      "text": "Rakennushankkeen ajallinen suunnittelu ja ohjaus (Ratu KI- 6021). Anssi Koskenvesa, Satu Sahlstedt. Rakennustieto Oy. 2013.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "93",
+                    "text_block": {
+                      "text": "SUKE, Malli suunnittelun ohjaukseen projektinjohtohank- keissa. Matti Kruus et al. Rakennustieto Oy. 2006. Uudisrakentamisen ajoitusmalli. Aki Peltola. Diplomity\u00f6. Tampereen teknillinen yliopisto. 2015.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 2,
+                "page_end": 2
+              }
+            },
+            {
+              "block_id": "94",
+              "text_block": {
+                "text": "1.5 Kustannusten muodostuminen ja ohjaus",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "95",
+                    "text_block": {
+                      "text": "RT 10-11226 Talonrakennushankkeen kulku. Kustannusten muo- dostuminen ja ohjaus (KH 90-00599, LVI 03-10583)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "96",
+                    "text_block": {
+                      "text": "Ohjekortissa k\u00e4sitell\u00e4\u00e4n yleisesti kustannusten muodostu- mista rakennushankkeessa. Kustannuksiin vaikuttavat tekij\u00e4t ja tyypillisimpi\u00e4 kustannuslaskentamenettelyit\u00e4 k\u00e4yd\u00e4\u00e4n l\u00e4pi rakennushankkeen vaiheittain.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "97",
+                    "text_block": {
+                      "text": "Ohjeen laadinnassa k\u00e4ytetyt keskeiset l\u00e4hteet ovat Kustannushallinta rakennushankkeessa. Mika Lindholm. Suo- men Rakennusmedia Oy. 2009.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "98",
+                    "text_block": {
+                      "text": "RT 10-11107 Hankkeen johtamisen ja rakennuttamisen teh- t\u00e4v\u00e4luettelo HJR12. (\u039a\u0397 X4-00514, LVI 03-10518)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "99",
+                    "text_block": {
+                      "text": "SUKE Malli suunnittelun ohjaukseen projektinjohtohank- keissa. Matti Kruus, Juhani Kiiras, Jarmo Raveala, Arto Saari, Teppo Salmikivi. Rakennustieto Oy. 2006.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "100",
+                    "text_block": {
+                      "text": "Talo 2000 Hankenimikkeist\u00f6. Talo-nimikkeist\u00f6ryhm\u00e4, Raken- nustietos\u00e4\u00e4ti\u00f6 ja Haahtela-kehitys Oy. 2007.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "101",
+                    "text_block": {
+                      "text": "TALO 90 Rakennuskustannusten laskentaohje, Rakennustek- niset ty\u00f6t. Rakennustieto Oy. 1994.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "102",
+                    "text_block": {
+                      "text": "\u2022 Talonrakennuksen kustannustieto 2014. Yrj\u00e4n\u00e4 Haahtela, Ju- hani Kiiras. Haahtela-kehitys Oy. 2014.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "103",
+                    "text_block": {
+                      "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajam\u00e4ki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, v\u00e4litt\u00e4\u00e4, muunnella eik\u00e4 ladata teko\u00e4lysovelluksiin.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "104",
+                    "text_block": {
+                      "text": "HT/1/toukokuu 2017/Rakennustieto Oy Rakennustietos\u00e4\u00e4ti\u00f6 RTS sr 2017",
+                      "type_": "footer",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 2,
+                      "page_end": 2
+                    }
+                  },
+                  {
+                    "block_id": "105",
+                    "text_block": {
+                      "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajam\u00e4ki, 4.10.2024. Julkaisua tai sen osia ei",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "106",
+                    "text_block": {
+                      "text": "saa kopioida, jakaa, v\u00e4litt\u00e4\u00e4, muunnella eik\u00e4 ladata teko\u00e4lysovelluksiin.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "107",
+                    "text_block": {
+                      "text": "RT 10-11256 LVI 03-10603 KH 90-00629",
+                      "type_": "header",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 2,
+                "page_end": 3
+              }
+            },
+            {
+              "block_id": "108",
+              "text_block": {
+                "text": "1.6 Riskien- ja laadunhallinta",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "109",
+                    "text_block": {
+                      "text": "RT 10-11255 Talonrakennushankkeen kulku. Riskien- ja laadun- hallinta (KH 90-00630, LVI 03-10602)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "110",
+                    "text_block": {
+                      "text": "Ohjekortissa esitet\u00e4\u00e4n rakennushankkeen riskien- ja laa- dunhallinnan tavoitteita ja menettelyj\u00e4. L\u00e4ht\u00f6kohtana on ra- kennushankkeeseen ryhtyv\u00e4n n\u00e4k\u00f6kulma, mutta esiin tuodaan my\u00f6s muiden osapuolten n\u00e4k\u00f6kulmia.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "111",
+                    "text_block": {
+                      "text": "Ohjeen laadinnassa k\u00e4ytetyt keskeiset l\u00e4hteet ovat",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "112",
+                    "text_block": {
+                      "text": "Collaborative risk management in complex construction pro- jects. Liisa Lehtiranta. Aalto-yliopisto Doctoral dissertations 48/2014. 2014.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "113",
+                    "text_block": {
+                      "text": "\u2022 Managing risks in the international growth business of Fin- nish construction contractors and building product supp- liers. Lauri Paloj\u00e4rvi. TKK Structural Engineering and Building Technology Dissertations. TKK-R-DISS-3. 2009",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "114",
+                    "text_block": {
+                      "text": "Laatuajattelu ja rakennusty\u00f6maan laatutoiminnot. Jouko Kankainen, Juha-Matti Junnonen. Rakennustieto Oy. 2001. Ratu KI-6029 Rakennust\u00f6iden laatu RTL 2017.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "115",
+                    "text_block": {
+                      "text": "Ratu S-1180 Ty\u00f6maan laatusuunnitelma.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "116",
+                    "text_block": {
+                      "text": "Ratu S-1224 Rakennushankkeen laadunvarmistustoimet. Ratu S-1229 Rakennusty\u00f6maan projektisuunnitelma. RT 10-11081 Projektinjohtototeutuksen riskienhallinta. Ohje",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "117",
+                    "text_block": {
+                      "text": "projektinjohtohankkeen tilaajalle ja toteuttajalle. Tilaajaorganisaation riskienhallinta ja menetelm\u00e4t kor- jaushankkeissa. Olavi Saastamoinen. Rakentajain Kalenteri 2005,s. 419-424.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "118",
+                    "text_block": {
+                      "text": "KIRJALLISUUTTA",
+                      "type_": "heading-3",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "119",
+                    "text_block": {
+                      "text": "Lait ja asetukset",
+                      "type_": "heading-3",
+                      "blocks": [
+                        {
+                          "block_id": "120",
+                          "text_block": {
+                            "text": "Asuntokauppalaki 843/1994. (RT OM-21605, \u039a\u0397 \u039f\u039c-10686)",
+                            "type_": "paragraph",
+                            "blocks": []
+                          },
+                          "page_span": {
+                            "page_start": 3,
+                            "page_end": 3
+                          }
+                        },
+                        {
+                          "block_id": "121",
+                          "text_block": {
+                            "text": "Laki rakennusperinn\u00f6n suojelemisesta 498/2010. (RT YM1-21482, \u039a\u0397 YM-10593)",
+                            "type_": "paragraph",
+                            "blocks": []
+                          },
+                          "page_span": {
+                            "page_start": 3,
+                            "page_end": 3
+                          }
+                        },
+                        {
+                          "block_id": "122",
+                          "text_block": {
+                            "text": "Maank\u00e4ytt\u00f6- ja rakennusasetus 895/1999 (RT YM1-21691, \u039a\u0397 YM-10752, LVI YM-00587)",
+                            "type_": "paragraph",
+                            "blocks": []
+                          },
+                          "page_span": {
+                            "page_start": 3,
+                            "page_end": 3
+                          }
+                        },
+                        {
+                          "block_id": "123",
+                          "text_block": {
+                            "text": "Maank\u00e4ytt\u00f6- ja rakennuslaki 132/1999 (RTYM1-21727, KH YM-10772, LVI YM-00605)",
+                            "type_": "paragraph",
+                            "blocks": []
+                          },
+                          "page_span": {
+                            "page_start": 3,
+                            "page_end": 3
+                          }
+                        },
+                        {
+                          "block_id": "124",
+                          "text_block": {
+                            "text": "Muinaismuistolaki 295/1963 (RT OKM-21696)",
+                            "type_": "paragraph",
+                            "blocks": []
+                          },
+                          "page_span": {
+                            "page_start": 3,
+                            "page_end": 3
+                          }
+                        },
+                        {
+                          "block_id": "125",
+                          "text_block": {
+                            "text": "Valtioneuvoston asetus rakennusty\u00f6n turvallisuudesta 205/2009 (RT STM-21419, KH STM-10548, LVI STM-00414)",
+                            "type_": "paragraph",
+                            "blocks": []
+                          },
+                          "page_span": {
+                            "page_start": 3,
+                            "page_end": 3
+                          }
+                        }
+                      ]
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 3,
+                "page_end": 3
+              }
+            },
+            {
+              "block_id": "126",
+              "text_block": {
+                "text": "Ymp\u00e4rist\u00f6ministeri\u00f6n ohjeet",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "127",
+                    "text_block": {
+                      "text": "Ymp\u00e4rist\u00f6ministeri\u00f6n ohje rakennusty\u00f6n suorituksesta ja valvon- nasta. YM5/601/2015. (RT YM2-21644, KH YM-10717, LVI YM-00561) Ymp\u00e4rist\u00f6ministeri\u00f6n ohje rakentamisen suunnitteluteht\u00e4vien vaa- tivuusluokista. YM1/601/2015. (RT YM2-21640, \u039a\u0397 YM-10713, LVI YM-00557)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "128",
+                    "text_block": {
+                      "text": "Ymp\u00e4rist\u00f6ministeri\u00f6n ohje rakentamista koskevista suunnitelmista ja selvityksist\u00e4. YM3/601/2015. (RT YM2-21642, KH YM-10715, LVI YM-00559)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 3,
+                "page_end": 3
+              }
+            },
+            {
+              "block_id": "129",
+              "text_block": {
+                "text": "RT-, Ratu-, KH- ja LVI-ohjeet",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "130",
+                    "text_block": {
+                      "text": "Ratu KI-6029 Rakennust\u00f6iden laatu RTL 2017.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "131",
+                    "text_block": {
+                      "text": "Ratu S-1180 Ty\u00f6maan laatusuunnitelma.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "132",
+                    "text_block": {
+                      "text": "Ratu S-1224 Rakennushankkeen laadunvarmistustoimet.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "133",
+                    "text_block": {
+                      "text": "Ratu S-1229 Rakennusty\u00f6maan projektisuunnitelma.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "134",
+                    "text_block": {
+                      "text": "ohjeet 3",
+                      "type_": "header",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "135",
+                    "text_block": {
+                      "text": "RT 10-11081 Projektinjohtototeutuksen riskienhallinta. Ohje projek- tinjohtohankkeen tilaajalle ja toteuttajalle.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "136",
+                    "text_block": {
+                      "text": "RT 10-11082 Projektinjohtototeutuksen riskienhallinta. Riskien- hallinnan ty\u00f6kaluja. (LVI 03-10505)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "137",
+                    "text_block": {
+                      "text": "RT 10-11105 Teht\u00e4v\u00e4luettelot. K\u00e4ytt\u00f6ohje KO12. (KH X4-00512, LVI 03-10516)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "138",
+                    "text_block": {
+                      "text": "RT 10-11107 Hankkeen johtamisen ja rakennuttamisen teht\u00e4v\u00e4luet- telo HJR12. (\u039a\u0397 X4-00514, LVI 03-10518)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "139",
+                    "text_block": {
+                      "text": "RT 10-11108 P\u00e4\u00e4suunnittelun teht\u00e4v\u00e4luettelo PS12 (\u039a\u0397 X4-00515, LVI 03-10519)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "140",
+                    "text_block": {
+                      "text": "RT 10-11109 Arkkitehtisuunnittelun teht\u00e4v\u00e4luettelo ARK12 (KH X4-00516, LVI 03-10520)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "141",
+                    "text_block": {
+                      "text": "RT 10-11127 Geoteknisen suunnittelun teht\u00e4v\u00e4luettelo GEO12. (\u039a\u0397 X4-00517, LVI 03-10521)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "142",
+                    "text_block": {
+                      "text": "RT 10-11128 Rakennesuunnittelun teht\u00e4v\u00e4luettelo RAK12. (KH X4-00518, LVI 03-10522)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "143",
+                    "text_block": {
+                      "text": "RT 10-11129 Taloteknisen suunnittelun teht\u00e4v\u00e4luettelo TATE12. (\u039a\u0397 X4-00519, LVI 03-10523)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "144",
+                    "text_block": {
+                      "text": "RT 10-11222 Talonrakennushankkeen kulku. Rakennushankkeen osa- puolet. (KH 90-00595, LVI 03-10579)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "145",
+                    "text_block": {
+                      "text": "RT 10-11223 Talonrakennushankkeen kulku. Toteutusmuodot. (KH 90-00596, LVI 03-10580)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "146",
+                    "text_block": {
+                      "text": "RT 10-11224 Talonrakennushankkeen kulku. Rakennushankkeen vai- heet ja osittelu. (KH 90-00597, LVI 03-10581)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "147",
+                    "text_block": {
+                      "text": "RT 10-11225 Talonrakennushankkeen kulku. Rakennushankkeen kesto ja aikataulut. (KH 90-00598, LVI 03-10582)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "148",
+                    "text_block": {
+                      "text": "RT 10-11226 Talonrakennushankkeen kulku. Kustannusten muodos- tuminen ja ohjaus. (KH 90-00599, LVI 03-10583).",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "149",
+                    "text_block": {
+                      "text": "RT 10-11255 Talonrakennushankkeen kulku. Riskien- ja laadunhal- linta. (KH 90-00630, LVI 03-10602)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "150",
+                    "text_block": {
+                      "text": "RT 11-10781 Luvan hakeminen rakentamiseen. (KH 90-00324, LVI 03-10352)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "151",
+                    "text_block": {
+                      "text": "RT 13-10845 Projektinjohtopalvelusopimuksen laatiminen, talonra- kennusty\u00f6.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "152",
+                    "text_block": {
+                      "text": "RT 13-10860 Suunnittelun johtaminen rakennushankkeessa. (KH X4-00374, LVI 03-10396)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "153",
+                    "text_block": {
+                      "text": "RT 13-11120 Suunnittelun johtaminen korjaushankkeessa. (KH X4-00536, LVI 03-10539)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "154",
+                    "text_block": {
+                      "text": "RT 13-11143 Konsulttitoiminnan yleiset sopimusehdot KSE 2013. (KH X4-00540, LVI 03-10544)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "155",
+                    "text_block": {
+                      "text": "RT 16-10660 Rakennusurakan yleiset sopimusehdot YSE 1998. (\u039a\u0397 20-00241, LVI 03-10277)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "156",
+                    "text_block": {
+                      "text": "RT 16-10669 Rakennusurakkasopimuksen laatiminen. (KH X4-00257, LVI 03-10285)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "157",
+                    "text_block": {
+                      "text": "RT 16-10740 KVR-urakkasopimuksen laatiminen. YSE 1998 asiakirja- malli.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "158",
+                    "text_block": {
+                      "text": "RT 16-10906 Projektinjohtourakkasopimuksen laatiminen, talonra- kennusty\u00f6. (LVI 03-10422)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "159",
+                    "text_block": {
+                      "text": "RT 16-11121 Talonrakennusty\u00f6n ty\u00f6maavalvonnan teht\u00e4v\u00e4luettelo. (\u039a\u0397 \u03a74-00528, LVI 03-10530)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "160",
+                    "text_block": {
+                      "text": "RT 16-11122 Maa- ja vesirakennusty\u00f6n ty\u00f6maavalvonnan teht\u00e4v\u00e4- luettelo.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "161",
+                    "text_block": {
+                      "text": "RT 16-11123 Talotekniikkat\u00f6iden valvonnan teht\u00e4v\u00e4luettelo. (KH X4-00529, LVI 03-10531)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "162",
+                    "text_block": {
+                      "text": "RT 18-11004 Asuntoyhti\u00f6n korjaushankkeen kulku. (KH 90-00466, LVI 03-10460)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "163",
+                    "text_block": {
+                      "text": "RT 18-11220 Asunto-osakeyhti\u00f6n korjaushankkeen hankesuunnittelu. (\u039a\u0397 90-00593, LVI 03-10577)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "164",
+                    "text_block": {
+                      "text": "RT 18-11243 Kiinteist\u00f6npitokirjan laadinnan teht\u00e4v\u00e4t. (K\u0397 90-00614, LVI 01-10593)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "165",
+                    "text_block": {
+                      "text": "HT/1/toukokuu 2017/Rakennustieto Oy Rakennustietos\u00e4\u00e4ti\u00f6 RTS sr 2017",
+                      "type_": "footer",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 3,
+                      "page_end": 3
+                    }
+                  },
+                  {
+                    "block_id": "166",
+                    "text_block": {
+                      "text": "RT 10-11256 LVI 03-10603 KH 90-00629",
+                      "type_": "header",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 3,
+                "page_end": 4
+              }
+            },
+            {
+              "block_id": "167",
+              "text_block": {
+                "text": "Muu kirjallisuus",
+                "type_": "heading-2",
+                "blocks": [
+                  {
+                    "block_id": "168",
+                    "text_block": {
+                      "text": "Aikataulukirja 2016 (Ratu KI-6028). Anssi Koskenvesa et al. Rakennustieto Oy. 2015.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "169",
+                    "text_block": {
+                      "text": "Allianssin edut, haasteet ja mahdollisuudet suhteessa perinteisiin toteutusmuotoihin. Rami Tuokko. Diplomity\u00f6. Aalto-yliopisto. 2014. Asunnon muunneltavuus avoimen rakentamisen viitekehyksess\u00e4, L\u00e4ht\u00f6kohtia avoimelle tilarakenteelle kerrostalossa. Ulpu Tiuri. Lisensiaattity\u00f6. Teknillinen korkeakoulu, arkkitehtiosasto. 1997. Avoin asuntorakentaminen mahdollisuuksien tie. Esko Kahri. Rakennustieto Oy. 1993.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "170",
+                    "text_block": {
+                      "text": "Collaborative risk management in complex construction projects. Liisa Lehtiranta. Aalto-yliopisto Doctoral dissertations 48/2014. 2014. Developments Towards Open Building in Finland. Ulpu Tiuri, Markku Hedman. Helsinki University of Technology, Department of Architecture. Report No. 50. 1998.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "171",
+                    "text_block": {
+                      "text": "Kiinteist\u00f6kehitys. Juhani Kiiras, Satu Tammilehto. Kiinteist\u00f6alan Kustannus Oy. 2014.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "172",
+                    "text_block": {
+                      "text": "Korjausrakentamisen ajoitusmalli. Elisa Varis. Diplomity\u00f6. Tampereen teknillinen yliopisto. 2016.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "173",
+                    "text_block": {
+                      "text": "Kustannushallinta rakennushankkeessa. Mika Lindholm. Suomen Rakennusmedia Oy. 2009.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "174",
+                    "text_block": {
+                      "text": "Laatuajattelu ja rakennusty\u00f6maan laatutoiminnot. Jouko Kankainen, Juha-Matti Junnonen. Rakennustieto Oy. 2001.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "175",
+                    "text_block": {
+                      "text": "MaaRYL 2010. Rakennust\u00f6iden yleiset laatuvaatimukset. Talon- rakennuksen maaty\u00f6t. Rakennustieto Oy, 2010. 196 s.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "176",
+                    "text_block": {
+                      "text": "Managing risks in the international growth business of Finnish construction contractors and building product suppliers. Lauri Paloj\u00e4rvi. TKK Structural Engineering and Building Technology Dissertations. TKK-R-DISS-3. 2009",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "177",
+                    "text_block": {
+                      "text": "k\u00e4ytt\u00f6 rakennushankkeessa. Nora Wind. Diplomity\u00f6. Aalto-",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "178",
+                    "text_block": {
+                      "text": "Osittelun yliopisto. 2015.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "179",
+                    "text_block": {
+                      "text": "Projektiallianssi asuinrakennuksen peruskorjaushankkeen toteutus- muotona. Mikko Juvonen. Diplomity\u00f6. Aalto-yliopisto. 2013.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "180",
+                    "text_block": {
+                      "text": "Projektihallinnan k\u00e4sikirja. Risto Pelin. Projektijohtaminen Oy Risto Pelin. 2011.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "181",
+                    "text_block": {
+                      "text": "Projektinjohtourakka. Erityispiirteet, sopimustekniikka ja ongelma- kohdat. Emma Niemist\u00f6. Rakennustieto Oy. 2014.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "182",
+                    "text_block": {
+                      "text": "Rakennushankkeen aikataulusuunnittelu. Lohkotekniikka rakennut- tajan apuna. Suomen rakennuttajaliitto ry. Rakennustieto Oy. 1994.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "183",
+                    "text_block": {
+                      "text": "ohjeet 4",
+                      "type_": "header",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "184",
+                    "text_block": {
+                      "text": "Rakennushankkeen ajallinen suunnittelu ja ohjaus (Ratu KI-6021). Anssi Koskenvesa, Satu Sahlstedt. Rakennustieto Oy. 2013.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "185",
+                    "text_block": {
+                      "text": "Rakennushankkeen ohjaus. Jouko Kankainen, Tom Sandvik. Rakennusteollisuuden keskusliitto. Rakennustieto Oy. 1999.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "186",
+                    "text_block": {
+                      "text": "Rakennuttaminen. Jouko Kankainen, Juha-Matti Junnonen. Rakennustieto Oy. 2017.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "187",
+                    "text_block": {
+                      "text": "Relaatioprojektimallit. Anssi Siitonen. Diplomity\u00f6. Tampereen teknil- linen yliopisto. 2013.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "188",
+                    "text_block": {
+                      "text": "RIL 262-2014 Taitava kuntarakennuttaja. Suomen kuntaliitto, Suomen Rakennusinsin\u00f6\u00f6rien Liitto RIL. Suomen Rakennusinsin\u00f6\u00f6rien Liitto RIL. 2013.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "189",
+                    "text_block": {
+                      "text": "RunkoRYL. 2010 Rakennust\u00f6iden yleiset laatuvaatimukset. Talonrakennuksen runkoty\u00f6t. Rakennustieto Oy, 2011. 352 s.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "190",
+                    "text_block": {
+                      "text": "Sis\u00e4RYL. 2013 Rakennust\u00f6iden yleiset laatuvaatimukset. Talon- rakennuksen sis\u00e4ty\u00f6t. Rakennustieto Oy, 2012. 352 s.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "191",
+                    "text_block": {
+                      "text": "SUKE Malli suunnittelun ohjaukseen projektinjohtohankkeissa. Matti Kruus, Juhani Kiiras, Jarmo Raveala, Arto Saari, Teppo Salmikivi. Rakennustieto Oy, 2006.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "192",
+                    "text_block": {
+                      "text": "SUKE Malli talotekniikan suunnittelun ja hankintojen ohjaukseen pro- jektinjohtohankkeissa. Juhani Kiiras, Matti Kruus, Aimo H\u00e4m\u00e4l\u00e4inen, Hannu Lindroos, Arto Saari, Teppo Salmikivi. Rakennustieto Oy. 2008. SUKE Suunnittelun ohjausta tukevien menettelyjen kehitt\u00e4minen projektinjohtorakentamisessa. Matti Kruus. Rakennustieto Oy. 2008.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "193",
+                    "text_block": {
+                      "text": "Talo 2000 Hankenimikkeist\u00f6. Talo-nimikkeist\u00f6ryhm\u00e4, Rakennus- tietos\u00e4\u00e4ti\u00f6 ja Haahtela-kehitys Oy. 2007.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "194",
+                    "text_block": {
+                      "text": "Talo 2000 -nimikkeist\u00e4. Yleisseloste. Talo-nimikkeist\u00f6ryhm\u00e4, Haahtela- kehitys Oy. Rakennustieto Oy. 2008.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "195",
+                    "text_block": {
+                      "text": "TALO 90 Rakennuskustannusten laskentaohje, Rakennustekniset ty\u00f6t. Rakennustieto Oy. 1994.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "196",
+                    "text_block": {
+                      "text": "Talonrakennuksen hankemuotojen kuvaus. Pirjo Pernu. Teknillinen korkeakoulu. 1998.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "197",
+                    "text_block": {
+                      "text": "Tilaajaorganisaation riskienhallinta ja menetelm\u00e4t korjaushankkeissa. Olavi Saastamoinen. Rakentajain Kalenteri 2005, s. 419-424.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "198",
+                    "text_block": {
+                      "text": "Toteutusmuodon valinta, \"Teht\u00e4v\u00e4tarjotin ja toteutusmuotokorit\". Juhani Kiiras. Rakentajain kalenteri 2001. Rakennustieto Oy. 2000. s. 763-769.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "199",
+                    "text_block": {
+                      "text": "Toteutusmuodot taloyhti\u00f6n korjaushankkeissa. Juha Salminen. Kiinteist\u00f6alan Kustannus Oy. 2015.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "200",
+                    "text_block": {
+                      "text": "Uudisrakentamisen ajoitusmalli. Aki Peltola. Diplomity\u00f6. Tampereen teknillinen yliopisto. 2015.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "201",
+                    "text_block": {
+                      "text": "Lataaja: Rakennustieto Oy, Tommi Pihlajam\u00e4ki, 4.10.2024. Julkaisua tai sen osia ei saa kopioida, jakaa, v\u00e4litt\u00e4\u00e4, muunnella eik\u00e4 ladata teko\u00e4lysovelluksiin.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "202",
+                    "text_block": {
+                      "text": "HT/1/toukokuu 2017/Rakennustieto Oy Rakennustietos\u00e4\u00e4ti\u00f6 RTS sr 2017",
+                      "type_": "footer",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "203",
+                    "text_block": {
+                      "text": "Ohjekorttisarjan on laatinut l\u00e4hdeaineiston pohjalta Rakennustietos\u00e4\u00e4ti\u00f6",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "204",
+                    "text_block": {
+                      "text": "RTS:n asettama toimikunta TK 336 Talonrakennushankkeen kulku:",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "205",
+                    "text_block": {
+                      "text": "Matti Kruus",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "206",
+                    "text_block": {
+                      "text": "Aki Davidsson",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "207",
+                    "text_block": {
+                      "text": "Sari Hild\u00e9n",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "208",
+                    "text_block": {
+                      "text": "Seppo Kemppainen",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "209",
+                    "text_block": {
+                      "text": "Juho Kess",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "210",
+                    "text_block": {
+                      "text": "Anssi Koskenvesa",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "211",
+                    "text_block": {
+                      "text": "Reijo S Lehtinen",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "212",
+                    "text_block": {
+                      "text": "Juha Lemstr\u00f6m",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "213",
+                    "text_block": {
+                      "text": "Indepro Oy, puheenjohtaja",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "214",
+                    "text_block": {
+                      "text": "Arkkitehdit Davidsson & Tarkela Oy",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "215",
+                    "text_block": {
+                      "text": "Helsingin kaupunki, tilakeskus",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "216",
+                    "text_block": {
+                      "text": "Ruokakesko Oy",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "217",
+                    "text_block": {
+                      "text": "RAKLI ry",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "218",
+                    "text_block": {
+                      "text": "Mittaviiva Oy (RT 10-11222, RT 10-11223, RT 10-11224,",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "219",
+                    "text_block": {
+                      "text": "RT 10-11225, RT 10-11226)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "220",
+                    "text_block": {
+                      "text": "Talonrakennusteollisuus ry (08/2015 saakka)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "221",
+                    "text_block": {
+                      "text": "Senaatti-kiinteist\u00f6t",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "222",
+                    "text_block": {
+                      "text": "(varalla: Jukka Riikonen)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "223",
+                    "text_block": {
+                      "text": "Niina Rajakoski",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "224",
+                    "text_block": {
+                      "text": "Satu Sahlstedt",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "225",
+                    "text_block": {
+                      "text": "Teppo Salmikivi",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "226",
+                    "text_block": {
+                      "text": "Jouko Snellman",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "227",
+                    "text_block": {
+                      "text": "Timo Suominen",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "228",
+                    "text_block": {
+                      "text": "(varalla: Vesa Ahlroos) Tuomas Vaarasalo Nora Wind",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "229",
+                    "text_block": {
+                      "text": "Heta Timonen",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "230",
+                    "text_block": {
+                      "text": "Keskin\u00e4inen El\u00e4kevakuutusyhti\u00f6 Ilmarinen",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "231",
+                    "text_block": {
+                      "text": "Mittaviiva Oy (RT 10-11222, RT 10-11223, RT 10-11224,",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "232",
+                    "text_block": {
+                      "text": "RT 10-11225, RT 10-11226)",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "233",
+                    "text_block": {
+                      "text": "Helsingin yliopisto, tila- ja kiinteist\u00f6keskus",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "234",
+                    "text_block": {
+                      "text": "Helsingin kaupunki, tilakeskus",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "235",
+                    "text_block": {
+                      "text": "NCC Rakennus Oy",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "236",
+                    "text_block": {
+                      "text": "Keskin\u00e4inen El\u00e4kevakuutusyhti\u00f6 Varma",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "237",
+                    "text_block": {
+                      "text": "Mittaviiva Oy (RT 10-11222, RT 10-11223, RT 10-11224, RT 10-11225, RT 10-11226) Rakennustieto Oy, sihteeri",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  },
+                  {
+                    "block_id": "238",
+                    "text_block": {
+                      "text": "Ohjekorttien RT 10-11222, RT 10-11223, RT 10-11224, RT 10-11225 ja RT 10- 11226) kokoavana k\u00e4sikirjoittajana on toiminut Satu Sahlstedt/Mittaviiva Oy. Ohjekortin RT 10-11255 k\u00e4sikirjoituksen on laatinut Juha-Matti Junnonen.",
+                      "type_": "paragraph",
+                      "blocks": []
+                    },
+                    "page_span": {
+                      "page_start": 4,
+                      "page_end": 4
+                    }
+                  }
+                ]
+              },
+              "page_span": {
+                "page_start": 4,
+                "page_end": 4
+              }
+            }
+          ]
+        },
+        "page_span": {
+          "page_start": 1,
+          "page_end": 1
+        }
+      }
+    ]
+  },
+  "mime_type": "",
+  "text": "",
+  "text_styles": [],
+  "pages": [],
+  "entities": [],
+  "entity_relations": [],
+  "text_changes": [],
+  "revisions": []
+}

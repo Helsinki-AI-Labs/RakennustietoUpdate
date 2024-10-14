@@ -1,0 +1,19 @@
+{
+    "name": "projects/598830788336/locations/eu/processors/fdb42a657529a95a",
+    "type": "LAYOUT_PARSER_PROCESSOR",
+    "displayName": "Extract structure",
+    "state": "ENABLED",
+    "processEndpoint": "https://eu-documentai.googleapis.com/v1/projects/598830788336/locations/eu/processors/fdb42a657529a95a:process",
+    "createTime": "2024-10-14T08:08:53.039213Z",
+    "defaultProcessorVersion": "projects/598830788336/locations/eu/processors/fdb42a657529a95a/processorVersions/pretrained-layout-parser-v1.0-2024-06-03",
+    "processorVersionAliases": [
+        {
+            "alias": "projects/598830788336/locations/eu/processors/fdb42a657529a95a/processorVersions/rc",
+            "processorVersion": "projects/598830788336/locations/eu/processors/fdb42a657529a95a/processorVersions/pretrained-layout-parser-v1.0-2024-06-03"
+        },
+        {
+            "alias": "projects/598830788336/locations/eu/processors/fdb42a657529a95a/processorVersions/stable",
+            "processorVersion": "projects/598830788336/locations/eu/processors/fdb42a657529a95a/processorVersions/pretrained-layout-parser-v1.0-2024-06-03"
+        }
+    ]
+}

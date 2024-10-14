@@ -2,3 +2,6 @@ openai
 python-dotenv
 unstructured-client
 google-api-core
+google-cloud-documentai
+google-cloud-storage
+google-cloud-documentai-toolbox
