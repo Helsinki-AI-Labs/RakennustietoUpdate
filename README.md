@@ -1,4 +1,4 @@
-This repo contains multiple scripts the complete the entire task of identifying needs to to change existing construction cards due to a new law.
+This repo contains multiple scripts that together complete the entire task of identifying needs to to change existing construction cards due to a new law.
 
 The steps are as follows:
 
@@ -14,7 +14,7 @@ The steps are as follows:
 4. Run LLM on sections and create a text output per pdf
    main.py
 
-# Initializing scripts
+# Dev setup
 
 Developed with Python 3.10
 

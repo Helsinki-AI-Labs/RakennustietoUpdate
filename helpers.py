@@ -56,13 +56,46 @@ def load_state() -> Dict[str, Any]:
 def update_state(file: str, data: Dict[str, Any]) -> None:
     """Update the state with the provided data for a given key."""
     try:
-        # Remove file extension if present
-        file = file.rsplit(".", 1)[0] if "." in file else file
+        filename = os.path.basename(file)
+        filename = filename.rsplit(".", 1)[0] if "." in filename else filename
 
         state: Dict[str, Any] = load_state()
-        state.setdefault(file, {})
-        state[file].update(data)
+        state.setdefault(filename, {})
+        state[filename].update(data)
         with open(STATE_FILE, "w") as f:
             json.dump(state, f, indent=4)
     except Exception as e:
-        print(f"Error updating state for {file}: {e}")
+        print(f"Error updating state for {filename}: {e}")
+
+
+def get_section_id(file_path: str, section_index: int) -> str:
+    """
+    Generates a section ID by removing the path and extension from the filename
+    and appending the section index.
+
+    Args:
+        file_path (str): The path to the file or the filename.
+        section_index (int): The index of the section.
+
+    Returns:
+        str: The section ID in the format 'filename-index'.
+    """
+    filename = os.path.basename(file_path)
+    name, _ = os.path.splitext(filename)
+    return f"{name}-{section_index}"
+
+
+def combine_title_content(section: dict) -> str:
+    """
+    Combines the title and content of a section into a single string.
+
+    Args:
+        section (dict): The section dictionary containing title and content.
+
+    Returns:
+        str: The combined title and content.
+    """
+    title = section.get("title", "").strip()
+    content = section.get("content", [])
+    combined_content = f"{title}\n\n\n" + "\n".join(content)
+    return combined_content

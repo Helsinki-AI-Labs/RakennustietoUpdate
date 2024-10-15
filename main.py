@@ -1,9 +1,21 @@
-import os
 import json
-from dotenv import load_dotenv
-from openai import OpenAI
-from prompt import create_prompt
 from typing import List, TypedDict
+
+from llm import (
+    OpenAI,
+    create_batch_job,
+    poll_batch_status,
+    prepare_batch_input,
+    retrieve_batch_results,
+    upload_batch_file,
+)
+from helpers import (
+    check_args_and_env_vars,
+)
+from storage import (
+    download_file,
+    list_files_in_dir,
+)
 
 
 class Section(TypedDict):
@@ -18,73 +30,108 @@ class Completion(TypedDict):
     output: str
 
 
-load_dotenv()
+with open("new-construction-law.txt", "r", encoding="utf-8") as file:
+    law_text = file.read()
 
-api_key = os.getenv("OPENAI_API_KEY")
-
-client = OpenAI(api_key=api_key)
-
-
-def run_prompt(
-    new_law_part: str, combined_content: str, output_file: str, identifier: str
-) -> None:
-    prompt = create_prompt(new_law_part, combined_content)
-
-    completion = client.chat.completions.create(
-        model="gpt-4o-2024-08-06",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.0,
-    )
-
-    with open(output_file, "a", encoding="utf-8") as f:
-        f.write("\n\n====================================\n\n")
-        f.write(f"\nTEXT SECTION:\n{combined_content}\n\nSUGGESTED CHANGES:\n")
-        content = completion.choices[0].message.content
-        print(content)
-        f.write(content)
-
-    print(f"Analysis complete for {identifier}. Output saved to {output_file}")
-
-
-def combine_title_content(section: dict) -> str:
-    title = section.get("title", "").strip()
-    content = section.get("content", [])
-    combined_content = f"{title}\n\n\n" + "\n".join(content)
-    return combined_content
+if not law_text:
+    raise ValueError("new-construction-law.txt is empty")
 
 
 def main() -> None:
+    """
+    Main function to process sections using OpenAI's Batch API and upload analysis to the storage bucket.
+    """
+    # Load environment variables and command-line arguments
+    config = check_args_and_env_vars(
+        required_env_vars=[
+            "OPENAI_API_KEY",
+            "BUCKET_NAME",
+            "SECTIONS_JSON_DIR",
+            "ANALYSIS_DIR",
+            "COMPLETIONS_FILE",  # Path to save completions
+        ],
+    )
+
+    api_key: str = config["OPENAI_API_KEY"]
+    bucket_name = config["BUCKET_NAME"]
+    json_sections_dir = config["SECTIONS_JSON_DIR"]
+    completions_file = config["COMPLETIONS_FILE"]
+
+    client = OpenAI(api_key=api_key)
+
     with open("new-construction-law.txt", "r", encoding="utf-8") as file:
         new_construction_law: str = file.read()
 
-    output_dir = "./results"
-    os.makedirs(output_dir, exist_ok=True)
+    if not new_construction_law:
+        raise ValueError("new-construction-law.txt is empty")
 
-    folder_path = "sections_json"
+    section_filenames = list_files_in_dir(
+        bucket_name=bucket_name,
+        prefix=json_sections_dir,
+    )
 
-    for filename in os.listdir(folder_path):
+    for filename in section_filenames:
         if not filename.endswith(".json"):
             continue
 
-        input_file_path = os.path.join(folder_path, filename)
-        with open(input_file_path, "r", encoding="utf-8") as file:
-            try:
-                sections = json.load(file)
-            except json.JSONDecodeError as e:
-                print(f"Error decoding JSON from {filename}: {e}")
-                continue
+        source_blob_name: str = filename  # Using the filename directly
 
-        output_file = os.path.join(
-            output_dir, f"analysis_{os.path.splitext(filename)[0]}.txt"
-        )
-        with open(output_file, "w", encoding="utf-8") as f:
-            f.write(f"Source File: {filename}\n")
+        sections_contents = download_file(bucket_name, source_blob_name)
 
-        for index, section in enumerate(sections, start=1):
-            combined_content = combine_title_content(section)
-            identifier = f"{filename} - Section {index}"
-            print(f"\n\nProcessing {identifier} with new-construction-law.txt:")
-            run_prompt(new_construction_law, combined_content, output_file, identifier)
+        try:
+            sections: List[Section] = json.loads(sections_contents)
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON from {filename}: {e}")
+            continue
+
+        # Prepare batch input file
+        batch_input_path = prepare_batch_input(sections, filename)
+
+        # Upload batch input file
+        batch_input_file_id = upload_batch_file(client, batch_input_path)
+
+        # Create batch job
+        batch_id = create_batch_job(client, batch_input_file_id)
+
+        print(f"Batch job {batch_id} created. Waiting for completion...")
+
+        # Poll for batch status
+        batch = poll_batch_status(client, batch_id)
+
+        if batch.status != "completed":
+            print(
+                f"Batch job {batch_id} did not complete successfully. Status: {batch.status}"
+            )
+            continue
+
+        # Retrieve batch results
+        output_file_id = batch.output_file_id
+        if not output_file_id:
+            print(f"No output file for batch job {batch_id}.")
+            continue
+
+        results = retrieve_batch_results(client, output_file_id)
+
+        # save results to local file
+        with open(f"{output_file_id}.json", "w", encoding="utf-8") as file:
+            json.dump(results, file, indent=4)
+
+        # # Process results
+        # analysis_content = process_batch_results(results, filename)
+
+        # destination_blob_name: str = (
+        #     f"analysis/{os.path.splitext(basename(filename))[0]}.txt"
+        # )
+
+        # upload_file_to_bucket(
+        #     bucket_name=bucket_name,
+        #     destination_blob_name=destination_blob_name,
+        #     file_contents=analysis_content,
+        # )
+        # print(f"Analysis complete for {filename}. Uploaded to {destination_blob_name}")
+
+        # current_time = datetime.now(timezone.utc).isoformat()
+        # update_state(filename, {"analysedAt": current_time})
 
 
 if __name__ == "__main__":
