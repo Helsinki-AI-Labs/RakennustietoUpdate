@@ -10,8 +10,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "2": {
             "responses": [
@@ -23,8 +24,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "3": {
             "responses": [
@@ -36,8 +38,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "4": {
             "responses": [
@@ -49,8 +52,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "5": {
             "responses": [
@@ -62,6 +66,7 @@
                 "####\n\na. Otsikko:\n1.2 Toteutusmuodot\n\nb. Nykyinen sisältö:\nOhjekortissa käydään läpi rakennushankkeeseen liittyviä keskeisiä tehtävänimikkeitä. Hankkeen eri osapuolet on jaettu otsikoiden rakennuttaminen, suunnittelu, toteutus ja viranomaiset alle. Tässä ohjekortissa rakennushankkeeseen ryhtyvästä, tilaajasta ja rakennuttajasta käytetään termiä rakennuttaja.\nOhjeen laadinnassa käytetyt keskeiset lähteet ovat\n• Maankäyttö- ja rakennuslaki 132/1999 (RT YM1-21667, KΚΗ YM-10734, LVI YM-00577)\n• Maankäyttö- ja rakennusasetus 895/1999 (RTYM1-21727, ΚΗ YM-10772, LVI YM-00605)\nValtioneuvoston asetus rakennustyön turvallisuudesta 205/2009 (RT STM-21419, KH STM-10548, LVI STM-00414) RT 10-11105 Tehtäväluettelot. Käyttöohje KO12. (KH X4- 00512, LVI 03-10516)\nRT 10-11108 Pääsuunnittelun tehtäväluettelo PS12. (ΚΗ Χ4- 00515, LVI 03-10519)\nRT 10-11109 Arkkitehtisuunnittelun tehtäväluettelo ARK12. (ΚΗ X4-00516, LVI 03-10520).\n\nc. Päivitystarve:\nUusi rakentamislaki (Rakentamislaki) on tullut voimaan ja korvaa aiemman maankäyttö- ja rakennuslain (132/1999) sekä siihen liittyvät asetukset. Ohjekortin lähteet ja viittaukset tulee päivittää vastaamaan uutta lainsäädäntöä.\n\nd. Viittaus uuteen lakiin:\nRakentamislaki, erityisesti 1 § Lain soveltamisala ja 193 § Voimaantulo\n\n####"
             ],
             "empty_responses_count": 3,
+            "non_empty_responses_count": 3,
             "is_consistent": false,
             "is_semi_consistent": false
         },
@@ -75,8 +80,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "7": {
             "responses": [
@@ -88,8 +94,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "8": {
             "responses": [
@@ -101,8 +108,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "9": {
             "responses": [
@@ -114,8 +122,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "10": {
             "responses": [
@@ -127,8 +136,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "11": {
             "responses": [
@@ -140,6 +150,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 5,
+            "non_empty_responses_count": 1,
             "is_consistent": false,
             "is_semi_consistent": true
         },
@@ -153,6 +164,7 @@
                 "####\n\na. Otsikko:\nRT 11-10781 Luvan hakeminen rakentamiseen. (KH 90-00324, LVI 03-10352)\n\nb. Nykyinen sisältö:\nRT 11-10781 Luvan hakeminen rakentamiseen. (KH 90-00324, LVI 03-10352)\n\nc. Päivitystarve:\nUuden lain mukaan rakentamislupahakemukseen on liitettävä useita uusia selvityksiä, kuten energiaselvitys, ilmastoselvitys ja materiaaliseloste. Lisäksi hakemuksen on sisällettävä tietomallimuotoiset suunnitelmat. Nämä vaatimukset eivät ole mukana vanhassa ohjeessa, joten se on päivitettävä vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n61 § Rakentamislupahakemus\n\n####\n\na. Otsikko:\nRT 16-11121 Talonrakennustyön työmaavalvonnan tehtäväluettelo. (ΚΗ Χ4-00528, LVI 03-10530)\n\nb. Nykyinen sisältö:\nRT 16-11121 Talonrakennustyön työmaavalvonnan tehtäväluettelo. (ΚΗ Χ4-00528, LVI 03-10530)\n\nc. Päivitystarve:\nUuden lain mukaan rakennustyön tarkastusasiakirjaan on merkittävä myös perusteltu huomautus, jos rakennustyössä poiketaan rakentamista koskevista säännöksistä. Tämä vaatimus ei ole mukana vanhassa ohjeessa, joten se on päivitettävä vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n118 § Rakennustyön tarkastusasiakirja\n\n####\n\na. Otsikko:\nRT 10-11255 Talonrakennushankkeen kulku. Riskien- ja laadunhal- linta. (KH 90-00630, LVI 03-10602)\n\nb. Nykyinen sisältö:\nRT 10-11255 Talonrakennushankkeen kulku. Riskien- ja laadunhal- linta. (KH 90-00630, LVI 03-10602)\n\nc. Päivitystarve:\nUuden lain mukaan rakentamishankkeeseen ryhtyvän on laadittava erillinen laadunvarmistusselvitys, jos hanke on poikkeuksellisen tai erittäin vaativa. Tämä vaatimus ei ole mukana vanhassa ohjeessa, joten se on päivitettävä vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n111 § Laadunvarmistusselvitys\n\n####\n\na. Otsikko:\nRT 13-10860 Suunnittelun johtaminen rakennushankkeessa. (KH X4-00374, LVI 03-10396)\n\nb. Nykyinen sisältö:\nRT 13-10860 Suunnittelun johtaminen rakennushankkeessa. (KH X4-00374, LVI 03-10396)\n\nc. Päivitystarve:\nUuden lain mukaan pääsuunnittelijan on huolehdittava siitä, että rakennuksen käyttö- ja huolto-ohje laaditaan konekielisesti luettavassa muodossa. Tämä vaatimus ei ole mukana vanhassa ohjeessa, joten se on päivitettävä vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n139 § Rakennuksen käyttö- ja huolto-ohje\n\n####\n\na. Otsikko:\nRT 16-10660 Rakennusurakan yleiset sopimusehdot YSE 1998. (ΚΗ 20-00241, LVI 03-10277)\n\nb. Nykyinen sisältö:\nRT 16-10660 Rakennusurakan yleiset sopimusehdot YSE 1998. (ΚΗ 20-00241, LVI 03-10277)\n\nc. Päivitystarve:\nUuden lain mukaan rakennustuotteen on oltava sellainen, että se täyttää olennaiset tekniset vaatimukset tavanomaisella tavalla kunnossapidettynä taloudellisesti perustellun käyttöiän ajan. Tämä vaatimus ei ole mukana vanhassa ohjeessa, joten se on päivitettävä vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n121 § Rakennustuotteen ominaisuudet"
             ],
             "empty_responses_count": 3,
+            "non_empty_responses_count": 3,
             "is_consistent": false,
             "is_semi_consistent": false
         },
@@ -166,8 +178,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         }
     },
     "RT-103170.json": {
@@ -181,8 +194,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "2": {
             "responses": [
@@ -193,9 +207,10 @@
                 "Ei päivitettävää.",
                 "####\n\na. Otsikko:\n6 ILMASTONMUUTOKSEN HILLITSEMINEN RAKENNUSSUUNNITTELUSSA\n\nb. Nykyinen sisältö:\nIlmastonmuutoksen hillitseminen rakennussuunnittelussa keskittyy energiatehokkuuden parantamiseen ja uusiutuvien energialähteiden käyttöön. Rakennusten suunnittelussa tulee ottaa huomioon energiatehokkuus ja pyrkiä vähentämään rakennuksen käytön aikaisia päästöjä. Uusiutuvien energialähteiden, kuten aurinko- ja tuulienergian, hyödyntäminen on keskeistä.\n\nc. Päivitystarve:\nUuden lain 37 §:n mukaan rakennukset on suunniteltava ja rakennettava lähes nollaenergiarakennuksiksi, ja energiatehokkuutta on parannettava korjaus- ja muutostöiden yhteydessä, jos se on teknisesti, toiminnallisesti ja taloudellisesti toteutettavissa. Tämä vaatimus tulee lisätä ohjeisiin.\n\nd. Viittaus uuteen lakiin:\n37 § Energiatehokkuus\n\n####\n\na. Otsikko:\n8 ILMASTONMUUTOKSEEN SOPEUTUMINEN RAKENNUSSUUNNITTELUSSA\n\nb. Nykyinen sisältö:\nIlmastonmuutokseen sopeutuminen rakennussuunnittelussa tarkoittaa sään ääri-ilmiöihin varautumista, kuten rankkasateiden ja helleaaltojen vaikutusten minimointia. Rakennusten suunnittelussa tulee huomioida esimerkiksi viherkattojen ja sadevesien luonnonmukaisen käsittelyn mahdollisuudet.\n\nc. Päivitystarve:\nUuden lain 36 §:n mukaan rakennuksen ja sen piha- ja oleskelualueiden melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa. Tämä vaatimus tulee lisätä ohjeisiin, sillä se liittyy myös ilmastonmuutokseen sopeutumiseen.\n\nd. Viittaus uuteen lakiin:\n36 § Meluntorjunta ja ääniolosuhteet\n\n####"
             ],
-            "empty_responses_count": 2,
+            "empty_responses_count": 1,
+            "non_empty_responses_count": 5,
             "is_consistent": false,
-            "is_semi_consistent": false
+            "is_semi_consistent": true
         },
         "3": {
             "responses": [
@@ -207,8 +222,9 @@
                 "####\n\na. Otsikko:\n5 ILMASTONMUUTOKSEN HILLITSEMINEN MAANKÄYTÖNSUUNNITTELUSSA\n\nb. Nykyinen sisältö:\nMaakunta- ja yleiskaavatasolla ilmastovaikutuksiltaan tärkeimmät osa-alueet ovat yhdyskuntarakenne, liikenne, energiaratkaisut ja viherrakenne (hiilivarasto, hiilensidonta). Aluetta tulee tarkastella kokonaisuutena ja arvioida eri tekijöiden vaikutuksia sen hiilijalanjälkeen.\nYksittäiset asemakaavat täydentävät ja täsmentävät yleiskaavan ilmastotavoitteita. Kaavamääräykset ja tontinluovutusehdot ohjaavat energiatehokkuutta, uusiutuvien energiamuotojen hyödyntämistä ja materiaalivalintoja ilmastoviisaasti. Korttelitypologian sekä yksittäisten rakennusten muodon ja suuntauksen vaikutus aurinkoenergian hyödyntämismahdollisuuksiin, aurinkosuojaukseen ja pienilmastoon otetaan huomioon. Liikenteen päästöjä vähennetään mahdollistamalla monipuoliset lähipalvelut sekä toimivat ja käyttäjiä houkuttelevat julkinen liikenne sekä pyörä- ja kävelyliikenteen yhteydet.\nToimivan yhdyskuntarakenteen suunnittelu ja toteutuminen edellyttää eri suunnittelualojen ja muiden asiantuntijoiden (palvelut, ekologia, liikenne, rakentaminen) sekä tulevien käyttäjien tiivistä yhteistyötä, johdonmukaista toteuttamista ja oikeaa toteutusjärjestystä. Julkisen liikenteen palveluiden aloittaminen heti ensimmäisten asuntojen valmistuessa edistää sen tehokasta käyttöön ottoa. Myös väliaikainen kauppa voidaan toteuttaa alueen rakentamisvaiheessa. Tuulensuojaistutukset on suositeltavaa istuttaa jo vuosia ennen alueen rakentamista. Yleis- ja asemakaavatason suunnittelu nivoutuvat toisiinsa, siksi ne käsitellään seuraavassa yhdessä. Eri muuttujien vaikutuksia alue- ja kaavatasolla on vertailtu taulukossa 2.\nTaulukko 2. Eri muuttujien vaikuttavuusaste ilmastoon yleis- ja asemakaavatasoilla.\n\nc. Päivitystarve:\nUuden lain 38 §:n mukaan rakennuksen hiilijalanjälki ja hiilikädenjälki on raportoitava rakentamislupaa varten tehtävässä ilmastoselvityksessä. Tämä vaatimus tulee lisätä osaksi maankäytönsuunnittelua ja kaavoitusta koskevia ohjeita.\n\nd. Viittaus uuteen lakiin:\n38 § Rakennuksen vähähiilisyys\n\n####\n\na. Otsikko:\n5.2 Pienilmaston vaikutus energiankulutukseen\n\nb. Nykyinen sisältö:\nPienilmasto vaikuttaa rakennusten energiankulutukseen. Sijoittamalla rakentaminen paikallisilmastoltaan edulliseen paikkaan voidaan vähentää lämmityksestä ja jäähdytyksestä aiheutuvaa energiankulutusta ja päästöjä. Rakennusten energiatehokkuuden ja tiiveyden parantumisen myötä pienilmaston vaikutus lämmitykseen on pienentynyt. Saman aikaisesti kesien lämpeneminen ja ikkunakoon kasvu ovat lisänneet sisätilojen ylikuumenemisen riskiä. Kasvillisuudella ja muulla passiivisella aurinkosuojauksella voidaan pienentää jäähdytystarvetta (RT 07-11300 Aurinkosuojaus).\nMaaston muodot, maaperä, ympäröivä kasvillisuus, vesiolosuhteet sekä rakennusten tyyppi, muoto ja suhde toisiinsa vaikuttavat pienilmastoon. Rakennusten sijoittelun ja kasvillisuuden avulla voidaan luoda pihapiiriin miellyttävä pienilmasto. Kaupungeissa kasvillisuudella on huomattava viilentävä vaikutus, ja se lieventää lämpösaarekeilmiötä.\n\nc. Päivitystarve:\nUuden lain 36 §:n mukaan rakennuksen ja sen piha- ja oleskelualueiden melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa. Tämä vaatimus tulee huomioida pienilmaston suunnittelussa.\n\nd. Viittaus uuteen lakiin:\n36 § Meluntorjunta ja ääniolosuhteet\n\n####\n\na. Otsikko:\n5.3 Maarakentaminen\n\nb. Nykyinen sisältö:\nMaan stabilointi, maamassojen siirto sekä paalutus lisäävät rakentamisen hiilijalanjälkeä. Perustamisen osuus voi 50 vuoden tarkastelussa olla suurempi kuin passiivikerrostalon lämmityksen. Maamassojen paikallinen hyödyntäminen vähentää kuljetuksista aiheutuvia päästöjä. Soveltuvissa kohteissa puupaalutus sekä muovittomat maarakenteet pienentävät hiilijalanjälkeä. Kevyemmät runkomateriaalit sallivat yleensä keveämpää perustamista raskaampiin runkomateriaaleihin verrattuna.\n\nc. Päivitystarve:\nUuden lain 39 §:n mukaan rakentamishankkeeseen ryhtyvän on huolehdittava, että rakennus suunnitellaan ja rakennetaan elinkaariominaisuuksiltaan ekologiseksi. Tämä vaatimus tulee sisällyttää maarakentamista koskeviin ohjeisiin.\n\nd. Viittaus uuteen lakiin:\n39 § Rakennuksen elinkaariominaisuudet"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "4": {
             "responses": [
@@ -220,8 +236,9 @@
                 "####\n\na. Otsikko:\n5.4 Täydennysrakentaminen\n\nb. Nykyinen sisältö:\nOlemassa olevan yhdyskuntarakenteen täydentäminen tehostaa alueiden käyttöä. Suurempi asukasmäärä parantaa palveluiden ja joukkoliikenteen toimintaedellytyksiä. Samalla uuden katuverkoston ja muun kunnallistekniikan rakentamisen tarve vähenee. Tämä pienentää päästöjä ja kustannuksia. Kaupunkia ei tulisi kuitenkaan täydentää viihtyisyyden ja kaupunkivihreän kustannuksella, jolloin luonnon tarjoamat ekosysteemipalvelut menetetään.\nTäydennysrakentamista voidaan toteuttaa erillisillä rakennuksilla tai jatkamalla tai korottamalla olemassa olevia rakennuksia. Myös asuinkerrostalojen maantaso- ja ullakkokerrokset voidaan ottaa tehokkaammin käyttöön. Yhdyskuntarakenteellisista, rakennusteknisistä tai terveydellisistä syistä voidaan joskus päätyä rakennusten tai niiden osien purkamiseen.\nOlemassa olevilla asuinalueilla asemakaavan muutoksella, korjauskaavalla tai rakentamistapaohjeilla voidaan varmistaa alueen yhtenäinen ilme energiatehokkuuden parantamisen ja uusiutuviin energiamuotoihin siirtymisen yhteydessä vaikka muutokset tehtäisiin eriaikaisesti ja eri toimijoiden toimesta.\n\nc. Päivitystarve:\nUuden lain 38 §:n mukaan rakennuksen hiilijalanjälki ja hiilikädenjälki on raportoitava rakentamislupaa varten tehtävässä ilmastoselvityksessä. Täydennysrakentamisen osalta on huomioitava, että rakennusten elinkaaren hiilijalanjälki ja hiilikädenjälki tulee arvioida ja raportoida, mikäli kyseessä on uusi rakennus tai laajamittaisesti korjattava rakennus.\n\nd. Viittaus uuteen lakiin:\n38 § Rakennuksen vähähiilisyys\n\n####\n\na. Otsikko:\n5.5 Tilankäytön tehostaminen\n\nb. Nykyinen sisältö:\nUudisrakentaminen aiheuttaa huomattavat kertaluontoiset päästöt, ns. hiilipiikin (ks. kuva 15). Uudisrakentamisen tarvetta voidaan vähentää olemassa olevien vajaakäyttöisen tilojen käytön tehostamisella tai eri toimintojen yhdistämisellä. Esimerkiksi Espoon Otaniemessä yliopiston tilat palvelevat myös alueen lukion luokkatiloina, jolloin erillistä koulurakennusta ei tarvita. Samoin esimerkiksi päiväkotien ja koulujen ilta-, viikonloppu- ja kesäkäyttö nostavat niiden käyttöastetta ja vähentävät erillisten liikunta- ja harrastetilojen tarvetta.\nKaavoituksessa kartoitetaan vajaakäyttöiset tilat sekä tutkitaan eri toimintojen yhteiskäytön mahdollisuuksia ja rakennusten muokattavuus niiden elinkaaren pidentämiseksi.\n\nc. Päivitystarve:\nUuden lain 39 §:n mukaan rakennuksen elinkaariominaisuuksiltaan ekologiseksi suunnitteleminen on tärkeää, ja rakennukselle on laadittava materiaaliseloste. Tilankäytön tehostamisen yhteydessä on huomioitava, että rakennusten muokattavuus ja elinkaaren pidentäminen tulee suunnitella siten, että ne tukevat ekologisia elinkaariominaisuuksia ja materiaaliselosteet ovat ajan tasalla.\n\nd. Viittaus uuteen lakiin:\n39 § Rakennuksen elinkaariominaisuudet\n\n####\n\na. Otsikko:\n5.6 Kestävä liikkuminen\n\nb. Nykyinen sisältö:\nLiikenne aiheuttaa viidenneksen Suomen kasvihuonekaasupäästöistä. Kotimaan liikenteen hiilidioksidipäästöistä 94% syntyy tieliikenteessä, 4% vesiliikenteessä, vajaat 2% lentoliikenteessä ja noin 0,5% rautatieliikenteessä. Tieliikenteen päästöistä kolme neljäsosaa syntyy henkilöautoliikenteestä. Asukasta kohden lasketut liikenteen päästöt ovat Suomessa korkeat. Syynä tähän ovat hajanainen asutus ja tieliikenteen suuri osuus rahtikuljetuksista.\nKaupungeissa sähköllä toimiva joukkoliikenne on vähäpäästöisin liikkumismuoto kävelyn ja pyöräilyn jälkeen. Ilmastosyiden lisäksi tilantarve pakottaa muutoksiin liikennesuunnittelussa: yksityisautoille ei ole tilaa tiivistyvässä kaupungissa. Haja-asutusalueilla vihreällä sähköllä tai biokaasulla toimivat autot ovat vähäpäästöisiä vaihtoehtoja.\nKaavoitus vaikuttaa liikkumisen tarpeeseen ja muotoon. Eheä ja tiivis yhdyskuntarakenne lyhentää yksittäisten matkasuoritteiden pituutta, lisää joukkoliikenteen kannattavuutta ja parantaa pyörä- ja jalankulkuliikenteen houkuttelevuutta. Toimintojen saavutettavuus kävellen, pyörällä tai julkisella liikenteellä on kestävän liikkumisen perusta. Hajaantuva yhdyskuntarakenne lisää liikenteen päästöjä.\nKestävässä liikkumisessa valitaan tilanteeseen sopivin kulkumuoto tai matkaketju (esimerkiksi polkupyörä + juna + kaupunkipyörä). Erilaiset älysovellukset (esimerkiksi reitin- ja matkustusvälineiden valinta) tukevat kestävää liikkumista.\nSähköllä liikkuvat kulkuneuvot eivät aiheuta liikenteessä päästöjä. Niiden välilliset päästöt ovat riippuvaisia käytetyn sähkön ominaisuuksista. Akkujen valmistamisen päästöt lisäävät sähköautojen elinkaaripäästöjä.\nYleiskaavoituksessa kestävää liikkumista edistäviä toimia: suosi kaupungeissa tiivistä keskustaa sekä lähikauppoja ja -palveluja vältä keskustan ulkopuolisia kauppakeskuksia pyri sijoittamaan uudet asuinalueet raideliikenteen varrelle, säilyttäen kuitenkin miellyttävä mittakaava kävelijöille vahvista joukkoliikenteen yhteyksiä ja käytäviä\n• toteuta alueita, joissa arkiliikkuminen kävellen ja pyörällä on helppoa ja turvallista yhdistä jalankulku ja pyöräily viherverkostoon toteuta mahdollisimman monipuolinen ja kattava matkaketjujen verkosto tutki toimintojen sijoittelun vaikutusta liikennetarpeeseen eri mittakaavoissa sekä eri kulkuneuvo- ja väestöryhmien näkökulmasta.\nAsemakaavoituksessa kestävää liikkumista edistäviä toimia: tue toimenpiteitä, jotka vähentävät autojen määrää varmista miellyttävä ja turvallinen vaihto joukkoliikenteen risteyskohdissa sijoita säältä ja ilkivallalta suojaavia parkkipaikkoja polkupyörille joukkoliikenteen asemien sekä eri palveluiden yhteyteen sijoita taajamissa asunnot enintään 300 metrin etäisyydelle joukkoliikenteen pysäkistä ja varmista miellyttävä säältäsuojaava kulku asuntoihin sijoita autopaikat keskitetysti asuinalueen reunoille\n• pienennä autopaikkanormeja paikoissa, joissa auton tarve on vähäistä ja irrota autopaikan kustannukset asuntojen hinnoista ennakoi autopaikkojen ottaminen muuhun käyttöön.\nAuto, keskim., bensa Auto, uusi, bensa Auto, hybridi Auto, maakaasu Auto, lataushybridi Auto, tavallinen, sähkö Bussi, diesel Auto, etanoli (E85) Auto, biokaasu Auto, vihreä sähkö Bussi, sähkö Ratikka, vihreä sähkö Paikallisjuna Polkupyörä Kävelijä 0 50 100 150 200 250 Kuva 10. Esimerkkejä eri liikennemuotojen ja -välineiden käytöstä aiheutuvista hiilidioksidipäästöstä kaupunkiliikenteessä suhteessa henkilökilometreihin (keskimääräiseen matkustajamäärään). Päästöissä ovat mukana sekä kulkuneuvojen valmistusvaihe (sininen) että käytöstä aiheutuvat päästöt (punainen). Sähköntuotannon päästöjen pienentyessä (taulukko 4) sähköllä liikkuvien kulkuneuvojen päästöt vähenevät.\nTaulukko 3. Esimerkkejä eri liikennemuotojen syöttötehokkuudesta tunnissa 3,5 metriä leveällä kaistalla.\nKulkuneuvo henkilöauto linja-auto polkupyörä kävely pikaraitiotie Henkeä/3,5 m kaista /h 2 000 9 000 14 000 19 000 22 000 TIKKURILAN KIRJAKAUPPA NIRJAX UPPA Kuva 11. Yhden henkilöauton tarvitsemaan parkkiruutuun mahtuu 10 polkupyörää. kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin. SKN/1/tammikuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020 saa kopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin. Kävely tulee tehdä kaupungissa miellyttäväksi vanhojen kaupunkikeskustojen tapaan. Kävelyä liikkumismuotona edistäviä toimia: • täydennä kaupunkirakennetta siten, että asuminen, työ, virkistys ja palvelut sijaitsevat kävelyetäisyydellä toisistaan lisää kävely-ympäristön kiinnostavuutta lisää kävely-ympäristön turvallisuutta, erityisesti päiväkotien ja koulujen läheisyydessä lisää kävely-ympäristön miellyttävyyttä esimerkiksi tuulisuutta vähentävän kasvillisuuden ja sadesuojien avulla suunnitte kävelytiet niin, etteivät hulevedet tulvi niille tai autojen roiskevedet osu jalankulkijoihin huomioi liikuntarajoitteiset henkilöt välttämällä esimerkiksi liian jyrkkiä nousuja, käsijohteita sijoittamalla ja varaamalla penkkejä levähtämistä varten. Polkupyöräily on päästötön ja nopea liikennemuoto. Taajamissa se on alle 7 kilometrin matkoilla autoa nopeampi vaihtoehto. Pyöräliikenne vie kaupungissa vähän tilaa ja pyöräliikennever- koston rakentaminen on edullista. Pyöräily lisää terveyttä, ja näin sillä on myönteinen vaikutus kansanterveyteen ja -talou- teen. Helsingin kaupungin laskelmien mukaan yksi pyöräilyyn sijoitettu euro säästää 8 euroa muista kuluista. Pyöräilyä liikkumismuotona edistäviä toimia: luo yhtenäisiä, kattavia, turvallisia ja sujuvia pyöräreittejä, jotka viheralueisiin kytkettyinä ovat miellyttäviä ja houkut- televia ja joilla kasvillisuus antaa tuulensuojaa • varaa pyöräilylle riittävästi katutilaa ja erota se muusta liiken- teestä, myös jalankulusta • rajoita muun ajoneuvoliikenteen vauhti pyöräilyn mukaan niillä osuuksilla, joilla liikennemuodot käyttävät samaa kaistaa järjestä turvallisia varkauksilta, ilkivallalta ja säältä suojaavia pyöräparkkeja, joihin pyörän voi lukita varmista turvalliset reitit kouluihin, päiväkoteihin ja harras- tuspaikkoihin luo hyvät pyöränsäilytyspaikat ja mahdollisuus peseytymi- seen ja vaatteiden vaihtamiseen työpaikoilla • varmista asuintaloissa riittävien säilytystilojen lisäksi paikka pyörien pesemiseen ja huoltamiseen. Kaupungeissa pyörä- ja joukkoliikenne suunnitellaan täyden- tämään toisiaan. Pyörien säilytysmahdollisuus asemilla sekä kaupunkipyörien käyttö lisäävät matkaketjun sujuvuutta. Nopean pyöräilyn valtaväylät, kuten useiden kaupunkien baanaverkostot, sekä sähköpyörien yleistyminen lisäävät pyö- räilyn toimintasädettä. Lisäksi tulee toteutetaan erillisiä reitte- jä virkistyskäyttöön, nopeaan työmatkaliikenteeseen jne. Eri pyörä- ja pyöräilijäryhmien (sähköpyörät ja -potkulaudat sekä nopeat ja hitaat pyöräilijä) nopeuserot tulee huomioida väyläs- tön suunnittelussa esimerkiksi varaamalla tilaa ohittamiseen, erillisille kaistoille ja väylille jne. Joukkoliikenteen verkoston on oltava kattava, ja sille on mitoi- tettava riittävästi tilaa. Joukkoliikenne on houkuttelevampaa, kun se on nopeuden lisäksi vaivaton ja miellyttävä käyttää. Vaihtojen kulkuneuvosta toiseen tulee sujua turvallisesti, hel- posti ja mielellään säältä suojassa. Joukkoliikenteen houkuttelevuutta parantavia toimia: paranna palvelutasoa (hinta, nopeus, vuoroväli, vaihtomah- dollisuudet, mukavuus) varaa kylliksi tilaa joukkoliikenteelle, muun muassa omat kaistat ruuhkaisille osuuksille varmista matkaketjun eheys sekä helpot vaihdot sijoita pysäkit palveluiden lähelle lisää julkisen liikenteen asemille ja solmukohtiin pyörä- ja autoparkkeja. Kuva 12. Matkaketjujen sujuvuus, miellyttävyys, nopeus ja turvalli- suus edistävät kestävää liikkumista. Etenkin liikenteen solmukohdat tulee suunnitella huolella tämä näkökulma huomioiden. Kuva 13. Varkauksilta, ilkivallalta ja säältä suojaavilla pyöräparkki- paikoilla on erityisen kannustava vaikutus pyöräilyn lisääntymiseen kaupungeissa. Vartioitu 1000 pyörän pysäköintilaitos Saksan Freiburgin rautatieasemalla. Kuva 14. Eri liikennemuodot erotetaan omille kaistoilleen. Nopean pyöräliikenteen baanaverkostot eivät risteä autoliikenteen kanssa, ja matkanteko on sujuvaa ja turvallista. Yksityisauton käyttöä voidaan vähentää parkkimaksuilla ja rajoittamalla parkkipaikkojen määrää. Suurimmissa kaupun- geissa myös ruuhkamaksut voivat olla toimiva ratkaisu. Ne vä- hentävät päästöjen lisäksi ruuhkia ja melua. Yksityisautoilun määrään vaikuttavia toimia: sijoita parkkipaikat keskitetysti vähintään yhtä kauas kuin julki- sen liikenteen pysäkit; samalla pihatiloista tulee viihtyisämpiä suosi yhteis- ja sähköautoja parkkipaikoilla toteuta autottomia kortteleita palveluiden lähellä. Jakamistaloudessa pyritään yhteisomistukseen ja esineiden ja palveluiden jakamiseen. Esimerkiksi yksityisautoista siirryttä- neen autojen yhteiskäyttöön. Autojen väheneminen ja muuttu- minen pakokaasuttomiksi sähköautoiksi tulee ottaa huomioon pysäköinti- ja latauspaikkojen suunnittelussa ja sijoittelussa.\n\nc. Päivitystarve:\nUuden lain 37 §:n mukaan energiatehokkuus on otettava huomioon rakennusten suunnittelussa ja rakentamisessa. Kestävän liikkumisen osalta on huomioitava, että rakennusten energiatehokkuuden parantaminen on tärkeää, ja uusiutuvien energialähteiden käyttöä on edistettävä. Tämä vaikuttaa myös liikenteen suunnitteluun ja energiatehokkuuden vaatimuksiin.\n\nd. Viittaus uuteen lakiin:\n37 § Energiatehokkuus\n\n####\n\na. Otsikko:\n5.7 Energiantuotanto\n\nb. Nykyinen sisältö:\nVähähiilinen energiantuotanto on yksi kaavoituksen lähtökohta. Energiantuotannon (sähkö ja lämpö) keskipäästöillä on huomattava vaikutus koko yhdyskunnan päästöihin. Energiantuotannon keskipäästöt ovat olleet laskussa viime vuosina (taulukko 4), ja niiden päästöjä on tarkoitus edelleen vähentää.\nVesi, tuuli ja aurinko ovat energialähteistä vähäpäästöisimmät (taulukko 5). Puu ja muut biopolttoaineet ovat pitkällä aikavälillä hiilineutraaleja, mutta Suomen oloissa kestää kuitenkin pitkään ennen kuin metsän hiilivarasto on palautunut.\nFossiilienergioista luopuminen merkitsee yhteiskunnan sähköistymistä. Sähköautot ja lämpöpumput kasvattavat sähkönkulutusta, ja tämä merkitsee tuulivoiman tuntuvaa lisäämistä aurinkosähkön tukemana.\nÄlykkäät sähkö- ja lämpöverkot tasaavat uusiutuvien energiamuotojen tuotannon vaihtelua. Esimerkiksi laitteet, jotka eivät tarvitse jatkuvasti virtaa, käynnistyvät tuotantohuippujen aikana. Älykäs energiaverkko on kaksisuuntainen, sinne voi syöttää yksittäisten rakennusten ylimääräistä aurinkosähköä tai rakennuksissa syntyvää hukkalämpöä.\nMerkittävin ja helpoimmin toteutettava jousto on lämmön kausivarastointi. Kesällä jäähdytyksessä rakennuksista poistettua lämpöä voidaan varastoida maaperään tai maanalaisiin vesisäiliöihin ja hyödyntää lämpöpumppujen avulla talvella. Vastaavasti kesällä kausivaraston kylmää voidaan käyttää viilentämiseen.\nMaankäytön suunnittelussa rakennukset sijoitetaan ja suunnataan niin, että saadaan katto- ja julkisivupinta-alaa otollisiin ilmansuuntiin. Rakennusten ja puuston varjostus otetaan huomioon niin passiivisen ja aktiivisen aurinkoenergian hyödyntämisen kuin ulkoalueiden viihtyisyyden näkökulmasta. Toisaalta aurinkosuojauksen merkitys korostuu ilmastonmuutoksen edetessä ja kesien paahteisuuden lisääntyessä.\nEnergiantuotanto suunnitellaan kokonaisuutena, jossa paikalliset lähtökohdat tutkitaan huolella:\nonko alueella kaukolämpö ja millaisella polttoaineella se on tuotettu?\nvoiko kaukolämmön tuotannon muuttaa vähäpäästöisemmäksi?\nmitkä ovat kaukojäähdytyksen edellytykset? onko alueella teollisuutta tai muuta toimintaa, jonka hukkalämpöä voitaisiin hyödyntää kaukolämpönä tai naapurirakennuksissa?\nvoidaanko teollisuuden hukkalämpöä tai rakennusten viilentämisessä syntyvää lämpöä hyödyntää energiantuotannossa tai kausivarastoida?\nmitkä ovat edellytykset tuulivoimalle?\nonko aurinkoenergian hyödyntämiselle otollisia suuria kattoja tarjolla?\nonko geotermisen lämmön hyödyntäminen mahdollista?\n\nc. Päivitystarve:\nUuden lain 14 §:n mukaan uusiutuvista lähteistä peräisin olevan energian vähimmäisosuus on määritelty, ja tämä tulee ottaa huomioon energiantuotannon suunnittelussa. Energiantuotannon osalta on varmistettava, että uusiutuvien energialähteiden osuus on vähintään 38 prosenttia, jos se on teknisesti, toiminnallisesti ja taloudellisesti toteutettavissa.\n\nd. Viittaus uuteen lakiin:\n14 § Uusiutuvista lähteistä peräisin olevan energian vähimmäisosuus"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "5": {
             "responses": [
@@ -233,6 +250,7 @@
                 "####\n\na. Otsikko:\n5.8 Maankäyttösektorin päästöt ja hiilinielut\n\nb. Nykyinen sisältö:\nHiilinielujen vahvistaminen on yksi merkittävimmistä ja samalla kustannustehokkaimmista keinoista hillitä ilmastonmuutosta. Hiilinielu on prosessi, joka sitoo hiiltä ilmakehästä enemmän kun prosessissa vapautuu hiilidioksidipäästöjä. Suomessa käy- tännössä vain metsät toimivat hiilinieluina. Jos metsän hiiliva- rasto kasvaa eli puuston kasvu sitoo enemmän hiiltä, kuin mitä hakkuut ja lahoaminen vapauttavat, se on hiilinielu. Jos varasto pienenee, metsä on hiilen lähde.\nPuut, kuten muutkin yhteyttävät, kasvit sitovat yhteyttäes- sään ilmakehästä hiilidioksidia ja varastoivat osan siitä hiilenä varsiinsa ja juuriinsa. Kasvien kuollessa ja lahotessa osa hiilestä päätyy vähitellen takaisin ilmakehään, mutta huomattava mää- rä hiilestä kertyy ja varastoituu maaperään. Pohjoisen boreaali- sissa metsissä 2/3 hiilestä on varastoituneena maaperään, loput puustoon.\nHyvässä kasvuiässä oleva 40...100 -vuotias metsä sitoo hiil- tä tehokkaimmin, mutta metsä voi toimia hiilinieluna satoja vuosia tämän jälkeenkin. Lisäksi vanhojen metsien hiilivarasto voi olla moninkertainen nuorempiin metsiin verrattuna. Pää- tehakkuu alentaa radikaalisti metsän tehoa hiilinieluna vuosi- kymmenten ajan. Avohakkuissa vapautuu myös osa maaperän hiilivarastosta.\nSuot sitovat hitaasti hiiltä. Vuosituhansien kuluessa niihin on kuitenkin ehtinyt varastoitua valtavat määrät hiiltä suokasvien muuttuessa turpeeksi. Suomessa soiden turpeessa on varas- toituneena 9 kertaa enemmän hiiltä kuin metsissä. Kun suo ojitetaan, turve alkaa hajota kuivuessaan, jolloin syntyy hiili- dioksidipäästöjä. Erityisen ongelmallisia ovat soista kuivatut pellot. Suopeltojen osuus on vain 12% peltomaasta, mutta niiden osuus Suomen kokonaispäästöistä maankäyttösektori mukaan lukien on lähes 10%. Suopellot tulisi ennallistaa suoksi tai ainakin nostaa niillä vedenpintaa, jolloin turpeen hajoami- nen hidastuu. Uusia suopeltoja ei tulisi raivata.\nSuomen maankäyttösektorin nettohiilensidonta on 21 mil- joonaa tonnia hiilidioksidia eli noin kolmannes Suomessa syntyvistä päästöistä. Maankäyttösektorin hiilidioksidipäästöt, jotka muodostuvat muun muassa suopelloilta ja ojitetuista turvemetsistä, olivat vuonna 2017 lähes 17 miljoonaa tonnia. Ilmastonäkökulmasta katsoen metsiä tulee hakata vähem-\nmän ja hyödyntää puuta ensisijaisesti pitkäikäisiin tuotteisiin, kuten rakennuksiin. Lyhytikäisistä sellutuotteista tai biopolttoai- neista hiili vapautuu ilmakehään hiilidioksidina nopeasti. Puus- sa on varastoituneena enemmän hiiltä kuin puutuotteiden val- mistus yleensä aiheuttaa hiilidioksidipäästöjä. Jalostusprosessi ja kuljetukset lisäävät puutuotteiden hiilijalanjälkeä. Rakentami- nen tulisi suunnata paikkoihin, jossa se ei vähennä hiilinieluja.\n\nc. Päivitystarve:\nUuden lain 38 §:n mukaan rakennushankkeeseen ryhtyvän on huolehdittava, että rakennus suunnitellaan ja rakennetaan vähähiiliseksi, ja hiilijalanjälki on raportoitava ilmastoselvityksessä. Tämä vaatimus ei ole mainittu vanhassa ohjeessa, ja se tulee lisätä, jotta ohjeistus vastaa uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n38 § Rakennuksen vähähiilisyys\n\n####"
             ],
             "empty_responses_count": 2,
+            "non_empty_responses_count": 4,
             "is_consistent": false,
             "is_semi_consistent": false
         },
@@ -246,8 +264,9 @@
                 "####\n\na. Otsikko:\n5.9 Alueen hiilijalanjäljen arviointi ja mittarit\n\nb. Nykyinen sisältö:\nAlueiden päästölaskentaan otetaan mukaan rakennusten ja infrastruktuurin koko elinkaaren päästöt, liikenteen päästöt sekä maankäytön muutoksista aiheutuvat hiilinielujen menetykset (metsäpinta-alan pieneneminen). Rakennusten elinkaaren päästöihin sisältyvät tuotevaihe, rakentamisvaihe, käyttövaihe ja purkuvaihe. Käytönaikaiset päästöt muodostuvat tilojen ja käyttöveden lämmittämisestä, ilmanvaihdosta, tilojen viilentämisestä sekä sähkön kulutuksesta.\nAlueiden päästölaskentaan ei vielä ole yhtenäistä käytäntöä. Tarjolla on kuitenkin useita koti- ja ulkomaisia laskureita ja malleja. Päästölaskenta on hyvä työkalu erilaisten suunnitteluvaihtoehtojen vertaamiseen, ja se tukee myös kaavoitukseen liittyvää päätöksentekoa. Mitä varhaisemmassa hankevaiheessa laskenta tehdään, sitä enemmän siitä on hyötyä tulevalla rakennusalueella.\nTeoriassa alueen tai rakennuksen päästöjä voidaan kompensoida luomalla ja turvaamalla hiilinielu tai ennallistamalla esimerkiksi suo jollakin toisella alueella.\nHiilinieluja ja varastoja voidaan vahvistaa:\nsuosimalla tiivistä ja eheää yhdyskuntarakennetta, maalaa jää enemmän hiilinieluina toimiville metsille suuntaamalla rakentaminen kasvillisuuden kasvupotentiaalilta heikoimmille alueille ja säästämällä suuria metsäalueita hakkuilta\nsuosimalla maankäyttömuotoja, jotka ylläpitävät mahdollisimman suurta kasvillisuuden määrää pinta-alayksikköä kohden\nsuosimalla aktiiviviljelyssä olevia peltoja, joilla on suurempi hiilivarasto kuin avoimilla rakennetuilla viheralueilla kuten golf-kentillä\nsuosimalla luonnonmukaisuutta, kasvillisuuden suurta määrää ja monikerroksellisuutta sekä välttämällä kasvimateriaalin poistoa alueelta\nmetsien hakkuita vähentämällä, talousmetsien kiertoa pidentämällä ja harvennushakkuita lieventämällä\nsiirtymällä metsätaloudessa jatkuvaan kasvatukseen, jolloin maaperän hiilivarasto kasvaa suuremmaksi kuin avohakkuumetsätaloudessa\nmetsittämällä turvepeltoja ja ennallistamalla niitä soiksi hillitsemällä turvemaiden raivaamista pelloksi säätösalaojittamalla maataloudelle välttämättömät turvepellot\ntekemällä metsäojitetuilla soilla vain välttämättömät kunnostusojitukset.\nKuva 17. Vanhojen metsien hiilivarasto on nuorten metsien varastoa tuntuvasti suurempi. Niiden säilyttäminen turvaa myös luonnon monimuotoisuuden säilymistä. Mitä monilajisempi metsä on, sitä paremmin se kestää muutosta ja esimerkiksi ilmastonmuutoksen mukanaan tuomia uusia tuhohyönteislajeja.\nKaavoituksen päästölaskennan työkaluja on koottu portaaleihin: • KEKO – Kaavoituksen ekolaskuri, www.ymparisto.fi/KEKO\n• Ilmastonkestävän kaupungin suunnitteluopas, ilmastotyokalut.fi\n• Työkaluja kestävän rakennetun ympäristön suunnitteluun, figbc.fi/alueportaali\nSKN/1/tammikuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020\nkopioida, jakaa, välittää, muunnella eikä ladata tekoälysovelluksiin.\n\nc. Päivitystarve:\nUuden lain 38 §:n mukaan rakennuksen hiilijalanjälki ja hiilikädenjälki on raportoitava rakentamislupaa varten tehtävässä ilmastoselvityksessä. Tämä vaatimus ei ole mainittu vanhassa ohjeessa, joten se tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n38 § Rakennuksen vähähiilisyys\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "7": {
             "responses": [
@@ -259,8 +278,9 @@
                 "####\n\na. Otsikko:\n6 ILMASTONMUUTOKSEN HILLITSEMINEN RAKENNUSSUUNNITTELUSSA\n\nb. Nykyinen sisältö:\nTärkein hiilijalanjälkeä pienentävä toimenpide on rakentamat- ta jättäminen. Käyttämällä olemassa olevaa rakennuskantaa, mahdollisimman kevein korjaustoimenpitein vältytään raken- tamisen aiheuttamalta hiilipiikiltä (kuva 18).\n\nc. Päivitystarve:\nUuden lain 38 §:n mukaan rakennushankkeeseen ryhtyvän on huolehdittava, että rakennus suunnitellaan ja rakennetaan vähähiiliseksi, ja hiilijalanjälki on raportoitava rakentamislupaa varten tehtävässä ilmastoselvityksessä. Tämä vaatimus on lisättävä ohjeistukseen.\n\nd. Viittaus uuteen lakiin:\n38 § Rakennuksen vähähiilisyys\n\n####"
             ],
             "empty_responses_count": 1,
+            "non_empty_responses_count": 5,
             "is_consistent": false,
-            "is_semi_consistent": false
+            "is_semi_consistent": true
         },
         "8": {
             "responses": [
@@ -272,8 +292,9 @@
                 "####\n\na. Otsikko:\n6.1 Rakennuksen hiilijalanjälki\n\nb. Nykyinen sisältö:\nRakennuksen hiilijalanjälki on monen osatekijän summa. Se muodostuu rakennuksen koko elinkaarensa aikana aiheuttamista päästöistä.\nEsimerkiksi tyypillisen uuden asuinkerrostalon hiilijalanjäljestä 40 % syntyy rakentamisvaiheen ja 60 % käyttövaiheen aikana. Käyttövaiheen päästöt jakautuvat puolestaan tilojen ja käyttöveden lämmittämisen, sähkönkulutuksen sekä korjaamisen ja huollon aiheuttamiin päästöihin. Purkuvaiheen osuus kokonaisuudesta on tyypillisesti alle 10%. Rakennusten energiatehokkuuden paranemisen myötä rakentamisvaiheen suhteellinen osuus elinkaaren hiilijalanjäljestä on kasvanut. Aikaisemmin rakentamisvaiheen osuus on ollut 10...20%.\nRakennuksen hiilijalanjälki tulee suhteuttaa rakennuksen käyttöikään sekä rakennuksesta saatavaan hyötyyn, jota voidaan arvioida esimerkiksi työntekijä-, oppilas- tai asukasmääränä. Lisäksi rakennuksen sijainti yhdyskuntarakenteessa sekä paikan pienilmasto vaikuttavat sen käytöstä aiheutuviin päästöihin. Suotuisa pienilmasto vähentää rakennuksen lämmitys- ja viilennystarvetta ja pienentää näin myös päästöjä.\nRakentamisvaihe aiheuttaa runsaat kertaluontoiset hiilidioksidipäästöt, ns. hiilipiikin. Rakentamisvaiheen hiilipiikin vaikutus voi olla niin suuri, että sinänsä energiatehokkaalta uudisrakennukselta kuluu vuosikymmeniä alittaa vastaavan vanhemman ja energiatehottomamman rakennuksen elinkaaren päästöt (kuva 18). Vanhan rakennuksen rakennusvaiheen päästöt ovat jo ilmakehässä, eivätkä enää lisää ilman hiilidioksidipitoisuutta. Rakennusten käyttöiän jatkaminen on usein uudisrakentamista vähähiilisempi vaihtoehto.\n\nc. Päivitystarve:\nUuden lain 38 §:n mukaan rakennuksen hiilijalanjälki ja hiilikädenjälki on raportoitava rakentamislupaa varten tehtävässä ilmastoselvityksessä. Tämä vaatimus ei ole mainittu vanhassa ohjeessa, joten se tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n38 § Rakennuksen vähähiilisyys\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "9": {
             "responses": [
@@ -285,8 +306,9 @@
                 "####\n\na. Otsikko:\n6.2 Energiatehokkuus\n\nb. Nykyinen sisältö:\nTalon ulkovaipan sekä ikkunoiden ja ovien lämmöneristyskyky ja ilmatiiveys vähentävät lämmitysenergian tarvetta. Energia- tehokkuus tuo lisähintaa rakennuskustannuksiin, mutta leikkaa lämmityskuluja ja hiilidioksidipäästöjä. Tyypillisesti passiivita- lon lämmitysenergian tarve on vain 15...30% tavanomaisen nykymääräykset täyttävän vastaavan rakennuksen tarpeesta. Sähkön ja lämpimän käyttöveden suhteelliset osuudet ko- konaisenergiankulutuksesta kasvavat rakennuksen rungon lämmöneristävyyden parantuessa ja lämmitystarpeen pienen- tyessä. Sekä sähköä että vettä voi säästää yksinkertaisin ja kus- tannustehokkain keinoin.\nRakennuksen käyttäjä vaikuttaa oleellisesti rakennuksen energiankulutukseen. Jos rakennusta ja sen tekniikkaa ei osa- ta käyttää, saattaa rakennuksen energiankulutus kasvaa huo- mattavasti. Käyttäjien perehdyttäminen rakennuksen laittei- den käyttöön sekä laitteiden huollon varmistaminen takaavat energiatehokkaan lopputuloksen elinkaaren aikana.\n\nc. Päivitystarve:\nUuden lain 37 §:n mukaan energiatehokkuuden vähimmäisvaatimusten täyttyminen on osoitettava laskelmilla, ja energiatehokkuutta on parannettava korjaus- ja muutostöiden yhteydessä, jos se on teknisesti, toiminnallisesti ja taloudellisesti toteutettavissa. Tämä vaatimus ei ole mainittu vanhassa ohjeessa, joten se tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n37 § Energiatehokkuus\n\n####\n\na. Otsikko:\n6.4 Uusiutuvat energiamuodot\n\nb. Nykyinen sisältö:\nRakennuksessa tai sen tontilla tapahtuva energiantuotanto uusiutuvia lähienergioita hyödyntäen vähentää ostoenergian tarvetta ja hiilidioksidipäästöjä. Aurinko ja tuuli ovat energia- lähteistä vähähiilisimmät. Lämpöpumput, biopolttoaineet tai erilaiset uusiutuvien energiamuotojen hybridijärjestelmät ai- heuttavat kohtuullisen vähän hiilidioksidipäästöjä. Koska uu- siutuviakaan energiamuotoja ei voida tuottaa rajattomasti, on myös energian säästäminen tärkeätä.\nKorjausrakentamisessa päästövähennysvaikutus on erityisen suuri siirryttäessä fossiilisista energiamuodoista uusiutuviin. Esimerkiksi pientalon öljylämmityksen vaihtaminen maaläm- pöön pienentää lämmityksen päästöjä jopa 75%. Taulukkoon 6 on kerätty eri esimerkkejä eri rakennuksissa käytettävien ener- giamuotojen hiilidioksidipäästöistä.\nUusiutuvien energiamuotojen liittäminen luontevasti osaksi rakennuksen arkkitehtuuria vaatii hyvää suunnittelua. Erityises- ti korjausrakentamisessa uuden tekniikan sijoittaminen vaatii huolellisuutta, jotta rakennuksen alkuperäinen ilme ei kärsi kohtuuttomasti.\n\nc. Päivitystarve:\nUuden lain 14 §:n mukaan uusiutuvista lähteistä peräisin olevan energian vähimmäisosuus on 38 prosenttia, jos se on teknisesti, toiminnallisesti ja taloudellisesti toteutettavissa. Tämä vaatimus tulee lisätä vanhaan ohjeeseen, jotta se vastaa uusia säädöksiä.\n\nd. Viittaus uuteen lakiin:\n14 § Uusiutuvista lähteistä peräisin olevan energian vähimmäisosuus\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "10": {
             "responses": [
@@ -298,8 +320,9 @@
                 "####\n\na. Otsikko:\n6.5 Päärakenteiden hiilijalanjälki\n\nb. Nykyinen sisältö:\nRakentamisvaiheen hiilidioksidipäästöt muodostuvat tuote-, kuljetus- ja työmaavaiheissa. Tuotevaihe pitää edelleen sisäl- lään materiaalien ja osien koko valmistusprosessin.\nEri materiaalien valmistamiseen tarvittavan energian mää- rässä ja hiilidioksidipäästöissä on tuntuvia eroja. Metallien ja muovien valmistus kuluttaa paljon energiaa, kun taas puutuot- teen valmistukseen sitä kuluu vähemmän. Uudisrakentamisen hiilipiikkiä voi pienentää suosimalla materiaaleja, joiden val- mistamisesta aiheutuu mahdollisimman pienet hiilidioksidi- päästöt ja hyödyntämällä käytettyjä osia ja uusiomateriaaleja. Erityisesti vanhan betonirungon tai perustusten hyödyntämi- nen vähentää tuntuvasti rakentamisvaiheen päästöjä.\nPuukerrostalon rakentamisvaiheen hiilijalanjälki on tyypil- lisesti 30...50% pienempi kuin vastaavan betonikerrostalon. Tässäkin perustukset muodostavat huomattavan osan puura- kennuksen hiilijalanjäljestä.\n\nc. Päivitystarve:\nUuden lain 38 §:n mukaan rakennuksen hiilijalanjälki ja hiilikädenjälki on raportoitava rakentamislupaa varten tehtävässä ilmastoselvityksessä. Tämä vaatimus ei ole mainittu vanhassa ohjeessa, joten se tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n38 § Rakennuksen vähähiilisyys\n\n####\n\na. Otsikko:\n6.7 Hiilijalanjäljen laskenta\n\nb. Nykyinen sisältö:\nKäytössä olevissa standardeissa neliömetripohjainen lasken- tatapa on vakiintunut vallitsevaksi. Se ei kuitenkaan huomioi esimerkiksi tilatehokkuuden tai asumisväljyyden vaikutusta asumisen hiilijalanjälkeen. Standardi ei silti estä laskemasta rakennuksen hiilijalanjälkeä asukaskohtaisesti. Myöskään hii- livarastoa ei vähennetä hiilijalanjäljestä.\nRakennusten elinkaaren hiilijalanjäljen laskeminen koostuu seuraavista osista:\nA1...A3 Tuotevaihe (mm. rakennusmateriaalit)\nA4...A5 Rakentaminen (mm. kuljetukset ja työmaatoiminnot)\nB1...B2 Käyttö (mm. huolto)\nB3...B4 Kunnossapito ja korjaukset\nB6 Energiankäyttö\nB7 Veden käyttö\n• C1...C4 Purkaminen, kuljetukset ja käsittely\nD Elinkaaren ulkopuoliset vaikutukset.\nRakennusten mahdollinen hiilivarasto voidaan esittää erillisenä teknisenä lisätietona.\n\nc. Päivitystarve:\nUuden lain 38 §:n mukaan rakennuksen hiilijalanjäljen arvioinnin on katettava rakennuksen elinkaari tai laajamittaisesti korjattavan rakennuksen korjauksen ja sen jälkeisen elinkaaren vaiheet. Tämä vaatimus ei ole täysin huomioitu vanhassa ohjeessa, joten se tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n38 § Rakennuksen vähähiilisyys\n\n####\n\na. Otsikko:\n6.9 Korjausrakentaminen\n\nb. Nykyinen sisältö:\nRakennusten korjaaminen tai käyttötarkoituksen muutokset ovat yleensä ensisijaisia luonnonvaroja ja ympäristöä säästäviä sekä ilmastonmuutosta hillitseviä keinoja (kuva 15). Olemassa olevan rakennuskannan energiatehokkuuden parantaminen onkin yksi tehokkaimmista tavoista vähentää yhteiskunnan hiilidioksidipäästöjä. Asuinkerrostaloissa käytönaikaisia pääs- töjä on pystytty vähentämään erilaisilla korjaus- ja muutos- toimenpiteillä 30...70 %. Siirtyminen uusiutuviin energiamuo- toihin samoin kuin lämmityksen ja ilmanvaihdon säätäminen vähentävät ostoenergian tarvetta ja päästöjä huomattavasti. Ikkunoiden uusimisen tai vaipan lisäeristämisen vaikutukset ovat suhteellisen pieniä, ja ne kannattaa toteuttaa vain silloin, kun korjaamiseen on muuta tarvetta.\nErilaisten korjaustoimenpiteiden vaikutuksia lämmitysener- gian kulutukseen tyypillisessä asuinkerrostalossa: • lämmönjakelun säätö, säästö 10...15 % ilmanvaihdon lämmöntalteenotto, säästö 20...30% seinien lisäeristäminen, säästö 5...10%\nikkunoiden uusiminen, säästö 8...14%\nEri aikakausien rakennuksille ja rakenteille on valittava niille parhaiten soveltuvat korjausmenetelmät. Energiatehokkuutta tulee parantaa rakennuksen rakennus- tai toimenpideluvanva- raisen korjaus- ja muutostyön tai rakennuksen käyttötarkoituk- sen muutoksen yhteydessä, jos se on teknisesti, toiminnallisesti ja taloudellisesti toteutettavissa.\n\nc. Päivitystarve:\nUuden lain 30 §:n mukaan korjaus- ja muutostyössä on otettava huomioon rakennuksen ominaisuudet ja erityispiirteet eivätkä ne saa ilman painavaa syytä heikentyä korjaus- tai muutostyössä. Tämä vaatimus ei ole täysin huomioitu vanhassa ohjeessa, joten se tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n30 § Rakennuksen korjaaminen\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "11": {
             "responses": [
@@ -311,6 +334,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 4,
+            "non_empty_responses_count": 2,
             "is_consistent": false,
             "is_semi_consistent": false
         },
@@ -324,6 +348,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 4,
+            "non_empty_responses_count": 2,
             "is_consistent": false,
             "is_semi_consistent": false
         },
@@ -337,6 +362,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 3,
+            "non_empty_responses_count": 3,
             "is_consistent": false,
             "is_semi_consistent": false
         },
@@ -350,6 +376,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 5,
+            "non_empty_responses_count": 1,
             "is_consistent": false,
             "is_semi_consistent": true
         },
@@ -363,8 +390,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "16": {
             "responses": [
@@ -376,8 +404,9 @@
                 "####\n\na. Otsikko:\n8.4 Kosteus\n\nb. Nykyinen sisältö:\nTalvisateet yleistyvät ja sade saadaan enenevissä määrin vete- nä. Kuivien pakkassäiden rakenteita kuivattava vaikutus vähe- nee. Rakenteiden suojaaminen, tuulettuminen ja kosteustekni- nen toimivuus on varmistettava. Keinoja ovat:\nriittävät räystäät\n• yläpohjan ja ulkoverhouksen riittävä tuuletus riittävän korkea sokkeli\nosien ja rakenteiden korroosiosuojaus\nkatto- ja julkisivurakenteiden tarkastusten tehostaminen.\nKuva 27. Viides ulottuvuus -hankkeen koekatto Helsingin Kaisanie- messä. Viherkatot auttavat sopeutumisessa ilmastonmuutokseen muun muassa pienentämällä lämpösaarekeilmiön vaikutusta ja hidastamalla hulevesien päätymistä kaduille. Lisäksi ne lisäävät luon- non monimuotoisuutta. Viherkatto tulisi toteuttaa kaikissa matalissa tai kylmissä rakennuksissa, ja suosia niillä varsinkin ketokasveja, joiden luontaiset kasvupaikat ovat voimakkaasti vähentyneet.\nSKN/1/tammikuu 2020/Rakennustieto Oy Rakennustietosäätiö RTS sr 2020\nRT 07-11300 Aurinkosuojaus RT 85-11203 Viherkatot\nKuva 26. Passiivitalon aurinkosuojausta ulkopuolisin automaattisesti säätyvin sälekaihtimin.\n\nc. Päivitystarve:\nUuden lain 33 §:n mukaan rakennuksen on oltava terveellinen ja turvallinen sisäilman, kosteus-, lämpö- ja valaistusolosuhteet huomioon ottaen. Tämä edellyttää, että kosteuden hallintaan liittyvät toimenpiteet ja rakenteiden suojaaminen ovat riittävät ja ajantasaiset. Lisäksi uuden lain 36 §:ssä korostetaan meluntorjuntaa ja ääniolosuhteita, mikä voi vaikuttaa rakenteiden suunnitteluun ja toteutukseen.\n\nd. Viittaus uuteen lakiin:\n33 § Terveellisyys\n36 § Meluntorjunta ja ääniolosuhteet\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "17": {
             "responses": [
@@ -389,8 +418,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "18": {
             "responses": [
@@ -402,8 +432,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "19": {
             "responses": [
@@ -415,8 +446,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "20": {
             "responses": [
@@ -428,8 +460,9 @@
                 "####\n\na. Otsikko:\nHiilijalanjälki, materiaalitehokkuus\n\nb. Nykyinen sisältö:\nRakennusmateriaalien ympäristövaikutukset. Ruuska et al. Ympäristö- ministeriön raportteja 8/2013. www.ym.fi/fi-Fl/Ajankohtaista/Julkaisut/ YMra_82013_Rakennusmateriaalien_ymparist(9056)\nRakennusten elinkaarimittarit - kahdeksan mittaria kestävään kiin- teistöjohtamiseen. figbc.fi/elinkaarimittarit\nSYNERGIA Hiilijalanjälki -työkalu. www.syke.fi/fi-Fl/Tutkimus__kehitta- minen/Kulutus_ja_tuotanto/Laskurit/Synergia\n\nc. Päivitystarve:\nUuden lain 38 §:n mukaan rakennuksen hiilijalanjälki ja hiilikädenjälki on raportoitava rakentamislupaa varten tehtävässä ilmastoselvityksessä. Tämä vaatimus ei ole mainittu vanhassa ohjeistuksessa, joten se tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n38 § Rakennuksen vähähiilisyys\n\n####"
             ],
             "empty_responses_count": 1,
+            "non_empty_responses_count": 5,
             "is_consistent": false,
-            "is_semi_consistent": false
+            "is_semi_consistent": true
         },
         "21": {
             "responses": [
@@ -441,6 +474,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 4,
+            "non_empty_responses_count": 2,
             "is_consistent": false,
             "is_semi_consistent": false
         },
@@ -454,8 +488,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "23": {
             "responses": [
@@ -467,8 +502,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "24": {
             "responses": [
@@ -480,8 +516,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "25": {
             "responses": [
@@ -493,8 +530,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "26": {
             "responses": [
@@ -506,8 +544,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         }
     },
     "RT-103281.json": {
@@ -521,8 +560,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "2": {
             "responses": [
@@ -534,8 +574,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "3": {
             "responses": [
@@ -547,8 +588,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "4": {
             "responses": [
@@ -560,8 +602,9 @@
                 "####\n\na. Otsikko:\n4.6 Palotekniset ominaisuudet\n\nb. Nykyinen sisältö:\nRakennustarvikkeina tiilet ja tiililaatat ovat palamattomia ja kuuluvat palotekniseen luokkaan A1. Ne eivät syty eivätkä kehitä savua tai palavaa kaasua. Palotilanteessa tiili säilyttää lujuutensa sulamispisteeseensä asti, suomalaisilla tiilillä tämä on noin 1100^{\\circ}C. Koska sauman osuus koko rakenteesta on melko suuri, sauman tiiviydellä on merkit- tävä vaikutus muuratun rakennusosan paloteknisiin ominaisuuksiin.\n\nc. Päivitystarve:\nUuden lain 32 §:n mukaan rakennuksen kantavien rakenteiden on oltava sellaiset, että ne palon sattuessa kestävät vähimmäisajan ottaen huomioon rakennuksen sortuminen, poistumisen turvaaminen, pelastustoiminta ja palon hallintaan saaminen. Tämä vaatimus on lisättävä tiilien paloteknisiin ominaisuuksiin.\n\nd. Viittaus uuteen lakiin:\n32 § Paloturvallisuus\n\n####\n\na. Otsikko:\n4.7 Meluntorjunta, äänitekniset ominaisuudet\n\nb. Nykyinen sisältö:\nSuuren tiheytensä vuoksi tiiliseinällä on hyvä ilmaääneneristyskyky. Tiilimuurin ääni- teknisesti heikoin osa ovat saumat. Rappaukset ja tasoitteet parantavat rakenteen ää- neneristävyyttä. Tiheytensä vuoksi poltettuja tiiliä käytetään julkisivumuurauksissa esimerkiksi ehkäisemään sisälle kantautuvaa liikennemelua. Akustisista syistä julki- sissa tiloissa, kuten auditorioissa ja musiikkisaleissa, matalia ääniä voidaan vaimentaa syrjälleen muuratuilla reikätiilillä, joiden taakse asennetaan ääntä absorvoiva rakenne, esimerkiksi mineraalivilla. Tiilirakenteisten väliseinien ilmaääneneristyslukuja on oh- jeessa RT 82-10466 Väliseinärakenteita.\n\nc. Päivitystarve:\nUuden lain 36 §:n mukaan rakennuksen sekä rakennuspaikan piha- ja oleskelualueiden melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa. Tämä vaatimus on lisättävä tiilien ääniteknisiin ominaisuuksiin.\n\nd. Viittaus uuteen lakiin:\n36 § Meluntorjunta ja ääniolosuhteet\n\n####\n\na. Otsikko:\n4.8 Lämpötekniset ominaisuudet\n\nb. Nykyinen sisältö:\nTiiliseinän lämmöneristävyys on riittämätön ilman lämmöneristystä, lukuun ottamat- ta paksuja U-arvovaatimukset täyttäviä kennoharkkoja. Tiiliseinä varastoi lämpöä ja luovuttaa sitä hitaasti. Tiilien lämpöliikkeet ovat pieniä, mutta varsinkin pitkiin tiili- julkisivuihin voi kohdistua lämpö- ja kosteusrasituksia, jotka aiheuttavat tiilimuuriin jännityksiä. Halkeamien välttämiseksi tiilimuuriin suunnitellaan liikuntasaumoja. Poltetuista tiilistä muuratun rakenteen pituuden lämpötilakertoimelle käytetään arvoa 6\\times10^{-6}1/K Kun poltettuja tiiliä käytetään kohteissa, joille on asetettu lämmön- eristysvaatimuksia, selvitetään tiilen lämpötekniset ominaisuudet valmistajalta. Vaikka julkisivumuurausta eikä sen takana olevaa ilmaväliä huomioida U-arvolaskelmissa muu- toin kuin pintavastuskertoimella, tutkimuksissa on voitu todeta julkisivumuurauksen vaikuttavan positiivisesti rakennuksen lämmöneristävyyteen ja energiatehokkuuteen.\n\nc. Päivitystarve:\nUuden lain 37 §:n mukaan rakennuksen energiatehokkuuden vähimmäisvaatimusten täyttyminen on osoitettava laskelmilla. Tämä vaatimus on lisättävä tiilien lämpöteknisiin ominaisuuksiin.\n\nd. Viittaus uuteen lakiin:\n37 § Energiatehokkuus"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "5": {
             "responses": [
@@ -573,8 +616,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "6": {
             "responses": [
@@ -586,8 +630,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "7": {
             "responses": [
@@ -599,8 +644,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "8": {
             "responses": [
@@ -612,8 +658,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "9": {
             "responses": [
@@ -625,8 +672,9 @@
                 "####\n\na. Otsikko:\n6 CE-MERKINTÄ\n\nb. Nykyinen sisältö:\nValmistaja ilmoittaa poltettujen tiilien ominaisuudet tuotestandardin SFS-EN 771-1 mukaisella CE-merkinnällä. Näiden ominaisuuksien on täytettävä kansalliset vaati- mustasot, jotka on ilmoitettu soveltamisstandardissa SFS 7001.\nCE-merkintään kuuluva suoritustasoilmoitus kertoo rakennustuotteen ominaisuu- det. Tiilien ja tiililaattojen suoritustasoilmoituksesta ilmenevät niiden tärkeimmät eri käyttötarkoituksiin vaadittavat ominaisuudet. Ilmoitetun suoritustason on oltava aiotun käyttötarkoituksen vaatimusten mukainen. Esimerkiksi ulkona käytettävien tiilien tulee olla säänkestäviä.\n\nc. Päivitystarve:\nUuden lain 154 §:n mukaan Turvallisuus- ja kemikaalivirasto toimii rakennustuotteiden markkinavalvontaviranomaisena, ja se huolehtii myös muiden rakennuskohteeseen pysyviksi osiksi liitettävien rakennustuotteiden markkinavalvonnasta. Tämä vaikuttaa CE-merkinnän valvontaan ja vaatimustenmukaisuuden tarkastamiseen, joten ohjeistusta tulee päivittää vastaamaan uutta valvontaviranomaista ja sen roolia.\n\nd. Viittaus uuteen lakiin:\n154 § Rakennustuotteiden markkinavalvontaviranomainen\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "10": {
             "responses": [
@@ -638,8 +686,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "11": {
             "responses": [
@@ -651,8 +700,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         }
     },
     "RT-11-10781.json": {
@@ -666,8 +716,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "2": {
             "responses": [
@@ -679,8 +730,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "3": {
             "responses": [
@@ -692,8 +744,9 @@
                 "####\n\na. Otsikko:\n2.3 Suunnittelijoiden kelpoisuus\n\nb. Nykyinen sisältö:\n2.3 Suunnittelijoiden kelpoisuus\nSuunnittelijoiden on oltava luonnollisia henkilöitä. Pääosan suunnittelussa vaadittavasta kokemuksesta on oltava kyseisen suunnittelualan suunnittelutehtävistä. Korjaus- tai muutostyön suunnittelijalla on oltava kokemusta korjausten tai muutostöiden suunnittelutehtävistä. Pääsuunnittelijalla on tehtävässä muutoin edellytettävän suunnittelualan koulutuksen ja kokemuksen lisäksi oltava asiantuntemus ja ammattitaito johtaa suunnitelmien yhteensovittamista.\n\nc. Päivitystarve:\nUuden lain mukaan suunnittelijan on osoitettava pätevyytensä tavanomaiseen, vaativaan, erittäin vaativaan ja poikkeuksellisen vaativaan suunnittelutehtävään ympäristöministeriön valtuuttaman toimijan antamalla todistuksella.\n\nd.Viittaus uuteen lakiin:\n83 § Suunnittelijoiden kelpoisuusvaatimukset\n\n####\n\na. Otsikko:\n3.1 Naapurien kuuleminen\n\nb. Nykyinen sisältö:\n3.1 Naapurien kuuleminen\nKunnan on ilmoitettava rakentamislupahakemuksen vireilletulosta ja kuultava naapureita, jollei ilmoittaminen ja kuuleminen rakentamishankkeen vähäisyys tai sijainti taikka kaavan sisältö huomioon ottaen ole naapurien edun kannalta ilmeisen tarpeetonta.\n\nc. Päivitystarve:\nUuden lain mukaan kunnan on lisäksi varattava kunnan jäsenille ja osallisille tilaisuus esittää mielipiteensä lupahakemuksesta, jos hakemus koskee rakennusta hankkeessa, johon sovelletaan ympäristövaikutusten arviointimenettelystä annettua lakia.\n\nd.Viittaus uuteen lakiin:\n63 § Kuuleminen ja tiedottaminen rakentamisluvasta\n\n####\n\na. Otsikko:\n3.2 Rakennuslupahakemus\n\nb. Nykyinen sisältö:\n3.2 Rakennuslupahakemus\nRakennuslupahakemukseen on liitettävä rakennuskohteesta ja sen laajuudesta riippuen: rakennussuunnitelmaan sisältyvät pääpiirustukset, selvitys rakennuspaikan perustamis- ja pohjaolosuhteista, energiaselvitys, selvitys rakennuspaikan terveellisyydestä ja korkeussuhteista, selvitys rakennuksen kunnosta toimenpidealueen osalta, jos kyseessä on korjaushanke, selvitys siitä, että hakija hallitsee rakennuspaikkaa, muu kuin 1–9 kohdassa tarkoitettu lupahakemuksen ratkaisemiseksi tarvittava olennainen selvitys.\n\nc. Päivitystarve:\nUuden lain mukaan rakennuslupahakemukseen on liitettävä myös ilmastoselvitys ja materiaaliseloste.\n\nd.Viittaus uuteen lakiin:\n61 § Rakentamislupahakemus\n\n####\n\na. Otsikko:\n3.3 Rakennuslupahakemuksen käsittely\n\nb. Nykyinen sisältö:\n3.3 Rakennuslupahakemuksen käsittely\nRakentamislupaa myönnettäessä kunnan rakennusvalvontaviranomainen hyväksyy pääpiirustukset ja niitä vastaavan rakennuskohteen suunnitelmamallin tai koneluettavat tiedot rakentamisessa noudatettaviksi.\n\nc. Päivitystarve:\nUuden lain mukaan rakentamisluvan yhteydessä vahvistetaan selvitykset siltä osin kuin niiden perusteella on arvioitu sijoittamisen edellytykset.\n\nd.Viittaus uuteen lakiin:\n68 § Rakentamislupahakemuksen käsittely\n\n####\n\na. Otsikko:\n3.5 Aloittamisoikeus\n\nb. Nykyinen sisältö:\n3.5 Aloittamisoikeus\nLupaviranomainen voi perustellusta syystä antaa oikeuden rakennustyön tai muun toimenpiteen suorittamiseen osaksi tai kokonaan ennen kuin rakentamis- tai maisematyölupaa on saanut lainvoiman edellyttäen, ettei päätöksen täytäntöönpano tee muutoksenhakua hyödyttämäksi.\n\nc. Päivitystarve:\nUuden lain mukaan luvan hakijan on asetettava hyväksyttävä vakuus niiden haittojen, vahinkojen ja kustannusten korvaamisesta, jotka päätöksen kumoaminen tai luvan muuttaminen voi aiheuttaa.\n\nd.Viittaus uuteen lakiin:\n78 § Aloittamisoikeus"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "4": {
             "responses": [
@@ -705,8 +758,9 @@
                 "####\n\na. Otsikko:\n2.1 Huolehtimisvelvollisuus\n\nb. Nykyinen sisältö:\nRakennushankkeeseen ryhtyvän käytettävissä tulee olla riittä- vän ajoissa suunnittelutehtävän vaativuutta vastaavasti päte- vyysvaatimukset täyttävät suunnittelijat. Rakentamista koske- van suunnitelman lähtökohdista ja suunnittelijoiden nimeämi- sestä on suotavaa neuvotella rakennusvalvontaviranomaisen kanssa suunnittelua aloitettaessa. Rakennushankkeeseen ryhtyvän on huolehdittava siitä, että suunnittelu ja rakentami- nen toteutuu säännösten ja määräysten sekä myönnetyn luvan mukaisesti.\n\nc. Päivitystarve:\nUuden lain 91 §:n mukaan rakentamishankkeeseen ryhtyvän on huolehdittava, että hankkeessa on kelpoisuusvaatimukset täyttävät suunnittelijat ja että muillakin hankkeessa toimivilla on tehtäviensä vaativuuden edellyttämä asiantuntemus ja ammattitaito. Tämä kohta tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n91 § Rakentamishankkeeseen ryhtyvän huolehtimisvelvollisuus\n\n####\n\n####\n\na. Otsikko:\n2.2 Viranomaisvalvonta\n\nb. Nykyinen sisältö:\nKunnan rakennusvalvontaviranomaisen tehtävänä on yleisen edun kannalta valvoa rakennustoimintaa sekä osaltaan huo- lehtia, että rakentamisessa noudatetaan, mitä maankäyttö- ja rakennuslaissa tai sen nojalla säädetään tai määrätään.\nValvontatehtävän laajuutta ja laatua harkittaessa otetaan huomioon rakennushankkeen vaativuus, luvan hakijan ja hank- keen suunnittelusta ja toteuttamisesta vastaavien henkilöiden asiantuntemus ja ammattitaito sekä muut valvonnan tarpee- seen vaikuttavat seikat.\n\nc. Päivitystarve:\nUuden lain 102 §:n mukaan valvontatehtävän laajuutta harkittaessa on otettava huomioon rakentamishankkeen vaativuus, ja viranomaisen on puututtava havaitsemiinsa laiminlyönteihin. Tämä kohta tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n102 § Viranomaisvalvonnan laajuus\n\n####\n\n####\n\na. Otsikko:\n2.3 Suunnittelijoiden kelpoisuus\n\nb. Nykyinen sisältö:\nSuunnittelijan koulutus ja kokemus yhdessä muodostavat suunnittelijan pätevyyden. Vaadittava kelpoisuus määräytyy suunnittelijan riittävästä pätevyydestä suhteessa kulloisenkin suunnittelutehtävän vaativuuteen. Suunnittelijoiden kelpoisuu- den arvioimiseksi RakMK osassa A2 esitetään suunnitteluteh- tävien luokitus vaativuuden mukaan ja kuhunkin luokkaan tar- vittava suunnittelijan pätevyys.\nKunnan rakennusvalvontaviranomaisen asia on arvioida suunnittelijoiden kelpoisuus rakennuslupakohtaisesti raken- nushankkeen laadun ja vaativuuden sekä ympäristön asetta- mat vaatimukset huomioon ottaen\n• rakennussuunnittelijan kelpoisuus eli koulutus ja kokemus, • erityissuunnittelijoiden kelpoisuus eli koulutus ja kokemus. Korjaus- ja muutostyössä otetaan arvioinnissa lisäksi huomi- oon olemassa olevan rakennuksen asettamat lähtökohdat.\nPääsuunnittelijan kelpoisuuden tulee hankkeessa olla vähin- tään samaa tasoa kuin hankkeen vaativimpaan suunnitteluteh- tävään tarvittava kelpoisuus.\n\nc. Päivitystarve:\nUuden lain 83 §:n mukaan suunnittelijan on osoitettava pätevyytensä ympäristöministeriön valtuuttaman toimijan antamalla todistuksella. Tämä kohta tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n83 § Suunnittelijoiden kelpoisuusvaatimukset\n\n####\n\n####\n\na. Otsikko:\n2.4 Rakennuksen suunnittelu\n\nb. Nykyinen sisältö:\nRakennuksen suunnittelija vastaa suunnitelmansa sisällöstä ja siitä, että se täyttää lain, määräysten ja hyvän rakennustavan vaatimukset. Pääsuunnittelija vastaa ja huolehtii siitä, että ra- kennussuunnitelma ja erityissuunnitelmat muodostavat koko- naisuuden, joka täyttää sille asetetut vaatimukset sekä yhdes- sä rakennushankkeeseen ryhtyvän kanssa hankkeen laadun ja vaativuuden mukaan huolehtii, että\n• käytössä olevat lähtötiedot ovat ristiriidattomat ja ajan tasalla\nja saatettu muiden suunnittelijoiden tietoon,\n• eri alojen suunnittelijoilla on tieto suunnitelmien vastuunjaosta,\n• eri alojen suunnittelijoiden yhteistyö on järjestetty,\n• suunnittelulle on varattu riittävästi aikaa,\n• tarvittavat suunnitelmat tehdään ja ovat yhteensopivia ja risti- riidattomia. RakMK A2.\nSuunnittelijan on mitoitettava resurssinsa esimerkiksi muut meneillä olevat hankkeet, ko. rakennushanketta varten. Pää- suunnittelija huolehtii osaltaan, että laaditussa aikataulussa on suunnittelulle varattu riittävästi aikaa.\nErityissuunnitelmia ei lupakäsittelyssä varsinaisesti tarkasteta, vaan suunnittelija vastaa siitä, että suunnitelmat täyttävät niille asetetut vaatimukset.\n\nc. Päivitystarve:\nUuden lain 92 §:n mukaan pääsuunnittelijan on huolehdittava suunnittelun kokonaisuudesta ja laadusta sekä siitä, että rakennussuunnitelma ja erityissuunnitelmat muodostavat kokonaisuuden siten, että rakentamista koskevat säännökset ja määräykset sekä hyvän rakennustavan vaatimukset täyttyvät. Tämä kohta tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n92 § Pääsuunnittelija\n\n####\n\n####\n\na. Otsikko:\n3.1 Naapurien kuuleminen\n\nb. Nykyinen sisältö:\nRakennushankkeen koko ja sijainti vaikuttavat naapurien kuu- lemistapaan. Kuulemismenettelyjä ovat\n• rakennuslupahakemuksen vireilletulosta ilmoittaminen naa- pureille\n• asian vireilläolosta tiedottaminen rakennuspaikalla\n• katselmuksen toimittaminen rakennuspaikalla tarvittaessa.\nLuvanhakija voi itse etukäteen tiedottaa rakennuslupahake- muksesta naapureilleen. Tällöin viranomaisille annetaan selvi- tys kirjallisesti siitä, että naapureilla on tieto asiasta ja mahdolli- suus tutustua asiakirjoihin ja piirustuksiin.\nVaihtoehtoisesti rakennusvalvontaviranomainen voi hakijan kustannuksella lähettää rakennus- tai muun lupahakemuksen vireille tulosta kirjeen rakennuspaikan naapuritonttien haltijoille ja omistajille, joille varataan vähintään kaksi viikkoa postileiman päivämäärästä huomautuksen tekemiseen. Asia voidaan myös hoitaa viran puolesta hakijan kustannuksella kuulutuksella leh- dessä, esimerkiksi kun naapureita on paljon, naapuritontin omistaa suuri perikunta tai naapuri asuu ulkomailla.\n\nc. Päivitystarve:\nUuden lain 63 §:n mukaan kunnan on ilmoitettava rakentamislupahakemuksen vireilletulosta ja kuultava naapureita, jollei ilmoittaminen ja kuuleminen ole naapurien edun kannalta ilmeisen tarpeetonta. Tämä kohta tulee päivittää vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n63 § Kuuleminen ja tiedottaminen rakentamisluvasta\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "5": {
             "responses": [
@@ -718,8 +772,9 @@
                 "####\n\na. Otsikko:\n4 RAKENNUSLUPA\n\nb. Nykyinen sisältö:\nRakennuslupaa ja toimenpidelupaa vaativan toimenpiteen väli- sen rajan vetäminen on jätetty ensivaiheessa rakennusvalvon- taviranomaisen ratkaistavaksi. Rakentamisen ohjauksen ja val- vonnan tarve ja ympäristövaikutukset ratkaisevat sen, milloin ra- kennuskohteita on pidettävä rakennuksina tai milloin niihin so- velletaan toimenpidelupasäännöksiä.\nRakennusjärjestyksessä voidaan antaa helpotuksia luvan- varaisuuteen koskien toimenpidettä, jota kunnan tai sen osan olosuhteet huomioon ottaen pidetään vähäisenä, MRA 62 § ja 63 §. Rakennuslupa voidaan myöntää myös määräaikaisena tai tilapäiseen rakentamiseen.\n\nc. Päivitystarve:\nUuden lain 42 §:n mukaan rakentamislupa on tarpeen tietyille rakennuskohteille, ja 10 § määrittelee väliaikaisen rakennuksen kriteerit. Tämä vaikuttaa siihen, milloin rakennuslupa on tarpeen ja milloin rakennus voidaan katsoa väliaikaiseksi. Vanhan ohjeen teksti ei vastaa enää täysin uuden lain vaatimuksia, erityisesti väliaikaisen rakennuksen määrittelyn osalta.\n\nd. Viittaus uuteen lakiin:\n42 § Rakentamislupa\n10 § Väliaikainen rakennus\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "6": {
             "responses": [
@@ -731,8 +786,9 @@
                 "####\n\na. Otsikko:\nRakennuslupa tarvitaan mm.\n\nb. Nykyinen sisältö:\nRakennuslupa tarvitaan mm.\n• rakennuksen rakentamiseen\nsellaiseen korjaus- ja muutostyöhön, joka on verrattavissa ra- kennuksen rakentamiseen\n• rakennuksen laajentamiseen\nsellaiseen korjaus- ja muutostyöhön, jolla voi olla vaikutusta rakennuksen käyttäjien turvallisuuteen tai terveydellisiin oloihin. Tällaisia luvan vaativia korjaus- ja muutostöitä voivat olla esimerkiksi\nmärkätilojen rakentaminen\nlämmitys-, ilmanvaihto- sekä vesi- ja viemärijärjestelmän muutokset\nrakenteelliset tai rakennustekniikkaan liittyvät muutokset. käyttötarkoituksen olennaiseen muuttamiseen. Luvanvarai- suutta harkittaessa otetaan huomioon muutoksen vaikutus kaavan toteuttamiseen, muuhun maankäyttöön tai raken- nukselta vaadittaviin ominaisuuksiin. Tällaisia käyttötarkoi- tuksen olennaisia muutoksia ovat esimerkiksi\nmyymälän muutos myyntitilasta ravintolaksi teollisuus- ja varastorakennuksen muutos palovaaralli- suusluokaltaan vaativammaksi\nloma-asunnon muuttaminen pysyvään asumiseen.\n\nc. Päivitystarve:\nUuden lain 42 §:n mukaan rakentamislupa tarvitaan myös erityistä toimintaa varten rakennettavalle alueelle, josta aiheutuu vaikutuksia sitä ympäröivien alueiden käytölle. Tämä kohta tulee lisätä lupavaatimuksiin.\n\nd. Viittaus uuteen lakiin:\n42 § Rakentamislupa\n\n####\n\na. Otsikko:\nRakennuspaikkaa koskevat selvitykset\n\nb. Nykyinen sisältö:\nRakennuspaikkaa koskevat selvitykset\note alueen peruskartasta tai\nasemakaavaote asemakaava-alueella\nrakennuslupakartta\nasemakaavamääräykset kiinteistökartta\nrakennuskielto\ntontin pinta-alat\nkiinteistörekisteriote\n• selvitys rakennuspaikan pohjaolosuhteista\nja perustamistavasta, pintavaai'ituskartta\n• soveltuminen ympäristöön\n• mahdollisia muita selvityksiä, esimerkiksi\nterveellisyydestä ja korkeusasemasta ja näiden edellyttämästa perustamistavasta ja tarvittavista muista toimenpiteistä (radon, maaperän saastuminen, pohjavesien pilaantuminen), MRA 49 §\nalueelllisen ympäristökeskuksen lausunto, MRA 60 § museoviranomaisen lausunto\njulkisivupiirrokset\nleikkauspiirrokset\npohjapiirrokset\nΟ\nasemapiirros\nPääpiirustukset\nkopioida, jakaa, välittää, muunnella eikä ladata\ntekoälysovelluksiin.\nMuut lupahakemusasiakirjat\n\nc. Päivitystarve:\nUuden lain 61 §:n mukaan rakentamislupahakemukseen on liitettävä myös energiaselvitys, ilmastoselvitys ja materiaaliseloste. Nämä kohdat tulee lisätä lupahakemusasiakirjoihin.\n\nd. Viittaus uuteen lakiin:\n61 § Rakentamislupahakemus\n\n"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "7": {
             "responses": [
@@ -744,6 +800,7 @@
                 "####\n\na. Otsikko:\nlupahakemus\n\nb. Nykyinen sisältö:\n• tilastolomakkeet\n• todistus tontin hallintaoikeudesta ja\nkarttaote kiinteistörekisteristä\n• tonttijakokartta tarvittaessa\n• ote alueen peruskartasta tai\nasemakaavaote asemakaava-alueella\n• muita kuntakohtaisesti / hankekohtaisesti / vaadittavia / tarvittavia / asiakirjoja, esimerkiksi poikkeamispäätös, rasitesopimus, liikenneselvitys, vesi- ja viemäröintiselvitys\nRakennuslupahakemukseen liitettäviä, rakennushankkeeseen ryhtyvän toimittamia asiakirjoja.\n\nc. Päivitystarve:\nUuden lain 61 §:n mukaan rakennuslupahakemukseen on liitettävä useita uusia asiakirjoja, kuten energiaselvitys, ilmastoselvitys, materiaaliseloste ja selvitys rakennuspaikan terveellisyydestä ja korkeussuhteista. Nämä vaatimukset eivät ole mukana vanhassa ohjeistuksessa, joten se on päivitettävä vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n61 § Rakentamislupahakemus\n\n####"
             ],
             "empty_responses_count": 2,
+            "non_empty_responses_count": 4,
             "is_consistent": false,
             "is_semi_consistent": false
         },
@@ -757,8 +814,9 @@
                 "####\n\na. Otsikko:\nRakennusluvan edellytykset asemakaava-alueella\n\nb. Nykyinen sisältö:\n• MRL 135 §\nAsemakaava-alueella rakennusvalvontaviranomainen harkit-\nsee, että seuraavat rakennusluvan myöntämisen edellytykset toteutuvat\n• rakennushanke on voimassaolevan asemakaavan mukainen tai sillä on poikkeamispäätös\nasemakaavan ajanmukaisuuden arviointi (MRL 60 §) rakennuslupakäsittelyn lykkääminen kaavan ajanmukai- suuden arvioimiseksi (MRA 68 §)\n• rakennuspaikan yleiset edellytykset\nrakennuskieltoja ei ole\ntontti on rekisteröity tai on ehto rakennuksen käyttöönotosta rekisteröintiin jälkeen\npoikkeamispäätös on, jos tontti ei ole rekisteröity\nrakennushankkeeseen liittyvät historialliset tai rakennus- taiteelliset arvot otetaan huomioon\nrakennuspaikan meluhaitat, kunnallistekniikka otetaan huomioon\npilaantuneiden maiden poistaminen otetaan huomioon rakennuspaikalle on käyttökelpoinen pääsytie tai mahdolli- suus sellaisen järjestämiseen\nvedensaanti ja jätevedet voidaan hoitaa tyydyttävästi ja il- man haittaa ympäristölle\n• rakentaminen täyttää yleiset rakentamiselle asetetut vaati- mukset (MRL 117 §)\n• rakennus soveltuu paikalle\n• rakennusta ei sijoiteta tai rakenneta niin, että se tarpeetto- masti haittaa naapuria tai vaikeuttaa naapurikiinteistön sopi- vaa rakentamista.\n\nc. Päivitystarve:\nUuden lain 44 §:n mukaan asemakaava-alueella rakennusluvan myöntämisen edellytyksiin on lisätty vaatimuksia, kuten rakennuskohteen soveltuvuus rakennettuun ympäristöön ja maisemaan sekä kauneuden, korkeatasoisen arkkitehtuurin tai sopusuhtaisuuden vaatimukset. Lisäksi on huomioitava, että luvan hakijan on hallittava koko rakennuspaikkaa.\n\nd. Viittaus uuteen lakiin:\n44 § Sijoittamisen edellytykset asemakaava-alueella\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "9": {
             "responses": [
@@ -770,8 +828,9 @@
                 "####\n\na. Otsikko:\nRakennusluvan edellytykset asemakaava-alueen ulkopuolella\n\nb. Nykyinen sisältö:\n• MRL 136 §\nAsemakaava-alueen ulkopuolella rakennusvalvontaviranomai- nen harkitsee, että seuraavat rakennusluvan myöntämisen edel- lytykset toteutuvat\n• rakennuspaikka täyttää rakennuspaikkaa koskevat vaati- mukset (MRL 116 §)\n• rakentaminen täyttää yleiset rakentamiselle asetetut vaati- mukset (MRL 117 §)\n• rakennus soveltuu paikalle\n• rakennuspaikalle on pääsytie tai mahdollisuus sellaisen jär- jestämiseen\n• vedensaanti ja jätevedet voidaan hoitaa tyydyttävästi ja ilman haittaa ympäristölle\n• rakennusta ei sijoiteta tai rakenneta niin, että siitä on kohtuu- tonta haittaa naapurille tai naapurikiinteistön rakentamiselle • teiden rakentaminen, vedensaanti tai viemäröinti ei aiheuta erityisiä kustannuksia kunnalle\n• maakuntakaavasta tai yleiskaavasta johtuvat rakentamisra- joitukset (MRL 33 §) tai rakentamis- ja toimenpiderajoitukset (MRL 43 §) otetaan huomioon.\nAlueesta riippuen selvitetään rakennuskieltotilanne eli tarvit- seeko rakentaminen\nsuunnittelutarveratkaisun (MRL 137 §) tai poikkeamispäätöksen (MRL 172 §).\nRanta-alueelle ja rantavyöhykkeelle rakennettaessa tietyis- sä tapauksissa edellytetään ympäristökeskuksen poikkeamis- päätöstä.\n\nc. Päivitystarve:\nUuden lain 45 §:n mukaan asemakaava-alueen ulkopuolella rakennuspaikan on oltava kooltaan vähintään 1 000 neliömetriä, ja rakennukset on sijoitettava vähintään neljän metrin etäisyydelle kiinteistön rajasta. Lisäksi on otettava huomioon liikennejärjestelmästä ja maanteistä annetun lain suoja- ja näkemäalueet sekä ilmailulain lentoesteluvaatimukset. Nämä vaatimukset eivät ole mukana vanhassa ohjeistuksessa, joten ne on lisättävä.\n\nd. Viittaus uuteen lakiin:\n45 § Sijoittamisen edellytykset muualla kuin asemakaava-alueella\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "10": {
             "responses": [
@@ -783,8 +842,9 @@
                 "####\n\na. Otsikko:\nKuva 7.\n\nb. Nykyinen sisältö:\njulkisivupiirrokset\nleikkauspiirrokset\npohjapiirrokset\nasemapiirros\nΟ\ntontin tai rakennuspaikan pinta- vesien käsittely\n• piha- ja istutussuunnitelma\n• liikkumis- ja toimimisesteettömyys • jätevesien imeyttäminen tai muu käsittely sekä jätehuollon järjestä- minen haja-asutusalueella\n• selvitys kiinteistön jätehuollon järjestämisestä\n• väestönsuojasuunnitelma\n• kerrosalaselvitys\n• rakenteet poikkileikkauksina\npaloturvallisuussuunnitelma\nliikkumis- ja toimimisesteettömyys\n• rakennusosien poikkileikkaukset selitteineen • rakennusrungon perusperiaatteet\n• liittyminen ympäröivään rakennuskantaan myös naapurikiinteistöjen rakennuksiin julkisivujen värityssuunnitelma\n• pintamateriaalit\nPääpiirustuksia täydentäviä selvityksiä, jotka tarvittaessa laadi- taan erillisinä asiakirjoina.\n\nc. Päivitystarve:\nUuden lain 14 §:n mukaan rakennushankkeeseen ryhtyvän on huolehdittava, että uusiutuvista lähteistä peräisin olevan energian osuus on vähintään 38 prosenttia, jos se on teknisesti, toiminnallisesti ja taloudellisesti toteutettavissa. Tämä vaatimus tulee lisätä jätehuollon ja energiatehokkuuden suunnitteluun.\n\nd. Viittaus uuteen lakiin:\n14 § Uusiutuvista lähteistä peräisin olevan energian vähimmäisosuus\n\n####\n\na. Otsikko:\nKuva 7.\n\nb. Nykyinen sisältö:\njulkisivupiirrokset\nleikkauspiirrokset\npohjapiirrokset\nasemapiirros\nΟ\ntontin tai rakennuspaikan pinta- vesien käsittely\n• piha- ja istutussuunnitelma\n• liikkumis- ja toimimisesteettömyys • jätevesien imeyttäminen tai muu käsittely sekä jätehuollon järjestä- minen haja-asutusalueella\n• selvitys kiinteistön jätehuollon järjestämisestä\n• väestönsuojasuunnitelma\n• kerrosalaselvitys\n• rakenteet poikkileikkauksina\npaloturvallisuussuunnitelma\nliikkumis- ja toimimisesteettömyys\n• rakennusosien poikkileikkaukset selitteineen • rakennusrungon perusperiaatteet\n• liittyminen ympäröivään rakennuskantaan myös naapurikiinteistöjen rakennuksiin julkisivujen värityssuunnitelma\n• pintamateriaalit\nPääpiirustuksia täydentäviä selvityksiä, jotka tarvittaessa laadi- taan erillisinä asiakirjoina.\n\nc. Päivitystarve:\nUuden lain 16 §:n mukaan purkumateriaali- ja rakennusjäteselvityksessä on ilmoitettava arviot purkumateriaalien määristä ja selvitys on päivitettävä hankkeen valmistuttua. Tämä vaatimus tulee lisätä jätehuollon suunnitteluun.\n\nd. Viittaus uuteen lakiin:\n16 § Purkumateriaali- ja rakennusjäteselvitys\n\n####\n\na. Otsikko:\nKuva 7.\n\nb. Nykyinen sisältö:\njulkisivupiirrokset\nleikkauspiirrokset\npohjapiirrokset\nasemapiirros\nΟ\ntontin tai rakennuspaikan pinta- vesien käsittely\n• piha- ja istutussuunnitelma\n• liikkumis- ja toimimisesteettömyys • jätevesien imeyttäminen tai muu käsittely sekä jätehuollon järjestä- minen haja-asutusalueella\n• selvitys kiinteistön jätehuollon järjestämisestä\n• väestönsuojasuunnitelma\n• kerrosalaselvitys\n• rakenteet poikkileikkauksina\npaloturvallisuussuunnitelma\nliikkumis- ja toimimisesteettömyys\n• rakennusosien poikkileikkaukset selitteineen • rakennusrungon perusperiaatteet\n• liittyminen ympäröivään rakennuskantaan myös naapurikiinteistöjen rakennuksiin julkisivujen värityssuunnitelma\n• pintamateriaalit\nPääpiirustuksia täydentäviä selvityksiä, jotka tarvittaessa laadi- taan erillisinä asiakirjoina.\n\nc. Päivitystarve:\nUuden lain 35 §:n mukaan esteettömyys ja käytettävyys on otettava huomioon erityisesti lasten, ikääntyneiden, vammaisten ja liikkumis- ja toimimisesteisten henkilöiden kannalta. Tämä vaatimus tulee lisätä esteettömyyden suunnitteluun.\n\nd. Viittaus uuteen lakiin:\n35 § Esteettömyys"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "11": {
             "responses": [
@@ -796,8 +856,9 @@
                 "####\n\na. Otsikko:\nKuva 8.\n\nb. Nykyinen sisältö:\n• erityissuunnitelmia kvv-, LVI- ja rakennesuunnitelmat\n• energiataloudellinen selvitys\n• rakennuksen äänitekninen toimivuus\n• rakennuksen kosteustekninen toimivuus\n• rakenteiden kokonaisvakavuus ja lujuus\n• sisäilmastotavoitteet ja niihin vaikuttavat tekijät poistumisaikalaskelma / turvallisuusselvitys\n• korjausrakentamishankkeessa rakennukseen tai sen osaan kohdistuva kuntotutkimus rakennustaiteellisesti tai kulttuurihistoriallisesti arvokkaan rakennuksen rakennushistoriallinen selvitys\nTarvittaessa hakemukseen liitettäviä tai lupapäätöksessä mahdollisesti vaadittavia selvityksiä.\n\nc. Päivitystarve:\nUuden lain 61 §:n mukaan rakentamislupahakemukseen on liitettävä myös ilmastoselvitys ja materiaaliseloste, joita ei mainita vanhassa ohjeessa. Lisäksi uuden lain 69 §:ssä vaaditaan erityissuunnitelmien toimittamista tietomallimuotoisina tai koneluettavassa muodossa, mikä ei käy ilmi vanhasta ohjeesta.\n\nd. Viittaus uuteen lakiin:\n61 § Rakentamislupahakemus\n69 § Erityissuunnitelman toimittaminen"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "12": {
             "responses": [
@@ -809,8 +870,9 @@
                 "####\n\na. Otsikko:\n5 TOIMENPIDELUPA\n\nb. Nykyinen sisältö:\nRakennuksena ei pidetä kooltaan vähäistä ja kevytrakenteista rakennelmaa tai pienehköä laitosta, ellei sillä ole erityisiä maan- käytöllisiä tai ympäristöllisiä vaikutuksia. Jos jonkin rakennelman tai laitoksen pystyttäminen vaatii viranomaisvalvontaa, tulkitaan se rakennukseksi ja sille haetaan rakennuslupa. Kuva 9.\nToimenpideluvat voidaan korvata kokonaan tai osittain kun- nan rakennusjärjestyksessä ilmoitusmenettelyllä. Vähäiset toi- menpiteet voidaan rakennusjärjestyksessä vapauttaa ennakol- lisesta viranomaisvalvonnasta kokonaankin.\n\nc. Päivitystarve:\nUuden lain 42 §:n mukaan rakentamislupa vaaditaan tietyille rakennuskohteille, kuten asuinrakennuksille ja kooltaan vähintään 30 neliömetrin rakennuksille. Tämä vaikuttaa siihen, miten rakennuksia ja rakennelmia tulkitaan ja milloin rakennuslupa on tarpeen. Vanhan ohjeen määritelmä vähäisistä rakennelmista ja toimenpideluvista ei ole enää riittävä uuden lain vaatimusten valossa.\n\nd. Viittaus uuteen lakiin:\n42 § Rakentamislupa\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "13": {
             "responses": [
@@ -822,8 +884,9 @@
                 "####\n\na. Otsikko:\nToimenpideluvan tarve\n\nb. Nykyinen sisältö:\nKuntien rakennusvalvontaviranomaiset antavat tietoja ja neu- voja toimenpideluvan tarpeesta perustuen maankäyttö- ja ra- kennuslakiin sekä kunnan rakennusjärjestykseen, jossa mää- rätään toimenpideluvan tarve ja luvan tarpeesta vapauttami- sesta. Toimenpidelupa haetaan rakennusluvan sijasta\n• sellaisten rakennelmien ja laitosten, kuten maston, säiliön ja piipun pystyttämiseen, joiden lupa-asian ratkaiseminen ei edellytä rakennuslupaa\n• sellaisen rakennelman ja laitoksen pystyttämiseen ja sijoitta- miseen, jota ei pidetä rakennuksena\n• muuhun kuin rakennuslupaa vaativaan rakennuksen ulko- asua muuttavaan toimenpiteeseen\n• asuinhuoneiston yhdistämiseen tai jakamiseen.\nToimenpiteiden luvanvaraisuudesta on asetuksessa yksitois- takohtainen luettelo, MRA 62 §. Kuva 9.\nLuettelossa mainitun rakennelman tai laitoksen pystyttämi- seen tai sijoittamiseen voidaan vaatia rakennuslupa turvalli- suuteen, terveellisyyteen, maisemaan, viihtyisyyteen tai muu- hun ympäristönäkökohtaan liittyvästä syystä.\nJos toimenpiteellä ei ole vaikutusta luonnonoloihin, ympä- röivän alueen maankäyttöön taikka kaupunki- tai maisemaku- vaan, ei toimenpidelupakaan ole tarpeen. Esimerkiksi pientalo- tontin perällä olevan tavallisen leikkimökin tai kasvihuoneen ra- kentaminen voi olla tällainen toimenpide.\nKevyet rakennelmat tai pienehköt laitokset, esimerkiksi jako- kaapit, kierrätysastiat, postilaatikot, betoniset ajoesteet, lehtien jakelulaatikot, eivät yleensä tarvitse lupaa eikä niistä tarvitse il- moittaa. Niiden tulee kuitenkin sopeutua ympäristöön eivätkä ne saa olla haitaksi liikenteelle. Tarvittaessa kunnan rakennus- valvontaviranomainen voi jälkivalvonnan keinoin puuttua tilan- teeseen.\n\nc. Päivitystarve:\nUuden lain mukaan toimenpidelupaa ei enää mainita erikseen, vaan kaikki rakentamiseen liittyvät luvat käsitellään rakentamisluvina. Tämä tarkoittaa, että vanhan ohjeen maininnat toimenpideluvasta ja sen tarpeesta ovat vanhentuneita ja ne tulee päivittää vastaamaan uuden lain mukaista lupakäytäntöä.\n\nd. Viittaus uuteen lakiin:\n42 § Rakentamislupa\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "14": {
             "responses": [
@@ -835,8 +898,9 @@
                 "####\n\na. Otsikko:\nASUINHUONEISTON MUUTOKSET\n\nb. Nykyinen sisältö:\n• vastuu hankkeeseen ryhtyvällä\nmuutoksen suorittaja taloyhtiö\n• pätevä suunnittelija, hankkeen laadun ja tehtävän vaativuuden edellyttämä koulutus ja kokemus\n• muutossuunnitelmat\n•\nrakennussuunnitelmat\nrakennesuunnitelmat\nerityissuunnitelmat LVIS\nnoudatetaan määräyksiä\nMRL ja MRA\nRakMK osat\nRAKENNUSLUPAA EDELLYTTÄVÄT MUUTOKSET\n\nc. Päivitystarve:\nUuden lain mukaan suunnittelijoiden kelpoisuusvaatimukset on määritelty tarkemmin, ja suunnittelijoiden on osoitettava pätevyytensä ympäristöministeriön valtuuttaman toimijan antamalla todistuksella. Tämä vaikuttaa suunnittelijoiden kelpoisuusvaatimuksiin ja pätevyyden osoittamiseen.\n\nd. Viittaus uuteen lakiin:\n83 § Suunnittelijoiden kelpoisuusvaatimukset\n\n####\n\na. Otsikko:\nILMOITUSMENETTELY\n\nb. Nykyinen sisältö:\n• MRL 129 § • MRA 63 §\nIlmoitusmenettelyn käyttäminen\nKunta voi rakennusjärjestyksessä määrätä, että merkityksel- tään ja vaikutukseltaan vähäiseen rakentamiseen tai muuhun toimenpiteeseen voidaan ryhtyä ilman rakennus- tai toimenpi- delupaa sen jälkeen, kun asianomainen on tehnyt tätä koske- van ilmoituksen kunnan rakennusvalvontaviranomaiselle.\nKunnan rakennusvalvontaviranomaisen tulee ilmoituksen si- jasta edellyttää rakennus- tai toimenpideluvan hakemista, jos se yleisen edun tai naapurien oikeusturvan kannalta on tar- peen. Rakentamiseen tai muuhun toimenpiteeseen voidaan ryhtyä, jollei rakennusvalvontaviranomainen 14 päivän kulues- sa ilmoituksen vastaanottamisesta ole edellyttänyt luvan hake- mista ilmoitettuun hankkeeseen.\nRakennusjärjestyksessä voidaan määrätä ilmoitusmenette- lyn soveltamisesta olosuhteet huomioonottaen vähäisenä pi- dettyyn toimenpiteeseen.\nIlmoituksentekijältä voidaan edellyttää naapurien suostu- muksen liittämistä ilmoitukseen.\n\nc. Päivitystarve:\nUuden lain mukaan rakentamislupa tarvitaan myös sellaiseen korjaus- ja muutostyöhön, joka on verrattavissa rakennuksen rakentamiseen, sekä rakennuksen laajentamiseen tai sen kerrosalaan laskettavan tilan lisäämiseen. Tämä vaikuttaa ilmoitusmenettelyn soveltamiseen ja lupavaatimuksiin.\n\nd. Viittaus uuteen lakiin:\n42 § Rakentamislupa\n\n####\n\na. Otsikko:\nTOIMENPIDELUPAA EDELLYTTÄVÄT MUUTOKSET\n\nb. Nykyinen sisältö:\n• asuinhuoneistojen yhdistäminen\n• asuinhuoneiston jakaminen\n• julkisivumuutokset yleensä\n\nc. Päivitystarve:\nUuden lain mukaan rakennusvalvontaviranomainen voi edellyttää erityismenettelyä, kuten ulkopuolista tarkastusta, jos korjaus- ja muutostyössä havaitaan vaurioita ja rakenteita, joita ei ole suunnitelmissa huomioitu. Tämä vaikuttaa toimenpidelupaa edellyttäviin muutoksiin ja niiden käsittelyyn.\n\nd. Viittaus uuteen lakiin:\n116 § Erityismenettely\n\n"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "15": {
             "responses": [
@@ -848,8 +912,9 @@
                 "####\n\na. Otsikko:\n7 PURKAMISLUPA JA -ILMOITUS\n\nb. Nykyinen sisältö:\n• MRL 127 §, 139 §\n• MRA 67 §, 69 §\n\nc. Päivitystarve:\nUuden lain 55 §:n mukaan purkamislupaa ei tarvita, jos voimassa oleva rakentamislupa, alueidenkäyttölain mukainen katusuunnitelma, liikennejärjestelmästä ja maanteistä annetun lain mukainen hyväksytty tiesuunnitelma tai ratalain mukainen hyväksytty ratasuunnitelma edellyttävät rakennuksen purkamista. Lisäksi uuden lain 56 §:ssä on tarkennettu purkamisluvan myöntämisen edellytyksiä, kuten vaatimusta merkittävään purkumateriaalien uudelleenkäyttöön tai kierrätykseen, jos rakennukset ovat menettäneet suurimman osan arvostaan. Nämä kohdat tulee päivittää vastaamaan uusia velvoitteita.\n\nd. Viittaus uuteen lakiin:\n55 § Rakennuksen purkamislupa\n56 § Purkamisluvan edellytykset"
             ],
             "empty_responses_count": 1,
+            "non_empty_responses_count": 5,
             "is_consistent": false,
-            "is_semi_consistent": false
+            "is_semi_consistent": true
         },
         "16": {
             "responses": [
@@ -861,8 +926,9 @@
                 "####\n\na. Otsikko:\nPurkamisluvan tarve\n\nb. Nykyinen sisältö:\nPurkamislupa tarvitaan\n• rakennuskieltoalueella ja asemakaava-alueella\n• yleiskaava-alueella, jolla näin on määrätty. Purkamislupaa ei tarvita\n• jos voimassa olevan rakennusluvan toteuttaminen edellyttää rakennuksen purkamista\n• jos vahvistettu katu- tai tiesuunnitelma edellyttää rakennuksen purkamista\n• jos kyseessä on vähäinen talousrakennus tms., jota ei pidetä historiallisesti tai rakennustaiteellisesti arvokkaana tai tällaisen kokonaisuuden osana.\n\nc. Päivitystarve:\nUuden lain 55 §:n mukaan purkamislupaa ei tarvita, jos kyseessä on talousrakennus tai muu vähäinen rakennus, ellei rakennusta pidetä historiallisesti merkittävänä tai rakennustaiteellisesti arvokkaana tai tällaisen kokonaisuuden osana. Tämä kohta on jo mainittu vanhassa ohjeessa, mutta uuden lain mukaan purkamisilmoitus on tehtävä 30 päivää ennen purkamistyöhön ryhtymistä, jos lupaa ei tarvita. Tämä vaatimus puuttuu vanhasta ohjeesta ja se tulee lisätä.\n\nd. Viittaus uuteen lakiin:\n55 § Rakennuksen purkamislupa"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "17": {
             "responses": [
@@ -873,8 +939,9 @@
                 "####\n\na. Otsikko:\nPurkamisilmoitus\n\nb. Nykyinen sisältö:\nVaikka purkamislupaa ei tarvita, purkamisesta tehdään purka- misilmoitus rakennusvalvontaviranomaiselle 30 päivää ennen purkamistyöhön ryhtymistä. Rakennusvalvontaviranomainen voi perustelluista syistä vaatia luvan hakemista tämän ajan kuluessa.\n\nc. Päivitystarve:\nUuden lain 55 §:n mukaan purkamisilmoitus on tehtävä kirjallisesti kunnan rakennusvalvontaviranomaiselle 30 päivää ennen purkamistyöhön ryhtymistä, ja rakennusvalvontaviranomainen voi vaatia luvan hakemista perustellusta syystä. Tämä vastaa vanhan ohjeen sisältöä, joten päivitystä ei tarvita.\n\nd. Viittaus uuteen lakiin:\n55 § Rakennuksen purkamislupa\n\nEi päivitettävää.",
                 "####\n\na. Otsikko:\nPurkamisilmoitus\n\nb. Nykyinen sisältö:\nVaikka purkamislupaa ei tarvita, purkamisesta tehdään purka- misilmoitus rakennusvalvontaviranomaiselle 30 päivää ennen purkamistyöhön ryhtymistä. Rakennusvalvontaviranomainen voi perustelluista syistä vaatia luvan hakemista tämän ajan kuluessa.\n\nc. Päivitystarve:\nUuden lain 55 §:n mukaan purkamisilmoitus on tehtävä kirjallisesti kunnan rakennusvalvontaviranomaiselle, ja viranomainen voi vaatia luvan hakemista 30 päivän kuluessa ilmoituksen tekemisestä. Tämä kohta on jo linjassa uuden lain kanssa, mutta on hyvä tarkistaa, että käytännön menettelytavat vastaavat lain vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n55 § Rakennuksen purkamislupa\n\n####"
             ],
-            "empty_responses_count": 3,
-            "is_consistent": false,
+            "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
+            "is_consistent": true,
             "is_semi_consistent": false
         },
         "18": {
@@ -887,8 +954,9 @@
                 "####\n\na. Otsikko:\nPurkamisluvan edellytykset\n\nb. Nykyinen sisältö:\nPurkamisluvan myöntämisen edellytyksenä on, että\n• purkaminen ei merkitse rakennettuun ympäristöön sisältyvi- en perinne-, kauneus- tai muiden arvojen hävittämistä eikä haittaa kaavoituksen toteuttamista\npurkamistyön järjestäminen selvitetään yksityiskohtaisesti, esimerkiksi purkamisen turvallisuusriskit sekä niiden eliminoi- minen\n• rakennusjätteen käsittely ja käyttökelpoisten rakennusosien hyväksi käyttäminen selvitetään lupahakemuksessa\n• rakennusvalvontaviranomainen tiedottaa kunnanhallituksel- le ja alueelliselle ympäristökeskukselle purkamisaikomuk- sesta, jos historiallisesti tai rakennustaiteellisesti arvokas ra- kennus, kaupunkikuva tai rakennettu ympäristö on vaarassa turmeltua.\nMyönnetyistä purkamisluvista rakennusvalvontaviranomai- nen ilmoittaa alueelliselle ympäristökeskukselle, jolla myös on niistä valitusoikeus.\nKun purkamislupa tarvitaan, purkamistöitä ei saa aloittaa, en- nenkuin purkamislupa on lainvoimainen.\n\nc. Päivitystarve:\nUuden lain 56 §:n mukaan purkamislupaa myönnettäessä on otettava huomioon, ettei purkaminen vaikeuta rakennetun ympäristön suojelemista koskevien tavoitteiden saavuttamista. Lisäksi purkamisen edellytyksenä on, että purkaminen johtaa merkittävään purkumateriaalien uudelleenkäyttöön tai kierrätykseen, jos rakennukset ovat menettäneet suurimman osan arvostaan. Tämä vaatimus ei ole mainittu vanhassa ohjeessa, joten se tulee lisätä.\n\nd. Viittaus uuteen lakiin:\n56 § Purkamisluvan edellytykset\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "19": {
             "responses": [
@@ -900,8 +968,9 @@
                 "####\n\na. Otsikko:\n8 MAISEMATYÖLUPA\n\nb. Nykyinen sisältö:\n• MRL 128 §, 140 §\n• MRA 69 §, 72 §\nMaisematyölupa koskee maisemaa muuttavaa maanraken- nustyötä eli kaivamista, louhimista, tasoittamista ja täyttämistä sekä puiden kaatamista tai muuta näihin rinnastettavaa työtä. Kaivaminen, louhiminen, puiden kaataminen tai muu näihin verrattava rakentamista valmisteleva toimenpide voidaan suo- rittaa ennen rakennustyön aloittamista noudattaen, mitä maise- matyöluvasta säädetään.\n\nc. Päivitystarve:\nUuden lain 53 §:n mukaan maisematyölupaa koskevat säännökset ovat muuttuneet, ja on tärkeää huomioida, että maisematyölupaa ei tarvita yleis- tai asemakaavan toteuttamiseksi tarpeellisten taikka myönnetyn rakentamisluvan mukaisten töiden suorittamiseen eikä vaikutuksiltaan vähäisiin toimenpiteisiin. Tämä muutos vaikuttaa siihen, milloin maisematyölupa on tarpeen, ja vanha ohjeistus tulee päivittää vastaamaan uusia säädöksiä.\n\nd. Viittaus uuteen lakiin:\n53 § Maisematyölupa\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "20": {
             "responses": [
@@ -913,8 +982,9 @@
                 "####\n\na. Otsikko:\nMaisematyöluvan tarve\n\nb. Nykyinen sisältö:\nMaisematyölupa tarvitaan\n• asemakaava-alueella\n• yleiskaava-alueella, jolla näin on määrätty\n• rakennuskieltoalueella.\nMaisematyölupaa\n• ei tarvita rakennus- tai toimenpideluvan mukaisten töiden suorittamiseen tai vähäisiin toimenpiteisiin\n• ei sovelleta sellaiseen maa-ainesten ottamiseen, johon tarvi- taan maa-aineslain mukainen lupa.\n\nc. Päivitystarve:\nUuden lain 53 §:n mukaan maisematyölupaa ei tarvita, jos toimenpide perustuu liikennejärjestelmästä ja maanteistä annetun lain mukaiseen hyväksyttyyn tiesuunnitelmaan tai ratalain mukaiseen hyväksyttyyn ratasuunnitelmaan. Tämä kohta tulee lisätä vanhaan ohjeeseen.\n\nd. Viittaus uuteen lakiin:\n53 § Maisematyölupa\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "21": {
             "responses": [
@@ -926,8 +996,9 @@
                 "####\n\na. Otsikko:\nMaisematyöluvan edellytykset\n\nb. Nykyinen sisältö:\nMaisematyölupaa myönnettäessä edellytetään, että\n• toimenpide asemakaava- tai yleiskaava-alueella ei vaikeuta alueen käyttämistä kaavassa varattuun tarkoitukseen eikä turmele kaupunki- tai maisemakuvaa\n• toimenpide rakennuskieltoalueella tai alueella, jolla on toi- menpiderajoitus, ei tuota huomattavaa haittaa kaavan laati- miselle eikä turmele kaupunki- tai maisemakuvaa.\nMyönnetyistä maisemaluvista rakennusvalvontaviranomai- nen ilmoittaa viipymättä alueelliselle ympäristökeskukselle, jol- la myös on niistä valitusoikeus.\n\nc. Päivitystarve:\nUuden lain 54 §:n mukaan maisematyölupa on myönnettävä, jos toimenpide ei vaikeuta alueen käyttämistä kaavassa varattuun tarkoitukseen tai turmele kaupunki- tai maisemakuvaa. Lisäksi on huomioitava, että alueella, jolle on määrätty rakennuskielto asemakaavan laatimista tai muuttamista varten, lupa voidaan myöntää, jos toimenpide ei tuota huomattavaa haittaa kaavan laatimiselle tai turmele kaupunki- tai maisemakuvaa. Uusi laki ei mainitse ilmoitusvelvollisuutta alueelliselle ympäristökeskukselle, joten tämä kohta on poistettava tai tarkistettava.\n\nd. Viittaus uuteen lakiin:\n54 § Maisematyöluvan edellytykset\n\n####\n\na. Otsikko:\nPurkamisilmoitus\n\nb. Nykyinen sisältö:\n• rakennuskielto- alueella\n• asemakaava-\nalueella\n• yleiskaava-\nalueella, jos\nnäin on määrätty\n• voimassaolevan rakennusluvan toteuttaminen edellyttää purkua\n• vahvistettu katu- tai tiesuunnitelma edellyttää purkua\n• vähäinen talous- rakennus tms.. jolla ei historial- lista tai rakennus- taiteellista arvoa\n\nc. Päivitystarve:\nUuden lain 55 §:n mukaan purkamisilmoitus on tehtävä, jos purkamiseen ei tarvita lupaa. Lisäksi on huomioitava, että purkamisilmoitus on tehtävä 30 päivää ennen purkamistyöhön ryhtymistä, ja rakennusvalvontaviranomainen voi vaatia luvan hakemista perustellusta syystä. Tämä tarkennus on lisättävä ohjeistukseen.\n\nd. Viittaus uuteen lakiin:\n55 § Rakennuksen purkamislupa\n\n"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "22": {
             "responses": [
@@ -939,8 +1010,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "23": {
             "responses": [
@@ -952,8 +1024,9 @@
                 "####\n\na. Otsikko:\n9 SUUNNITTELUTARVERATKAISU JA POIKKEAMINEN\n\nb. Nykyinen sisältö:\n• MRL 16 §, 72 §, 137 §, 172 §, 173 §, 175 § • MRA 85 §, 86 §, 87 §, 88 §, 89 §, 90 §\nEnnen rakennuslupaa saatetaan edellyttää suunnittelutarve- ratkaisua tai poikkeamispäätöstä.\nKunta voi oikeusvaikutteisessa yleiskaavassa tai rakennusjär- jestyksessä osoittaa suunnittelutarvealueeksi alueen, jolla sen si- jainnin vuoksi on odotettavissa suunnittelua edellyttävää yhdys- kuntakehitystä tai jolla erityisten ympäristöarvojen tai ympäristö- haittojen vuoksi on tarpeen suunnitella maankäyttöä. Yleiskaavan tai rakennusjärjestyksen määräys alueen osoittamisesta suunnit- telutarvealueeksi on voimassa enintään 10 vuotta kerrallaan.\nKaikki kunnan suunnittelutarveratkaisut käsitellään kunnas- sa yleensä erillisinä hakemuksina. Suunnittelutarveratkaisu voidaan tarvittaessa tehdä rakennusluvan kanssa samanaikai- sesti. Rakennustöitä ei voi kuitenkaan aloittaa ennen kuin suunnittelutarveratkaisu tai poikkeamispäätös on saavuttanut lainvoiman.\n\nc. Päivitystarve:\nUuden lain mukaan suunnittelutarvealueen edellytykset on määritelty tarkemmin, ja niihin on lisätty uusia vaatimuksia, kuten yhdyskuntateknisten verkostojen ja liikenneväylien toteuttamisen sopivuus. Lisäksi poikkeamislupaa koskevat säännökset ovat muuttuneet, ja ne on päivitetty uuden lain mukaisiksi.\n\nd. Viittaus uuteen lakiin:\n46 § Sijoittamisen edellytykset suunnittelutarvealueella\n57 § Poikkeamislupa"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "24": {
             "responses": [
@@ -965,8 +1038,9 @@
                 "####\n\na. Otsikko:\nErityiset edellytykset suunnittelutarvealueella\n\nb. Nykyinen sisältö:\nSuunnittelutarvealueella, jolle ei ole hyväksytty asemakaavaa, rakennusluvan edellytyksenä on, että rakentaminen\n• ei aiheuta haittaa kaavoitukselle tai alueiden käytön muulle järjestämiselle\n• ei aiheuta haitallista yhdyskuntakehitystä\n• on sopivaa maisemallisesti eikä vaikeuta luonnon- tai kulttuu- riympäristön arvojen säilyttämistä eikä virkistystarpeiden tur- vaamista.\nEdellytysten olemassaolon ratkaisee kunnan päättämä vi- ranomainen, yleensä rakennusvalvontaviranomainen yhdessä kaavoituksesta vastaavan viranomaisen kanssa, rakennuslu- pamenettelyn yhteydessä tai erillisessä menettelyssä. Kunnan tulee toimittaa lupapäätös tiedoksi alueelliselle ympäristökes- kukselle.\n\nc. Päivitystarve:\nUuden lain mukaan suunnittelutarvealueella rakentamisen edellytyksiin on lisätty, että rakentaminen ei saa olennaisesti vaikeuttaa kunnan kaavoituskatsauksen mukaista yleis- tai asemakaavan laatimista, eikä se saa johtaa vaikutuksiltaan merkittävään rakentamiseen tai aiheuttaa merkittäviä haitallisia ympäristö- tai muita vaikutuksia, jotka edellyttävät asemakaavan laatimista. Lisäksi on mainittu, että rakentaminen on sopivaa yhdyskuntateknisten verkostojen ja liikenneväylien toteuttamisen sekä liikenneturvallisuuden ja palveluiden saavutettavuuden kannalta.\n\nd. Viittaus uuteen lakiin:\n46 § Sijoittamisen edellytykset suunnittelutarvealueella"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "25": {
             "responses": [
@@ -978,6 +1052,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 4,
+            "non_empty_responses_count": 2,
             "is_consistent": false,
             "is_semi_consistent": false
         },
@@ -991,8 +1066,9 @@
                 "####\n\na. Otsikko:\nPoikkeamismenettely\n\nb. Nykyinen sisältö:\nEnnen poikkeamista koskevan asian ratkaisemista on naapureille ja muille, joiden oloihin hanke saattaa huomattavasti vaikuttaa, varattava tilaisuus kirjallisen muistutuksen tekemiseen. Poikkeamispäätöksen tekee pääsääntöisesti kaavoitusviranomainen, poikkeustapauksissa alueellinen ympäristökeskus. Tarvittaessa on pyydettävä alueellisen ympäristökeskuksen lausunto.\nPoikkeamispäätöksen tekee joko kunnan viranomainen (kunnanhallitus, kaavoitusviranomainen, rakennusvalvontaviranomainen) tai laissa luetelluissa tilanteissa alueellinen ympäristökeskus.\nAlueellisen ympäristökeskuksen lausunto on pyydettävä aina, kun poikkeaminen koskee\n• rantarakentamista\n• aluetta, jolla on valtakunnalliset alueidenkäyttötavoitteet\n• luonnonsuojelun kannalta merkittävää aluetta\n• rakennussuojelun kannalta merkittävää kohdetta tai aluetta\n• virkistys- ja suojelualueeksi varattua aluetta\n• rakennusoikeuden lisäämistä.\n\nc. Päivitystarve:\nUuden lain mukaan poikkeamispäätöksen tekee kunta erityisestä syystä, ja alueellisen ympäristökeskuksen lausuntoa ei enää mainita pakollisena kaikissa tapauksissa. Lisäksi poikkeamislupaa koskevat edellytykset on määritelty tarkemmin, ja ne sisältävät muun muassa vaikutukset kaavoitukseen, luonnonsuojeluun ja rakennetun ympäristön suojeluun. Tämä edellyttää vanhan ohjeen päivittämistä vastaamaan uusia säädöksiä.\n\nd. Viittaus uuteen lakiin:\n57 § Poikkeamislupa\n67 § Lausunto poikkeamisluvasta sekä rakentamisluvasta suunnittelutarvealueelle sijoittuvan rakennuspaikan osalta"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "27": {
             "responses": [
@@ -1004,8 +1080,9 @@
                 "####\n\na. Otsikko:\nVähäinen poikkeaminen\n\nb. Nykyinen sisältö:\nPäätöksenteossa katsotaan, että poikkeaminen ei ole alueiden käytön suunnitteluun liittyvien edellytysten vastaista tai vaikeuta säännöksessä mainittujen tavoitteiden toteutumista tai saavuttamista. Poikkeaminen ei saa myöskään merkitä rakentamiselle asetettujen keskeisten vaatimusten syrjäytymistä. Vähäistä poikkeamista koskeva päätös tehdään tapauskohtaisesti rakennuslupapäätöksen yhteydessä. Tässä yhteydessä on mahdollista vähäisessä määrin poiketa kaikista säännöksistä, määräyksistä, kielloista ja muista rajoituksista, ei kuitenkaan sunnittelutarveratkaisua ja maisematyölupaa koskevista säännöksistä.\n• osoittaa alueen sijainnin\n• olemassaolevat rakennukset suunnitellut rakennukset\nrakennustoimenpiteet rakennuspaikalla\nympäristökartta\nasemapiirros\n• arvio poikkeamista koskevan hakemuksen keskeisistä\nvaikutuksista ja hakemuksen perustelut\n• todistus tontin hallintaoikeudesta\n• selvitys kuulemisesta, MRA 86 §\n• poikkeamishakemus\n\nc. Päivitystarve:\nUuden lain 59 §:n mukaan vähäisen poikkeamisen edellytyksenä on, ettei poikkeaminen vaaranna rakentamiselle asetettujen keskeisten vaatimusten täyttymistä. Tämä vaatimus on jo mainittu vanhassa ohjeessa, mutta uusi laki täsmentää, että poikkeaminen ei saa vaarantaa keskeisten vaatimusten täyttymistä, mikä on tärkeä huomioida päätöksenteossa. Lisäksi uusi laki korostaa, että poikkeaminen ei saa vaarantaa rakentamiselle asetettujen keskeisten vaatimusten täyttymistä, mikä on tärkeä huomioida päätöksenteossa.\n\nd. Viittaus uuteen lakiin:\n59 § Lupa vähäiseen poikkeamiseen rakentamisluvan yhteydessä"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "28": {
             "responses": [
@@ -1017,8 +1094,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "29": {
             "responses": [
@@ -1030,6 +1108,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 5,
+            "non_empty_responses_count": 1,
             "is_consistent": false,
             "is_semi_consistent": true
         }
@@ -1045,8 +1124,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "2": {
             "responses": [
@@ -1058,8 +1138,9 @@
                 "####\n\na. Otsikko:\n2.1 Suunnitelma-asiakirjat\n\nb. Nykyinen sisältö:\nrakenteiden lämpö- ja kosteustekninen toimivuus rakenteiden kantavuus ja kestävyys rakennusmateriaalien päästöluokitus rakennustarvikkeiden ja -aineiden ja niiden yhteensopivuuden varmistaminen ja sertifioitujen tuotejärjestelmien käyttö rakenteiden korjattavuus palo- ja ääneneristys LVIS-asennukset tilakohtaisesti harkitut toiminnalliset ratkaisut työturvallisuus.\n\nc. Päivitystarve:\nUuden lain 33 §:n mukaan rakennuksen on oltava terveellinen ja turvallinen, ja siinä on otettava huomioon sisäilma, kosteus-, lämpö- ja valaistusolosuhteet sekä vesihuolto. Tämä edellyttää tarkempaa huomioimista suunnitelma-asiakirjoissa.\n\nd. Viittaus uuteen lakiin:\n33 § Terveellisyys\n\n####\n\na. Otsikko:\n3.1 Lattiarakenteet\n\nb. Nykyinen sisältö:\nVedeneristys tehdään kallistetun rakenteen pintaan. Paikallavaletun betonilaatan kallistus voidaan tehdä laatan valun yhteydessä. Betonielementtirakenteen päälle kallistukset tehdään pintabetonivalulla.\n\nc. Päivitystarve:\nUuden lain 36 §:n mukaan rakennuksen ja sen piha- ja oleskelualueiden melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa. Tämä voi vaikuttaa lattiarakenteiden suunnitteluun ja toteutukseen.\n\nd. Viittaus uuteen lakiin:\n36 § Meluntorjunta ja ääniolosuhteet\n\n####\n\na. Otsikko:\n5.1 Lämmitys\n\nb. Nykyinen sisältö:\nLämmitysjärjestelmän suunnittelussa otetaan huomioon tilojen käyttötarkoitus ja energiatehokkuus.\n\nc. Päivitystarve:\nUuden lain 13 §:n mukaan on arvioitava vaihtoehtoista lämmitysjärjestelmää, jos suunnitellaan fossiiliseen polttoaineeseen perustuvaa lämmitysjärjestelmää. Tämä vaatimus tulee sisällyttää lämmitysjärjestelmän suunnitteluun.\n\nd. Viittaus uuteen lakiin:\n13 § Lämmitysjärjestelmän arviointi\n\n####\n\na. Otsikko:\n5.6 Sähköasennukset\n\nb. Nykyinen sisältö:\nSähkösuunnittelijan kanssa yhteistyönä valaistus ja laitteiden sijoitus ottaen huomioon voimassa olevat turvaetäisyydet sähköturvallisuusmääräysten mukaan.\n\nc. Päivitystarve:\nUuden lain 34 §:n mukaan rakennuksen käyttö ja huolto on suunniteltava turvalliseksi. Tämä voi vaikuttaa sähköasennusten suunnitteluun ja toteutukseen.\n\nd. Viittaus uuteen lakiin:\n34 § Käyttöturvallisuus"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "3": {
             "responses": [
@@ -1071,8 +1152,9 @@
                 "####\n\na. Otsikko:\n3.2 Seinärakenteet\n\nb. Nykyinen sisältö:\nSuihku- ja pesupisteiden alueella suositellaan kivirakenteista seinää tai rankarakenteisen seinän sisäpuolelle verhomuuraus- ta (kuva 5), jos se on mahdollista.\nRankarakenteisen seinän on oltava riittävän jäykkä, jotta le- vytys ja vedeneristys eivät vaurioidu. Rankarakenteinen seinä- rakenne jäykistetään tarvittaessa esimerkiksi\nvalitsemalla jäykempi levytyyppi tiheämmällä (k300/400) rankajaolla\nasentamalla runkotolppiin vaakalaudoitus noin metrin välein asentamalla kaksi päällekkäistä levyä (levysaumat eivät saa olla päällekkäin).\nJos ääni- tai palotekniset ominaisuudet eivät edellytä kahta päällekkäistä rakennuslevyä, pyritään levytys toteuttamaan yksinkertaisena levytyksenä, mikä parantaa rakenteen kuivu- miskykyä.\nVedeneristetyn rakennuslevyn taakse ei saa asentaa höyryn- sulkua (kuvat 5 ja 6). Poikkeuksena on ns. kaksoisseinärakenne,\njossa rankarakenteisen ulkoseinän sisäpuolella on kevyt levyra- kenteinen tai muurattu seinärakenne ja niiden välissä ilmaväli, joka on avoin alakaton yläpuolelle (kuvat 7 ja 8).\nJos rankarakenteessa on kaksi vesihöyrytiivistä pintaa, kuten löylyhuoneen ja pesuhuoneen välisessä seinässä, tulee niiden ilmavälin olla yhteydessä alakattotilaan (kuva 9).\nSuihkutilan seinämiä ja tilaa jakavia seiniä voidaan tehdä myös lasitiilistä, RT 38-10989 Lasitiilet. Asennuskehikolla va- rustetut lasitiiliseinät ja esim. XPS-pohjaiset suihkuseinäkkeet voidaan asentaa\nrunkorakenteisiin ennen vedeneristystyötä. Tällöin suurem- pi nurkkamäärä ja pidemmät seinä-lattiarajat kasvattavat vedeneristystyön määrää.\nmärkätilan valmiiksi laatoitetulle seinä- ja lattialaattapinnalle tarkoitukseen soveltuvalla liimamassalla. Tällöin vedeneris- tystyö on nopeampi tehdä, eikä laatoitukseen ja vedeneris- tykseen tehdä reikiä.\nhöyrynsulku\npaneeli- tai rakennus- levyverhous\nhöyrynsulku\nilmansulku\nvedeneristys (ja höyrynsulku)\nmärkätilaan soveltuva joustava saumausmassa rakennuslevyn ja betonilaatan välissä (n. 5 mm:n rako)\nmärkätilaan soveltuva joustava saumausmassa\n>1:100\npaneeli- tai rakennus- levyverhous\nhöyrynsulun liittyminen\nvedeneristykseen\nhöyrynsulku\nvedeneristys\nilmansulku\nmärkätilaan soveltuva\njoustava saumausmassa\nKuva 5. Märkätilan ulkoseinässä ei saa olla höyrynsulkua vedeneris- teen takana. Sen sijaan ilmansulku (ilmansulkupaperi tai -levytys) tulee olla.\nKuva 6. Esimerkki puutalon märkätilan rajoittumisesta ulkoseinään ja välipohjaan. Höyrynsulun jatkokset ja liittymät sijoitetaan aina koolausten tmv. kahden jäykän pinnan väliin.\nPL/1/marraskuu 2014/Rakennustieto Oy Rakennustietosäätiö RTS 2014\n\nc. Päivitystarve:\nUuden lain 32 §:n mukaan rakennuksen paloturvallisuus on otettava huomioon siten, että palon syttymisen vaaraa rajoitetaan ja kantavat rakenteet kestävät palon sattuessa vähimmäisajan. Tämä voi vaikuttaa seinärakenteiden suunnitteluun ja materiaalivalintoihin, erityisesti kun kyseessä ovat märkätilat, joissa on erityisiä paloturvallisuusvaatimuksia.\n\nd. Viittaus uuteen lakiin:\n32 § Paloturvallisuus"
             ],
             "empty_responses_count": 1,
+            "non_empty_responses_count": 5,
             "is_consistent": false,
-            "is_semi_consistent": false
+            "is_semi_consistent": true
         },
         "4": {
             "responses": [
@@ -1084,8 +1166,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "5": {
             "responses": [
@@ -1097,6 +1180,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 5,
+            "non_empty_responses_count": 1,
             "is_consistent": false,
             "is_semi_consistent": true
         },
@@ -1110,8 +1194,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "7": {
             "responses": [
@@ -1123,8 +1208,9 @@
                 "####\n\na. Otsikko:\n4.2 Tuote- tai järjestelmäsertifikaatit\n\nb. Nykyinen sisältö:\nAineiden ja tarvikkeiden, vedeneristeiden ja lattiakaivojen yh- teensopivuus osoitetaan esimerkiksi CE-merkinnällä tai VTT- sertifioidulla pintarakennejärjestelmällä, joista VTT Expert Ser- vices Oy pitää ajan tasalla olevaa luetteloa.\nTuote- ja järjestelmäsertifikaatilla osoitetaan, että tuote ja tuotejärjestelmä täyttävät tuotteelle ja tuotejärjestelmälle ase- tetut vaatimukset ja tuotteiden yhteensopivuuden. Tuoteser- tifikaatissa esitetään tuotteessa vaadittavien ominaisuuksien tutkimustulokset. Märkätilan tuotejärjestelmän sertifikaatissa esitetään tutkimustulokset koko rakennejärjestelmän (alustan ja pintarakenteen) toimivuudesta. Vaadittavat ominaisuudet on esitetty julkaisun RIL 107-2012 Rakennusten veden- ja kos- teudeneristysohjeet vaatimusprofiilitaulukoissa.\nMärkätilojen vedeneristystyöt ja valvonta on suositeltavaa teettää VTT-henkilösertifikaatin omaavalla henkilöllä.\nPL/1/marraskuu 2014/Rakennustieto Oy Rakennustietosäätiö RTS 2014\n\nc. Päivitystarve:\nUuden lain mukaan Turvallisuus- ja kemikaalivirasto on rakennustuotteiden markkinavalvontaviranomainen, ja se huolehtii rakennustuotteiden markkinavalvonnasta, jos tuote voi vaikuttaa olennaisten teknisten vaatimusten täyttymiseen tai se aiheuttaa vaaran ihmisten terveydelle, turvallisuudelle, ympäristölle tai omaisuudelle. Tämä muuttaa vanhan käytännön, jossa VTT Expert Services Oy piti ajan tasalla olevaa luetteloa. Lisäksi uuden lain mukaan CE-merkinnän mukaisuus on keskeinen vaatimus.\n\nd. Viittaus uuteen lakiin:\n154 § Rakennustuotteiden markkinavalvontaviranomainen"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "8": {
             "responses": [
@@ -1136,8 +1222,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "9": {
             "responses": [
@@ -1149,6 +1236,7 @@
                 "####\n\na. Otsikko:\nVedeneristeenä toimivat massapäällysteet\n\nb. Nykyinen sisältö:\nLattiamassamateriaaleja ovat mm. akryyli-, epoksi- ja polyure- taanisideaineiset massat, jotka toimivat samalla vedeneristee- nä. Myös vesitiiviillä betonilla saadaan sekä vedeneriste että pintaverhous. Käytettävien ratkaisujen tulisi olla sertifioituja.\n\nc. Päivitystarve:\nUuden lain 29 §:n mukaan rakennuksen on täytettävä olennaiset tekniset vaatimukset, ja rakennustuotteiden on oltava turvallisia ja terveellisiä. Tämä tarkoittaa, että vedeneristeenä toimivien massapäällysteiden on täytettävä nämä vaatimukset, ja niiden sertifiointi on varmistettava. Lisäksi 121 §:ssä korostetaan rakennustuotteiden ominaisuuksien tärkeyttä, mikä edellyttää, että käytettävien materiaalien on oltava asianmukaisesti suunniteltuja ja valmistettuja.\n\nd. Viittaus uuteen lakiin:\n29 § Rakentamiselle asetettavat vaatimukset\n121 § Rakennustuotteen ominaisuudet"
             ],
             "empty_responses_count": 3,
+            "non_empty_responses_count": 3,
             "is_consistent": false,
             "is_semi_consistent": false
         },
@@ -1162,8 +1250,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "11": {
             "responses": [
@@ -1175,6 +1264,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 5,
+            "non_empty_responses_count": 1,
             "is_consistent": false,
             "is_semi_consistent": true
         },
@@ -1188,8 +1278,9 @@
                 "####\n\na. Otsikko:\n5 LVI- JA SÄHKÖSUUNNITTELU\n\nb. Nykyinen sisältö:\nRakennuksen lämmitys- ja käyttövesiputkien sekä viemäröin- nin suunnittelussa ja sijoittamisessa noudatetaan RakMK:n osan D1 Kiinteistöjen vesi- ja viemärilaitteistot. Määräykset ja ohjeet 2007 vaatimuksia ja osan C 1 Ääneneristys ja meluntorjun- ta rakennuksessa. Määräykset ja ohjeet 1998 esitettyjä sallittuja äänitasoja.\n\nc. Päivitystarve:\nUuden lain 36 §:n mukaan rakennuksen ja sen piha- ja oleskelualueiden melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa. Tämä vaatimus on otettava huomioon ääneneristyksen ja meluntorjunnan suunnittelussa. Lisäksi uuden lain 13 §:n mukaan, jos uuden rakennuksen lämmitysjärjestelmäksi suunnitellaan fossiiliseen polttoaineeseen perustuvaa järjestelmää, on arvioitava vaihtoehtoista lämmitysjärjestelmää koskeva tekninen, ympäristöön liittyvä ja taloudellinen toteutettavuus. Tämä vaikuttaa lämmitysjärjestelmän suunnitteluun.\n\nd. Viittaus uuteen lakiin:\n36 § Meluntorjunta ja ääniolosuhteet\n13 § Lämmitysjärjestelmän arviointi"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "13": {
             "responses": [
@@ -1201,8 +1292,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "14": {
             "responses": [
@@ -1214,8 +1306,9 @@
                 "####\n\na. Otsikko:\n5.2 Vesijohdot\n\nb. Nykyinen sisältö:\nVesijohdot sijoitetaan niin, että mahdollinen vesivuoto voidaan havaita luotettavasti ja ajoissa sekä vesijohto ja liitokset voidaan helposti tarkastaa, korjata tai vaihtaa. Märkätilassa vesijohdot on suositeltavaa tuoda pinta-asennuksena yläkautta suihkusekoittajalle, jotta kannakoinnit saadaan vähemmän vesirasitetulle alueelle (kuva 19). Vesijohdot voidaan asentaa myös piiloasennuksena, mutta tällöin putkien kunnon tulee olla helposti tarkastettavissa esimerkiksi tarkastusluukkuja avaamalla tai mahdollisen vesivuodon tulee ohjautua helposti näkyville. Helposti tarkastettavia paikkoja ovat esimerkiksi huoltoluukuilla varustetut alakatot, putkikuilut, asennusseinät tai kaappien ala- ja yläpeitelevyjen takaosat. Verhokoteloon tai vastaavaan tilaan asennettujen putkien vuodot ovat nopeasti havattavissa. Jos vesijohdot asennetaan seinä-, katto- tai lattiarakenteiden sisään, käytetään vesijohtona muoviputkea, joka asennetaan hanalta jakotukkiin asti yhtenäiseen suojaputkeen (kuva 19). Läpiviennit eivät saa heikentää rakenteen äänen- ja paloneristysominaisuuksia. ruuvikiinnityksiä varten seinässä tukirakenne kiinnitystuki, esim. pelti, ks. kuva 24 vesijohtojen, hanojen, suihkutankojen yms. ruuvikiinnitykset tiivistetään märkätilaan soveltuvalla joustavalla saumausmassalla vedeneristys vedeneristyslaippa vedeneristys nostetaan hanakulmarasiaa vasten vähintään laatoituksen pinnan tasoon asti joustava saumausmassa vesijohdon suojaputki Kuva 19. Vesijohdot suositellaan asennettavaksi pinta-asennuksena. Jos vesijohdot asennetaan seinän sisään, käytetään suojaputkea ja hanakulmarasiaa. Vesijohdon suojaputki estää kosteuden kondensoitumisen vesijohdon ulkopinnalle ja tuo mahdollisen putkivuodon esille. Ulkoseinärakenteen sisällä olevat putket lämmöneristetään.\n\nc. Päivitystarve:\nUuden lain 32 §:n mukaan rakennuksen kantavien rakenteiden on oltava sellaiset, että ne palon sattuessa kestävät vähimmäisajan. Tämä vaikuttaa vesijohtojen asennukseen, sillä läpiviennit eivät saa heikentää rakenteen paloneristysominaisuuksia. Tämä vaatimus on jo mainittu vanhassa ohjeessa, mutta uuden lain myötä sen merkitys korostuu, ja ohjeistusta voi olla tarpeen tarkentaa.\n\nd. Viittaus uuteen lakiin:\n32 § Paloturvallisuus\n\n####"
             ],
             "empty_responses_count": 1,
+            "non_empty_responses_count": 5,
             "is_consistent": false,
-            "is_semi_consistent": false
+            "is_semi_consistent": true
         },
         "15": {
             "responses": [
@@ -1227,8 +1320,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "16": {
             "responses": [
@@ -1240,8 +1334,9 @@
                 "####\n\na. Otsikko:\n5.4 Putkikuilut\n\nb. Nykyinen sisältö:\nKerrostalon nousuvesijohdot ja pystyviemärit pyritään sijoit- tamaan putkikuiluun, joka ei rajoitu ääniteknisesti vaativaan tilaan, kuten makuuhuoneeseen tai olohuoneeseen. Porras- huoneen vieressä oleva ns. tekniikkakuilu on ääniteknisesti hyvä ratkaisu. Kuilun ja sen tarkastus- ja huoltoluukkujen tulee täyttää hormirakenteille asetettavat äänen-, veden- ja palon- eristysvaatimukset, RakMK C1, C2, D1 ja E7.\nMärkätilan puolella olevan kuilun seinämät tehdään tiiviik- si ja raskasrakenteisiksi esimerkiksi tiilestä tai betonista tai riittävän raskaalla levytyksellä. Jos tarkastusluukut tehdään märkätilan puolelle, kuilu sijoitetaan mahdollisimman kauas suihkun roiskevesialueelta, vähintään 1,5 metrin etäisyydel- le suihkun vesipisteestä. Tarkastusluukut sijoitetaan yleensä kuilun seinään alhaalle lähelle lattian tasoa, mutta jos suihkun kiinteä seinämä estää veden roiskumisen luukkuun tai luukku on ylhäällä lähellä katon rajaa, se voi olla lähempänäkin kuin 1,5 m vesipisteestä. Tarkastusluukun kohdalla vesijohtoihin kiinnitetään vuodonilmaisin, joka johtaa vuotovedet esimer- kiksi märkätilan lattialle, kuva 20. Vuodontarkkailumahdollisuus järjestetään joka kerrokseen märkätilan puolelle.\n\nc. Päivitystarve:\nUuden lain 36 §:n mukaan rakennuksen ja sen piha- ja oleskelualueiden melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa. Tämä vaikuttaa putkikuilujen sijoitteluun ja rakenteellisiin vaatimuksiin, erityisesti ääneneristykseen liittyen. Vanha ohjeistus viittaa RakMK C1, C2, D1 ja E7 -määräyksiin, jotka saattavat olla vanhentuneita uuden lain vaatimusten valossa.\n\nd. Viittaus uuteen lakiin:\n36 § Meluntorjunta ja ääniolosuhteet"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "17": {
             "responses": [
@@ -1253,8 +1348,9 @@
                 "####\n\na. Otsikko:\n5.5 Ilmanvaihto\n\nb. Nykyinen sisältö:\nIlmanvaihdon suunnittelussa noudatetaan RakMK:n osien D2 Rakennusten sisäilmasto ja ilmanvaihto, D3 Rakennusten ener- giatehokkuus ja osan E7 Ilmanvaihtolaitteistojen paloturvallisuus määräyksiä ja ohjeita.\nIlmanvaihdon tulee olla riittävän tehokas poistamaan huo- neilman kosteus ja epäpuhtaudet. Ulkoilman saatavuus varmis- tetaan. Korvausilma otetaan muista huonetiloista oviraon tai venttiilin kautta. Löylyhuoneen ja pesuhuoneen välisen oven alla tulisi olla noin 100 mm:n ilmarako. Tulisijan (puukiukaan) vaatima paloilmavirta otetaan huomioon ilmanvaihdon suun- nittelussa.\n\nc. Päivitystarve:\nUuden lain 33 §:n mukaan rakennuksen on oltava terveellinen ja turvallinen sisäilman, kosteus-, lämpö- ja valaistusolosuhteet sekä vesihuolto huomioon ottaen. Tämä edellyttää, että ilmanvaihdon suunnittelussa otetaan huomioon laajemmin terveellisyyteen liittyvät olosuhteet, ei pelkästään kosteus ja epäpuhtaudet. Lisäksi 32 §:ssä korostetaan paloturvallisuuden merkitystä, mikä voi vaikuttaa ilmanvaihtolaitteistojen suunnitteluun.\n\nd. Viittaus uuteen lakiin:\n33 § Terveellisyys\n32 § Paloturvallisuus\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "18": {
             "responses": [
@@ -1266,8 +1362,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "19": {
             "responses": [
@@ -1279,8 +1376,9 @@
                 "####\n\na. Otsikko:\n6 KALUSTEIDEN JA VARUSTEIDEN ASENTAMINEN\n\nb. Nykyinen sisältö:\nPesualtaiden, vesihanojen, kalusteiden ja varusteiden kiinni- tystä varten puu- ja teräsrakenteisen seinän runkoon tehdään tukeva kiinnitysalusta esimerkiksi pellistä (kuva 24). Myös liikku- mis- ja toimimisesteisiä varten asennetut tukikaiteet ja -kahvat tarvitsevat riittävän lujan kiinnitysalustan.\nPuupohjaiset kalusteet asennetaan irti lattiasta ja suojataan suihkun roiskevedeltä esimerkiksi suihkuseinällä. Suihkuverho ei yleensä riitä suojaamiseen.\nKaikki kiinnitysruuvien reiät tiivistetään märkätilaan sovel- tuvalla homesuojatulla, joustavalla saumausmassalla, kuva 22.\n\nc. Päivitystarve:\nUuden lain 35 §:n mukaan esteettömyys ja käytettävyys on otettava huomioon erityisesti liikuntarajoitteisten henkilöiden kannalta. Tämä vaikuttaa tukikaiteiden ja -kahvojen asennukseen, ja ohjeistuksessa on varmistettava, että esteettömyysvaatimukset täyttyvät.\n\nd. Viittaus uuteen lakiin:\n35 § Esteettömyys\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "20": {
             "responses": [
@@ -1292,8 +1390,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "21": {
             "responses": [
@@ -1305,6 +1404,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 5,
+            "non_empty_responses_count": 1,
             "is_consistent": false,
             "is_semi_consistent": true
         },
@@ -1318,6 +1418,7 @@
                 "####\n\na. Otsikko:\n7 MÄRKÄTILAELEMENTIT\n\nb. Nykyinen sisältö:\nAsennusvalmiit sauna- ja pesutilaelementit suunnitellaan yh- teistyössä valmistajan kanssa, ja ne toimitetaan työmaalle käyt- tövalmiina märkätiloina.\nMärkätilaelementti on tehtaalla valmistettu märkätila, joka asennetaan rakennukseen tavallisimmin kokonaisena raken- nuksen runkovaiheessa tai kootaan työmaalla esivalmistetuista osista. Märkätilat valmistetaan mittatilaustyönä teollisesti esi- valmistettuina tuotekokonaisuuksina tilaajan toivomusten ja kohdekohtaisten suunnitelmien mukaisesti.\nMärkätilaelementin runkorakenne voi olla kivirakenteinen\ntai teräsohutlevyistä, lujitemuovista tai muusta soveltuvasta materiaalista valmistettu. Elementissä kaikki vedeneristys-, laatoitus-, sisustus- ja LVIS-työt on yleensä tehty jo tehtaalla, ja työmaalla elementti liitetään rakennuksen LVIS-järjestelmään. Elementti sisältää yleensä myös saniteettikalusteet, kaapistot ja muut varusteet.\nMärkätilaelementin kosteustekninen toimivuus voidaan osoittaa esim. CE-merkinnällä tai kansallisella hyväksynnällä.\n\nc. Päivitystarve:\nUuden lain 121 §:n mukaan rakennustuotteen on oltava turvallinen ja terveellinen sekä ominaisuuksiltaan sellainen, että rakennuskohde täyttää olennaiset tekniset vaatimukset. Märkätilaelementtien osalta on varmistettava, että ne täyttävät nämä vaatimukset koko käyttöikänsä ajan. Tämä edellyttää tarkempaa dokumentaatiota ja mahdollisesti lisätestausta kosteusteknisen toimivuuden osalta.\n\nd. Viittaus uuteen lakiin:\n121 § Rakennustuotteen ominaisuudet"
             ],
             "empty_responses_count": 5,
+            "non_empty_responses_count": 1,
             "is_consistent": false,
             "is_semi_consistent": true
         },
@@ -1331,8 +1432,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "24": {
             "responses": [
@@ -1344,8 +1446,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "25": {
             "responses": [
@@ -1357,8 +1460,9 @@
                 "####\n\na. Otsikko:\nA4 Rakennuksen käyttö- ja huolto-ohje. Määräykset ja ohjeet 2000.\n\nb. Nykyinen sisältö:\nA4 Rakennuksen käyttö- ja huolto-ohje. Määräykset ja ohjeet 2000. Ympäristöministeriö, asunto- ja rakennusosasto. Suomen rakentamis- määräyskokoelma (RT RakMK-21155, SIT RakMK-620020, LVI RakMK- 00234, KH RakMK-10431).\n\nc. Päivitystarve:\nUuden lain 139 §:n mukaan rakennuksen käyttö- ja huolto-ohjeen on oltava konekielisesti luettavissa ja perustuttava rakennuksen tietomalleihin tai koneluettaviin tietoihin. Tämä vaatimus ei ole mukana vanhassa ohjeessa, joten se on päivitettävä vastaamaan uusia vaatimuksia.\n\nd. Viittaus uuteen lakiin:\n139 § Rakennuksen käyttö- ja huolto-ohje\n\n####\n\na. Otsikko:\nC1 Ääneneristys ja meluntorjunta rakennuksessa. Määräykset ja ohjeet 1998.\n\nb. Nykyinen sisältö:\nC1 Ääneneristys ja meluntorjunta rakennuksessa. Määräykset ja ohjeet 1998. Ympäristöministeriö, asunto- ja rakennusosasto. Suomen rakentamismääräyskokoelma (RT RakMK-21090, SIT RakMK-620004, LVI RakMK-00188, KH RakMK-10283).\n\nc. Päivitystarve:\nUuden lain 36 §:n mukaan rakennuksen ja sen piha- ja oleskelualueiden melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa. Tämä vaatimus on lisättävä vanhaan ohjeeseen.\n\nd. Viittaus uuteen lakiin:\n36 § Meluntorjunta ja ääniolosuhteet\n\n####\n\na. Otsikko:\nD1 Kiinteistöjen vesi- ja viemärilaitteistot. Määräykset ja ohjeet 2007.\n\nb. Nykyinen sisältö:\nD1 Kiinteistöjen vesi- ja viemärilaitteistot. Määräykset ja ohjeet 2007. Ympäristöministeriö. Suomen rakentamismääräyskokoelma. Lisälehti, muutosasetus, 2012. (RT RakMK-21351, LVI RakMK-00362, KH RakMK- 10485, Infra RakMK-720136).\n\nc. Päivitystarve:\nUuden lain 97 §:n mukaan kiinteistön vesi- ja viemärilaitteiston rakentamisesta vastaavalla työnjohtajalla on oltava erityisalan työnjohtajan kelpoisuus, jos laitteistojen rakentamisen vaativuus sitä edellyttää. Tämä vaatimus on lisättävä vanhaan ohjeeseen.\n\nd. Viittaus uuteen lakiin:\n97 § Erityisalojen työnjohtajat\n\n####\n\na. Otsikko:\nF1 Esteetön rakennus. Määräykset ja ohjeet 2005.\n\nb. Nykyinen sisältö:\nF1 Esteetön rakennus. Määräykset ja ohjeet 2005. Ympäristöministe- riö, asunto- ja rakennusosasto. Suomen rakentamismääräyskokoelma (RT RakMK-21255, SIT RakMK-620012, LVI RakMK-00303, KH RakMK- 10407, Infra RakMK-720041).\n\nc. Päivitystarve:\nUuden lain 35 §:n mukaan esteettömyys ja käytettävyys on otettava huomioon erityisesti lasten, ikääntyneiden, vammaisten ja liikkumis- ja toimimisesteisten henkilöiden kannalta. Tämä vaatimus on lisättävä vanhaan ohjeeseen.\n\nd. Viittaus uuteen lakiin:\n35 § Esteettömyys"
             ],
             "empty_responses_count": 1,
+            "non_empty_responses_count": 5,
             "is_consistent": false,
-            "is_semi_consistent": false
+            "is_semi_consistent": true
         },
         "26": {
             "responses": [
@@ -1370,8 +1474,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "27": {
             "responses": [
@@ -1383,8 +1488,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "28": {
             "responses": [
@@ -1396,6 +1502,7 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 5,
+            "non_empty_responses_count": 1,
             "is_consistent": false,
             "is_semi_consistent": true
         },
@@ -1409,8 +1516,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         }
     },
     "RT-91-610018.json": {
@@ -1424,8 +1532,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "2": {
             "responses": [
@@ -1437,8 +1546,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "3": {
             "responses": [
@@ -1450,8 +1560,9 @@
                 "####\n\na. Otsikko:\n3.1 Makuuhuoneet\n\nb. Nykyinen sisältö:\nÄäneneristys\nAsuinrakennuksessa tilojen sijoittelu on ääniteknisen suunnittelun perusta. Hiljaisuutta vaativat huoneet, kuten makuu- ja olohuoneet, sijoitetaan mahdollisimman kauas tiloista, joissa on äänekkäämpää toimintaa, kuten porrashuoneista ja viereisen tai yläpuolisen huoneiston wc- ja kylpyhuonetiloista ja keittiöstä. Kylpyhuoneet, keittiöt, vaatehuoneet yms. porrashuoneen ja makuuhuoneen välillä suojaavat makuuhuoneita porrashuonemelulta. Oleskelu- tilojen äänten kuulumista makuutiloihin pystytään vaimentamaan seinä- ja oviratkaisuilla.\nAsunnossa tulee ottaa huomioon myös runko- ja askelääneneristysvaatimusten täyttyminen, liikenteen äänet ym.\n\nc. Päivitystarve:\nUuteen lakiin on kirjattu vaatimus, että melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa.\n\nd. Viittaus uuteen lakiin:\n36 § Meluntorjunta ja ääniolosuhteet\n\n####\n\na. Otsikko:\n5 MATERIAALIT\n\nb. Nykyinen sisältö:\nMateriaalivalinnoilla vaikutetaan tilan visuaaliseen luon- teeseen, rakenneratkaisuihin ja sisäilman laatuun.\nTerveellisten rakennusmateriaalien kehitystyöhön kiin- nitetään nykyisin entistä enemmän huomiota. Rakennus- tietosäätiö RTS myöntää M1 merkinnän puolueettomassa laboratoriossa testatuille tuotteille. Kemiallisten testien li- säksi tuotteet käyvät läpi hajupaneelin aistinvaraisen arvi- oinnin. Lähes kaikista materiaaliryhmistä löytyy M1-luoki- teltuja tuotteita: maaleja, tapetteja, lattianpäällysteitä, ra- kennuslevyjä, tasoitteita, eristeitä jne.\nSeuraavassa on huomioita nukkumatilojen materiaaliva- linnoista:\n• Vuodevaatteet ja tekstiilipinnat saattavat aiheuttaa aller- giaoireita.\n• Lattiaan kosketaan paljaalla jalalla\nLämmin materiaali on ihokosketuksessa miellyttävä Puulattia on huokoinen, lämmin, pölyämätön ja hel- posti siivottava. SIT 42-610016 Lautalattiat, puiset portaat ja käsijohteet.\nTekstiilipäällysteet ovat etenkin Etelä-Euroopassa yleisiä. Suomessa niiden käyttö on rajoittunut viime- vuosina lähinnä hotelleihin- ja ravintoloihin, mutta hy- välaatuiset tekstiilipäällysteet soveltuvat myös asun- noissa käytettäviksi. Oikeanlainen puhdistus pitää ne pölyämättöminä. SIT 42-610003 Tekstiilipäällysteet, matot.\nLinoleum- ja korkkipinnoitteet ovat luonnonmateriaa- leja.\nMuovimatot ovat helposti siivottavia.\n• M1-luokitellut materaalit ovat sisäilman kannalta turvallisia.\n\nc. Päivitystarve:\nUuden lain mukaan rakentamisessa on käytettävä tuotteita, joista ei niiden suunnitellun käyttöiän aikana aiheudu sisäilmaan, talousveteen eikä ympäristöön sellaisia päästöjä, joita ei voida pitää hyväksyttävinä.\n\nd. Viittaus uuteen lakiin:\n33 § Terveellisyys\n\n####\n\na. Otsikko:\n3.1 Makuuhuoneet\n\nb. Nykyinen sisältö:\nMakuuhuoneet on totuttu jaottelemaan kahteen ryhmään:\n• Suurempiin eli kahden hengen makuuhuoneisiin, koko noin 10...16 m²\n• Pienempiin eli yhdenhengen makuuhuoneisiin, koko noin 7...12 m²\n\nc. Päivitystarve:\nUuden lain mukaan asuin-, majoitus- ja työtiloissa on oltava ikkuna luonnonvalon saamiseksi.\n\nd. Viittaus uuteen lakiin:\n40 § Asuin-, majoitus- ja työtilat\n\n####\n\na. Otsikko:\n3.1 Makuuhuoneet\n\nb. Nykyinen sisältö:\nSijoittuminen, kulkuyhteydet ja mitoitus\n• Makuuhuoneet pyritään sijoittamaan asunnon pohjoisen- puoleiseen osaan, jotta auringonvalo ja lämpö häiritse- vät mahdollisimman vähän nukkumista.\n• Suora yhteys makuuhuoneista eteis- tai kulkutiloihin pa- rantaa asunnon käytettävyyttä.\n• Makuuhuoneiden välittömään läheisyyteen pyritään si- joittamaan myös peseytymis- ja wc-tilat.\n• Makuuhuoneen viihtyvyyttä lisää kulku makuuhuonees- ta ulkotiloihin.\n• Kahden lapsen iso yhteinen makuuhuone voidaan jakaa kahdeksi erilliseksi tilaksi.\n• Kalustuksen muunneltavuus ja väljä mitoitus tuo jousta- vuutta.\n• Mitoituksella ja esteettömyydellä pystytään ratkaise- maan myös liikuntarajoitteisten ja ikäihmisten toimimi- nen asunnossa.\n\nc. Päivitystarve:\nUuden lain mukaan esteettömyys ja käytettävyys on otettava huomioon erityisesti lasten, ikääntyneiden, vammaisten ja liikkumis- ja toimimisesteisten henkilöiden kannalta.\n\nd. Viittaus uuteen lakiin:\n35 § Esteettömyys"
             ],
             "empty_responses_count": 1,
+            "non_empty_responses_count": 5,
             "is_consistent": false,
-            "is_semi_consistent": false
+            "is_semi_consistent": true
         },
         "4": {
             "responses": [
@@ -1463,8 +1574,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "5": {
             "responses": [
@@ -1476,8 +1588,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "6": {
             "responses": [
@@ -1489,8 +1602,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "7": {
             "responses": [
@@ -1502,8 +1616,9 @@
                 "####\n\na. Otsikko:\n7 ILMANLAATU\n\nb. Nykyinen sisältö:\nUudisrakentamisessa hyvän sisäilman laadun kannalta tärkeimpiä asioita ovat puhdas ja toimiva ilmanvaihtojär- jestelmä, kuivat ja kosteusteknisesti toimivat rakenteet, vähäpäästöiset rakennus- ja sisustusmateriaalit, helppo siivottavuus ja allergeenien välttäminen.\nSisäilmastoluokitus 2000 (RT 07-10741) antaa tavoi- tearvoja hyvälle sisäilman laadulle sekä käytännön työka- luja suunnitteluun ja toteutukseen. Luokituksessa on toi- mintaohjeita mm. kosteuden- ja pölynhallintaan sekä il- manvaihtokanaviston suojaamiseen.\nAsumisviihtyvyyden ja terveyden kannalta paras huone- lämpötila on 21...22^{\\circ}C, makuuhuoneessa lämpötila voi olla 1-2^{\\circ}C alhaisempi. Lattian pintalämpötila ei saisi las- kea alle +18^{\\circ}C. Alhaiset pintalämpötilat voivat aiheuttaa kosteuden tiivistymistä rakenteisiin, jonka seurauksena saattaa syntyä haitallista mikrobikasvustoa.\nKorkea lämpötila (yli~23^{\\circ}C) saattaa aiheuttaa sisäilmaan liittyvää oireilua sekä kuivuuden ja tunkkaisuuden tunnetta. Asunnon ilman suhteellisen kosteuden tulisi olla lämmi- tyskaudella noin 20...45 %, joskaan sen saavuttaminen ei ole aina mahdolista mm. ilmastollisista syistä. Huoneilman kostuttamista tulee aina välttää.\n\nc. Päivitystarve:\nUuden lain 33 §:n mukaan rakennuksen on oltava terveellinen ja turvallinen sisäilman, kosteus-, lämpö- ja valaistusolosuhteet sekä vesihuolto huomioon ottaen. Tämä tarkoittaa, että sisäilman laatuun liittyvät vaatimukset on päivitettävä vastaamaan uusia säädöksiä, erityisesti sisäilman epäpuhtauksien ja kosteuden hallinnan osalta.\n\nd. Viittaus uuteen lakiin:\n33 § Terveellisyys\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         }
     },
     "RT-93-10925.json": {
@@ -1517,8 +1632,9 @@
                 "Valitettavasti en voi suorittaa tehtävää, koska minulla ei ole pääsyä vanhaan rakennusohjeeseen. Jos voit toimittaa kyseisen ohjeen tekstin, voin auttaa analysoimaan ja vertaamaan sitä uuteen rakennuslakiin."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "2": {
             "responses": [
@@ -1530,8 +1646,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "3": {
             "responses": [
@@ -1543,8 +1660,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "4": {
             "responses": [
@@ -1556,8 +1674,9 @@
                 "####\n\na. Otsikko:\n2 TOIMINNAT JA NIIDEN TILANTARVE\n\nb. Nykyinen sisältö:\nTilantarpeen määrityksessä on otettu huomioon toiminnan tarvitsema tila, tarvittava liikkumistila sekä mahdollisen kalusteen, sen käytön ja siivouksen tarvitsema tila.\nMakuuhuoneiden tavallisimpien huonekalu- jen ja kiinteiden varusteiden tilantarve on esitetty RT-ohjekortissa • Asuntosuunnittelu. Irtokalusteiden tilantarve.\nSänkyjen ja vapaan tilan tarve\nKuvassa 1 annetaan sänkyjen tilanvaraukset niiden käytön vaatimine vapaine tiloineen. Vanhemmille tarkoitetussa makuuhuoneessa varataan tilaa myös pikkulapsen sängylle.\nVuoteen sijaamisen ja siivoamisen sekä yöpöydän ja tuolin sijoitusvaihtoehtojen kannalta on eduksi, että sängyn vierellä on vapaata tilaa vähintään 700 mm.\nSäilytys\nJokaiseen makuuhuoneeseen varataan henkeä kohti yleensä tilaa vähintään kahdelle säilytyskomerolle, joista toinen on tankokomero. Komeroita voidaan korvata vaatehuoneella. Kiinteiden kalusteiden sijoituksessa otetaan erityisesti huomioon huoneen irtokalusteiden kalustettavuuden vaatimukset. Siirrettävien säilytyskalusteiden käyttö kiinteiden kalusteiden asemasta monipuolistaa ja parantaa huoneen kalustettavuutta ja muunneltavuutta.\nTekstiilien, vaatteiden, harrastusvälineiden yms. säilytyskalusteiden ja niiden käytön tilantarve sekä mitoitus on esitetty RT-ohjekortissa Asuntosuunnittelu. Säilytys.\n\nc. Päivitystarve:\nUuden lain mukaan makuuhuoneessa tulee olla ikkuna luonnonvalon saamiseksi, mikä vaikuttaa tilasuunnitteluun ja kalusteiden sijoitteluun.\n\nd. Viittaus uuteen lakiin:\n40 § Asuin-, majoitus- ja työtilat\n\n####\n\na. Otsikko:\n3 TILASUUNNITTELU JA MITOITUS\n\nb. Nykyinen sisältö:\nMakuuhuoneiden tilasuunnittelussa keskeinen tavoite on huoneiden monikäyttöisyys. Mitoituksen kannalta määräävänä tekijänä on niiden käyttö makuuhuoneina.\nKuvissa 5, 6 ja 7 esitetyissä esimerkeissä on ensisijaisesti tarkasteltu tilantarvetta eri kalustusvaihtoehdoilla. Ovet ja ikkunat on sijoitettu kalusteiden mukaan.\nMakuuhuoneet voidaan jaotella niiden koon ja tavoitteena olevan käytön perusteella kahden ja yhden hengen makuuhuoneisiin:\n• kahden hengen makuuhuone, johon yleensä tulisi voida sijoittaa:\nparisänky yöpöytineen\npikkulapsen sänky ja hoitopöytä tai\ntyöpöytä ja kirjahylly\nvähintään neljä komeroa\ntilavaraus em. kalusteiden käytölle ja tarvittaville kulkuväylille\nharrastusvälineet (vapaa-alue).\nMakuuhuone mitoitetaan niin, että parisänky voidaan aina korvata kahdella erilleen sijoitetulla sängyllä.\nKahden hengen huoneen pinta-ala edellä mainituilla kalusteilla on huoneen muodosta ja aukotuksesta riippuen noin 16 m², kuva 5.\nMakuuhuoneeseen voi liittyä myös vaatehuone ja pukeutumistila. Suurissa asunnoissa makuuhuoneen yhteyteen voidaan suunnitella oma peseytymistila.\n\nc. Päivitystarve:\nUuden lain mukaan makuuhuoneessa tulee olla ikkuna luonnonvalon saamiseksi, mikä vaikuttaa tilasuunnitteluun ja kalusteiden sijoitteluun.\n\nd. Viittaus uuteen lakiin:\n40 § Asuin-, majoitus- ja työtilat\n\n####\n\na. Otsikko:\n3.1 Makuuhuoneet\n\nb. Nykyinen sisältö:\nÄäneneristys\nAsuinrakennuksessa tilojen sijoittelu on ääniteknisen suunnittelun perusta. Hiljaisuutta vaativat huoneet, kuten makuu- ja olohuoneet, sijoitetaan mahdollisimman kauas tiloista, joissa on äänekkäämpää toimintaa, kuten porrashuoneista ja viereisen tai yläpuolisen huoneiston wc- ja kylpyhuonetiloista ja keittiöstä. Kylpyhuoneet, keittiöt, vaatehuoneet yms. porrashuoneen ja makuuhuoneen välillä suojaavat makuuhuoneita porrashuonemelulta. Oleskelu- tilojen äänten kuulumista makuutiloihin pystytään vaimentamaan seinä- ja oviratkaisuilla.\nAsunnossa tulee ottaa huomioon myös runko- ja askelääneneristysvaatimusten täyttyminen, liikenteen äänet ym. Rakentamishankkeeseen ryhtyvän on huolehdittava, että rakennus ja sen piha- ja oleskelualueet suunnitellaan ja rakennetaan niiden käyttötarkoituksen edellyttämällä tavalla siten, että rakennuksen sekä rakennuspaikan piha- ja oleskelualueiden melualtistus ja ääniolosuhteet eivät vaaranna terveyttä, lepoa eivätkä työntekoa.\n\nc. Päivitystarve:\nUuteen lakiin on kirjattu vaatimus, että melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa.\n\nd. Viittaus uuteen lakiin:\n36 § Meluntorjunta ja ääniolosuhteet"
             ],
             "empty_responses_count": 1,
+            "non_empty_responses_count": 5,
             "is_consistent": false,
-            "is_semi_consistent": false
+            "is_semi_consistent": true
         },
         "5": {
             "responses": [
@@ -1569,8 +1688,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "6": {
             "responses": [
@@ -1582,8 +1702,9 @@
                 "####\n\na. Otsikko:\nMitoitus liikkumisesteisille\n\nb. Nykyinen sisältö:\nLiikkumisesteisille sopiva makuuhuone mitoitetaan ja suunnitellaan niin, että sen kalustamiseen on useita vaihtoehtoja. Sänky sijoitetaan pääty seinää vasten si- ten, että vuoteesta voi nähdä ovelle, vierei- seen huoneeseen ja ulos. Pyörätuolin kääntymistä varten ulkokäyttöön soveltu- van pyörätuolin vapaan tilan tarve on ø 1500 mm, sisäkäyttöön soveltuvan pyörä- tuolin Ø 1300 mm. Kuvat 8 ja 9.\nYhden hengen makuuhuoneessa sän- gyn toisella sivulla riittää 800...900 mm tila, jos päädyssä on tilaa 1300 mm. Kah- den hengen makuuhuoneessa voi vapaa tila sängyn päädyssä olla 800...900 mm, mikäli parisängyn molemmilla sivuilla on 1300 mm...1500 mm leveä vapaa tila.\nTällaisen huoneen pinta-ala vaihtelee 12,5...16,5 m². Tällainen huoneeseen on mahdollista sijoittaa vaihtoehtoisesti ta- vallista suurempi parisänky. Kuva 9.\nErityisesti pyörätuolin käyttäjän ma- kuuhuoneessa kaappien suositeltava le- veys on 800 mm. Kun komero sijaitsee 400 mm päässä nurkasta, pyörätuolista on helpompi ulottua komeroon. Kaappi- en käyttökelpoisuutta lisäävät kiinteiden tankojen ja hyllyjen asemesta käytettä- vät ulosvedettävät tankotelineet ja hyllyt. Kaappien tulisi olla ilman sokkelia. Jos kaapeissa on sokkeli, sen korkeuden tuli- si olla vähintään 200 mm ja syvyyden 150 mm.\nLiikkumisesteisten makuuhuoneesta tulisi olla mahdollisimman suora yhteys wc- ja peseytymistiloihin ja ulkotiloihin.\n\nc. Päivitystarve:\nUuden lain mukaan esteettömyys ja käytettävyys on otettava huomioon erityisesti lasten, ikääntyneiden, vammaisten ja liikkumis- ja toimimisesteisten henkilöiden kannalta. Tämä saattaa vaikuttaa makuuhuoneiden mitoitukseen ja suunnitteluun, erityisesti esteettömyyden osalta.\n\nd. Viittaus uuteen lakiin:\n35 § Esteettömyys\n\n####"
             ],
             "empty_responses_count": 0,
+            "non_empty_responses_count": 6,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "7": {
             "responses": [
@@ -1595,8 +1716,9 @@
                 "####\n\na. Otsikko:\nÄäneneristys\n\nb. Nykyinen sisältö:\nAsuinrakennukset pyritään suunnittele- maan siten, etteivät makuuhuoneet rajoi- tu toisen huoneiston hormeihin ja erityi- sesti melua aiheuttaviin vesikalusteisiin, hissikuiluun tai melua aiheuttaviin yhteis- tiloihin.\nMakuuhuoneiden tulee olla eristettä- vissä asunnon muista tiloista ovilla. Asu- misen toimintojen toisilleen aiheuttamaa häiriötä voidaan vähentää tehokkaasti ti- lojen sijoittelulla ja ryhmittelyllä.\n\nc. Päivitystarve:\nUuden lain mukaan rakennuksen ja sen piha- ja oleskelualueiden melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa. Tämä vaatimus tulee lisätä ohjeistukseen.\n\nd. Viittaus uuteen lakiin:\n36 § Meluntorjunta ja ääniolosuhteet\n\n####"
             ],
             "empty_responses_count": 1,
+            "non_empty_responses_count": 5,
             "is_consistent": false,
-            "is_semi_consistent": false
+            "is_semi_consistent": true
         },
         "8": {
             "responses": [
@@ -1608,8 +1730,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "9": {
             "responses": [
@@ -1621,8 +1744,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         }
     },
     "RT-98-11213.json": {
@@ -1636,8 +1760,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "2": {
             "responses": [
@@ -1649,8 +1774,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "3": {
             "responses": [
@@ -1662,8 +1788,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "4": {
             "responses": [
@@ -1675,8 +1802,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "5": {
             "responses": [
@@ -1688,8 +1816,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         },
         "6": {
             "responses": [
@@ -1701,8 +1830,9 @@
                 "Ei päivitettävää."
             ],
             "empty_responses_count": 6,
+            "non_empty_responses_count": 0,
             "is_consistent": true,
-            "is_semi_consistent": true
+            "is_semi_consistent": false
         }
     }
 }
