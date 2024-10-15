@@ -3,11 +3,16 @@ import json
 from typing import Dict, List, Any
 
 
-def group_responses(batch_outputs_dir: str, output_file: str) -> None:
-    grouped_data: Dict[str, Dict[str, List[Any]]] = {}
-    varying_sections_data: Dict[str, Dict[str, List[str]]] = {}
+def is_empty_response(response: str) -> bool:
+    return "Ei päivitettävää." in response or response.startswith("Valitettavasti")
 
-    # Iterate over all JSON files in the batch_outputs directory
+
+def group_responses(batch_outputs_dir: str, output_file: str) -> None:
+    grouped_data: Dict[str, Dict[str, Dict[str, List[Any]]]] = {}
+    consistent_count = 0
+    semi_consistent_count = 0
+    not_consistent_count = 0
+
     for filename in os.listdir(batch_outputs_dir):
         if filename.endswith(".json"):
             file_path = os.path.join(batch_outputs_dir, filename)
@@ -41,7 +46,7 @@ def group_responses(batch_outputs_dir: str, output_file: str) -> None:
 
                     # Initialize the section key if not present
                     if section not in grouped_data[main_filename]:
-                        grouped_data[main_filename][section] = []
+                        grouped_data[main_filename][section] = {"responses": []}
 
                     # Append only the content of the response to the array
                     response_body = item.get("response", {}).get("body", {})
@@ -50,49 +55,54 @@ def group_responses(batch_outputs_dir: str, output_file: str) -> None:
                         .get("message", {})
                         .get("content", "")
                     )
-                    grouped_data[main_filename][section].append(message_content)
+                    grouped_data[main_filename][section]["responses"].append(
+                        message_content
+                    )
+                    empty_responses_count = sum(
+                        1
+                        for response in grouped_data[main_filename][section][
+                            "responses"
+                        ]
+                        if is_empty_response(response)
+                    )
+                    grouped_data[main_filename][section][
+                        "empty_responses_count"
+                    ] = empty_responses_count
+                    is_consistent = (
+                        empty_responses_count == 0
+                        or empty_responses_count
+                        == len(grouped_data[main_filename][section]["responses"])
+                    )
+                    grouped_data[main_filename][section][
+                        "is_consistent"
+                    ] = is_consistent
+                    is_semi_consistent = is_consistent or (
+                        abs(
+                            empty_responses_count
+                            - len(grouped_data[main_filename][section]["responses"])
+                        )
+                        <= 1
+                    )
+                    grouped_data[main_filename][section][
+                        "is_semi_consistent"
+                    ] = is_semi_consistent
+
+                    # Update counters
+                    if is_consistent:
+                        consistent_count += 1
+                    elif is_semi_consistent:
+                        semi_consistent_count += 1
+                    else:
+                        not_consistent_count += 1
 
     # Write the aggregated data to the output file
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(grouped_data, f, ensure_ascii=False, indent=4)
 
     print(f"Grouped responses have been written to {output_file}")
-
-    # Analysis: Count total sections, varying message contents, and identical message contents
-    total_sections = 0
-    varying_sections = 0
-    identical_sections = 0
-
-    EMPTY_RESPONSE_STRING = "Ei päivitettävää."
-
-    for main_file, sections in grouped_data.items():
-        for section, responses in sections.items():
-            total_sections += 1
-            unique_message_contents = set(responses)
-            # Check if there are multiple unique responses and at least one is the empty response
-            if (
-                len(unique_message_contents) > 1
-                and EMPTY_RESPONSE_STRING in unique_message_contents
-            ):
-                varying_sections += 1
-                # Initialize the main_file key if not present
-                if main_file not in varying_sections_data:
-                    varying_sections_data[main_file] = {}
-                # Add the section and its message contents (including duplicates)
-                varying_sections_data[main_file][section] = responses
-            else:
-                identical_sections += 1
-
-    print(f"Total sections: {total_sections}")
-    print(f"Sections with varying message contents: {varying_sections}")
-    print(f"Sections with identical message contents: {identical_sections}")
-
-    # Write the varying sections data to a new file
-    varying_output_file = "varying_sections.json"
-    with open(varying_output_file, "w", encoding="utf-8") as f:
-        json.dump(varying_sections_data, f, ensure_ascii=False, indent=4)
-
-    print(f"Varying sections have been written to {varying_output_file}")
+    print(f"Consistent sections: {consistent_count}")
+    print(f"Semi-consistent sections: {semi_consistent_count}")
+    print(f"Not consistent sections: {not_consistent_count}")
 
 
 if __name__ == "__main__":
