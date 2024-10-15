@@ -2,3 +2,5 @@
 venv/
 __pycache__/*
 *key.json
+batch_outputs
+batch_inputs
