@@ -2,10 +2,13 @@ import json
 import os
 import time
 from typing import List, TypedDict, Optional, Dict
+import dotenv
 from openai import OpenAI
 from helpers import combine_title_content
 from prompt import create_prompt
 from os.path import basename
+
+dotenv.load_dotenv()
 
 CLIENT = OpenAI()
 

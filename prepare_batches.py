@@ -3,9 +3,7 @@ import json
 import os
 from posixpath import basename
 from typing import Dict, List, TypedDict
-import dotenv
 
-dotenv.load_dotenv()
 
 from llm import prepare_batch_input, upload_batch_file
 from helpers import check_args_and_env_vars, update_state
