@@ -1,11 +1,10 @@
 import json
 import os
-import tempfile
 from pathlib import Path
 from typing import Any, Dict, List, Callable
 from datetime import datetime, timezone
 
-from helpers import check_args_and_env_vars, update_state  # Import update_state
+from helpers import check_args_and_env_vars, update_state
 from storage import upload_file_to_bucket, download_file
 from google.cloud import storage
 
@@ -189,11 +188,14 @@ def convert_json_to_json_array(
     output_file_txt_gcs: str,
     bucket_name: str,
 ) -> None:
-    with tempfile.NamedTemporaryFile(mode="w+", delete=False) as tmp_input:
-        download_file(bucket_name, input_file_gcs, tmp_input.name)
-        tmp_input.flush()
-        with open(tmp_input.name, "r", encoding="utf-8") as f:
-            data = json.load(f)
+    """Converts a JSON file in GCS to a JSON array and a TXT file, then uploads them to specified directories."""
+    data = download_file(bucket_name, input_file_gcs)
+    if data is None:
+        raise ValueError(
+            f"Failed to download {input_file_gcs} from bucket {bucket_name}"
+        )
+
+    data = json.loads(data)
 
     document_layout = data.get("documentLayout", {})
     blocks = document_layout.get("blocks", [])
@@ -218,12 +220,10 @@ def convert_json_to_json_array(
         if len(section["title"] + "".join(section["content"])) >= 30
     ]
 
-    # Write JSON array to a temporary file
-    with tempfile.NamedTemporaryFile(mode="w+", delete=False) as tmp_json_output:
-        json.dump(filtered_sections, tmp_json_output, indent=4)
-        tmp_json_output.flush()
-        upload_file_to_bucket(bucket_name, tmp_json_output.name, output_file_json_gcs)
-        os.unlink(tmp_json_output.name)
+    # Serialize JSON content
+    json_content = json.dumps(filtered_sections, indent=4)
+    upload_file_to_bucket(bucket_name, output_file_json_gcs, file_contents=json_content)
+    print(f"Uploaded JSON sections to gs://{bucket_name}/{output_file_json_gcs}")
 
     # Prepare text content
     lines: List[str] = []
@@ -236,12 +236,9 @@ def convert_json_to_json_array(
 
     final_text = "".join(lines).strip()
 
-    # Write TXT content to a temporary file
-    with tempfile.NamedTemporaryFile(mode="w+", delete=False) as tmp_txt_output:
-        tmp_txt_output.write(final_text)
-        tmp_txt_output.flush()
-        upload_file_to_bucket(bucket_name, tmp_txt_output.name, output_file_txt_gcs)
-        os.unlink(tmp_txt_output.name)
+    # Upload TXT content
+    upload_file_to_bucket(bucket_name, output_file_txt_gcs, file_contents=final_text)
+    print(f"Uploaded TXT sections to gs://{bucket_name}/{output_file_txt_gcs}")
 
     # Update state with sectionsCreatedAt timestamp
     current_time = datetime.now(timezone.utc).isoformat()
