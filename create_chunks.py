@@ -11,7 +11,7 @@ from dataclasses import dataclass
 
 from storage import copy_batch_to_dir
 
-BATCH_SIZE: int = 3
+BATCH_SIZE: int = 20
 
 
 @dataclass
@@ -37,9 +37,8 @@ def batch_process_documents(
     location: str,
     gcs_output_uri: str,
     gcs_input_uris: Optional[List[str]] = None,
-    timeout: int = 400,
+    timeout: int = 3600,
     input_mime_type: str = "application/pdf",
-    output_dir: str = "chunks",
 ) -> None:
     """Process specific documents using Document AI and save the results to GCS."""
     opts = ClientOptions(api_endpoint=f"{location}-documentai.googleapis.com")
@@ -134,9 +133,8 @@ def main() -> None:
             location=location,
             gcs_output_uri=batch_output_uri,
             gcs_input_uris=document_uris,
-            timeout=400,
+            timeout=3600,
             input_mime_type="application/pdf",
-            output_dir=output_dir,
         )
 
         chunks_uri = f"gs://{bucket_name}/{output_dir.rstrip('/')}"
