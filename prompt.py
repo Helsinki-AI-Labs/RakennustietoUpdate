@@ -91,5 +91,7 @@ Uuden lain 83 §:n mukaan suunnittelijan on osoitettava pätevyytensä tavanomai
 d.Viittaus uuteen lakiin:
 83 § Suunnittelijoiden kelpoisuusvaatimukset
 
+####
+
 Begin your analysis now, and present your findings as instructed above.
 """
