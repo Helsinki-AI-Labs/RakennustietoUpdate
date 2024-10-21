@@ -32,34 +32,20 @@ a. Otsikko:
 b. Nykyinen sisältö:
 3.1 Makuuhuoneet
 Mitoitus
-Suomalaisessa asuntorakentamisessa pinta-alat ovat
-melko pieniä ja makuuhuoneet ovat yleensä suhteellisen
-tiukasti mitoitettuja.
-Makuuhuoneet on totuttu jaottelemaan kahteen ryhmään:
-• Suurempiin eli kahden hengen makuuhuoneisiin, koko
-noin 10...16 m2
-• Pienempiin eli yhdenhengen makuuhuoneisiin, koko
-noin 7...12 m2
+Suomalaisessa asuntorakentamisessa pinta-alat ovat melko pieniä ja makuuhuoneet ovat yleensä suhteellisen tiukasti mitoitettuja. Makuuhuoneet on totuttu jaottelemaan kahteen ryhmään:
+• Suurempiin eli kahden hengen makuuhuoneisiin, koko noin 10...16 m2
+• Pienempiin eli yhdenhengen makuuhuoneisiin, koko noin 7...12 m2
 Sijoittuminen, kulkuyhteydet ja mitoitus
-• Makuuhuoneet pyritään sijoittamaan asunnon pohjoisen-
-puoleiseen osaan, jotta auringonvalo ja lämpö häiritse-
-vät mahdollisimman vähän nukkumista.
-• Suora yhteys makuuhuoneista eteis- tai kulkutiloihin pa-
-rantaa asunnon käytettävyyttä.
-• Makuuhuoneiden välittömään läheisyyteen pyritään si-
-joittamaan myös peseytymis- ja wc-tilat.
-• Makuuhuoneen viihtyvyyttä lisää kulku makuuhuonees-
-ta ulkotiloihin.
-• Kahden lapsen iso yhteinen makuuhuone voidaan jakaa
-kahdeksi erilliseksi tilaksi.
-• Kalustuksen muunneltavuus ja väljä mitoitus tuo jousta-
-vuutta.
-• Mitoituksella ja esteettömyydellä pystytään ratkaise-
-maan myös liikuntarajoitteisten ja ikäihmisten toimimi-
-nen asunnossa.
+• Makuuhuoneet pyritään sijoittamaan asunnon pohjoisenpuoleiseen osaan, jotta auringonvalo ja lämpö häiritsevät mahdollisimman vähän nukkumista.
+• Suora yhteys makuuhuoneista eteis- tai kulkutiloihin parantaa asunnon käytettävyyttä.
+• Makuuhuoneiden välittömään läheisyyteen pyritään sijoittamaan myös peseytymis- ja wc-tilat.
+• Makuuhuoneen viihtyvyyttä lisää kulku makuuhuoneesta ulkotiloihin.
+• Kahden lapsen iso yhteinen makuuhuone voidaan jakaa kahdeksi erilliseksi tilaksi.
+• Kalustuksen muunneltavuus ja väljä mitoitus tuo joustavuutta.
+• Mitoituksella ja esteettömyydellä pystytään ratkaisemaan myös liikuntarajoitteisten ja ikäihmisten toimiminen asunnossa.
 
 c. Päivitystarve:
-Uuteen lakiin kirjattu, että makuuhuoneessa tulee olla ikkuna luonnon valon saamiseksi.
+Uuden lain 40 §:n mukaan asuin-, majoitus- ja työtilassa on oltava ikkuna luonnonvalon saamiseksi.
 
 d.Viittaus uuteen lakiin:
 40 § Asuin-, majoitus- ja työtilat
@@ -77,7 +63,7 @@ b. Nykyinen sisältö:
 Rakennushankkeeseen ryhtyvä on velvollinen rakentamista tai purkamista koskevassa lupahakemuksessa tai ilmoituksessa esittämään selvityksen rakennusjätteen määrästä, laadusta ja sen lajittelusta. Hakemuksessa tai ilmoituksessa ilmoitetaan erikseen terveydelle tai ympäristölle vaarallisesta rakennus- tai purkujätteestä ja sen käsittelystä. Purkamista edeltävässä selvityksessä kartoitetaan rakenteista syntyvät jätelajit, erityisesti vaaralliset jätteet, sekä tehdään karkea arvio syntyvistä jätemääristä lajikohtaisesti.
 
 c. Päivitystarve:
-Uuden lain 16 §:n mukaan rakennusjätteen selvityksessä tulee ilmoittaa myös arviot syntyvistä purkumateriaaleista, ja tämä selvitys on päivitettävä hankkeen valmistuttua. Lisäksi selvitys on tallennettava Suomen ympäristökeskuksen ylläpitämään tietokantaan. Tämän kohdan tiedot tulee päivittää vastaamaan uusia velvoitteita.
+Uuden lain 16 §:n mukaan rakennusjätteen selvityksessä tulee ilmoittaa arviot myös rakennus- tai purkuhankkeessa syntyvien purkumateriaalien määristä. Purkumateriaali- ja rakennusjäteselvitys on päivitettävä rakennus- tai purkuhankkeen valmistuttua siten, että siitä käyvät ilmi tiedot rakennuspaikalta pois kuljetettujen rakennus- ja purkujätteiden määristä, toimituspaikoista ja käsittelystä. Lisäksi rakentamishankkeeseen ryhtyvän on huolehdittava, että purkumateriaali- ja rakennusjäteselvityksessä edellytetyt tiedot ilmoitetaan Suomen ympäristökeskuksen ylläpitämään tietokantaan.
 
 d.Viittaus uuteen lakiin:
 16 § Purkumateriaali- ja rakennusjäteselvitys
@@ -88,18 +74,22 @@ Example 3:
 ####
 
 a. Otsikko:
-3.1 Makuuhuoneet
+2.3 Suunnittelijoiden kelpoisuus
 
 b. Nykyinen sisältö:
-Ääneneristys
-Asuinrakennuksessa tilojen sijoittelu on ääniteknisen suunnittelun perusta. Hiljaisuutta vaativat huoneet, kuten makuu- ja olohuoneet, sijoitetaan mahdollisimman kauas tiloista, joissa on äänekkäämpää toimintaa, kuten porrashuoneista ja viereisen tai yläpuolisen huoneiston wc- ja kylpyhuonetiloista ja keittiöstä. Kylpyhuoneet, keittiöt, vaatehuoneet yms. porrashuoneen ja makuuhuoneen välillä suojaavat makuuhuoneita porrashuonemelulta. Oleskelu- tilojen äänten kuulumista makuutiloihin pystytään vaimentamaan seinä- ja oviratkaisuilla.
-Asunnossa tulee ottaa huomioon myös runko- ja askelääneneristysvaatimusten täyttyminen, liikenteen äänet ym. Rakentamishankkeeseen ryhtyvän on huolehdittava, että rakennus ja sen piha- ja oleskelualueet suunnitellaan ja rakennetaan niiden käyttötarkoituksen edellyttämällä tavalla siten, että rakennuksen sekä rakennuspaikan piha- ja oleskelualueiden melualtistus ja ääniolosuhteet eivät vaaranna terveyttä, lepoa eivätkä työntekoa.
+2.3 Suunnittelijoiden kelpoisuus
+• MRL123 §
+• MRA 48 §
+Suunnittelijan koulutus ja kokemus yhdessä muodostavat suunnittelijan pätevyyden. Vaadittava kelpoisuus määräytyy suunnittelijan riittävästä pätevyydestä suhteessa kulloisenkin suunnittelutehtävän vaativuuteen. Suunnittelijoiden kelpoisuuden arvioimiseksi RakMKosassa A2esitetään suunnittelutehtävien luokitus vaativuuden mukaan ja kuhunkin luokkaan tarvittava suunnittelijan pätevyys. Kunnan rakennusvalvontaviranomaisen asia on arvioidasuunnittelijoiden kelpoisuus rakennuslupakohtaisesti rakennushankkeen laadun ja vaativuuden sekä ympäristön asettamat vaatimukset huomioon ottaen
+• rakennussuunnittelijan kelpoisuus eli koulutus ja kokemus,
+• erityissuunnittelijoiden kelpoisuus eli koulutus ja kokemus.
+Korjaus- ja muutostyössä otetaan arvioinnissa lisäksi huomioon olemassa olevan rakennuksen asettamat lähtökohdat. Pääsuunnittelijan kelpoisuuden tulee hankkeessa olla vähintään samaa tasoa kuin hankkeen vaativimpaan suunnittelutehtävään tarvittava kelpoisuus.
 
 c. Päivitystarve:
-Uuteen lakiin on kirjattu vaatimus, että melualtistus ja ääniolosuhteet eivät saa vaarantaa terveyttä, lepoa eivätkä työntekoa.
+Uuden lain 83 §:n mukaan suunnittelijan on osoitettava pätevyytensä tavanomaiseen, vaativaan, erittäin vaativaan ja poikkeuksellisen vaativaan suunnittelutehtävään ympäristöministeriön valtuuttaman toimijan antamalla todistuksella.
 
 d.Viittaus uuteen lakiin:
-36 § § Meluntorjunta ja ääniolosuhteet
+83 § Suunnittelijoiden kelpoisuusvaatimukset
 
 Begin your analysis now, and present your findings as instructed above.
 """
