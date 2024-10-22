@@ -1,5 +1,6 @@
 import json
 import csv
+import os
 from typing import List, Dict, Any
 
 # Define Types
@@ -40,7 +41,7 @@ def generate_csv_rows(data: VotingData) -> List[CsvRow]:
 
             for i in range(max_entries):
                 row: CsvRow = {
-                    "file_name": file_name,
+                    "file_name": os.path.splitext(file_name)[0],
                     "section_number": section_number,
                 }
                 for key in key_to_field:
