@@ -82,12 +82,21 @@ def add_voting_results():
                         resp for resp in responses if resp != "Ei päivitettävää."
                     ]
                     # If there are non-empty responses, find the longest one
-                    if non_empty_responses:
-                        longest_response = max(non_empty_responses, key=len)
-                        item["voting_result"] = longest_response
+                    if len(non_empty_responses) >= 2:
+                        # Sort responses by length in descending order
+                        sorted_responses = sorted(
+                            non_empty_responses, key=len, reverse=True
+                        )
+                        second_longest_response = sorted_responses[1]
+                        item["voting_result"] = second_longest_response
 
-                        # Parse the longest response into parts
-                        parts = parse_response(longest_response)
+                        # Parse the second longest response into parts
+                        parts = parse_response(second_longest_response)
+                        item["parsed_voting_result"] = parts
+                    elif non_empty_responses:
+                        # If there's only one non-empty response, use that
+                        item["voting_result"] = non_empty_responses[0]
+                        parts = parse_response(non_empty_responses[0])
                         item["parsed_voting_result"] = parts
                     else:
                         # If somehow there are no non-empty responses, set voting_result to "-"
