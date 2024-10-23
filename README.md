@@ -2,17 +2,26 @@ This repo contains multiple scripts that together complete the entire task of id
 
 The steps are as follows:
 
-1. Upload pdfs to storage
-   upload_to_bucket.py
+Upload pdfs to storage
+upload_to_bucket.py
 
-2. Create Chunks
-   create_chunks.py
+Create Chunks
+create_chunks.py
 
-3. Create sections from chunks
-   chunks_to_sections.py
+Create sections from chunks
+chunks_to_sections.py
 
-4. Run LLM on sections and create a text output per pdf
-   main.py
+Prepare batches for LLM
+prepare_batches.py
+
+Run LLM on sections and create batch output files
+main.py
+
+Parse the batch output files
+parse_results.py
+
+Convert results to csv
+results_to_csv.py
 
 # Dev setup
 
